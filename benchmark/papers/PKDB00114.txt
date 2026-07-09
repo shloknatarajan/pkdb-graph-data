@@ -1,0 +1,489 @@
+Br.J.clin.Pharmac.(1991),31,643-647
+A comparisonofthepharmacokineticsofcodeineandits
+metabolitesinhealthyChineseandCaucasianextensive
+hydroxylatorsofdebrisoquine
+Q.Y.YUE,J.0. SVENSSON,F.SJOQVIST&J.SAWE
+DepartmentofClinicalPharmacology,HuddingeUniversityHospital,KarolinskaInstitute,S-14186Huddinge,Sweden
+1 Thekineticsofcodeineandmetaboliteswere studiedineightunrelatedhealthy
+Chinesesubjectsfollowingasingleoraldoseof50mg codeinephosphate.Thedata
+werecomparedwiththosefromeightCaucasiansubjectswhowerematchedwiththe
+Chinesegroupaccordingtotheirmetabolicratio(MR)ofdebrisoquine.
+2 MeanvaluesofCmax(445nmoll-1)andAUC (1660nmol1-1h)ofcodeineinthe
+ChineseweresignificantlyhigherthanthoseintheCaucasians(292nmol1-1and1010
+nmol1-1h).Thusplasmaclearancewassignificantlylower(P< 0.02)andtheplasma
+half-lifewaslonger(P< 0.05)intheChinese.
+3 Partialclearancebyglucuronidationwassignificantlylower(0.79± 0.14s.d.vs1.42
+0.48s.d.Ih-'kg-')inChinesethaninCaucasians.
+4 Thetotalurinaryrecoveryofdrug-relatedmaterialin48hurinewassimilarinChinese
+(82.2%)andCaucasians(84.4%).Therecoveryofunchangedcodeinewassignificantly
+higherinChinese(5.7%)thaninCaucasians(3.3%).
+5 TheAUC ratiosofcodeinerelativetoits6-glucuronide,morphineandnorcodeine
+were 1:9,35:1and4:1,respectivelyinChinese.Thecorrespondingratiosin
+Caucasianswere 1:15,50:1and6:1.
+6 Therewas no significantdifferencebetweenChineseandCaucasiansintherenal
+clearancesofcodeineanditsprimarymetabolites.
+7 Largeinterethnicdifferencesinthekineticsofcodeinehavebeenshown.TheChinese
+arelessabletometabolisecodeinemainlybecauseofalowerefficiencyinglucuroni-
+dation.
+Keywordscodeinemetabolism
+demethylationethnicdifferences
+pharmacokineticsglucuronidation
+CaucasiansChinese
+Introduction
+Severalstudieshaveindicatedimportantinterethnic
+differencesindrugmetabolismandresponse.Recently,
+Zhouetal.(1989)reportedahighersensitivityto,but
+moreefficientmetabolismof,propranololinChinese
+comparedwithCaucasians.Anotherexampleisthefind-
+ingofalargervolumeofdistributionandgreaterplasma
+clearanceofdiphenhydramineaccompaniedbyless
+sedationanddeteriorationinpsychomotorperformance
+inOrientalsrelativetoCaucasians(Spectoretal.,1980).
+A smallerapparentvolumeofdistributionofdiazepam
+hasbeenreportedinChinese,probablyreflectingtheir
+lowerbodymass(fatandstature),comparedwiththatin
+Caucasians(Ghoneimetal.,1981;Kumanaetal.,1987).
+Furthermore,aslowermetabolismofdiazepamhas
+recentlybeenshowninChinese,andadifferenceinthe
+substratespecificityofS-mephenytoinhydroxylasehas
+beensuggested(Zhangetal.,1990).Theclearanceof
+paracetamolwasfoundtobelowerinAsiansthanin
+Europeans,probablytheresultofenvironmentaldif-
+ferences(Mucklowetal.,1980).Inaddition,differences
+existbetweenOrientalandCaucasianpopulationsinthe
+frequencyofpoormetabolisersofdrugsthatare
+metabolisedbydebrisoquinehydroxylase(Kalowetal.,
+1980;Louetal.,1987;Yueetal.,1988,1989a,b)andby
+S-mephenytoinhydroxylase(Horaietal.,1989;
+Nakamuraetal.,1985).
+Correspondence:DrJ.Sawe,DepartmentofClinicalPharmacology,HuddingeUniversityHospital,KarolinskaInstitute,S-14186
+Huddinge,Sweden
+643
+AD0NIS030652519100115K
+644 Q.Y.Yueetal.
+Codeineismetabolisedmainlybyglucuronidationto
+codeine-6-glucuronide(C6G);minorroutesofmeta-
+bolismincludeO-demethylationtomorphine(M)and
+N-demethylationtonorcodeine(NC)(Adleretal.,1955;
+Guayetal.,1987,1988;Rogersetal.,1982;Yueetal.,
+1989b,c).We havepreviouslyreportedsignificantdif-
+ferencesintheurinaryexcretionofcodeineaswellasof
+C6Gin133healthyChinesecomparedwith149Swedish
+Caucasians(Yueetal.,1989b).Inordertounderstand
+thisinterethnicdifferencemoreclearly,wehavestudied
+thepharmacokineticsofcodeineanditsmetabolites
+withaspecifich.p.l.c.methodinChinesesubjectsand
+comparedthedatawiththoseobtainedinCaucasians
+(Yueetal.,1991).
+Methods
+EightunrelatedhealthyChinese(threewomenandfive
+men)whohavebeenstayinginSwedenasvisiting
+scientistsforlessthan5yearsparticipatedinthestudy.
+Theywerepreviouslyphenotypedwithdebrisoquine
+usingthemethodofLennardetal.(1977).Theirindivi-
+dualcharacteristicsanddebrisoquinemetabolicratios
+areshowninTable1.Nonewastakinganymedication.
+Onevolunteersmoked(10cigarettesperday)andall
+wereconsideredtobehealthyonthebasisofphysical
+examinationandbloodtests.Allsubjectsgavetheir
+writteninformedconsenttoparticipateinthestudy,
+whichwasapprovedbytheEthicsCommitteeofthe
+HuddingeHospital.
+TheCaucasiancontrolsubjectsaredescribedindetail
+inacompanionpaper(Yueetal.,1991).Theywereall
+extensivehydroxylatorsofdebrisoquine.
+Followinganovernightfast,eachsubjectreceiveda
+singleoraldoseof50mgcodeinephosphate(two25mg
+tablets,Kodein®,ACO).A standardlunchwaspro-
+vided4hafterdrugintake.Bloodsampleswerecollected
+inheparinizedVacutainer®tubesbeforeandat0.17,
+0.33,0.5,0.67,1,1.5,2,3,4,5,7,9,11and24hafterthe
+dose.Thebloodsampleswerecentrifugedandplasma
+wasstoredat-20°Cuntilanalysis.Serialurinesamples
+werecollectedat0-2,2-4,4-6,6-8,8-10,10-12,12-24,
+24-36and36-48h.UrinevolumesandpHweremeasured
+andaliquotswerestoredat-20°Cuntilanalysed.
+Table1 Individualcharacteristicsanddebrisoquinemetabolic
+ratiosofeightChinesehealthyvolunteers
+Body
+Age weight Debrisoquine
+Subject (years)Sex (kg) metabolicratio
+1 45 M 63 0.41
+2 27 M 59 0.24
+3 38 M 60 0.51
+4 34 M 81 1.40
+5 33 F 44 3.86
+6 30 F 57 0.20
+7 36 F 59 0.88
+8 32 M 61 4.14
+Mean 34 61 1.46
+s.d. 5 10 1.62
+Codeineanditssevenknownmetabolitesmorphine
+(M),M-3-glucuronide(M3G),M-6-glucuronide(M6G),
+normorphine(NM),codeine-6-glucuronide(C6G),
+norcodeine(NC),andNC-glucuronide(NCG)were
+measuredinplasmaandurineusingion-pairhighper-
+formanceliquidchromatographyaccordingtoamodi-
+ficationofthemethodofSvensson(1986)(Yueetal.,
+1989b,c).
+Pharmacokineticcalculationswereperformedas
+describedbyYueetal.(1991).
+Metabolicratios(MRs)werecalculatedfromboth
+plasmaandurinedataasfollows:
+MRglucuronidation= codeine/C6G;
+MRO-demethylation=codeine/(M+M3G+M6G+NM);
+MRN-demethylation=codeine/(NC+NCG+NM).
+TheunpairedStudent'st-testandaU-testfor0-
+demethylationdatawereusedforcomparisonsbetween
+thetwoethnicgroups.
+Results
+SignificantlyhigherCmax(445±120and292±95nmol
+F-;P<0.02)andhigherAUCvalues(1660±300and
+1010±390nmol1-1h;P<0.005)(Figure1)andlower
+plasmaclearances(1.26±0.22and2.10±0.841h-'kg-';P<0.02)wereobservedintheChinesecomparedwiththe
+Caucasiansubjects.Theplasmahalf-lifeofcodeinewas
+longerintheChinesethanintheCaucasians(2.94±0.49
+and2.34± 0.58h;P < 0.05,Table3).Therewasno
+differencebetweenChineseandCaucasiansintheAUCof
+C6G(Figure2).However,thehalf-lifeofthismetabolite
+waslongerinChinese(P< 0.05,Table3).Thepartial
+metabolicclearancebyglucuronidationwassignificantly
+lower(0.79±0.14and1.42±0.481h-1kg-1;P<0.005)
+(Table2),whiletheMRsofglucuronidationcalculated
+frombothAUCandurinevalueswerehigher(0.11±0.04
+and0.067±0.024forAUC;P<0.01;0.095+0.04and
+0.049±0.024forurine;P < 0.02)intheChinese.The
+correlationcoefficientsbetweenMRAUcandMRuineforglucuronidationwere0.78inChineseand0.93in
+Caucasians.
+1000
+zE
+Co
+ccCu
+0
+C:
+0
+co
+EU)
+Co
+100 2 4 6 8 10 12
+Time(h)
+Figure1 Plasmaconcentration-timecurvesofcodeinein
+eightChinese(U)andeightCaucasian(*)subjectsaftera
+singleoral50mgdoseofcodeinephosphate(mean±s.d.).
+Ethnicdifferencesincodeinemetabolism645
+000
+10
+k1b
+0 10 20
+I A
+10 IX."3' -90
+Time(h)
+Figure2 Plasmaconcentration-timecurvesofcodeineanditsmetabolitesinarepresentativeCaucasianextensivemetaboliser
+(EM)ofdebrisoquine(a)andaChinesesubject(b)afterasingleoral50mgdoseofcodeinephosphate.DataforNCandNCG
+wereomittedforthesakeofclarity.
+Table2 Age,bodyweight,somekineticparametersandMRsofcodeineinChinese
+andCaucasianEM (mean±s.d.)
+Chinese Caucasiansa p
+Age(years) 34.4±5.5 33.4±3.9 NS
+DBMRb 1.46±1.62 1.60±1.72 NS
+Bodyweight(kg) 61±10 66±10 NS
+Plasmaclearance(1h-1kg-1) 1.26±0.22 2.10±0.84 < 0.02
+Partialmetabolicclearance(1h-1kg-')Glucuronidation 0.79±0.14 1.42±0.48 < 0.005
+O-demethylation 0.091±0.035 0.124±0.098 NS
+N-demethylation 0.113±0.039 0.174±0.079 NS
+aDataofCaucasianextensivemetabolisers(EM)ofdebrisoquinearefromYueetal.
+(1991).
+bDB MR:debrisoquinemetabolicratio.
+Table3 Kineticparametersofcodeineanditsthreemajormetabolitesaftersingleoral50mgdoseofcodeinephosphateinChineseand
+CaucasianEMa(mean±s.d.)
+Codeine C6G M NC
+ChineseCaucasianP ChineseCaucasianP ChineseCaucasianP ChineseCaucasianP
+Cmax(nmoll-l) 445 292 < 0.02 3090 3610 NS 16.6 8.4 NS 65 41 NS
+±120 ±95 ±512 ±640 ±11.9 ±8.2 ±32 ±18
+tmax(h) 1.06 1.0 NS 1.54 1.21 NS 0.81 0.83 NS 1.11 0.88 NS
+±0.42 ±0.38 ±0.39 ±0.33 +0.34 ±0.25 ±0.52 ±0.32
+AUC(nmol1-1h) 1660 1010 <0.005 15200 15200 NS 48 20 NS 410 163 NS
+±303 ±391 ±2780 ±2690 ±39 ±20 ±329 ±87
+t,2(h) 2.94 2.34 <0.05 3.44 2.79 <0.05 2.72 2.10 NS 3.75 2.62 NS
++0.49 ±0.58 ±0.50 ±0.50 1.49 1.61 1.83 1.32
+CLR(1h-1kg-') 0.047 0.051 NS 0.095 0.089 NS 0.13 0.16 NS 0.18 0.20 NS
+0.023 0.023 0.016 0.020 0.042 0.099 0.093 0.092
+aDataofCaucasianextensivemetabolisers(EM)ofdebrisoquinearefromYueetal.(1991).
+TheurinaryMR ofN-demethylationwashigherin
+Chinese(0.67±0.20)thaninCaucasians(0.43±0.25)
+(P<0.05).However,therewasnodifferencebetween
+thetwoethnicgroupsinpartialmetabolicclearanceby
+N-demethylation(Table2).
+Nosignificantdifferencewasobservedwithregardto
+theO-demethylationreactionbetweenthetwoethnic
+groups.Bothgroupsshowedlargeinterindividualvaria-
+tioninO-demethylation(Tables3and4).
+Theurinaryrecoveryofdrug-relatedmaterialin48h
+urinewassimilarinChinese(82.2±15.6%ofdose)and
+Caucasians(84.4± 15.9%;P > 0.05,Table4).The
+recoveryofunchangedcodeine,however,wassignifi-
+cantlyhigherinChinesethaninCaucasians(5.71±1.98
+and3.33± 1.52%ofdose;P < 0.02).Therewasno
+significantdifferenceintheurinaryrecoveryofthe
+metabolites(Table4)norinrenalclearancesofcodeine
+anditsmetabolites(Table3).
+id
+Li
+..
+I...'U,;
+ _
+., e.
+
+646 Q.Y.Yueetal.
+Table4 Urinaryrecovery(%dose)over48hofcodeineandits
+metabolites
+Chinese CaucasianSa
+(n=8) (n=8)
+Cod 5.71±1.98 3.33±1.52*
+C6G 62.0±6.68 68.4±7.67
+NC 3.26±1.62 2.32±1.62
+NCG 3.70±1.64 4.36±0.68
+M3G 4.20±2.13 3.46±2.74
+M6G 0.98±0.51 0.83±0.63
+NM 2.02±0.83 1.50±0.87
+Mor 0.32±0.20 0.18±0.16
+Total 82.2±15.6 84.4±15.9
+*Student'st-test(P<0.02)betweenChineseandCaucasians.
+aDataforCaucasianextensivemetabolisers(EM)of
+debrisoquinearefromYueetal.(1991).
+InChinese,theAUC ratiosofcodeinerelativeto
+C6G,M andNCwere1:9,35:1and4:1,respectively.
+ThecorrespondingvaluesinCaucasianswere1:15,
+50:1and6:1(Table3).
+FouroftheeightChinesevolunteersexperienced
+slighttirednessordizzinessandoneoftheCaucasians
+reportedtiredness.
+Discussion
+Amainaimofthisstudywastocomparethecapacityto
+glucuronidatecodeineinChineseandCaucasiansub-
+jects.ItisknownthatO-demethylationofcodeineco-
+segregateswiththehydroxylationofdebrisoquineboth
+invivo(Chenetal.,1988;Yueetal.,1988,1989a,c)and
+invitro(Dayeretal.,1988;Mortimeretal.,1990).Itis
+alsoknownthatthefrequencyofpoormetabolisersof
+thesedrugsisdifferentinChineseandCaucasianpopu-
+laionswithregardtobothphenotypingandgenotyping
+determinations(Louetal.,1987;Yueetal.,1989a,b).
+InanearlierstudyincludingCaucasians,wehavedemon-
+stratedthatpoorhydroxylatorsofdebrisoquineexcreted
+moreC6GandNCthanextensivemetabolisersinurine
+collected8hafteroralcodeine,andthatthisphenomenon
+mightbeaconsequenceofalowexpressionofthe0-
+demethylationpathway(Yueetal.,1989c).Toavoidthis
+geneticinfluenceonthepharmacokineticsofcodeine,
+wematchedourtwoethnicgroupsaccordingtotheir
+debrisoquineMRs(Table3).Possiblegeneticdifferencesintherenaltubular
+secretionofdebrisoquinehavebeensuggestedsincethe
+meanamountofdrugthatisexcretedunchangedshows
+widepopulationdifferences(Kalow,1984).Inthepresent
+study,however,wedidnotobserveanysignificantdif-
+ferencebetweenthetwoethnicgroupsintherenal
+clearanceofcodeinenoranyofitsmetabolites(Table3).
+Inaddition,therewerehigherCmaxandAUCvaluesand
+lowerplasmaclearancesintheChinesesubjects,in-
+dicatingthattheywerelessabletometabolisecodeine.
+Thenonsignificant8%differenceinmeanbodyweights
+doesnotinfluencetheinterpretationastherewasa
+statisticallysignificant(P<0.02)decreasealsoinplasma
+clearanceperkgbodyweightintheChinese.Inaddition,
+thepartialmetabolicclearancebyglucuronidationwas
+significantlylowerintheChinesethanintheCaucasians,
+confirminganearliersuggestionthatChineseareless
+efficientglucuronidatorsofcodeine(Yueetal.,1989b).
+Thehalf-lifeofC6Gwhichparalleledthatofcodeine
+waslongerinChinese.Thissuggeststhattheformation
+ofC6Grate-limitsitselimination.Volumesofdistribution
+havebeenshowntobedifferentbetweenOrientals
+andCaucasiansfordiazepamanddiphenhydramine
+(Ghoneimetal.,1981;Spectoretal.,1980),andthis
+possibilityneedstobeinvestigatedforcodeineand
+C6G.
+Themechanismbehindtheseethnicdifferences
+remainstobestudied.Glucuronidationreactionsare
+catalysedbyagroupofisoenzymeswhichhavedifferent
+butoverlappingspecificities.Glucuronidationofcodeine
+hasbeenshowntobeinducedbysmokingandbyoral
+contraceptiveuse(Yueetal.,1989b),andtobeinhibited
+invitrobycommonlyuseddrugssuchasM,chloram-
+phenicol,diazepamandamitriptyline(Yueetal.,1990a).
+Thisinvitrostudyhasalsodemonstratedacorrelation
+betweentheglucuronidationofcodeineandthatofM.
+Hencethefindingsofthepresentstudywithcodeine
+mightbepredictivefortheglucuronidationofM.
+UrinepHhasbeenfoundtocorrelatedirectlywiththe
+urinaryexcretionofC6GandNCG andinverselywith
+thatofcodeine.However,therewasnosignificant
+differenceinurinepHbetween149Caucasiansand133
+Chinesehealthyvolunteers(Yueetal.,1989b).The
+ChinesevolunteersinthisstudyatemoreChinesefood
+thanWesternfoodandkepttheChinesehabitsof
+drinkingmoreteathancoffee.Thus,environmental
+factorscouldcontributetotheobservedinterethnic
+differenceinglucuronidation.ThehigherurinaryMR
+forN-demethylationinChineseobservedinthisstudy
+wasconsistentwiththefindingofapreviouspopulation
+study(Yueetal.,1989b).Thefailuretoshowany
+differencebetweenChineseandCaucasiansinplasma
+MR orpartialclearancebyN-demethylationmayreflect
+therelativelysmallsamplesizeofthepresentstudy.
+Severalmetabolitesofcodeine,includingM,M6G,
+NM andNC,havebeenshowntohaveanalgesiceffects
+(Lasagna& DeKornfeld,1958;Miller& Anderson,
+1954;Osborneetal.,1988;Sanfilippo,1948).Onthe
+otherhand,codeineitselfcouldaccountformostofits
+analgesicorsideeffectsinviewofitsrelativelyhigh
+plasmaconcentration(Quidingetal.,1986).We have
+observeda50%increaseinCmaxandAUC inthe
+Chinesesubjects,whichmightbeofsomeclinicalimpor-
+tance.Itmaybesignificantthatlowerdosesofcodeine
+havebeenrecommendedforChinesesubjects(Jiang,
+1984)comparedwithCaucasians.Theanalgesicpotency
+ofC6Ginunknown.
+Inconclusion,we haveshownalargeinterethnic
+differenceinthepharmacokineticsofcodeine.Chinese
+subjectsarelessabletometabolisethisdrug,duetoa
+lowerefficiencyinglucuronidation.
+TheworkwassupportedbytheSwedishResearchCouncil
+(3902)andtheSwedishCancerSociety(1910-B88-O1V).Samplesofcodeinemetaboliteswerekindlyprovidedbythe
+NationalInstituteofDrugAbuse,USA.
+Ethnicdifferencesincodeinemetabolism647
+References
+Adler,T.K.,Fujimoto,J.M.,Way,E.L.& Baker,E.M.
+(1955).Themetabolicfateofcodeineinman.J.Pharmac.
+exp.Ther.,114,251-262.
+Chen,Z.R.,Somogyi,A.A.& Bochner,F.(1988).Poly-
+morphicO-demethylationofcodeine.Lancet,ii,914-915.
+Dayer,P.,Desmeules,J.,Leemann,T.&Striberni,R.(1988).
+Bioactivationofthenarcoticdrugcodeineinhumanliveris
+mediatedbythepolymorphicmonooxygenasecatalyzing
+debrisoquine4-hydroxylation(cytochromeP-450dbl/bufl).
+Biochem.Biophys.Res.Commun.,152,411-416.
+Ghoneim,M.M.,Korttila,K.,Chiang,C.K.(1981).Diazepam
+effectsandkineticsinCaucasiansandOrientals.Clin.
+Pharmac.Ther.,29,749-756.
+Guay,D.R.P.,Awni,W.M.,Halstenson,C.E.,Findlay,
+J.W.A.,Opsahl,J.A.,Abraham,P.A.,Jones,E.C.&
+Matzke,G.R.(1987).Pharmacokineticsofcodeineafter
+single-andmultiple-oral-doseadministrationtonormal
+volunteers.J.clin.Pharmac.,27,983-987.
+Guay,D.R.P.,Awni,W.M.,Findlay,J.W.A.,Halstenson,
+C.E.,Abraham,P.A.,Opsahl,J.A.,Jones,E.C.&
+Matzke,G.R.(1988).Pharmacokineticsandpharmaco-
+dynamicsofcodeineinend-stagerenaldisease.Clin.
+Pharmac.Ther.,43,63-71.
+Horai,Y.,Nakano,M.,Ishizaki,T.,Ishikawa,K.,Zhou,
+H.H.,Zhou,B.J.,Liao,C.L.& Zhang,L.M.(1989).
+Metoprololandmephenytoinoxidationpolymorphismsin
+FarEasternOrientalsubjects:Japaneseversusmainland
+Chinese.Clin.Pharmac.Ther.,46,198-207.
+Jiang,M.X.(1984).InPharmacology,pp.143.RenMinWei
+ShengChuBanShe,1984.
+Kalow,W.,Otton,S.V.,Kadar,D.,Endrenyi,L.&Inaba,T.
+(1980).Ethnicdifferenceindrugmetabolism:debrisoquine
+4-hydroxylationinCaucasiansandOrientals.Can.J.
+Physiol.Pharmac.,58,1142-1144.
+Kalow,W.(1984).Pharmacoanthropology:Drugmetabolism.
+Fed.Proc.,43,2326-2331.
+Kumana,C.R.,Lauder,I.J.,Chan,M.,Ko,W.&Lin,H.J.
+(1987).Differencesindiazepampharmacokineticsin
+ChineseandwhiteCaucasians-relationtobodylipid
+stores.Eur.J.clin.Pharmac.,32,211-215.
+Lasagna,L.&DeKornfeld,T.J.(1958).Analgesicpotencyof
+normorphineinpatientswithpostoperativepain.J.
+Pharmac.,124,260-263.
+Lennard,M.S.,Silas,J.H.,Smith,A.J.& Tucker,G.T.
+(1977).Determinationofdebrisoquineandits4-hydroxy-
+metaboliteinbiologicalfluidsbygaschromatographywith
+flame-ionizationandnitrogen-selectivedetection.J.
+Chromatogr.,133,161-166.
+Lou,Y.C.,Liu,Y.,Bertilsson,L.&Sjoqvist,F.(1987).Low
+frequencyofslowdebrisoquinehydroxylationinanative
+Chinesepopulation.Lancet,ii,852-853.
+Miller,J.W.& Anderson,H.H.(1954).TheeffectofN-
+demethylationoncertainpharmacologicactionsofmorphine,
+codeineandmeperidineinthemouse.J.Pharmac.,112,
+191-196.
+Mortimer,O.,Persson,K.,Ladona,M.G.,Spalding,D.,
+Zanger,U.M.,Meyer,U.A.& Rane,A.(1990).Poly-
+morphicformationofmorphinefromcodeineinpoorand
+extensivemetabolizersofdextromethorphan:Relationship
+tothepresenceofimmunoidentifiedcytochromeP-450IIdl.
+Clin.Pharmac.Ther.,47,27-35.
+Mucklow,J.C.,Frase,H.S.,Bulpitt,C.J.,Kahn,C.,
+Mould,G.&Dollery,C.T.(1980).Environmentalfactors
+affectingparacetamolmetabolisminLondonfactoryand
+officeworkers.Br.J.dlin.Pharmac.,10,67-74.
+Nakamura,K.,Goto,F.,Ray,W.A.,McAllister,C.B.,
+Jacquz,E.,Wilkinson,G.R.& Branch,R.A.(1985).
+Interethnicdifferencesingeneticpolymorphismofdebriso-
+quinandmephenytoinhydroxylationbetweenJapanese
+andCaucasianpopulations.Clin.Pharmac.Ther.,38,402-
+408.
+Osborne,R.,Joel,S.,Trew,D.&Slevin,M.(1988).Analgesic
+activityofmorphine-6-glucuronide.Lancet,i,828.
+Quiding,H.,Anderson,P.,Bondesson,U.,Boreus,L.0.&
+Hynning,P.A.(1986).Plasmaconcentrationsofcodeine
+anditsmetabolite,morphine,aftersingleandrepeatedoral
+administration.Eur.J.clin.Pharmac.,30,673-677.
+Rogers,J.F.,Findlay,J.W.A.,Hull,J.H.,Butz,R.F.,
+Jones,E.C.,Bustrack,J.A.& Welch,R.M.(1982).
+Codeinedispositioninsmokersandnonsmokers.Clin.
+Pharmac.Ther.,32,218-227.
+Sanfilippo,G.(1948).Contributosperimentealeall'ipotesi
+dellasmetilazionedellacodeinanellaorganismo.I.Influence
+delladosesull'assuefazioneallacodeina.II.Assuefazione
+allacodeinaattenutaconsomministrazioneprolungatadi
+morfina.Boll.Soc.Ital.Biol.Sper.,24,723-726.
+Spector,R.,Choudhury,A.K.,Chiang,C.K.,Goldberg,
+M.J.& Ghoneim,M.M.(1980).Diphenhydraminein
+OrientalsandCaucasians.Clin.Pharmac.Ther.,28,229-
+234.
+Svensson,J.0. (1986).Determinationofmorphine,
+morphine-6-glucuronideandnormorphineinplasmaand
+urinewithhigh-performanceliquidchromatographyand
+electrochemicaldetection.J.Chromatogr.,375,174-178.
+Yue,Q.Y.,Bertilsson,L.,Dahl-Puustinen,M.L.,Sawe,J.,
+Sjoqvist,F.,Johansson,I.& Ingelman-Sundberg,M.
+(1989a).Disassociationbetweendebrisoquinehydroxyla-
+tionphenotypeandgenotypeamongChinese.Lancet,ii,
+870.
+Yue,Q.Y.,Hasselstrom,J.,Svensson,J.0.& Sawe,J.
+(1991).Pharmacokineticsofcodeineanditsmetabolitesin
+Caucasianhealthyvolunteers:comparisonsbetweenexten-
+siveandpoormetabolizersofdebrisoquine.Br.J.clin.
+Pharmac.,31,635-641.
+Yue,Q.Y.,Svensson,J.O.,Alm,C.,Sjbqvist,F.&Sawe,J.
+(1989b).Interindividualandinterethnicdifferencesinthe
+demethylationandglucuronidationofcodeine.Br.J.clin.
+Pharmac.,28,629-637.
+Yue,Q.Y.,Svensson,J.O.,Alm,C.,Sjoqvist,F.&Sawe,J.
+(1989c).CodeineO-demethylationco-segregateswith
+polymorphicdebrisoquinehydroxylation.Br.J.clin.
+Pharmac.,28,639-645.
+Yue,Q.Y.,Sawe,J.,Svensson,J.0.&Sjoqvist,F.(1988).
+Interindividualandinterethnicdifferencesinthe0-
+demethylationandglucuronidationofcodeine-Observa-
+tionsinChineseandSwedishvolunteers.5thSoutheast
+AsianandWesternPacificRegionalMeetingofPharma-
+cologists.Beijing,China,July1988.
+Yue,Q.,vonBahr,C.,Odar-Cederlof,I.&Sawe,J.(1990).
+Glucuronidationofcodeineandmorphineinhumanliver
+andkidneymicrosomes:effectofinhibitors.Pharmac.
+Tox.,66,221-226.
+Zhang,Y.,Reviriego,J.,Lou,Y.,Sjoqvist,F.&Bertilsson,
+L.(1990).DiazepammetabolisminnativeChinesepoor
+andextensivehydroxylatorsofS-mephenytoin:Interethnic
+differencesincomparisonwithCaucasiansubjects.Clin.
+Pharmac.Ther.,48,496-502.
+Zhou,H.H.,Koshakji,R.P.,Silberstein,D.J.,Wilkinson,
+G.R.&Wood,A.J.J.(1989).Racialdifferencesindrug
+response.Alteredsensitivitytoandclearanceofpro-
+pranololinmenofChinesedescentascomparedwith
+Americanwhites.NewEngl.J.Med.,320,565-570.
+(Received24July1990,
+accepted6December1990)

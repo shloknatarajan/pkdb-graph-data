@@ -1,0 +1,584 @@
+Pharmacokinetics
+The Journal of Clinical Pharmacology
+2017,57(3) 305–311
+C⃝ 2016, The American College of
+Clinical Pharmacology
+DOI:10.1002/jcph.807
+Effect of Low-Furanocoumarin Hybrid
+Grapefruit Juice Consumption on Midazolam
+Pharmacokinetics
+Marina Kawaguchi-Suzuki,PharmD,PhD1,2,Negar Nasiri-Kenari,PharmD1,
+Jonathan Shuster,PhD3,Fred G.Gmitter Jr.,PhD4,Paul Cancalon,PhD5,
+Felipe de Oliveria1,Jennifer Kight1,Eileen M.Handberg,PhD 6,Carl J.Pepine,MD6,
+Reginald F.Frye,PharmD,PhD1,and Rhonda M.Cooper-DeHoff,PharmD,MS1
+Abstract
+The objectives of this study were to investigate the effect of grapefruit juice low in furanocoumarins on CYP3A activity and to summarize previous
+findings of enzyme inhibition measured by the metabolism of midazolam after intake of grapefruit juice.Twelve healthy volunteers participated in a
+prospective, randomized, double-blinded, 3-way crossover clinical study to determine the effect of regular grapefruit juice (RGJ) and a novel, low-
+furanocoumarin hybrid grapefruit juice (HGJ) on the metabolism of oral midazolam,used as a probe forin vivo CYP3A activity,compared with water
+as a control.The RGJ was 100% hand-squeezed “Hudson” grapefruit juice,and the HGJ contained low amounts of furanocoumarin constituents.The
+point estimates (90% confidence intervals) for the RGJ/water midazolam AUC geometric mean ratio was 122% (107-140).The point estimate for the
+HGJ/water midazolam AUC ratio was within the 80% to 125% bioequivalence range,indicating an absence of interaction.This finding also prompted a
+systematic review of available evidence on the pharmacokinetic alteration of midazolam by grapefruit juice. Although most studies demonstrated
+alteration in midazolam pharmacokinetics supporting inhibition of CYP3A activity as a likely mechanism, the cohorts included in these studies
+and the extent of the pharmacokinetic interaction varied widely. The current study indicated grapefruit juice-drug interaction varies substantially
+based on patient characteristics and/or grapefruit juice product-related factors,including the amount of furanocoumarin constituents present int h e
+juice.
+Keywords
+grapefruit juice,drug-food interaction,CYP3A,midazolam
+Over the past quarter of a century, grapefruit juice
+(GFJ) has increasingly been cautioned about because
+of the potential risk for drug interactions. In 1989 the
+potential for a drug interaction with GFJ was discov-
+ered accidentally, when GFJ was used to mask the
+tasteof ethanolinafelodipinedrug-interactionstudy. 1
+Subsequent work has clearly established that GFJ in-
+hibits the activity of human cytochrome P450 (CYP)
+3A enzymes and alters the pharmacokinetics (PK) of
+many medications, especially those with intrinsically
+low oral bioavailability due to presystemic metabolism
+mediated by the CYP3A enzyme system.2 According
+to a recent report, grapefruit or GFJ interacts or is
+predicted to interact with more than 85 medications,
+of which 43 have interactions leading to potentially
+serious adverse drug reactions.3 Drugs with previously
+reported serious adverse events linked to grapefruit-
+drug interaction include amiodarone, quinine, vera-
+pamil,atorvastatin,simvastatin,tacrolimus,colchicine,
+and ethinylestradiol.3 CYP enzymes in the families of
+CYP1,2,and3areresponsibleformetabolismof 70%
+to 80% of all drugs; CYP3A4 metabolizes over 30% of
+clinicallyuseddrugsthatundergobiotransformationby
+CYP isoforms.4
+Midazolam is an ultrashort-acting benzodiazepine
+derivative commonly used as an in vivo probe to
+measure human CYP3A activity.5,6 After oral admin-
+istration, midazolam undergoes extensive presystemic
+1DepartmentofPharmacotherapyandTranslationalResearch,University
+of Florida,Gainesville,FL,USA
+2School of Pharmacy,Pacific University Oregon,Hillsboro,OR,USA
+3Department of Health Outcomes and Policy, University of Florida,
+Gainesville,FL,USA
+4Department of Horticultural Sciences,Citrus Research and Education
+Center,Lake Alfred,FL,USA
+5Florida Department of Citrus,Citrus Research and Education Center,
+Lake Alfred,FL,USA
+6Division of Cardiovascular Medicine,Department of Medicine,Univer-
+sity of Florida,Gainesville,FL,USA
+Submitted for publication 18 May 2016;accepted 4 August 2016.
+Corresponding author:
+Marina Kawaguchi-Suzuki, PharmD, PhD, Pacific University Oregon,
+School of Pharmacy,Hillsboro,OR 97123
+Email:marina.suzuki@pacificu.edu
+306 The Journal of Clinical Pharmacology / Vol 57 No 3 2017
+extraction by hepatic and enteric CYP3A, and its oral
+bioavailability is approximately 30%.6 The major pri-
+marymetaboliteof midazolamis1 ′-hydroxymidazolam
+generated almost exclusively by CYP3A.7 Midazolam
+was previously used to investigate the effect of GFJ on
+itsmetabolism;increaseddrowsinessandimpairedpsy-
+chomotor measurements have been reported with con-
+comitant intake of GFJ in previous studies.8 Although
+increased midazolam exposure has been reported by
+measurements of area under the concentration-time
+curve (AUC) and peak plasma concentration (Cmax)
+after GFJ intake,8 the extent of changes in the AUC
+and Cmax among published clinical trials has been
+inconsistent. GFJ inhibits intestinal CYP3A but does
+notimpactthePKof intravenouslyadministereddrugs,
+and the plasma half-lives of orally ingested drugs are
+generally not affected by GFJ.9
+GFJ contains various phytochemicals such as
+flavonoidsandfuranocoumarins. 9 Naringinisthemost
+abundant flavonoid and was originally assumed to be
+the constituent responsible for the CYP3A inhibition.9
+However, studies failed to document alternations in
+the PK of CYP3A substrates, and thus naringin is
+no longer considered a major constituent account-
+able for GFJ-drug interactions.9–11 Furanocoumarins
+are structurally distinct compounds; bergamottin and
+6′,7′-dihydroxybergamottin (DHB) are the main fura-
+nocoumarin components.9,12 These2furanocoumarins
+are the most extensively studied for their capability of
+mediating drug interaction and have been shown to
+inhibit in vitro activity of CYP3A.9,12
+The effect of GFJ from a cultivar specifically bred
+to contain only limited amounts of furanocoumarins
+on CYP3A-mediated metabolism has not been in-
+vestigated. Therefore, the primary objective of this
+study was to determine how the effects of low-
+furanocoumarin hybrid grapefruit juice (HGJ) and
+regular grapefruit juice (RGJ) on midazolam PK differ
+from those of water as a control. We also systemat-
+ically reviewed and summarized the clinical evidence
+regarding the GFJ-midazolam interaction.
+Methods
+Study Design and Participants
+The study protocol was approved by the Institu-
+tional Review Board at the University of Florida, and
+all participants provided voluntary, written informed
+consent. A prospective, randomized, double-blinded,
+3-way crossover design was used to compare 3 treat-
+ments among healthy adult volunteers. Exclusion
+criteria included age <18 years old, pregnancy or
+breast-feeding, current smoking, and diagnosis of a
+chronic condition or use of chronic medications except
+oral contraceptives. During 3 separate study sessions
+separated by at least 2 weeks, participants received
+1 of 3 randomly assigned treatments: 200 mL of
+either water, “Hudson” hand-squeezed 100% RGJ, or
+HGJ daily for 3 consecutive days, administered in
+the morning. On the third day of each study session,
+participants were admitted to the Clinical Research
+Center in a fasting state. A venous access catheter
+was inserted, and a 5-mg dose of oral midazolam
+syrup (Roxane Laboratories Inc, Columbus, Ohio) was
+administered immediately following the third dose of
+randomized treatment. Blood samples were collected
+prior to and at 0.5, 1, 2, 3, 4, 6, and 9 hours after
+midazolam administration. These samples were kept
+on ice, centrifuged within 30 minutes of collection,
+and stored at –80°C until analysis. All participants
+abstained from eating grapefruit, other citrus fruits,
+and any citrus-containing foods or drinks for 1 week
+prior to each study session. Participants were asked to
+abstain from alcoholic beverages (24 hours), herbal-
+containing supplements/teas/beverages, and over-the-
+counter medications (48 hours) prior to each study
+session. The subjects were also asked to maintain their
+usual intake of caffeine.
+The study is registered at ClinicalTrials.gov
+(NCT02117869).
+Analytical Methods
+Midazolam and 1′-Hydroxymidazolam
+Plasma concentrations of midazolam and 1 ′-
+hydroxymidazolam were quantified using HPLC-
+MS/MS on a system consisting of a Surveyor HPLC
+autosampler, Surveyor MS quaternary pump, and
+TSQ Quantum Discovery triple quadrupole mass
+spectrometer (Thermo Scientific, San Jose, California).
+After liquid-liquid extraction, midazolam and metabo-
+lite concentrations were measured simultaneously
+with electrospray ionization in the positive mode as
+described previously.13 Midazolam, midazolam-d 4,
+1′-hydroxymidazolam, and 1 ′-hydroxymidazolam-d4
+were purchased from Cerilliant (Round Rock, Texas).
+The lower limit of quantification for both midazolam
+and 1′-hydroxymidazolam was 0.2 ng/mL, and the
+accuracy and precision were within 7%.
+Grapefruit Juice
+Juice samples were prepared by hand squeezing fruit
+from “Hudson” grapefruit, and “UF914”, a triploid
+hybrid arising from the cross of diploid low-acid
+pummelo with tetraploid “Ruby Red” (UF914 US
+patent number PP26,177); fruits from both cultivars
+were harvested from adjacent fields located at the
+University of Florida Citrus Research and Education
+Center in Lake Alfred, Florida. Analyses were con-
+ducted to confirm low amounts of furanocoumarins,
+using a Perkin Elmer 200 HPLC system (Perkin Elmer,
+Kawaguchi-Suzuki et al 307
+Table 1.Measurements of GFJ Constituentsa
+GFJ Bergamottin 6 ′,7′-Dihydroxybergamottin Bergaptol Isoimperatorin Paradisin C Spiroesters
+Regular 43.4 ± 13.3 53.2 ± 3.8 4.0 ± 4.5 0.7 ± 0.4 11.1 ± 2.5 4.8 ± 2.3
+Hybrid 1.8 ± 1.2 3.0 ± 1.3 0.5 ± 1.0 ND 0.1 ± 0.4 ND
+Published
+Mean Value18 23.3 69.3 1.3 48.1 9.9 5.5
+aConcentrations inμM( m e a n± standard deviation).ND,not detected.
+Waltham, Massachusetts). Further characterization
+was obtained with an LCQ Advantage LC-MS system
+(ThermoFinnigan, San Jose, California). The lower
+limit of quantification was 0.5 mg/L. The detailed
+methodology has been described previously.14
+Pharmacokinetics
+Pharmacokinetic parameters (Cmax and AUC) were
+obtained from noncompartmental analyses using
+Kinetica 5.0 (Thermo Fisher Scientific, Waltham,
+Massachusetts). AUC from time 0 until the last
+concentration measurement (AUClast) was calculated
+using the linear-log trapezoidal method. Residual area
+extrapolated to infinity (final concentration divided
+by β) was added to calculate the total area under the
+concentration-time curve (AUC /221e). Metabolic ratio
+wasdeterminedbasedonthemetabolite-to-midazolam
+AUC ratio.
+Statistical Methods
+The pharmacokinetic parameter endpoints AUClast,
+AUC/221e, and C max for midazolam and 1 ′-hydroxy
+midazolamwereevaluatedusingthestandardbioequiv-
+alenceapproachinwhichtheabsenceof aclinicallyrel-
+evant interaction was concluded if the 90% confidence
+interval (CI) for the geometric mean ratio (GMR) was
+not contained within the no-effect bounds of 80% to
+125%.15 Based on an intrasubject variation of 17% for
+midazolam AUC,16 a sample size of 12 subjects would
+provide at least 80% power to demonstrate that the
+90%CI of the geometric mean ratio would fall within
+the no-effect range of 80% to 125%. SAS version 9.3
+was used for analysis (SAS Institute Inc, Cary, North
+Carolina). Figures were drawn using GraphPad Prism
+5 (GraphPad Software, La Jolla, California).
+Results
+Twelve healthy participants (aged 30.8± 11.8 years,
+mean ± standard deviation) completed all study ses-
+sions. Eight (67%) of 12 participants were female,
+and 4 (33%) participants were male. The body mass
+index (BMI) was 24.7± 4.9, and 2 participants were
+considered obese (BMI/226530). The participants of this
+study were ethnically diverse (10 whites [2 Hispanics,
+Figure 1. Concentration-time curve for (A) midazolam and (B) 1′-
+hydroxymidazolam. The points represent mean values (N= 12). The
+error bars represent standard deviations.
+8 non-Hispanics], 1 African American, and 1 Asian).
+The age of participants ranged from 18 to 55 years.
+None of the participants reported deviations from
+the study instructions or withdrew from the study.
+Mild drowsiness was reported by 1 participant, but no
+otheradversedrugreactionswereobservedorreported
+during any of the sessions.
+Measured furanocoumarin concentrations for the
+RGJandHGJproductsareshowninTable1.Thelevels
+of furanocoumarins were lower in the HGJ than RGJ.
+Midazolam and metabolite concentration-time curves
+aredepictedinFigure1.ThePKparameterscalculated
+308 The Journal of Clinical Pharmacology / Vol 57 No 3 2017
+Table 2.Summary of Pharmacokinetic Parameters
+Water (Reference) Regular-GFJ (Test) GMR,% (90%CI) Hybrid-GFJ (Test) GMR,% (90%CI)
+Midazolam (MDZ)
+AUClast (ng·h/mL) 58.2 ± 23.3 67.7 ± 21.1 121 (105–139) 63.1 ± 20.8 111 (98–125)
+AUC/221e(ng·h/mL) 64.8 ± 27.6 76.7 ± 27.5 122 (107–140) 70.2 ± 23.5 111 (98–125)
+Cmax (ng/mL) 25.1 ± 7.6 23.0 ± 7.1 92 (69–122) 22.3 ± 10.3 85 (68–107)
+1′-Hydroxymidazolam (OHMDZ)
+AUClast (ng·h/mL) 28.2 ± 8.4 25.3 ± 6.8 91(76–109) 26.2 ± 8.9 92 (81–104)
+AUC/221e(ng·h/mL) 30.6 ± 8.3 28.0 ± 7.2 92 (79–108) 28.6 ± 9.9 92 (80–105)
+Cmax (ng/mL) 16.6 ± 10.4 9.7 ± 4.2 65 (42–100) 11.1 ± 6.5 68 (52–90)
+Values are shown as mean± standard deviation.GMR,geometric mean ratio;CI,confidence interval.
+Figure 2. Comparison of midazolam AUC. The points represent
+calculated AUC values for each study participant (N= 12).
+from measured concentrations of midazolam and the
+metabolitearesummarizedinTable2accordingtoran-
+domized treatment. Compared with water (reference),
+midazolamAUCwasincreasedbyafactorof 1.22with
+administration of RGJ; the confidence intervals were
+not contained within the no-effect bounds (90%CI
+107% to 140%; Figure 2). The midazolam Cmax was
+decreased by a factor of 0.92, and the lower end of the
+confidence limit was <80%, outside of the no-effect
+bounds. The Cmax of 1′-hydroxymidazolam was also
+lower when participants consumed RGJ (65%,
+Figure 3). The metabolite-to-midazolam AUC
+metabolic ratios were 0.56 ± 0.23 for water, 0.40
+± 0.12 for RGJ, and 0.46 ± 0.19 for HGJ. The
+metabolic ratio was lower with RGJ compared with
+water, whereas the metabolic ratios were relatively
+similar between water and HGJ (Figure 4). When
+midazolam was coadministered with HGJ, compared
+to when midazolam was coadministered with water,
+the GMR (90%CI) for both midazolam and 1 ′-
+hydroxymidazolam AUC were contained within the
+no-effect boundary of 80% to 125% (Table 2).
+Discussion
+Although CYP3A inhibition by GFJ has been shown
+to be both reversible and irreversible, the primary
+Figure 3.Comparison of 1′-hydroxymidazolam Cmax.The points rep-
+resent measured peak concentration values for each study participant
+(N = 12).
+Figure 4. Comparison of 1 ′-hydroxymidazolam-to-midazolam
+metabolic ratios. The points represent calculated metabolic ratios
+for each study participant (N = 12). MDZ, midazolam; OHMDZ,
+1ʹ-hydroxymidazolam.
+mechanism is via inhibition of intestinal CYP3A,
+resulting in complete inactivation of the enzyme.6,8,9
+CYP3A enzymes are the most abundantly expressed
+CYP enzymes in both intestinal enterocytes and the
+liver, the major sites of human drug metabolism.4
+The results of this clinical study demonstrated that
+in vivo CYP3A activity measured by the metabolism
+of midazolam was weakly inhibited by consumption
+Kawaguchi-Suzuki et al 309
+of RGJ.ThemidazolamAUCwasincreasedwhenpar-
+ticipants ingested RGJ, compared to when participants
+were randomized to water (GMR 122%). Although no
+significantchangeinC max of midazolamwasobserved,
+both AUC metabolic ratio and the Cmax of the major
+metabolite, 1′-hydroxymidazolam, were decreased by
+the intake of RGJ, suggesting intestinal CYP3A inhi-
+bition. These alterations indicate that RGJ inhibited
+the in vivo activity of CYP3A in study participants.
+In contrast, the PK of midazolam was not affected by
+HGJ,astheGMRand90%CIsformidazolamAUC 0-/221e
+were within the 80% to 125% limits when compared
+withwater.Thislackof aneffectonmidazolamPKpa-
+rameterswiththeHGJproductismostlikelyexplained
+by the low amounts of furanocoumarin constituents
+(Table 1).
+The observations with the HGJ intake in this cur-
+rent study align with earlier findings. When fura-
+nocoumarins were manually removed from GFJ by
+absorption resins in a previous study, exposure to the
+CYP3A substrate felodipine was maintained, demon-
+strating that furanocoumarins were the constituents
+responsible,atleastinpart,fortheCYP3Ainhibition. 17
+Furthermore, the DHB along with a series of dimeric
+compounds (spiroesters) were identified as principal
+inhibitory furanocoumarins.18 An earlier in vitro study
+similarly described different inhibitory potencies of
+furanocoumarin constituents.19 Although deviation of
+in vivo inhibitory potency from in vitro studies is
+expectedduetovariabilityinparticipants’responseand
+differences in concentrations of each furanocoumarin
+constituent used among studies, the results of this
+study indicate that compared with control (water),
+in vivo CYP3A activity as measured by midazolam
+metabolism was not affected by HGJ consumption.
+Additional in vivo investigations in larger study pop-
+ulations would be necessary to further understand the
+differences observed in the in vitro and in vivo work
+completed to date.
+Resultsfromourstudypromptedasystematicreview
+of theliteraturetobetterunderstandthepublisheddata
+evaluating the GFJ-midazolam PK interaction. Search
+terms used for PubMed were (“citrus paradisi”[MeSH
+Terms] OR (“citrus”[All Fields] AND “paradisi”[All
+Fields]) OR “citrus paradisi”[All Fields] OR “grape-
+fruit”[All Fields]) AND (“midazolam”[MeSH Terms]
+OR “midazolam”[All Fields]). Similarly, Web of Sci-
+encewassearchedwiththeterm,TS =(grapefruitAND
+midazolam), and then the search was further refined
+by the document type “CLINICAL TRIAL.” The
+searchwasconductedby3of theauthorsindependently
+for all articles indexed to the database by May 28,
+2015. Inconsistencies between included articles were
+systematicallyresolvedbasedonpredeterminedcriteria
+and by consensus. Only full-text peer-reviewed articles
+written in English were included. In vitro studies and
+studies using CYP3A probes other than midazolam
+were excluded. The searches yielded 45 articles from
+PubMed and 17 articles from Web of Science. After
+screening all articles found by both search engines, 12
+full-text original research articles met our criteria.20–31
+Data from these clinical studies are summarized in
+Supplemental Table S1. The majority of previous clin-
+ical studies were conducted primarily in white male
+subjects. Although not all studies reported the specific
+type of grapefruit, concentrated frozen grapefruit was
+most frequently studied as the source of juice. Overall,
+9 of the 12 studies demonstrated significant changes in
+midazolam PK (Supplemental Table S1); 2 studies us-
+ing intravenously administered midazolam and 1 study
+usingorallydosedmidazolamdidnotshowstatistically
+significant alteration in the midazolam total exposure
+after intake of GFJ.
+According to the summary of the systematic re-
+view (Supplemental Table S1), the extent of the PK
+alteration observed in our study was smaller than
+those reported in the previous positive studies. One
+factor, possibly contributing to this lack of agreement
+between previous and current findings may be the
+difference in study populations. This study was unique
+because participants were more ethnically diverse and
+with females being more represented than in previous
+studies. Additionally, a more important factor may be
+differencesamongGFJitself leadingtovaryingdegrees
+of inhibitionbetweenstudies.Itiscommonlysuspected
+that different cultivars and/or storage conditions of
+grapefruit or GFJ may affect the intensity of the drug
+interaction.3,9 Various GFJ products contain different
+levels of furanocoumarin constituents responsible for
+the inhibition of CYP3A; this could have resulted in
+divergent intensity of the interaction observed among
+studies. In previous reports, concentrations of berg-
+amottin and DHB ranged from 1 to 37μM and 0.2
+to52.5 μM,respectively.9,12,32,33 Manypreviousstudies
+identified by our literature search did not describe the
+amounts of furanocoumarins present in the GFJ sam-
+ple.ThebergamottinandDHBconcentrationsstatedin
+2 identified studies by the systematic review were 23.5
+to 33.1 μM and 2.7 to 6.7μM, respectively.25,30 The
+HGJ used in this study contained low furanocoumarin
+amountsrelativetovaluesinjuicesstudiedinpreviously
+published reports (Table 1). None of the previous
+midazolam and GFJ interaction studies investigated
+use of HGJ containing low levels of furanocoumarin
+constituents.Importantly,toourknowledge,thisisalso
+the first study reporting the effects of hand-squeezed
+“Hudson”grapefruit juice on midazolam PK, perhaps
+representing a more real-world grapefruit juice expo-
+sure, and the extent of CYP3A inhibition was smaller
+than in other studies.
+310 The Journal of Clinical Pharmacology / Vol 57 No 3 2017
+Some limitations of this current study should be
+noted. Participants were healthy volunteers, and al-
+teration of PK parameters may become more or less
+prominent in patients with certain disease states. One
+of the previous studies was conducted among patients
+withcirrhosis,andalthoughdirectcomparisonscannot
+be made with healthy volunteers, the PK alteration
+appeared more pronounced. Extrapolation of current
+findings to patients with disease should be cautioned.
+The inhibition of CYP3A observed with RGJ in this
+study was less than reported in previous studies, which
+asnotedmayberelatedtothefuranocoumarincontents
+of the juice used in this study.
+In conclusion, this study found altered in vivo
+CYP3A activity by RGJ. The findings also suggest
+that CYP3A inhibition by GFJ that is low in fura-
+nocoumarin constituents may be minor. Importantly,
+GFJdoesnotalwayscauseseveredruginteractionwith
+all medications that undergo CYP3A-mediated bio-
+transformation. GFJ containing a negligible amount
+of furanocoumarin constituents may be a safer option
+if patients prefer to continue to drink grapefruit juice
+while taking drugs metabolized by CYP3A. To be
+cautious, however, grapefruit juice should be avoided
+with orally dosed medications having low bioavailabil-
+ity due to high presystemic extraction by CYP3A. It
+is noteworthy that the magnitude of GFJ-drug inter-
+action is not entirely consistent due to patient and/or
+GFJ product-related variability as presented in this
+study and the currently available clinical evidence. If
+any medication is cautiously started at a lower-than-
+standard dose in patients who regularly consume GFJ,
+therapeutic effects should be monitored to adjust the
+dose appropriately. This is because the effect of GFJ
+may be less pronounced than expected due to certain
+patient- or GFJ product-related factors as observed in
+this study.
+Acknowledgment
+Research reported in this publication was partly supported
+by the National Center for Advancing Translational Sciences
+of the National Institutes of Health (UL1TR001427). The
+content is solely the responsibility of the authors and does
+not necessarily represent the official views of the National
+Institutes of Health.
+Conflicts of Interest
+Dr. Gmitter is an inventor on US patent application
+#US20140283239 P1 and USPP26177 P3 of hybrid
+grapefruit 914. Dr. Gmitter did not analyze any of the
+data,nordidherecruit,consent,orinteractwithanyof
+theparticipantsinthestudy.Noneof theotherauthors
+have any competing interests.
+References
+1. Bailey DG, Spence JD, Edgar B, Bayliff CD, Arnold JM.
+Ethanol enhances the hemodynamic effects of felodipine.Clin
+Invest Med. 1989;12(6):357–362.
+2. Bailey DG, Malcolm J, Arnold O, Spence JD. Grapefruit
+juice-drug interactions. Br J Clin Pharmacol . 1998;46(2):101–
+110.
+3. Bailey DG, Dresser G, Arnold JM. Grapefruit-medication in-
+teractions: forbidden fruit or avoidable consequences?CMAJ.
+2013;185(4):309–316.
+4. Zanger UM, Schwab M. Cytochrome P450 enzymes in
+drug metabolism: regulation of gene expression, enzyme
+activities, and impact of genetic variation. Pharmacol Ther .
+2013;138(1):103–141.
+5. FotiRS,RockDA,WienkersLC,WahlstromJL.Selectionof al-
+ternative CYP3A4 probe substrates for clinical drug interaction
+studies using in vitro data and in vivo simulation.Drug Metab
+Dispos. 2010;38(6):981–987.
+6. Arayne MS, Sultana N, Bibi Z. Grape fruit juice-drug interac-
+tions. Pak J Pharm Sci. 2005;18(4):45–57.
+7. Kronbach T, Mathys D, Umeno M, Gonzalez FJ, Meyer
+UA. Oxidation of midazolam and triazolam by human
+liver cytochrome P450IIIA4. Mol Pharmacol . 1989;36(1):89–
+96.
+8. Seden K, Dickinson L, Khoo S, Back D. Grapefruit-drug
+interactions. Drugs. 2010;70(18):2373–2407.
+9. HanleyMJ,CancalonP,WidmerWW,GreenblattDJ.Theeffect
+of grapefruitjuiceondrugdisposition. Expert Opin Drug Metab
+Toxicol. 2011;7(3):267–286.
+10. Bailey DG, Arnold JM, Munoz C, Spence JD. Grapefruit juice-
+felodipine interaction: mechanism, predictability, and effect of
+naringin. Clin Pharmacol Ther. 1993;53(6):637–642.
+11. BaileyDG,ArnoldJM,StrongHA,MunozC,SpenceJD.Effect
+of grapefruit juice and naringin on nisoldipine pharmacokinet-
+ics. Clin Pharmacol Ther. 1993;54(6):589–594.
+12. Guo LQ, Fukuda K, Ohta T, Yamazoe Y. Role of fura-
+nocoumarin derivatives on grapefruit juice-mediated inhibition
+of humanCYP3Aactivity. Drug Metab Dispos.2000;28(7):766–
+771.
+13. Nolin TD, Frye RF, Le P, et al. ESRD impairs nonrenal
+clearanceof fexofenadinebutnotmidazolam. J Am Soc Nephrol.
+2009;20(10):2269–2276.
+14. Cancalon PF, Barros SM, Haun C, Widmer WW. Effect
+of maturity, processing, and storage on the furanocoumarin
+composition of grapefruit and grapefruit juice. J Food Sci .
+2011;76(4):C543–C548.
+15. U.S. Department of Health and Human Services and Food
+and Drug Administration Center for Drug Evaluation and
+Research (CDER). Guidance for Industry Drug Interaction
+Studies—Study Design, Data Analysis, Implications for Dos-
+ing, and Labeling Recommendations . Rockville, MD: FDA;
+2012.
+16. Kawaguchi-Suzuki M, Frye RF, Zhu HJ, et al. The effects of
+milk thistle (Silybum marianum) on human cytochrome P450
+activity. Drug Metab Dispos. 2014;42(10):1611–1616.
+17. PaineMF,WidmerWW,HartHL,etal.Afuranocoumarin-free
+grapefruit juice establishes furanocoumarins as the mediators
+of the grapefruit juice-felodipine interaction.Am J Clin Nutr .
+2006;83(5):1097–1105.
+18. Greenblatt DJ, Zhao Y, Hanley MJ, et al. Mechanism-based
+inhibition of human cytochrome P450-3A activity by grape-
+fruit hybrids having low furanocoumarin content.Xenobiotica.
+2012;42(12):1163–1169.
+19. Ohnishi A, Matsuo H, Yamada S, et al. Effect of fura-
+nocoumarin derivatives in grapefruit juice on the uptake of
+Kawaguchi-Suzuki et al 311
+vinblastine by Caco-2 cells and on the activity of cytochrome
+P450 3A4.Br J Pharmacol. 2000;130(6):1369–1377.
+20. KupferschmidtHH,HaHR,ZieglerWH,MeierPJ,Kr ¨ahenb¨uhl
+S. Interaction between grapefruit juice and midazolam in hu-
+mans. Clin Pharmacol Ther. 1995;58(1):20–28.
+21. Vanakoski J, Mattila MJ, Sepp¨al¨a T. Grapefruit juice does not
+enhance the effects of midazolam and triazolam in man.Eur J
+Clin Pharmacol. 1996;50(6):501–508.
+22. Rogers JD, Zhao J, Liu L, et al. Grapefruit juice has mini-
+mal effects on plasma concentrations of lovastatin-derived 3-
+hydroxy-3-methylglutarylcoenzymeAreductaseinhibitors. Clin
+Pharmacol Ther. 1999;66(4):358–366.
+23. Andersen V, Pedersen N, Larsen NE, Sonne J, Larsen S.
+Intestinalfirstpassmetabolismof midazolaminlivercirrhosis—
+effect of grapefruit juice.Br J Clin Pharmacol . 2002;54(2):120–
+124.
+24. Veronese ML, Gillen LP, Burke JP, et al. Exposure-dependent
+inhibitionof intestinalandhepaticCYP3A4invivobygrapefruit
+juice. J Clin Pharmacol. 2003;43(8):831–839.
+25. Greenblatt DJ, von Moltke LL, Harmatz JS, et al. Time course
+of recovery of cytochrome p450 3A function after single doses
+of grapefruit juice.Clin Pharmacol Ther. 2003;74(2):121–129.
+26. Benmebarek M, Devaud C, Gex-Fabry M, et al. Effects of
+grapefruit juice on the pharmacokinetics of the enantiomers of
+methadone. Clin Pharmacol Ther. 2004;76(1):55–63.
+27. Kharasch ED, Hoffer C, Whittington D, Sheffels P. Role of
+hepatic and intestinal cytochrome P450 3A and 2B6 in the
+metabolism, disposition, and miotic effects of methadone.Clin
+Pharmacol Ther. 2004;76(3):250–269.
+28. Kharasch ED, Walker A, Hoffer C, Sheffels P. Intravenous
+and oral alfentanil as in vivo probes for hepatic and first-pass
+cytochrome P450 3A activity: noninvasive assessment by use of
+pupillary miosis.Clin Pharmacol Ther. 2004;76(5):452–466.
+29. FarkasD,OlesonLE,ZhaoY,etal.Pomegranatejuicedoesnot
+impair clearance of oral or intravenous midazolam, a probe for
+cytochrome P450-3A activity: comparison with grapefruit juice.
+J Clin Pharmacol. 2007;47(3):286–294.
+30. van Erp NP, Baker SD, Zandvliet AS, et al. Marginal increase
+of sunitinib exposure by grapefruit juice. Cancer Chemother
+Pharmacol. 2011;67(3):695–703.
+31. Tanaka S, Uchida S, Miyakawa S, et al. Comparison of
+inhibitory duration of grapefruit juice on organic anion-
+transportingpolypeptideandcytochromeP4503A4. Biol Pharm
+Bull. 2013;36(12):1936–1941.
+32. De Castro WV, Mertens-Talcott S, Rubner A, Butterweck V,
+Derendorf H. Variation of flavonoids and furanocoumarins
+in grapefruit juices: a potential source of variability in
+grapefruit juice-drug interaction studies. J Agric Food Chem .
+2006;54(1):249–255.
+33. Schmiedlin-Ren P, Edwards DJ, Fitzsimmons ME, et al. Mech-
+anisms of enhanced oral availability of CYP3A4 substrates by
+grapefruit constituents. Decreased enterocyte CYP3A4 concen-
+tration and mechanism-based inactivation by furanocoumarins.
+Drug Metab Dispos. 1997;25(11):1228–1233.
+Supporting Information
+Additional Supporting Information may be found in
+the online version of this article at the publisher’s web-
+site.

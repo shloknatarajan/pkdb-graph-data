@@ -1,0 +1,333 @@
+Br.J.clin.Pharmac.(1990),29,261-264
+Theeffectofpropranololonparacetamolmetabolisminman
+0.Z.BARAKA.C.A.TRUMAN.J.M.FORD& C.J.C.ROBERTS
+DcpartmcntofMedicine,BristolRoyalInfirmary,BristolBS28HW
+Tenhealthyvolunteersweretreatedfor4dayswith160mgpropranololHClandplacebo
+inrandomorder.Attheendofeachtreatmentsalivaryantipyrinekineticsandtheplasma
+kineticsandurinaryexcretionofparacetamolanditsmajormetabolitesweremeasured
+followinga1500mgoraldose.Propranololprolongedthehalf-lifeofantipyrineby11±
+5%(mean±s.e.mean)andlowereditsclearanceby14±3%(P< 0.05).Propranolol
+increasedthehalf-lifeofparacetamolby25±12%(P<0.05)andlowereditsclearanceby
+14±3%(P< 0.05).Propranololdecreasedthepartialclearanceofparacetamoltoits
+cysteineandmercapturatederivativesby16±3%(P< 0.05)and32±7%(P< 0.05),
+respectively.Thepartialclearancetotheglucuronideconjugatewasdecreasedby27±6%
+(P< 0.05),whereasthattosulphatewasnotchangedsignificantly.Propranololinhibits
+paracetamolmetabolismpredominantlythroughinhibitionoftheoxidationand
+glucuronidationpathways.
+Keywordsdrugmetabolismdruginteractionpropranololparacetamol
+antipyrine
+Introduction
+Sinceparacetamolisoxidisedtoahepatotoxic
+intermediatemetaboliteN-acetylp-benzo-
+quinoneimine(Corcoranetal.,1980;Meredith
+& Goulding,1980),interactionswithdrugs
+thatinducehepaticmono-oxygenases(Mitchell
+etal.,1983;Perucca&Richens,1979;Prescottet
+al.,1981)andthosethatinhibitthem(Mitchellet
+al.,1984;Sanchez-Martinezetal.,1985)areof
+interest.
+Propranololinhibitsthemetabolismof
+chlorpromazine(Peetetal.,1980),lignocaine
+(Ochsetal.,1980)andtheophylline(Conrad&
+Nyman,1980;Minersetal.,1985)and,in
+common withsomeother,B-adrenoceptorantagonists,antipyrine(Baxetal.,1983;Green-
+blattetal.,1978;Parkeretal.,1984).Theinhibi-
+tionofoxidativemetabolismbypropranololis
+relatedtoitslipidsolubility(Baxetal.,1981;
+Deaconetal.,1983),itmaybeselectivefor
+differentformsofcytochromeP450andis
+possiblyconcentrationdependent(Minersetal.,
+1984).
+Inanimalstudiespropranololinlargedoses
+hasa protectiveeffectagainstparacetamol-
+inducedhepaticnecrosis(Baxetal.,1983;Legors,
+1976).However,inastudyofsixindividualsa
+relativelysmalldoseofpropranolol(80mgdaily
+for6days)didnotaffectthekineticsofpara-
+cetamol(Sanchez-Martinezetal.,1985).
+Theaimofthisstudywastore-investigatethe
+effectofpropranololonparacetamoldisposition
+inman.Inordertoconfirmtheeffectofpro-
+pranololon drugmetabolisingcapacitya
+measurementofantipyrinekineticswasin-
+corporatedinthestudydesign.
+Method
+Subjects
+Sixmalesandfourfemales,allclinicallyhealthy,
+agedbetween21and32yearsandweighingfrom
+51to85kg(median68kg)participatedinthe
+Correspondence:DrCliveJ.C.Roberts,DepartmentofMedicinc,BristolRoyalInfirmary,Bristol,BS28HW
+261
+262 0.Z.Barakaetal.
+studywhichwasapprovedbytheBristoland
+WestonHealthAuthorityEthicsCommittee.
+Allwerenon-smokers,usedalcoholinmodera-
+tionanddidnottakeotherdrugs,includingthe
+oralcontraceptive.
+Studydesign
+Thestudywasadouble-blind,crossoverinvesti-
+gationcomprisingtwoperiodsof5dayseach
+separatedby12days.Subjectsreceivedina
+randomordereitherracemicpropranololHCI
+80mgormatchedplacebotabletstwicedailyfor
+4days.Subjectsrefrainedfromtakingalcohol
+duringthestudyandreportedtotheclinical
+laboratoryat09.00hafteranovernightfaston
+days4and5ofeachtreatmentperiod.
+Onday4asingleoraldoseofparacetamol
+(1500mg)wasadministeredandthesubjects
+continuedtofastfor2h.Venousbloodsamples
+(5ml)werecollectedat0,0.5,1,1.5,2,3,4,5,
+6,8,12and24h.A completeurinecollection
+wasmadeforthefirst24h followingdrug
+administration.
+Onday5thesubjectsreceivedasingleoral
+doseof600mgantipyrine.Saliva(2ml)was
+obtainedat0,3,6,9,12and24h.Allplasma
+sampleswereseparatedimmediatelyandto-
+getherwithaliquotsoftheurineandsaliva
+samplestheywerefrozenandstoredat-20°C
+untilassayed.
+Antipyrinewasassayedinsalivabyh.p.l.c.
+(Danhofetal.,1979).Paracetamolanditsmeta-
+bolitesinplasmaandurinewereassayedbythe
+h.p.l.c.methodofAdriaenssens& Prescott
+(1978)modifiedbytheuseofmetacetamolas
+internalstandard.Themobilephasewas0.1M
+potassiumdihydrogenphosphate,98% v/v
+formicacidandpropan-2-ol(100:0.16:1.5vlv/v).
+Thismethodwasabletomeasureparacetamol
+anditsmetabolitesat0.1,ugml-'atasignalto
+noiseratioof2:1orbetter.Theinter-assayco-
+efficientsofvariationforparacetamolandallthe
+metaboliteswerenogreaterthan7% at2,ug
+ml-',4%at10ugml-'and3%at50,gml-'.The
+paracetamolmetabolitesusedasstandardswere
+donatedbySterlingWinthropLaboratories
+(Alnwick).Thestandardmetabolitesolutions
+werepreparedandstoredat-20°Cfor8weeks
+duringwhichtimerepeatedassayagainstfreshlypreparedsolutionsshowednoevidenceofin-
+stability.Allurinesampleswereassayedwithin
+6weeksofcollection.
+Pharmacokineticanalysis
+Theplasmaeliminationhalf-life(t,)ofpara-
+cetamolwascomputedbyleastsquareslinear
+regressionoftheterminalpartofthelogdrug
+concentration-timecurve.Theareaunderthe
+plasmadrugconcentration-timeprofile(AUC)
+wascalculatedasfollows:theareauptotheend
+ofsamplingwascalculatedusingthelinear
+trapezoidalruleandtheremainingareawas
+extrapolatedtoinfinityusingtheterminallog
+drugconcentration-timeslope.Thesystemic
+clearanceofparacetamolcouldnotbeassessed
+intheabsenceofameasurementofbioavail-
+ability.However,theoralclearance(CLP,)was
+estimatedfrom:
+CLp(= Dose/AUC
+Thepartialclearanceofparacetamoltoeachof
+itsmetabolites(CLm,)wascalculatedfrom
+CLm= Ae(m)
+AUC
+whereAe(m)= Amountofmetabolitere-
+coveredinurine.
+Statisticalanalysis
+Student'st-testforpaireddatawasusedto
+comparemeasurementsonpropranololwith
+thoseonplacebo.
+Results
+Allsubjectscompletedthestudywithoutadverse
+effects.Oneormoreurinecollectionshadbeen
+collectedincorrectlybythreesubjectsandtheir
+urinaryresultswereexcludedfromtheanalysis.
+Antipyrinekinetics
+Propranololincreasedtheeliminationhalf-life
+ofantipyrinefrom11.2±2.5h(mean±s.d.)to
+12.4±3.5h(P<0.05)anddecreaseditsclear-
+ancefrom58.1±19.3mlmin-'to51.5±18.3ml
+min-'(P<0.05)comparedwithplacebo.
+Paracetamolandmetabolitesinplasmaandurine
+The plasmaconcentrationofparacetamol
+reachedapeakof27.0± 10.8,ugml-'after
+propranololcomparedwith18.0±6.1ptgml-'followingplacebo(P< 0.01)(Figure1).Pro-
+pranololincreasedthehalf-lifeofparacetamol
+from2.7± 0.6to3.4± 0.3h(P< 0.05)and
+lowereditsoralclearancefrom364± 92
+mlmin-'to313±28mlmin-'(P<0.05).
+Propranololdecreasedthepartialclearanceof
+paracetamoltotheoxidisedmetabolites-the
+cysteineandmercapturate-by16± 3% and
+Shortreport
+TableI Partialmetabolicclearancesofparacetamolmetabolitesandpercentagerecovery
+ofadministereddoseinsevenhealthyvolunteers(mlmin-';mcan±s.d.)
+Gluc-ir-onideSull)hateCysteineMercapturate% Recovery
+Placebo 241.0±91.0 91.2± 19.69.2+2.4 12.7±3.7 77.9± 16.3
+Propranolol177.0±66.9*75.2±19.57.7+2.1* 8.0±)3.7*88.3±10.4
+*P<0.05comparedwithplacebo-Student'st-test
+59 t ,. j -'-s 3**'|| 0x |ts
+' .4.
+._ . . *4. ,i:~, .,,
+1#~~~~~~~1
+ )2,. g 3§z£-}}.# ,t-p|.;1 ->>'
+ V..
+Figure1 Plasmaparacetamolconcentrations
+followingoraladministrationof15(Xmgparacetamolto10healthysubjectsaftertreatmentwithplacebo(0)orpropranolol(0)for4days(mean±s.e.mean).
+32± 7% (P< 0.05),respectivelyandtothe
+glucuronideby27±7%(P< 0.05).However,
+thepartialclearanceofparacetamoltosulphate'was notchangedsignificantlybypropranololtreatment(Table1).
+Discussion
+Theresultsofthisstudysuggestthattheincrease
+intheplasmahalf-lifeandtheloweredclearance
+ofparacetamolcausedbypropranololare
+mainlyduetoinhibitionofglucuronidationand
+oxidativepathways.Thedoseofpropranololusedinthisstudywas
+showntobesufficienttoinhibithepaticdrug
+metabolisingenzymesbythesignificantlower-
+ingofantipyrineclearance,althoughthiswas
+lessthanthatreportedbyothers(Baxetal.,
+1981;Greenblattetal.,1978).
+Thedecreasedoralclearanceofparacetamol
+wasincontrasttothefindingsofSanchez-
+Martinezetal.(1985)whoreportedalackof
+effectofpropranololatadoseof80mgonce
+adayfor6daysonthekineticsofIgoral
+paracetamol.However,inthatstudynoin-
+dependentmeasurementofenzymeinhibition
+wasmade.Inthepresentstudywehaveused
+twicethedoseofpropranololandhaveprovided
+apositivecontrolforenzymeinhibitionbythe
+changesinantipyrineclearance.Thedoseused
+maybecriticalastheextentofenzymeinhibition
+bypropranololisdosedependent(Minersetal.,
+1985).
+Thedecreasedpartialclearancetothecysteine
+andmercapturatemetabolitessuggeststhat
+propranololsignificantlyinhibitstheoxidative
+pathwayofparacetamol.Althoughthemean
+decreaseinpartialclearancetothemercapturate
+wasgreaterthanthattothecysteinederivative
+thiswasnotsignificant.Thismechanismmay
+explaintheobservationthatpropranololhada
+protectiveeffectonparacetamol-inducedhepatic
+necrosisinmice(Baxetal.,1983;Legors,1976).
+Propranololsignificantlyimpairedtheglucuro-
+nidationofparacetamolbutsulphationwasnot
+affected.Thiscontrastswiththefindingof
+Brunketal.(1974)thatpropranololdidnot
+inhibitthemetabolismofmorphinewhich
+mainlyundergoesconjugationandwiththoseof
+Ochsetal.(1984)andHawksworthetal.(1984)
+whofoundadecreaseintheclearanceofdiazepam
+(whichundergoesoxidationtotheN-desmethyl
+product)butnoeffectofpropranololonthe
+kineticsoftwobenzodiazepineswhichare
+glucuronidated,namelylorazepamand
+alprazolam.Thesedifferencesmayreflectthe
+factthatglucuronidationiscarriedoutbyseveral
+isoenzymeswithvaryingsubstratespecificity
+(Dutton,1966).
+Therearetwopossibleimplicationsofour
+findings.Thus,propranololmayaffordsome
+protectionagainstparacetamol-inducedhepatic
+damageanditmay prolongtheeffectof
+paracetamol.
+We thankICIPharmaceuticalDivisionforsupplying
+thedrugs.
+263
+
+264 0.Z.Barakaetal.
+References
+Adriaenssens,P.1.& Prescott,L.F.(1978).High
+performanceliquidchromatographicestimationof
+paracetamolmetabolitesinplasma.Br.J.clin.
+Pliarmac..6.87-88.
+Bax,N.D.S.,Lennard.M.S.&Tucker,G.T.(1981).
+Inhibitionof antipyrinemetabolismby P-adrenoceptorantagonists.Br.J.clin.Pliarmac..
+12.779-784.
+Bax.N.D.S.,Lennard.M.S.,Al-Asady.S.,Deacon.
+C.S.,Tucker.G.T.&Woods,H.(1983).Inhibition
+ofdrugmetabolismbybetaadrenoceptorantago-
+nists.Drugs,25(Suppl.2).121-126.
+Brunk.S.F..Delle.M.& Wilson,W. R.(1974).
+Effectofpropranololonmorphinemetabolism.
+Clin.Pharmac.Thler..28.463-467.
+Conrad,K.A.& Nyman.D.W.(1980).Effectof
+metoprololandpropranololontheophyllineelimi-
+nation.Clin.Plharmac.Thler..33.133-138.
+Corcoran.G.B..Mitchell.J.R..Vasihnav.Y.N.&
+Horning.E.C.(1980).Evidencethatacetamino-
+phenand n-hydroxyacetaminophenforma
+commonarylatingintermediate.n-acetylp-benzo-
+quinoneimine.Mol.Plharmac..18.536-542.
+Danhof.M..deGrootvanderVis.E.& Breimer.D.D.(1979).Assayofantipyrineanditsprimary
+metabolitesinplasma.salivaandurinebyhigh
+performanceliquidchromatographyandsomepre-
+liminaryresultsinman.Phtarmacology,18.210-
+223.
+Deacon.C.S..Lennard.M.S.,Bax.N.D.S..Woods.
+H.S.& Tucker.G.T.(1981).Inhibitionofoxi-
+dativedrugmetabolismby ,B-adrenoceptor
+antagonistsisrelatedtotheirlipidsolubility.Br.J.
+clin.Plharmac.,12.429-430.
+Dutton.G.J.(1966).Thebiosynthesisofglucuronide.
+InGlucuronicacid.ed.Dutton.G.J.NewYork:
+AcademicPress.inc.
+Greenblatt,D.G..Frankie.K.& Huffman.D.H.
+(1978).Impairmentofantipyrineclearancein
+humanbypropranolol.Circulation.57.1161-1-164.
+Hawksworth.G..Betts.T.,Crowe.A..Nyemitei-
+Addo,L..Parry.K..Petrie.J.C..Raffle.A.&
+Parsons,A. (1984).Diazepam/n-adrenoceptorantagonistinteractions.Br.J.clin.Plharmac..17.
+69S-76S.
+Legors.J.(1976).Animalstudies.Atheoreticalbasis
+fortreatment.J.int.med.Res..4(Suppl.4).46-54.
+Meredith.T.J.&Goulding.R.(1980).Paracetamol.
+Postgrad.med.J.,56,459-473.
+Miners.J.O..Wing.L.M.H..LillywhiteK.J.&
+Smith.K.J.(1984).Failureoftherapeuticdoses
+of 3-adrenoceptorantagoniststoalterthedis-
+positionoftolbutamideandlignocaine.Br.J.clin.
+Pliarmac..18,853-860.
+Miners,J.O.,Wing,L.M.H..Lillywhite,K.J.&
+Robson,R.A.(1985).Selectivityanddosedepen-
+dencyoftheinhibitoryeffectofpropranololon
+theophyllinemetabolisminman.Br.J.clin.
+Plharmac..20,219-223.
+Mitchell,M.C.,Hanew,T.,Meredith,C.G.&
+Schenker,S.(1983).Effectoforalcontraceptive
+steroidonacetaminophenmetabolismandelimi-
+nation.Clin.Plharmac.Tlier..34.48-53.
+Mitchell,M.C..Schenker,S.&Speeg,K.V.(1984).
+Selectiveinhibitionofacetaminophenoxidation
+andtoxicitybycimetidineandotherhistamineH2-
+receptorantagonistsinvivoandinvitrointherat
+andinman.J.clin.Invest..73,383-391.
+Ochs,H.R.,Carstens.G.&Greenblatt.D.J.(1980).
+Reductioninlignocaineclearanceduringcon-
+tinuousinfusionandco-administrationofpro-
+pranolol.NewEngl.J.Med..303,373-377.
+Ochs,H.R.,Greenblatt,D.J.& Verburg-Ochs,B.
+(1984).Propranololinteractionswithdiazepam,
+lorazepamandalprazolam.Clin.Plharmac.Tiher..36.451-455.
+Parker,G.,Daneshmend,T.K.,Ene,M. D.&
+Roberts,C.J.C.(1984).Dobetablockersdiffer
+intheireffectsonhepaticmicrosomalenzymesand
+liverbloodflow?J.clin.Pliarmac..24,395-400.
+Peet,M.,Middlemass,D.M.&Yates.R.A.(1980).
+Pharmacokineticinteractionbetweenpropranolol
+andchlorpromazineinschizophrenicpatients.
+Lancet.ii,978.
+Perucca,E.& Richens,A.(1979).Paracetamolin
+normalsubjectsandinpatientstreatedwithanti-
+epilepticdrugs.Br.J.clin.Plharmac..7.201-206.
+Prescott,L.F.,Critchley,J.A.J.H.,Balali-Mood,
+M.& Pentland,B.(1981).Effectofmicrosomal
+enzymeinductiononparacetamolmetabolismin
+man.Br.J.clin.Plharmac..12,149-153.
+Sanchez-Martinez,V..Tucker,G.T.,Jackson,P.R.,
+Lennard,M.S..Bax,N.D.S.& Woods,H.F.
+(1985).Lackofeffectofpropranololonthekinetics
+ofparacetamolinman.Br.J.clin.Plharmac..20,
+548P.
+(Received14January1989,
+accepted16October1989)

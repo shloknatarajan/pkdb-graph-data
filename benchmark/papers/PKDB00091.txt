@@ -1,0 +1,942 @@
+Br.J.clin.Pharmac.(1991),31,381-390
+Dispositionandmetabolismofcodeineaftersingleandchronic
+dosesinonepoorandsevenextensivemetabolisers
+Z.R.CHEN',A.A.SOMOGYI"2,G.REYNOLDS3&F.BOCHNER'2
+'DepartmentofClinicalandExperimentalPharmacology,UniversityofAdelaide,2DepartmentofClinicalPharmacology,
+RoyalAdelaideHospitaland3SchoolofChemicalTechnology,SouthAustralianInstituteofTechnology,Adelaide,
+Australia
+1 Thepharmacokinetics,metabolismandpartialclearancesofcodeinetomorphine,
+norcodeineandcodeine-6-glucuronideaftersingle(30mg)andchronic(30mg8hfor
+sevendoses)administrationofcodeinewerestudiedineightsubjects(sevenextensive
+andonepoormetaboliserofdextromethorphan).Codeine,codeine-6-glucuronide,
+morphineandnorcodeineweremeasuredbyhighperformanceliquidchromato-
+graphicassays.
+2 Afterthesingledose,thetimetoachievemaximumplasmacodeineconcentrations
+was0.97±0.31h(mean±s.d.)andforcodeine-6-glucuronideitwas1.28±0.49h.
+TheplasmaAUC ofcodeine-6-glucuronidewas15.8±4.5timeshigherthanthatof
+codeine.TheAUCofcodeineinsalivawas3.4±1.1timeshigherthanthatinplasma.
+Theeliminationhalf-lifeofcodeinewas3.2±0.3handthatofcodeine-6-glucuronide
+was3.2±0.9h.
+3 Therenalclearanceofcodeinewas183±59mlmin-1andwasinverselycorrelated
+withurinepH(r=0.81).Thesedatasuggestthatcodeineundergoesfiltrationatthe
+glomerulus,tubularsecretionandpassivereabsorption.Therenalclearanceof
+codeine-6-glucuronidewas55±21mlmin-',andwasnotcorrelatedwithurinepH.Its
+bindingtohumanplasmawaslessthan10%.Thesedatasuggestthatcodeine-6-
+glucuronideundergoesfiltrationattheglomerulusandtubularreabsorption.This
+latterprocessisunlikelytobepassive.
+4 Afterchronicdosing,thepharmacokineticsofcodeineandcodeine-6-glucuronide
+werenotsignificantlydifferentfromthesingledosepharmacokinetics.
+5 Afterthesingledose,86.1±11.4%ofthedosewasrecoveredinurine,ofwhich59.8±
+10.3%wascodeine-6-glucuronide,7.1±1.1%wastotalmorphine,6.9±2.1%was
+totalnorcodeineand11.8±3.9%wasunchangedcodeine.Theserecoverieswerenot
+significantlydifferent(P>0.05)afterchronicadministration.
+6 Afterthesingledose,thepartialclearancetomorphinewas137±31mlmin-.inthe
+sevenextensivemetabolisersand8mlmin-'inthepoormetaboliser;tonorcodeine
+thevalueswere103±33mlmin-1and90mlmin-1;tocodeine-6-glucuronidethe
+valueswere914±129mlmin-'and971mlmin-';andintrinsicclearancewas1568±
+103mlmin-1and1450mlmin-1.Thesevalueswerenotsignificantly(P>0.05)altered
+bychronicadministration.Inthesevenextensivemetabolisersthevaluesofpartial
+clearancetomorphinewerenotsignificantly(P> 0.05)differentfromthoseto
+norcodeine.
+7 Theusefulnessofmeasuringpartialclearanceswasillustratedbythedetectionofthe
+pooroxidativemetabolisertomorphine,whereasthemeasurementofparentcom-
+poundinplasmadidnotidentifythisimportantmetabolicdefect.
+8 Poormetabolisersofcodeinemaynotderiveanyofthepharmacologicaleffects
+associatedwithcodeine.
+Correspondence:ProfessorF.Bochner,DepartmentofClinical&ExperimentalPharmacology,UniversityofAdelaide,G.P.OBox498,
+Adelaide5001,Australia
+381
+ADONIS030652519100075X
+382 Z.R.Chenetal.
+Keywordscodeinedispositioncodeine-6-glucuroniderenalclearances
+morphinenorcodeinepartialclearancespharmacogenetics
+Introduction
+Codeineisawidelyusedanalgesic,antitussiveandanti-
+diarrhoealdrug,andhasbeenavailableformorethan
+100years(Jaffe& Martin,1985).Afteradministration
+toman,itismetabolisedby0-andN-demethylationand
+glucuronidation(Adler,1954;Adleretal.,1955;Nomof
+etal.,1977;Oberst,1941;Yueetal.,1989a,b)(Figure
+1).The0-demethylationstepisofparticularimport-
+ance,sinceitresultsintheformationofmorphine,the
+currentlyacceptedanalgesicmoiety(Jaffe& Martin,
+1985).Thepharmacokineticsofcodeineinmanhave
+beenstudiedbyseveralinvestigators(Findlayetal.,
+1977,1978,1986;Guayetal.,1987,1988;Quidingetal.,
+1986;Rogersetal.,1982).However,thereareproblems
+intheinterpretationofthedataderivedfromthese
+studies.Firstly,allthestudiesexceptone(Quidingetal.,
+1986)werebasedonthesameradioimmunoassay(r.i.a.)
+(Findlayetal.,1977)fortheestimationofplasma
+codeineandmorphineconcentrations.Whilstthecross-
+reactivityofthisassayforcodeinemetaboliteswaslow,
+thehighcirculatingcodeine-6-glucuronideconcentra-
+tions(videinfra)maywellcausespuriouslyhighplasma
+andurinecodeineconcentrations.Previousdatafor
+morphine,basedonr.i.a.,havebeenshowntobeunre-
+liablewhencomparedwithdataobtainedwithspecific
+highperformanceliquidchromatographic(h.p.l.c.)
+assays(Aherne& Littleton,1985;Hanks& Aherne,
+1985).Secondly,inallstudiestodate,codeine-6-
+glucuronide,a potentiallyimportantmetaboliteof
+codeine,byanalogywiththepharmacologicallyactive
+morphine-6-glucuronide(Osborneetal.,1988;Paster-
+naketal.,1987;Yoshimuraetal.,1973),wasnotdeter-
+mineddirectly.Theconcentrationsofcodeine-6-
+glucuronideinplasmawereestimatedbyanalysing
+codeineafter3-glucuronidasehydrolysis(Findlayet
+al.,1977,1978,1986;Guayetal.,1987,1988;Rogerset
+al.,1982).Itisknown,however,that13-glucuronidase
+cannotcompletelyhydrolysecodeine-6-glucuronide
+(Axelrod&Inscoe,1960;Boddetal.,1987;Chenetal.,
+1989b;Guayetal.,1988;Yoshimuraetal.,1968).The
+concentrationsofcodeine-6-glucuronideintheprevious
+studiesmaythereforehavebeenunder-estimated.
+Thirdly,singleandchronicdosepharmacokineticsof
+codeineandthederivedcodeine-6-glucuronidehavenot
+beencomparedadequately.Quidingandcoworkers
+(1986)comparedthepharmacokineticsofcodeineafter
+singleandchronicdosingof60mg,butlittleinformation
+couldbeobtainedfromthesingledosepharmacokin-
+eticsbecausethesamplingperiodwasonly2.8h.Whilst
+Guayandcoworkers(1987)collectedbloodsamplesfor
+24h,ther.i.a.usedandhydrolysisby,3-glucuronidase
+makethedatafromtheirstudydifficulttointerpret.
+Nevertheless,theyfoundnodifferencesbetweenthe
+codeine
+CH30
+0
+HN-CH3H
+HO
+4N-CH3
+morphine
+CH30 ,
+ N-CH3
+COOH ~
+OH~~~
+OH codeine-
+OH 6-glucuronide
+morphine-3-glucuronide
+morphine-6-glucuronide
+Figure1 Metabolicpathwaysofcodeine.
+CH30
+NH
+. H
+norcodeine
+norcodeine-6-gucuronide
+HO
+If
+Dispositionandmetabolismofcodeine383
+areasundertheplasmaconcentration-timecurvesof
+codeineand'codeineglucuronide'aftersingleand
+chronicadministration,butfoundasignificantincrease
+intheareaundertheplasmaconcentration-timecurveof
+morphineafterchronicdosing.Fourthly,thereislittle
+informationregardingthemechanism(s)oftherenal
+clearanceofcodeineandcodeine-6-glucuronidebecause
+mostofthepreviousinvestigatorscollectedblood
+samplesonly.
+Weandothers(Chenetal.,1988a;Dayeretal.,1988;
+Yueetal.,1989b)haveshownthattheO-demethylation
+ofcodeinetomorphineisundergeneticcontrolandco-
+segregateswiththedebrisoquine/sparteineoxidative
+polymorphism.Invivopharmacogeneticstudiesof
+codeinemetabolismhavereliedondeterminingthe
+metabolicratiobymeasuringthemetabolitesandparent
+compoundinurine.Thisapproachprovidesonlylimited
+insightintoaperson'scapacitytoeliminatecodeine
+throughitsvariousmetabolicpathways.Partialclear-
+anceratesareconsideredtobebetterindicesofinvivo
+drugmetabolism(Jacksonetal.,1986).
+Theobjectivesofthepresentstudyweretodetermine
+thepharmacokineticsofcodeineandcodeine-6-glucu-
+ronideandthemetabolismandpartialclearancesof
+codeineinhuman(onepoorandsevenextensivemeta-
+bolisers)subjectsgivensingleandchronicoraldosesof
+codeineandusingsensitiveandspecificanalytical
+methods.
+Methods
+Subjects
+Eighthealthysubjects,sevenmaleandonefemale,
+participatedinthestudy,whichwasapprovedbythe
+HumanEthicsCommitteeoftheRoyalAdelaideHos-
+pitalandtheCommitteeontheEthicsofHumanExperi-
+mentationoftheUniversityofAdelaide.Thesubjects
+wereaged27.3±5.2(mean±s.d.,range25-37)years
+andweighed67.9±11.9(range48-83)kg.Theywerein
+goodhealthasjudgedbyphysicalandlaboratoryexam-
+inations.Foursubjectssmokedcigarettes.Otherdrugs
+andalcoholwereprohibitedfor2daysbeforecodeine
+administrationandforthedurationofthestudy.The
+oxidativephenotypeofthesesubjectswasdetermined
+fourweeksafterthecompletionofthestudy,using
+dextromethorphanasthemodeldrug(Chenetal.,1990).
+Subject2wasapoormetaboliser(metabolicratio=
+0.38)andtheremainderwereextensivemetabolisers
+(metabolicratio= 160-3460).
+Studydesign
+SingledoseAfteranovernightfast,eachsubjectre-
+ceivedasingle30mgcodeinephosphatetablet(Fawns&
+McAllan,Croydon,Australia)followedby100mlof
+water.Foodandfluidwerepermittedafter3h.The
+subjectswereambulantbutconfinedtothelaboratory
+forthe12hofsampling.Venousbloodsamples(10ml)
+werecollectedthroughanindwellingcatheterkept
+patentwithastylet(JelcoTm,CritikonInc.,Tampa,
+USA),placedinaforearmvein,intoheparinizedplastic
+tubesat0,0.25,0.5,0.75,1,1.25,1.5,2,3,4,6,8and12
+hafteradministration.Atthesametimes,mixedsaliva
+samples(3ml)werecollectedbychewingParafilmv.
+Allurinewascollectedin0-12,12-24,and24-48h
+aliquotsafterdosing.
+ChronicdosingThesecondpartofthestudywascon-
+ductedinthesamesubjects2to3weeksaftercomple-
+tionofthesingledosestudy.Subjectsreceived30mg
+codeinephosphateastabletsfromthesamebatchas
+above8hourly(08.00,16.00,24.00h)forsevendoses.
+Thefinaldosewasgivenat08.00honday3afteran
+overnightfast.Bloodandsalivasampleswerecollected
+at0,0.25,0.5,0.75,1,1.25,1.5,2,4,6and8hafterthe
+lastdoseandurinewascollectedoverthedosinginterval
+(0-8h).Plasmawasseparatedfrombloodcellsbycentri-
+fugation.UrinepHandvolumewererecordedandan
+aliquot(10ml)retainedforanalysis.SalivapH was
+recorded.Allsampleswerestoredinstopperedvialsat
+-20°Cuntilanalysis.
+Druganalysisinbiologicalfluids
+Unconjugatedcodeine,norcodeineandmorphineThese
+weremeasuredinurine,plasma(codeineonly)and
+saliva(codeineonly)byanh.p.l.c.method(Chenetal.,
+1989a).Thelimitofassaywas2ngml-1formorphine
+(7.0nmoll-1),norcodeine(7.0nmoll-1)andcodeine
+(6.7nmol1-1)inplasma.
+Codeine-6-glucuronideCodeine-6-glucuronideinplas-
+maandurinewasmeasureddirectlyusinganh.p.l.c.
+assay(Chenetal.,1989b).Theassaywasalsoappliedto
+salivasamples.Thelimitofassaywas10ngml-'(21
+nmol-1)forplasmaand0.1,gml-l(0.21,umol-1)for
+urine.
+MorphineglucuronidesMorphine-3-and-6-glucuron-
+idesinurineweremeasureddirectlyusingamodified
+h.p.l.c.method(Chenetal.,1989b;Svenssonetal.,
+1982).Thecolumn(150x4.6mm i.d.)waspackedwith
+Spherisorb(5,umODS-2,PhaseSeparations,Queens-
+ferry,U.K.).Themobilephasecomprised26%(v/v)
+acetonitrilein10mm phosphatebuffer(pH2.1)con-
+taining1mMdodecylsulphate.Theflowratethrough
+thecolumnwas1mlmin-'.Theexcitationandemission
+wavelengthsofthefluorescencedetector(LS-5lumines-
+cencespectrometer,Perkin-Elmer,Beaconsfield,U.K.)
+were230and350nm,respectively.Theurinesample
+wastreatedinthesamemannerasdescribedforplasma
+codeine-6-glucuronide(Chenetal.,1989b)exceptthat
+theinternalstandardwasnormorphine,whichitself
+couldnotbedetected(lessthan0.1,ugml-l)intheurine
+ofanyofthesubjectsfollowingbothdosageregimens.
+Thelimitofassayformorphine-3-glucuronideand
+morphine-6-glucuronidewas0.1,ugml-'inurine.
+NorcodeineconjugatesThepresenceofconjugatesof
+norcodeineinurinewasinferredbythegenerationof
+norcodeinefollowingenzymatichydrolysis.Theinternal
+standard(dihydrocodeine)wasaddedtourinesamples
+(0.3ml)in10mlscrewcappedtubes.,B-glucuronidase
+fromHelixpomatiatypeH-1(SigmaChemicalCo.,St
+384 Z.R.Chenetal.
+Louis,MO.,USA)wasadded(0.5mlofa5000uml-'in
+pH 5.0acetatebuffer),followedbyincubationina
+shakingwaterbathat370C for16h.Sampleswere
+analysedfornorcodeinebythemethoddescribedabove
+forunconjugatednorcodeine(Chenetal.,1989a).
+Creatinineanalysis
+Creatinineconcentrationsinplasmaandurinewere
+measuredbyanh.p.l.c.method(Huang& Chiou,1983).
+Thecoefficientsofvariationofallassaysintermsof
+reproducibilityandaccuracywerelessthan10%.
+Proteinbindingofcodeine-6-glucuronide
+Drug-freeplasmawasspikedwithcodeine-6-glucuronide
+toachieveconcentrationsof210,525,1050,2100and
+10500nmol1-1andmixedfor10minat370C.Aliquots
+(1ml)ofthesampleswere thencentrifugedusinga
+CentrifreeTM(AmiconCorporation,Danvers,MA,
+USA)ultrafiltrationunitat2000gfor30minat37°C.
+Aqueoussolutionsofcodeine-6-glucuronideinthesame
+concentrationsweretreatedinthesame way.Aliquots
+oftheultrafiltratewere analysedforcodeine-6-glucu-
+ronidebyh.p.l.c.(Chenetal.,1989b).Theunbound
+fractionofcodeine-6-glucuronidewascalculatedasthe
+concentrationoftheultrafiltrateintheplasmasample
+dividedbytheultrafiltrateconcentrationintheaqueous
+sample(toexcludenonspecificbinding).
+Pharmacokineticandstatisticalanalyses
+Theconcentrationsofcodeineinsalivaup to1hafter
+administrationwere notincludedinthecalculationsof
+thepharmacokineticdata,becauseoflikelyretentionof
+partoftheoraldoseinthemouthduringthistime
+period.
+Themaximumplasmaconcentration(Cmax)andits
+timeofoccurrence(tmax)were determinedfromthe
+observeddata.Theeliminationrateconstant(X,)was
+calculatedfromtheslope(x2.303)oftheterminal
+portionofthesemilogarithmicplasmaconcentration-
+timecurveusinglinearregressionanalysis.Thearea
+undertheplasmaorsalivaconcentration-timecurvesto
+thelastsamplingtimefollowingthesingledose(AUC
+(0,12))andtheinterdosingintervalatsteadystateafter
+multipledosing(AUCSS)wascalculatedbythelinear
+trapezoidalruleandthetotalAUC forthesingledose
+wascalculatedas:
+AUC = AUC(0,12)+ C(12)/XzPorCsal(12)/Xzsal
+whereC(12)andCsal(12)aretheplasmaandsaliva
+concentrationsat12hrespectively.Half-lives(t,/2,z)in
+plasmaandsalivawerecalculatedas:
+t½/2,z= 0.693/XzporAzsal
+Renalclearance(CLR)wascalculatedas:
+CLR= Ae(tl,t2)/AUC(tl,t2)
+whereAe(tl,t2)istheamountexcretedunchangedover
+theurinecollectioninterval(0-12hsingledoseand0-8
+hchronicdosing).Partialmetabolicclearances(CLm)ofcodeinetoits
+measurablemetabolites(morphine,norcodeine,
+codeine-6-glucuronide)werecalculatedas:
+CLm= Ae/AUCorAe/AUC,s
+whereformorphine,Aeisthesum(inmols)ofmorphine,
+morphine-3-glucuronideandmorphine-6-glucuronide
+excretedinurine;fornorcodeine,Aeisthesum of
+norcodeineandnorcodeineconjugatesinurineandfor
+codeine-6-glucuronide,Aeistheamountofthismeta-
+boliteinurine.Intrinsicclearancewas calculatedas
+dose/AUC(singledose)ordose/AUC,,(chronicdosing).
+Differencesinpharmacokineticdatabetweentreat-
+mentswereanalysedforstatisticalsignificancebythe
+pairedt-test.Statisticalsignificancewasassumedwhen
+P < 0.05.Linearregressionanalysiswasalsoused.All
+dataaretabulatedasmean ± s.d.
+Results
+Codeine
+Themeanplasmaandsalivacodeineconcentration-time
+profilesineightsubjectsfollowingsingleandchronic
+oraldosesareshowninFigure2.Tables1and2contain
+thederivedpharmacokineticparametersofcodeine
+aftersingleandchronicdosing,respectively.Themean
+tmaxoccurredinabout1hafterbothsingleandchronic
+dosing(P> 0.05).Themean plasmaCmaxofcodeine
+Table1 Pharmacokineticparametersofcodeineafterasingle30mgoraldose
+t½x,,z(h) AUC(nmol11h)
+Cmax tmax CLR *feSubject plasma saliva (nmolI-') (h) plasma saliva (mlmin') (%)
+1 3.22 2.82 226 0.75 789 1926 178 11.1
+2# 2.77 2.74 274 0.50 876 3665 157 10.8
+3 3.63 3.11 138 1.00 816 2019 67 4.3
+4 3.17 3.19 159 1.00 722 2601 167 9.5
+5 2.81 3.18 186 1.25 856 2539 208 14.0
+6 3.15 2.98 172 0.75 809 3062 260 16.6
+7 3.60 2.72 142 1.50 886 2422 189 13.2
+8 3.59 4.13 160 1.00 813 1726 238 15.2
+Mean 3.24 3.11 182 0.97 821 2495 183 11.8
+s.d. 0.34 0.45 46 0.31 53 638 59 3.9
+*fe:% ofdoseexcretedunchangedinurine.
+#poormetaboliser.
+Dispositionandmetabolismofcodeine385
+a
+10
+=
+E
+ C._
+c
+c0
+cJ
+ Cu
+10o
+b
+Time(h)
+Figure2 Means± s.d.plasmacodeine(O)andcodeine-6-glucuronide(0)concentrationsafterasingle30mg dose(a)and
+30mg 8hforsevendoses(b)ofcodeinephosphate.
+afterchronicdosingwas significantlyhigherthanthat
+aftersingledosing(P< 0.05).Themean elimination
+half-livesdeterminedfromplasmaandsalivaaftersingle
+andchronicdosingwere notsignificantlydifferent.
+Therewere no differencesbetweenthehalf-livesof
+codeineafterthetwotreatments.Themean plasma
+codeineAUC forthesingledosewas notsignificantly
+differentfromthatduringthedosingintervalatsteady
+state.Themean salivacodeineAUC forthesingledose
+wassignificantlylowerthanthatfollowingchronicdosing
+(P< 0.05).ThesalivatoplasmacodeineAUC ratios
+aftersingleandchronicdosingwere2.95± 0.72and3.75
+± 1.38,respectively(P< 0.05).Therewas apositive
+correlationbetweensalivaandplasmacodeineconcen-
+trations(r= 0.80,P < 0.01;Figure3)andaninverse
+correlation(r= 0.83,P < 0.01)betweenthesaliva
+codeineAUC andsalivapH.
+Codeine-6-glucuronide
+Themean plasmacodeine-6-glucuronideconcentration-
+timeprofilesaftersingleandchronicdosingareshownin
+Figure2.Table3containsthederivedpharmacokinetic
+parametersafterbothdosingregimens.Therewas no
+differenceintheplasmatmaxbetweencodeine-6-glucu-
+ronideandcodeine(P> 0.05)andforcodeine-6-glucu-
+ronidetherewas no significantdifferenceinthispara-
+meterbetweensingleandchronicdosing.Theelimination
+half-livesofcodeine-6-glucuronideaveraged3.2± 0.9h
+aftersingledosingand3.3± 0.6hafterchronicdosing
+andwerenotsignificantlydifferentfromthatofcodeine.
+Themean plasmaAUC ofcodeine-6-glucuronideafter
+thesingledosewas notsignificantlydifferentfromthat
+duringthedosingintervalatsteadystate.Themean
+plasmaAUC ofcodeine-6-glucuronideafterthesingle
+Table2 Pharmacokineticparametersofcodeineafter30mg8hourlyorallyforsevendoses
+t½z(h) AUCSS(nmol1-1h)
+Cmax tma CLR *fe
+Subject plasma saliva (nmol1-1) (h) plasma saliva (mlmin-') (%)
+1 3.13 3.81 239 0.75 792 1775 191 11.9
+2# 3.37 3.29 291 1.25 1054 5919 201 16.7
+3 3.25 2.84 243 0.75 786 2224 250 15.4
+4 2.78 2.20 223 0.75 930 4739 219 16.0
+5 2.63 2.35 228 1.00 786 3592 100 6.2
+6 2.44 2.39 293 1.25 846 3926 246 16.3
+7 2.91 2.48 265 0.75 1120 3288 265 23.4
+8 2.68 2.17 265 0.75 913 1900 110 7.9
+Mean 2.90 2.69 **256 0.91 903 **3421 198 14.2
+s.d. 0.33 0.59 27 0.23 127 1451 63 5.5
+*fe:% ofdoseexcretedunchangedinurine.**significantlydifferent(P<0.05)fromsingledose(Table1).
+#poormetaboliser.
+386 Z.R.Chenetal.
+Table3 Pharmacokineticparametersofcodeine-6-glucuronideaftersingleandchroniccodeinedosing
+t½hz(h) Cmax(,umol1-i) tmax(h) *AUC(,mol1-1h) CLR(mlmin-')Subject S C S C S C S C S C
+1 2.95 4.43 3.23 2.57 1.25 1.00 12.98 12.27 57.1 74.7
+2# 2.31 3.16 4.12 3.37 0.75 1.00 15.62 13.55 54.6 64.0
+3 3.57 2.31 1.75 2.21 1.00 1.00 8.06 7.96 101.0 111.2
+4 2.75 3.12 2.78 2.54 2.00 2.00 15.42 12.14 32.3 46.5
+5 2.39 3.06 3.64 2.98 2.00 0.75 15.18 11.74 52.9 51.7
+6 4.71 3.39 2.13 2.78 1.25 1.25 14.11 11.74 59.6 54.6
+7 4.32 3.43 2.13 2.77 1.25 1.00 24.78 12.61 36.2 53.8
+8 2.76 3.23 3.43 3.89 0.75 1.00 13.44 14.01 45.6 32.2
+Mean 3.22 3.27 3.03 2.89 1.28 1.13 14.95 12.00 54.9 61.1
+s.d. 0.89 0.58 0.78 0.53 0.49 0.38 4.66 1.83 21.0 23.7
+S:singlecodeinedose;C:chroniccodeinedosing.
+*:AUC =AUC(0,oo)(singledose)orAUCS.(chronicdosing).
+#poormetaboliser
+andchronicdosingwas15.8± 4.5timesgreaterthan
+thatofcodeine.Theunboundfractionofcodeine-6-
+glucuronideinplasmawas0.92± 0.06(n= 10)at
+concentrationsbetween210and10500nmol1-1.
+Codeine-6-glucuronidewasnotdetectedinsaliva.
+Renalclearance
+Therenalclearancesofcodeineandcodeine-6-glucu-
+ronidewerenotsignificantlydifferentbetweensingle
+andchronicdosing(P>0.05,Tables1,2and3).There
+wasastatisticallysignificantinverserelationshipbetween
+urinepHandrenalcodeineclearance(r= 0.81,P<
+0.01)butnosuchrelationshipoccurredforcodeine-6-
+glucuronide(r=0.08,P >0.05)(Figure4).Therewas
+nosignificant(P> 0.05)correlationbetweenrenal
+clearanceandurineflowrateforbothcodeine(r=0.35)
+andcodeine-6-glucuronide(r= 0.03).Thecreatinine
+clearanceintheeightsubjectsrangedfrom90to132ml*i-1mmn
+Urinaryexcretion
+Theurinaryrecoveryofcodeine,norcodeine,morphine
+andtheirconjugatesasapercentageoftheadministered
+doseintheeightsubjectsaftersingleandchronicdosing
+isshowninTable4.Therewerenostatisticallysignifi-
+cantdifferences(P> 0.05)afterthesingledoseand
+duringchronicdosingatsteadystate.
+Partialclearance
+Thepartialmetabolicclearanceofcodeinetoeach
+metabolitewasnotsignificantlydifferent(P> 0.05)
+aftersingleandchronicadministration(Table5).The
+partialclearancetomorphineshowedthewidestinter-
+individualvariationfrom5to190mlmin-1.Insubject2,
+whohadthelowesturinaryrecoveriesofmorphineand
+morphineglucuronides(Table4),theclearanceof
+codeinetomorphinewassubstantiallylowerthaninthe
+300r
+1000r-
+8001
+Ec
+c
+0
++o
+L-
+Cu
+c
+0C.)
+CcJ
+0
+C._
+0
+0C.,
+Cu
+CuC,
+600-
+400-
+2001
+ .
+E
+a)
+E
+CU)
+* .U% a
+*.u:.* *U-
+ a 8*
+I a
+IVu-
+0 50 100 150 200 250
+Plasmacodeineconcentration(nmoll-1)
+Figure3 Correlationbetweenplasmaandsalivacodeine
+concentrations(r= 0.80,P< 0.01).
+2001-
+0 0
+L' o00
+0o0
+0
+A 0
+A
+IAAA A AA A A A
+100l
+u. . I I I *
+4 5
+0
+0
+A
+A
+6 7
+UrinepH
+Figure4 Correlationbetweentherenalclearancesofcodeine
+(o),codeine-6-glucuronide(Ak)andurinepH.Forcodeiner=
+0.81(P< 0.01)andforcodeine-6-glucuronider=0.08
+(P>0.05).
+u,
+.
+a
+.
+% 0 0
+8 or a
+0
+0 a a0
+s
+0 0 a
+a
+r) I I
+Dispositionandmetabolismofcodeine387
+Table4 Urinaryexcretionofcodeineandmetabolitesas% ofdoseaftersingleandchronicoralcodeineadministration
+Codeine C-6-G Morphine M-3-G M-6-G Norcodeine N-C Total
+Subject S C S C S C S C S C S C S C S C
+1 11.111.9 58.472.1 0.30.6 5.7 2.9 1.80.9 3.71.9 7.21.7 89.992.0
+3 4.315.4 64.069.8 0.70.7 4.3 5.1 0.70.6 1.53.7 6.92.2 82.997.5
+4 9.516.0 40.444.5 0.90.4 5.4 8.5 1.20.4 0.93.2 4.51.3 63.374.3
+5 14.06.2 63.047.8 1.00.2 6.7 3.7 1.90.1 5.42.4 1.13.4 93.463.8
+6 16.616.3 66.350.5 0.40.6 6.6 9.8 1.21.4 4.74.5 2.44.2 99.187.3
+7 13.223.4 70.553.4 1.00.9 4.4 6.9 1.00.8 3.84.4 1.82.5 95.892.3
+8 15.27.9 48.435.6 1.31.0 7.410.7 2.11.9 2.82.1 1.81.1 79.660.3
+Mean 12.013.9 58.753.4 0.80.6 5.8 6.8 1.40.9 3.33.2 3.72.3 86.381.1
+s.d. 4.1 5.8 10.713.3 0.40.3 1.2 3.0 0.5 0.6 1.61.1 2.51.1 12.314.9
+2* 10.816.7 67.068.3 0.00.0 0.6 0.4 0 0 1.99.3 4.61.0 84.995.5
+C-6-G:codeine-6-glucuronide;M-3-G:morphine-3-glucuronide;M-6-G:morphine-6-glucuronide;N-C:norcodeineconjugates;S:single
+dose;C:chronicdosing.
+*:poormetaboliser.
+Table5 Intrinsicclearanceandpartialclearancesofcodeinetoitsmeasurablemetabolitesaftersingleand
+chroniccodeineadministration
+Partialclearance(mlmin-) Intrinsicclearance
+Morphine Norcodeine Codeine-6-glucuronide(mlmin-')
+Subject singlechronic singlechronic singlechronic single chronic
+1 154 70 166 55 940 1153 1610 1604
+3 97 103 124 91 995 1128 1557 1616
+4 141 128 91 58 709 606 1759 1366
+5 148 65 91 88 946 773 1484 1616
+6 145 177 105 123 1040 758 1570 1501
+7 93 98 77 74 1010 607 1434 1134
+8 180 190 68 42 756 495 1562 1391
+Mean 137 119 103 76 914 789 1568 1461
+s.d. 31 49 33 27 129 258 103 178
+2* 8 5 90 117 971 825 1450 1205
+*:poormetaboliser.
+othersubjectsafterbothregimens(Table5).Thepartial
+clearancetonorcodeinewasnotsignificantlydifferent
+thanthattomorphine(n=7).Thepartialclearanceto
+codeine-6-glucuronideshowedtheleastdegreeofvari-
+ationbetweensubjects.Therewasnosignificantdiffer-
+enceintheintrinsicclearanceofcodeinebetweensingle
+andchronicdoses.
+Therewerenoadverseeffectsofcodeineinanyofthe
+subjectsduringthestudies.
+Discussion
+Thevaluesofthepharmacokineticparametersfor
+codeineafterasingledosearesimilartothosereported
+previously(Findlayetal.,1977,1978,1986;Quidinget
+al.,1986;Rogersetal.,1982).Theplasmaelimination
+half-lifefoundbyGuayandcoworkers(1987)of4.5-5.6
+hissomewhatlongerthanthosefoundbyusandothers.
+Thisdifferencemayhaveresultedfromthenonspecific
+r.i.a.usedinGuay'sstudy.Thepharmacokineticsof
+codeineaftermultipledoseshavebeenreportedpre-
+viously(Guayetal.,1987;Quidingetal.,1986).In
+contrasttotheresultsofGuayandcoworkers(1987),the
+maximumplasmaconcentrationofcodeineinthisstudy
+increasedsignificantlyaftermultipledosingcomparedto
+thesingledoseandthisisinagreementwiththefindings
+ofQuidingandcoworkers(1986).Thiscanbeexplained
+bythepresenceofresidualcodeineinplasmafrom
+previousdoses.Steady-statehadbeenachievedsince
+thezeroand8hplasmacodeineconcentrationswerenot
+significantlydifferent.Exceptfortheincreaseinmaxi-
+mumconcentrationafterchronicdosing,itwouldappear
+thattheabsorptionanddispositionofcodeinearenot
+alteredbychronicadministration,atleastintheshort
+termandatthedosesstudied.
+Thesalivatoplasmacodeineconcentrationratiowas
+greaterthanunity,confirmingthereportbyLeeand
+coworkers(1986).Severalpropertiesofcodeinewould
+promoteitspenetrationandretentioninsaliva.Codeine
+isabasiccompoundwithahighpKa(8.2)andlow(7-25%)plasmaproteinbinding(Moffatetal.,1986).Itis
+alsohighlylipophilic(octanol/waterpartitioncoefficient
+3.98;Moffatetal.,1986).Theinversecorrelation
+betweensalivapHandsalivacodeineAUCisinkeeping
+withthetheoreticalpredictionbasedontheHenderson-
+Hasselbalchequation.Pholcodine,adrugwithsimilar
+physicochemicalpropertiestocodeine,alsohasahigh
+388 Z.R.Chenetal.
+salivatoplasmaconcentrationratio(Chenetal.,1988b).
+ThefindingthatthesalivacodeineAUC duringthe
+dosingintervalatsteadystatewashigherthanthatafter
+thesingledosemaybeduetothedifference(P=0.05)
+insalivapHbetweenthetwotreatments,whichaveraged
+6.6and6.4afterthesingleandchronicdose,respectively.
+Codeine-6-glucuronidewasnotdetectedinsaliva,a
+likelyresultofitshighpolarityandpoorlipophilicity.
+Therenalclearanceofcodeinerangedfrom67to265
+mlmin-'.Sincethedegreeofplasmabindingissmall(7-
+25%;Moffatetal.,1986),andasthesubjects'creatinine
+clearancesrangedfrom90to132mlmin-',thesedata
+indicatethatinadditiontoglomerularfiltration,codeine
+appearstoundergoactivesecretionintothelumenofthe
+proximaltubule.Thesignificantnegativecorrelation
+betweenrenalclearanceandurinepHsuggeststhat
+passivereabsorptioninthedistaltubule/collectingduct
+alsooccurredassuggestedbytheobservationsof
+Vaughan&Beckett(1973).
+Wehaveconfirmedtheresultsofothers(Adleretal.,
+1955;Nomofetal.,1977;Oberst,1941;Yueetal.,
+1989a,b)thatcodeine-6-glucuronideisthemajormeta-
+boliteofcodeineinman.However,toourknowledge,
+oursisthefirststudytodirectlydeterminecodeine-6-
+glucuronidedispositionaftercodeineadministrationin
+humans.Thepharmacokineticsofcodeineglucuronide
+haveonlybeenstudiedindirectlybyGuayandcoworkers
+(1987,1988)using,B-glucuronidasehydrolysisandr.i.a.
+Intheirstudy,concentrationsoftheglucuronidewere
+correctedtoreflecttheintrinsicallylessthancomplete
+efficiencyofenzymehydrolysis(Guayetal.,1988).In
+addition,theefficiencyofhydrolysiscanbefurther
+reducedinbiologicalmedia(Chenetal.,1989b)because
+ofenzymeinhibitorswhicharenaturallypresentin
+biologicalfluids(Boyland&Williams,1960;Combieet
+al.,1982;Levvy,1952).Themeanapparentplasmahalf-
+lifeofcodeine-6-glucuronideinoursubjectswas3.2h
+whichwasnotsignificantlydifferentfromthatofcodeine,
+reflectingformation-dependentclearanceofthiscon-
+jugate.Therenalclearanceofcodeine-6-glucuronide
+wasmuchlowerthancreatinineclearance.Sincethe
+plasmabindingofcodeine-6-glucuronidewasonly8%,
+therenalclearancebyfiltrationwouldbebetween83
+and121mlmin-'.Insevenoftheeightsubjects,the
+renalclearanceofcodeine-6-glucuronidewassubstan-
+tiallylowerthanthesevalues,suggestingthatitwas
+filteredandreabsorbed.However,othermechanisms
+needtobeconsidered.Forexample,hydrolysisof
+codeine-6-glucuronidetocodeineinthekidneyand
+urinarytractcouldresultinaninverserelationship
+betweentheapparentrenalclearancesofthetwosub-
+stances.Nosuchrelationshipwasfound.Giventhehigh
+polarityoftheglucuronide,passivereabsorptionis
+unlikelytooccurandanactivecarrier-mediatedprocess
+shouldbeconsidered.Wehavedemonstratedapparent
+reabsorptionofmorphine-3-and-6-glucuronideinthe
+isolatedperfusedratkidney(Sallustioetal.,1989).The
+mechanismofthisprocessforopioidglucuronides
+remainstobeelucidated.
+Ourfindingswithrespecttotheurinaryrecoveryof
+codeineanditsmajormetabolitesareinaccordwith
+thoseofAdlerandcoworkers(1955),Nomofand
+coworkers(1977),Vaughan&Beckett(1973)andYue
+andcoworkers(1989a,b)
+TheextentofO-demethylationofcodeineshowed
+extremelywideinter-individualvariationconsidering
+therelativehomogeneityofthegroup.Subject2is
+particularlynoteworthysinceonlyasmallamountof
+totalmorphine(about0.5%ofdose)wasrecoveredin
+urineaftersingleandchronicadministrationofcodeine.
+Inthissubject,thepartialclearancetomorphinewas
+aboutonetwentiethoftheaverageoftheotherseven
+subjects.Thissubjectwasapoormetaboliserofdextro-
+methorphan.Thisfindingofaverylowpartialclearance
+tomorphine,togetherwithotherinvivo(Chenetal.,
+1988;Yueetal.,1989b)andinvitrodata(Dayeretal.,
+1988;unpublishedobservations),confirmsthatthe0-
+demethylationofcodeinetomorphineisundergenetic
+scontrol,cosegregatingwiththenowwelldescribed
+debrisoquine/sparteineoxidativepolymorphism
+(Eichelbaumetal.,1979;Mahgoubetal.,1977;Tucker
+etal.,1977).Codeinecannowbeaddedtothelistof
+thosedrugswhoseoxidativemetabolismisunderphar-
+macogeneticcontrol.Whilstthispathwayforcodeineis
+quantitativelyminor,itspotentialimportancecannotbe
+underestimatedsincetheanalgesiceffectofcodeineis
+currentlyacceptedasbeingmediatedbythehepatic
+formationofmorphine(Jaffe&Martin,1985;Sanfilippo,
+1948).Thusitwouldappearthatsomepatients(about5-
+10%oftheCaucasianpopulation)maynotderiveanal-
+gesiafromcodeine.Thishypothesisiscurrentlybeing
+investigated.
+Thedetectionofthepooroxidativemetaboliserinour
+studycameaboutonlybecauseurinarymetabolitesof
+codeinewereassayed.Thedeterminationofthephar-
+macokineticsofcodeineinplasmaalonewouldhave
+missedthisimportantphenomenonasthispoormeta-
+boliserhadplasmacodeineconcentration-timeprofiles
+whichwerenodifferenttothoseoftheotherseven
+subjects.Thisstudyhighlightstheneedtocharacterize
+themetabolismofadruginadditiontoitsdispositionin
+plasma.
+Codeineisadrugofintermediateextraction(Rowland
+& Tozer,1989)andthisistheresultprimarilyofcon-
+jugationatthe-6-position.Thedemethylationclear-
+anceratestomorphineandnorcodeineweresimilarin
+magnitude,andsubstantiallylower(about1/4)thanfor
+6-glucuronidation.Thepartialclearancesdidnotchange
+aftershorttermchronicadministration,thewayinwhich
+codeineisoftenadministeredclinically.Atpresent,
+littleisknownaboutthefactorswhichalterthemeta-
+bolismofcodeineinhumans.Sincethepartialclearance
+tonorcodeinewasnormalinthepoormetaboliser,it
+wouldbereasonabletoinferthatthecontrolofthetwo
+demethylationprocesses(N-demethylationtonorco-
+deine,0-demethylationtomorphine)ismediatedby
+differentcytochromeP-450isoenzymes.Itisimportant
+toidentifythefactorswhichregulatethedemethylations
+andglucuronidationofcodeine.Withregardto0-
+demethylationofcodeine,whichiscatalysedbycyto-
+chromeP-450IID6(Nebertetal.,1989),geneticfactors
+anddrugssuchasquinidine(aspecificinhibitorof
+cytochromeP-450IID6(Brinnetal.,1986))areimport-
+ant.We arenotawareofanyinformationregarding
+factorswhichmayaltertheN-demethylationprocess.
+Severaldrugshavebeenshowntoinhibittheglucu-
+ronidationofcodeineinhumanlivermicrosomes(Yue
+etal.,1990).Anyfactorwhichmightaltertheglucu-
+Dispositionandmetabolismofcodeine389
+ronidationofcodeineandthusaltertheproportionof
+theclearanceofcodeinetomorphinecouldhaveimport-
+antclinicalimplications.
+Glucuronidationisgenerallyregardedasadetoxifica-
+tionmechanismforxenobiotics.However,morphine-6-
+glucuronidehasbeendocumentedtobeapharmaco-
+logicallyactivecompoundanditsanalgesicpotencyis
+equaltoorhigherthanthatofmorphine(Osborneetal.,
+1988;Pasternaketal.,1987;Yoshimuraetal.,1973).
+Whethercodeine-6-glucuronidehaspharmacological
+activityisunknown.Thebindingaffinityofcodeine-6-
+glucuronidetothe,u-opioidreceptorinratbrainhomo-
+genateis300timeslessthanthatofmorphineand
+morphine-6-glucuronide,butsimilartothatofcodeine
+(Irvineetal.,1989).Plasmaconcentrationsofcodeine-6-
+glucuronidewere15timeshigherthancodeineand
+couldbesufficienttocontributetoanalgesiaand/or
+toxicity.
+Thereareseveralpotentiallyimportantclinicalimpli-
+cationsofourfindings.Inhealthyyoungsubjects,there
+isunlikelytobeunpredictableaccumulationofcodeine
+andcodeine-6-glucuronidewithchronicadministration.
+Thismaynotbethecase,however,inpatientswith
+impairedrenalfunctionandintheelderly,inwhom
+plasmacodeine-6-glucuronideconcentrationsmaybe
+substantialandcouldcontributetoadverseeffects.Poor
+metabolisersofcodeinemaynotderiveanyofthe
+pharmacologicaleffectsassociatedwithcodeine.
+DrChenwassupportedbytheNationalHealthandMedical
+ResearchCouncilofAustraliaandisnowaFloreyResearch
+FellowoftheRoyalAdelaideHospital.DrSomogyiwas
+supportedbytheRoyalAdelaideHospitalResearchFund.
+References
+Adler,T.K.(1954).Studiesonradiocodeinemetabolismin
+manandintherat.J.Pharmac.exp.Ther.,110,1.
+Adler,T.K.,Fujimoto,J.M.,Way,E.L.& Baker,E.M.
+(1955).Themetabolicfateofcodeineinman.J.Pharmac.
+exp.Ther.,114,251-262.
+Aherne,G.W. & Littleton,P.(1985).Morphine-6-glucu-
+ronide,animportantfactorininterpretingmorphineradio-
+immunoassays.Lancet,ii,210-211.
+Axelrod,J.&Inscoe,J.K.(1960).Glucuronideformationof
+narcoticdrugsinvitroandinvivo.Proc.Soc.exp.Biol.
+Med.,103,675-676.
+Bodd,E.,Beylich,K.M.,Christophersen,A.S.&M0rland,
+J.(1987).Oraladministrationofcodeineinthepresenceof
+ethanol:apharmacokineticstudyinman.Pharmac.Toxicol.,
+61,297-300.
+Boyland,E.& Williams,K.(1960).Thebiochemistryof
+aromaticamines.7.Theenzymichydrolysisofamino-
+naphthylglucosiduronicacids.Biochem.J.,76,388-396.
+Brinn,R.,Br0sen,K.,Gram,L.F.,Hoghfelt,T.,Otton,
+S.V.(1986).Sparteineoxidationispracticallyabolishedin
+quinidine-treatedpatients.Br.J.clin.Pharmac.,22,194-
+197.
+Chen,Z.R.,Bochner,F.& Somogyi,A.(1989a).Simul-
+taneousdeterminationofcodeine,norcodeineandmor-
+phineinbiologicalfluidsbyhigh-performanceliquidchro-
+matographywithfluorescencedetection.J.Chromatogr.-
+Biomed.Appl.,491,367-378.
+Chen,Z.R.,Reynolds,G.,Bochner,F.& Somogyi,A.
+(1989b).Directdeterminationofcodeine-6-glucuronidein
+plasmaandurineusingsolid-phaseextractionandhigh-
+performanceliquidchromatographywithfluorescence
+detection.J.Chromatogr.-Biomed.Appl.,493,313-324.
+Chen,Z.R.,Somogyi,A.A.& Bochner,F.(1988a).Poly-
+morphic0-demethylationofcodeine.Lancet,ii,914-915.
+Chen,Z.R.,Somogyi,A.&Bochner,F.(1988b).Pharmaco-
+kineticsofpholcodineinhealthyvolunteers:singleand
+chronicdosingstudies.Br.J.clin.Pharmac.,26,445-453.
+Chen,Z.R.,Somogyi,A.A.& Bochner,F.(1990).Simul-
+taneousdeterminationofdextromethorphanandthree
+metabolitesinplasmaandurineusinghighperformance
+liquidchromatographywithapplicationtotheirdisposition
+inman.Ther.DrugMonit.,12,97-104.
+Combie,J.,Blake,J.W.,Nugent,T.E.&Tobin,T.(1982).
+Morphineglucuronidehydrolysis:superiorityof8-glucu-
+ronidasefromPatellavulgate.Clin.Chem.,28,83-86.
+Dayer,P.,Desmeules,J.,Leemann,T.&Striberni,R.(1988).
+Bioactivationofthenarcoticdrugcodeineinhumanliveris
+mediatedbythepolymorphicmonooxygenasecatalysing
+debrisoquine4-hydroxylation(cytochromeP450dbl/buf
+I).Biochem.biophys.res.Comm.,152,411-416.
+Eichelbaum,M.,Spannbrucker,N.,Steincke,B.&Dengler,
+H.J.(1979).DefectiveN-oxidationofsparteineinman:a
+newpharmacogeneticdefect.Eur.J.clin.Pharmac.,16,
+183-187.
+Findlay,J.W.A.,Butz,R.F.& Welch,R.M. (1977).
+Codeinekineticsasdeterminedbyradioimmunoassay.
+Clin.Pharmac.Ther.,22,439-446.
+Findlay,J.W.A.,Fowle,A.S.E.,Butz,R.F.,Jones,
+E.C.,Weatherley,B.C.,Welch,R.M.& Posner,J.
+(1986).Comparativedispositionofcodeineandpholcodine
+inmanaftersingleoraldoses.Br.J.clin.Pharmac.,22,61-
+71.
+Findlay,J.W.A.,Jones,E.C.,Butz,R.F.&Welch,R.M.
+(1978).Plasmacodeineandmorphineconcentrationsafter
+therapeuticoraldosesofcodeine-containinganalgesics.
+Clin.Pharmac.Ther.,24,60-68.
+Guay,D.R.P.,Awni,W.M.,Findlay,J.W.A.,Halsten-
+son,C.E.,Abraham,P.A.,Opsahl,J.A.,Jones,E.C.&
+Matzke,G.R.(1988).Pharmacokineticsandpharmaco-
+dynamicsofcodeineinend-stagerenaldisease.Clin.
+Pharmac.Ther.,43,63-71.
+Guay,D.R.P.,Awni,W.M.,Halstenson,C.E.,Findlay,
+J.W.A.,Opsahl,J.A.,Abraham,P.A.,Jones,E.C.&
+Matzke,G.R.(1987).Pharmacokineticsofcodeineafter
+single-andmultiple-oral-doseadministrationtonormal
+volunteers.J.clin.Pharmac.,27,983-987.
+Hanks,G.W.& Aherne,G.W.(1985).Morphinemeta-
+bolism:doestherenalhypothesisholdwater?Lancet,i,
+221-222.
+Huang,Y.C.& Chiou,W.L.(1983).CreatinineXII:com-
+parisonofassaysoflowserumcreatininelevelsusinghigh
+perfgrmanceliquidchromatographyandtwopicrate
+methods.J.pharm.Sci.,72,836-837.
+Irvine,R.J.,Chen,Z.R.,Somogyi,A.A.& Bochner,F.
+(1989).Mu-opioidreceptorbindingaffinityofsomeopiates
+andtheirmetabolites.Clin.exp.Pharmac.Physiol.,16,
+(Suppl14),109.
+Jackson,P.R.,Tucker,G.T.,Lennard,M.S.& Woods,
+H.F.(1986).Polymorphicdrugoxidation:pharmacokinetic
+basisandcomparisonofexperimentalindices.Br.J.clin.
+Pharmac.,22,541-550.
+Jaffe,J.H.& Martin,W.R.(1985).Opioidanalgesicsand
+390 Z.R.Chenetal.
+antagonists.InThePharmacologicalBasisofTherapeutics.
+7thEdition,eds.Gilman,A.G.,Goodman,L.S.,Rall,
+T.W.& Murad,F.,pp491-531.NewYork:Macmillan
+PublishingCompany.
+Lee,C.S.,Patel,V.J.,Jeffcoat,A.R.& Barnett,G.P.
+(1986).Pharmacokineticsandsalivarysecretionofcodeine
+inthenormalsubject.IIIworldconferenceonClinical
+PharmacologyandTherapeutics,Stockholm,July27-
+August11986,AbstractNo.1381.
+Levvy,G.A.(1952).Thepreparationandpropertiesof-
+glucuronidase.4.Inhibitionbysugaracidsandtheirlac-
+tones.Biochemistry,52,464-472.
+Mahgoub,A.,Idle,J.R.,Dring,L.G.,Lancaster,R.&
+Smith,R.L.(1977).Polymorphichydroxylationofdebri-
+soquineinman.Lancet,ii,584-586.
+Moffat,A.C.,Jackson,J.V.,Moss,M.S.& Viddop,B.
+(1986).Clarke'sisolationandidentificationofdrugs.2nd
+edition,pp490491.London:ThePharmaceuticalPress.
+Nebert,D.W.,Nelson,D.R.,Adesnik,M.,Coon,M.J.,
+Estabrook,R.W.,Gonzalez,F.J.,Guengerich,F.P.,
+Gunsalus,I.C.,Johnson,E.F.,Kemper,B.,Levin,W.,
+Phillips,I.R.,Sato,R.& Waterman,M.R.(1989).The
+P450superfamily:updatedlistingofallgenesandrecom-
+mendednomenclatureforthechromosomalloci.DNA,8,
+1-13.
+Nomof,N.,Elliott,H.W.& Parker,K.D.(1977).Actions
+andmetabolismofcodeine(methylmorphine)administra-
+tionbycontinuousintravenousinfusiontohumans.Clin.
+Toxicol.,11,517-529.
+Oberst,F.W.(1941).Relationghipofthechemicalstructure
+ofmorphinederivativestotheirurinaryexcretioninfree
+andboundforms.J.Pharmac.exp.Ther.,73,401404.
+Osborne,R.,Joel,S.,Trew,D.&Slevin,M.(1988).Analgesic
+activityofmorphine-6-glucuronide.Lancet,i,828.
+Pasternak,G.W.,Bodnar,R.J.,Clark,J.A.& Inturrisi,
+C.E. (1987).Morphine-6-glucuronide,a potentmu
+agonist.LifeSci.,41,2845-2849.
+Quiding,H.,Anderson,P.,Bondesson,U.,Boreus,L.0.&
+Hynning,P.-A.(1986).Plasmaconcentrationsofcodeine
+anditsmetabolite,morphine,aftersingleandrepeatedoral
+administration.Eur.J.clin.Pharmac.,30,673-677.
+Rogers,J.F.,Findlay,J.W.A.,Hull,J.H.,Butz,R.F.,
+Jones,E.C.,Bustrack,J.A.& Welch,R.M.(1982).
+Codeinedispositioninsmokersandnonsmokers.Clin.
+Pharmac.Ther.,32,218-227.
+Rowland,M.&Tozer,T.N.(1989).ClinicalPharmacokinetics:
+ConceptsandApplications,2nded.pp154.Philadelphia:
+Lea&Febiger.
+Sallustio,B.C.,Muirhead,M.,Nation,R.L.,Somogyi,
+A.A.& Reynolds,G.(1989).Therenalhandlingof
+morphine-6-glucuronideandmorphine-3-glucuronideby
+theisolatedperfusedratkidney.Clin.exp.Pharmac.
+Physiol.,16'Suppl14),135.
+Sanfilippo,G.(1948).Contributosperimentaleall'ipotesi
+dellasmetilazionedellacodeinanell'organismo.-I)
+Influenzadelladosesull'assuefazioneallacodeina.-II)
+Assuefazioneallacodeinaottenutaconsomministrazione
+prolungatadimorfina.Boll.Soc.Ital.Biol.Sper.,24,723-
+726.
+Svensson,J.-O.,Rane,A.,Sawe,J.& Sjoqvist,F.(1982).
+Determinationofmorphine,morphine-3-glucuronideand
+(tentatively)morphine-6-glucuronideinplasmaandurine
+usingion-pairhigh-performanceliquidchromatography.J.
+Chromatogr.-Biomed.Appl.,230,427-432.
+Tucker,G.T.,Silas,J.H.,Iyun,A.O.,Lennard,M.S.&
+Smith,A.J.(1977).Polymorphichydroxylationofdebri-
+soquine.Lancet,ii,718.
+Vaughan,D.P.& Beckett,A.H.(1973).Theinfluenceof
+reducingtheC7-C8doublebondofcodeinetogivedihydro-
+codeineontherelativephysiologicalavailabilityofthe
+drugsinman.J.Pharm.Pharmac.,25,Suppl.,104P-108P.
+Yoshimura,H.,Ida,S.,Oguri,K.&Tsukamoto,H.(1973).
+Biochemicalbasisforanalgesicactivityofmorphine-6-
+glucuronide1.Penetrationofmorphine-6-glucuronidein
+thebrainofrats.Biochem.Pharmac.,22,1423-1430.
+Yoshimura,H.,Oguri,K.& Tsukamoto,H.(1968).Meta-
+bolismofdrugs.LX.Thesynthesisofcodeineandmor-
+phineglucuronides.Chem.Pharm.Bull.,16,2114-2119.
+Yue,Q.Y.,Svensson,J.-O.,Alm,C.,Sjoqvist,F.&Sawe,J.
+(1989a).Interindividualandinterethnicdifferencesinthe
+demethylationandglucuronidationofcodeine.Br.J.clin.
+Pharmac.,28,629-637.
+Yue,Q.Y.,Svensson,J.-O.,Alm,C.,Sjoqvist,F.&Sawe,J.
+(1989b).Codeine0-demethylationco-segregateswith
+polymorphicdebrisoquinehydroxylation.Br.J.clin.
+Pharmac.,28,639-645.
+Yue,Q.Y.,vonBahr,C.,Odar-Cederlof,I.& Sawe,J.
+(1990).Glucuronidationofcodeineandmorphineinhuman
+liverandkidneymicrosomes:effectofinhibitors.Pharmac.
+Toxicol.,66,221-226.
+(Received22May1990,
+accepted19October1990)

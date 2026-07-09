@@ -1,0 +1,532 @@
+PHARMACOKINETICS AND DISPOSITION
+Pharmacokinetics of morphine-6-glucuronide following oral
+administration in healthy volunteers
+Hanne H. Villesen & Kim Kristensen & Steen H. Hansen &
+Niels-Henrik Jensen & Ulrik Skram & Lona L. Christrup
+Received: 6 October 2006 / Accepted: 22 March 2007 / Published online: 31 May 2007
+# Springer-V erlag 2007
+Abstract
+Aim After oral administration, morphine-6-glucuronide
+(M6G) displays an atypical absorption profile with two peak
+plasma concentrations. A proposed explanation is that M6G
+is hydrolysed to morphine in the colon, which is then
+absorbed and subsequently undergoes metabolism in the
+liver to morphine-3-glucuronide (M3G) and M6G. The aims
+of this study were to confirm and elucidate the biphasic
+absorption profile as well as clarify the conversion of M6G
+to morphine after a single oral administration of M6G in
+healthy volunteers.
+Methods The study was conducted accordingly to a non-
+blinded, randomised, balanced three-way crossover design
+in eight healthy male subjects. The subjects received 200 mg
+oral M6G, 50 mg oral M6G and 30 mg oral morphine. Blood
+samples were collected until 72 h after M6G administra-
+tion and until 9 h after morphine administration. Paraceta-
+mol and sulfasalazine were coadministered with M6G as
+markers for the gut contents reaching the duodenum and
+colon, respectively.
+Results The plasma concentration peaks of M6G were seen
+at 4.0 (2.0 –6.0) and 18 (12.0 –24.0) h after 200 mg M6G
+and at 3.5 (2.0 –6.0) and 21.3 (10.0 –23.3) h after 50 mg
+M6G, which was in agreement with previously published
+results. The K
+M6G_abs/KM6G_M6G ratio was found to be 10.
+Conclusion The pharmacokinetic profile of M6G after oral
+administration was confirmed and with the presence of
+M3G and morphine in plasma after oral administration of
+M6G, proof seems to be found of the constant and
+prolonged absorption of M6G. The K
+M6G_abs/KM6G_M6G
+ratio of 10 indicates that the second absorption peak of
+M6G consists of approximately 10 times more absorbed
+M6G than reglucuronidated M6G. However, further studies
+are required to determine the precise kinetics of the second
+absorption peak.
+Keywords Morphine-6-glucuronide (M6G) . Morphine .
+Pharmacokinetic . Absorption . M6G formation
+Introduction
+Morphine is considered the gold standard for the treatment
+of moderate to severe pain despite its many side effects.
+The active metabolite, morphine-6-glucuronide (M6G), has
+an analgesic effect equivalent to morphine, but the side
+effects seem less frequent, particularly nausea, vomiting [ 1–
+4] and respiratory depression [ 2, 5, 6]. After oral adminis-
+tration, M6G displays an atypical absorption profile. Two
+Eur J Clin Pharmacol (2007) 63:761 –767
+DOI 10.1007/s00228-007-0306-4
+H. H. Villesen : L. L. Christrup ( *)
+Department of Pharmacology and Pharmacotherapy,
+Faculty of Pharmaceutical Sciences, University of Copenhagen,
+Universitetsparken 2,
+2100 Copenhagen, Denmark
+e-mail: llc@dfuni.dk
+K. Kristensen
+Clinical Pharmacology, Medical Science Sweden,
+AstraZeneca R&D Lund,
+Lund, Sweden
+S. H. Hansen
+Department of Pharmaceutics and Analytical Chemistry,
+Faculty of Pharmaceutical Sciences, University of Copenhagen,
+Copenhagen, Denmark
+N.-H. Jensen
+Multidisciplinary Pain Centre, Herlev University Hospital,
+Herlev, Denmark
+U. Skram
+Department of Neuroanaesthesia,
+Copenhagen University Hospital,
+Copenhagen, Denmark
+peak plasma concentrations are observed at different times.
+The first peak is seen approximately 3 –5 h after adminis-
+tration of an oral solution, whereas the second appears after
+13–20 h [ 7, 8]. The late peak is associated with the appear-
+ance of both morphine and morphine-3-glucuronide (M3G)
+in plasma. A possible explanation is that M6G is hydro-
+lysed to morphine in the colon, which is then absorbed and
+subsequently metabolised in the liver to M3G and M6G [ 7,
+9]. In a study by Chapman, a second peak was seen after
+approximately 10 h; however, neither morphine nor M3G
+was detected in plasma [ 10]. After parenteral administration
+in humans, it is generally considered that M6G is not
+metabolised [ 11–13]. The benefits of M6G in the clinical
+setting are limited due to a poor bioavailability (9 –13%) [7,
+8, 10]. However, the side effects seem less frequent,
+particularly nausea and vomiting [ 1–6]. The absorption
+enhancer TWEEN 20 seemed promising with respect to
+increasing the absorption fraction in in vitro studies [ 14].
+However, coadministration of 500 mg TWEEN 20 did not
+improve the bioavailability of orally administered M6G [ 8].
+The aims of this study was to confirm the biphasic
+absorption profile and elucidate the hydrolysis of M6G to
+morphine after a single oral dose of M6G in healthy
+volunteers.
+Materials and methods
+Study design
+The study was conducted according to a nonblinded, random-
+ised, balanced three-way crossover design with a 7-day
+washout period between each M6G administration. The
+Regional Committee on Biomedical Research Ethics for
+Frederiksberg and Copenhagen and the Danish Medicines
+Agency approved the protocol, informed consent form and
+amendments for the study. V erbal and written information
+about the study was given to the volunteers, and written
+informed consent was obtained according to the ethical
+principles stated in the Declaration of Helsinki II.
+Subjects
+Study subjects were eight healthy male volunteers aged 18 –
+35 years, all nonsmokers of normal body weight (body
+mass index between 20 and 25). Exclusion criteria included
+mental illness; alcohol or drug abuse or addiction; a history
+of alcohol abuse; illicit drug use or suspected abuse; a
+positive urine drug screen for methamphetamine, opiates,
+cocaine metabolites, cannabinoids, phencyclidine, benzo-
+diazepines, barbiturates, methadone, tricyclic antidepres-
+sants, and amphetamines; as well as long-term treatment
+with analgesics or daily use of benzodiazepines. Further,
+candidates who had received antibiotics within 4 weeks
+prior to the study; donated blood within 3 months prior to
+the study; or with deviant echocardiogram (ECG), liver or
+kidney function [lactic dehydrogenase (LDH), alanine
+aminotransferase (ALA T), aspartate aminotransferase
+(ASA T), P-creatinine], coagulation factors II, VII and X,
+or blood values (haemoglobin, potassium, sodium, alkaline
+phosphatase) were excluded from entry into the study.
+Known hypersensitivity to morphine, paracetamol, sulfasa-
+lazine, sulphonamide, or salicylate was also an exclusion
+criterion.
+Drugs
+M6G 20 mg/ml sterile solution for injection in ampoules of
+2 ml was imported from CeNeS Limited, Cambridge, UK
+and supplied by the hospital pharmacy at Herlev University
+Hospital, Denmark. Certificate of analysis showed that the
+batch contained 0.06% morphine and no detectable M3G,
+i.e. <0.03%. These amounts are not suspected to interfere
+with subsequent study results. Paracetamol tablets 500 mg,
+sulfasalazine tablets 500 mg, and morphine tablets 30 mg
+were also supplied by the hospital pharmacy. Paracetamol
+was coadministered as a marker for gastric emptying time,
+whereas sulfapyridine (the hydrolysate of sulfasalazine)
+was used as a marker for arrival of the gut content to the
+colon [ 15]. Each study subject received on different days:
+– Preparation 1: M6G 200 mg as an oral solution
+– Preparation 2: M6G 50 mg as an oral solution
+– Preparation 3: Morphine 30 mg as a tablet.
+As the aim of the study was to confirm the biphasic
+absorption profile, it was decided to repeat the doses used
+previously [
+8].
+Procedures
+Opioids, including codeine and food containing poppy
+seeds, were prohibited for 72 h and paracetamol for 24 h
+prior to each protocol day.
+Food and fluid restrictions
+Fasting from midnight was required prior to all 3 protocol
+days. During the first 6 h, the study subjects received
+500 ml of dextrose 5% as an infusion to prevent
+hypoglycaemia. Three hours after drug administration, the
+study subjects were allowed to drink 50 ml of water every
+second hour until lunch was serve d6ha f t e rd r u g
+administration. The study subjects were instructed to
+reproduce the fluid intake precisely on the 2 protocol days
+when they received the oral formulations of M6G.
+762 Eur J Clin Pharmacol (2007) 63:761 –767
+Drug administration and blood sampling
+M6G was administered as an oral solution, prepared from a
+sterile solution for injection diluted with 100 ml of
+Schweppes Bitter Lemon. Paracetamol 1,000 mg and
+sulfasalazine 500 mg were coadministered as tablets with
+the oral test solutions. Morphine was administered as a
+tablet. A peripheral vein contralateral to the glucose
+administration was used for blood sampling. For M6G
+pharmacokinetics, blood samples were obtained prior to
+drug administration, and at 15, 30 and 60 min and 2, 3, 4, 5,
+6, 8, 10, 11, 12, 16, 20, 24, 36, 48, 60 and 72 h after
+administration. For morphin e pharmacokinetics, blood
+samples were collected before and 5, 15, 30, 45, 60 and
+90 min and 2, 4, 6, 8 and 10 h after drug administration.
+The actual sampling times were noted in the individual case
+report form and subsequently used in the pharmacokinetic
+analysis. Routine vital signs — ECG including pulse rate,
+respiratory rate, blood pressure, and oxygen saturation —
+were obtained just before drug administration and every
+15 min until 12 h after drug administration. These
+parameters were recorded in the individual case report
+form. Blood samples were drawn into heparinised glass
+tubes, which were placed on ice until centrifugation at
+3,000 rpm for 10 min. Plasma was separated into tubes,
+which were stored below −20°C until analysis.
+Analytic analyses
+Quantification of plasma M6G, morphine, M3G, para-
+cetamol and sulfapyridine was done by high-performance
+liquid chromatography (HPLC) using mass spectrometry
+(MS) as the detection principle. After addition of the
+internal standard, hydromorphone, plasma samples and
+calibration standards in plasma were subject to solid-phase
+extraction using 1.0 ml of plasma on Oasis HLB SPE
+cartridges (30 mg). The final eluate was evaporated to
+dryness under nitrogen at ambient temperature, and the
+residue was dissolved in 500 μl of eluent A; 25 μl was
+injected onto the HPLC column. The LC-MS system
+consisted of an HP 1100 series chromatograph (Hewlett-
+Packard, Palo Alto, CA, USA) equipped with a Quatpump,
+a degasser, column oven (colcomp), an autosampler (ALS),
+a DAD UV detector operated at 280 nm (bandwidth 16),
+and a mass selective detector (MSD). Data were collected
+using the HP ChemStaion software, version 6.03 (Hewlett-
+Packard). The analytical column was a reversed-phase
+Zorbax Eclipse XDB (Rockland Technologies, Newport,
+DE, USA) C8 column (4.6 mm I.D. × 150 mm, 3.5 μm
+particles). A linear gradient system was applied. Eluent A
+consisted of 1% formic acid in MeCN:water (3:97 v/v) and
+eluent B 1% formic acid in MeCN:water (27:73 v/v). The
+linear gradient was applied from 100% A to 100% B over
+4 min; 100% B was maintained for 3 min and then returned
+to 100% A over 0.5 min. The flow rate was 0.5 ml/min.
+The MSD detector was equipped with an electrospray
+interface and us ed in positive mode for selected ion
+monitoring (SIM) detection of the four masses: 286.1
+(morphine and the internal standard hydromorphone, which
+are well separated in the HPLC system), 462.2 (M6G and
+M3G, which are well separated in the HPLC system), 152.1
+(paracetamol) and 250.1 (sulfapyridine). The fragmentor
+voltage was set to 100 V for the mass 286.1 and 120 V for
+the masses 152.1, 250.1 and 462.2. The voltage over the
+capillary was kept at 3,000 V . The temperature of the
+nitrogen drying gas was set to 350°C, with a flow rate of
+13 l/min. The nebulizer gas pressure was 30 psi. Limit of
+quantification (LOQ) for morphine and M3G/M6G was
+0.5 nmol/l and 1.0 nmol/l, respectively. Linearity of the
+calibration curve was proven from 0.5 to 50.000 nmol/l.
+This was used to detect M6G. Narrow ranges were used to
+detect morphine and M3G 0.5 –50 nmol/l and 0.5 –
+1,000 nmol/l, respectively.
+Data analysis
+Pharmacokinetic analysis
+Individual plasma concentrations for M6G were analysed
+using WinNonLin, V ersion 3.3 (Pharsight Corporation,
+Mountain View, CA, USA). The following pharmacokinetic
+parameter estimates were determined using noncompart-
+mental analysis. From the data obtained after oral admin-
+istration, area under the curve (AUC)
+0–24,A U C0–72 and lag
+time [the time prior to the time corresponding to the first
+measurable (nonzero) concentration (t lag)] were determined.
+Maximum plasma concentration (C max) and time to reach
+maximum plasma concentration (t max) were registered as
+the actual obtained values by visual inspection of the
+individual curves. As M6G is absorbed biphasically, the
+first t
+max was to correspond to the first C max. The second
+tmax was to correspond to the C max observed after
+sulfapyridine was detected in plasma, e.g. when M6G was
+expected to have reached the colon.
+The second absorption peak seen after oral administra-
+tion of M6G is believed to consist of M6G directly
+absorbed after oral administration and M6G produced by
+glucuronidation of morphine. In order to determine the ratio
+of reglucuronidated M6G to absorbed M6G, the following
+hypotheses are made:
+1. The formation of M3G after M6G administration
+(M3G_M6G) has to equal the one after morphine
+administration (M3G_MOR), as M6G is not able to
+interconvert to M3G, which can then only can be
+produced by glucuronidation of morphine.
+Eur J Clin Pharmacol (2007) 63:761 –767 763
+2. Likewise, the M6G formed by glucuronidation of
+morphine (M6G_M6G) must equal the M6G formed
+after morphine administration (M6G_MOR).
+3. The formation of M6G, which makes up the second
+absorption peak (M6G_app), consists of directly
+absorbed M6G (M6G_abs) as well as formation of
+M6G by glucuronidation of morphine (M6G_M6G).
+According to hypothesis 1 and 2, the subsequent
+equation follows:
+K
+M 3G MOR=KM 6G MOR ¼ KM 3G M 6G=KM 6G M 6G ð1Þ
+The different rate constants of M3G and M6G after
+morphine administration (K M3G_MOR /KM6G_MOR )a n d
+M3G after M6G administration (K M3G_M6G) are determined
+by using the method of residuals [ 16]. K M6G_M6G can be
+determined by rearranging Eq. 1.
+The M6G rate constant (K M6G_app) hypothesised in
+hypothesis 3 can also be determined by using the method
+of residuals on the second absorption peak. K M6G_M6G are
+given by Eq. 1 and K M6G_abs can be determined by
+rearranging Eq. 2:
+KM 6G M 6G þ KM 6G abs ¼ KM 6G app ð2Þ
+Statistical analysis
+GraphPad Prism version 4.00 for Windows (GraphPad
+Software, San Diego, CA, USA) was used for all statistical
+analyses. A paired t test with two-tail P value was used to
+test differences in normally distributed data (dose-normalised
+C
+max and AUC) between the two oral treatment means.
+Normality was tested by test for Gaussian distribution.
+Wilcoxon matched pairs signed rank sum test with two-tail
+P value was used to test differences in nonnormally
+distributed data (t
+max). A P value of 0.05 was considered
+statistically significant.
+Results
+All results are presented as mean values with standard
+deviation (SD) or 95% confidence interval (95% CI) or as
+median with range. Mean age, height and weight of the
+study subjects was 25±5 years, 182±2.7 cm, and 75.4±
+5.5 kg (BMI 23±1.8), respectively. All study subjects
+completed all three arms of the study. Side effects were
+mild to moderate and did not require medical attention.
+Pharmacokinetic analysis
+Oral administration of M6G
+Figure 1 shows individual plasma concentrations versus time
+profiles of M6G after oral administration. There was
+considerable intervariability between subjects when M6G
+was administered orally (see Table 1).
+Two plasma concentration peaks were seen at 4.0 (2.0 –
+6.0) and 18 (12.0 –24.0) h after 200 mg M6G and at 3.5
+(2.0–6.0) and 21.3 (10.0 –23.3) h after 50 mg M6G;
+however, neither of the time differences was statistically
+significant ( P=0.3 and 0.8, respectively). The C
+max
+corresponding to the first and second t max after 200 mg
+M6G was 323±194 and 214±75 nmol/l, respectively, and
+76±58 and 53±16 nmol/l, respectively, after 50 mg M6G.
+The AUC
+0–72 after 200 mg M6G and after 50 mg M6G was
+7,639±1,762 nmol/l h and 1,903±473 nmol/l h, respectively.
+When the AUCs were dose-normalised, no statistically
+significant difference was seen ( P=0.85 ).
+Paracetamol, which was coadministered as a marker for
+arrival time in the small intestine, was detectable in plasma
+Fig. 1 Individual morphine-6-glucuronide (M6G) concentration after
+oral administration of M6G 200 mg ( a) and 50 mg ( b)
+764 Eur J Clin Pharmacol (2007) 63:761 –767
+at the first sampling time (15 min) in all study subjects after
+administration of both 50 mg and 200 mg M6G. T max was
+2.0±1.1 and 1.4±0.8 h after coadministration with 50 mg
+and 200 mg M6G, respectively, which is in accordance with
+the first t
+max seen after M6G administration. Arrival time in
+the colon was to be determined by the time of the first
+appearance of sulfapyridine in plasma. The t
+lag for
+sulfapyridine, which indicates the time for the gut content
+to reach the colon, varied considerably, from 15 min to 5 h.
+M3G and morphine was found to appear in plasma
+concurrently with sulfapyridine. Consequently, high vari-
+ance in t
+lag for morphine was seen (16 min –12 h). T max for
+sulfapyridine was 20±4 and 22±3 h after coadministration
+with 50 mg and 200 mg M6G, respectively, which is in
+accordance with the second t max seen after M6G adminis-
+tration. The mean plasma concentration profiles of M6G,
+M3G, morphine, paracetamol and sulfapyridine are shown
+in Fig. 2.
+Oral administration of morphine
+Tlag for orally administered morphine was 6±11 min. Five
+of the eight subjects had detectable concentrations of
+morphine in the first sample after administration. Time to
+C
+max was 56±40 min, and the AUC was 119 (73 –181)
+nmol/l h. Four of eight study subjects (nos. 4, 5, 6 and 7)
+had a washout period of only 5 days between treatment
+with M6G 200 mg and treatment with morphine 30 mg. Of
+these four, three had relatively large concentrations of
+M6G, M3G and morphine (only two) in the sample taken
+before morphine administration and the first sample taken
+after (corresponding to 96 h on Fig. 3). The contribution of
+the residual area, however, accounts for only 2 –5% of the
+AUC of M6G formed after morphine administration
+calculated by extrapolating the curve for M6G. Similarly
+for morphine, the contribution of morphine from M6G
+200 mg only accounts for 3% of the total AUC. The
+contribution from M6G 200 mg is considered negligible
+and is not accounted for in the subsequent calculations.
+The AUCs
+0–9 of M6G and M3G formed after morphine
+were 815 (730 –1,147) and 6,009 (4,552 –7,232) nmol/l h,
+respectively, giving an M3G/M6G ratio of 7.4. The rate
+constant of M3G and M6G after morphine administration
+(K
+M3G_MOR and K M6G_MOR) was determined to be 0.038±
+0.0168 min −1 a n d0 . 0 3 5 5 ± 0 . 0 1 5 5m i n−1, respectively.
+KM3G_M6G and K M6G_app were 0.0014±0.0006 min −1 and
+0.0160±0.0176 min −1, respectively. The K M6G_abs was
+determined to be 0.0145, giving a K M6G_abs/KM6G_M6G
+ratio of approximately 10.
+Table 1 Pharmacokinetic parameters of morphine-6-glucuronide (M6G)
+Oral Oral Significance
+Dose (mg) 50 200
+Tmax1 (h) 3.5 (2.0 –6.0) 4.0 (2.0 –6.0) No ( P=0.3)
+Tmax2 (h) 21.3 (10.0 –23.3) 18 (12.0 –24.0) No ( P=0.8)
+Cmax1 (nmol/l) 76±58 323±194
+Cmax2 (nmol/l) 53±16 214±75
+AUC0–24 (nmol/l/h) 983±398 4317±1602
+AUC0–24/dose (nmol/l/h/mg) 20±8 22±8
+AUC0–72 (nmol/l/h) 1903±473 7639±1762
+AUC0–72/dose (nmol/l/h/mg) 38±10 38±9 No ( P=0.85)
+Tmax time to reach maximum plasma concentration, Cmax maximum plasma concentration, AUC area under the curve
+Parametric data are presented as mean ± standard deviation (SD), whereas nonparametric data are presented as median (range)
+Fig. 2 Mean plasma concentration profiles of morphine-6-glucuronide
+(M6G) ( square), morphine-3-glucuronide (M3G) ( diamond), mor-
+phine ( triangle ), paracetamol ( circle) and sulfapyridine ( invert
+triangle) after oral administration of 200 mg M6G
+Eur J Clin Pharmacol (2007) 63:761 –767 765
+Discussion
+The pharmacokinetic parameters estimated after oral ad-
+ministration were also within the range of previously
+published data [ 7, 8]. Two separate plasma concentration
+peaks were seen after oral administration. The second
+plasma concentration peak has been explained by hydroly-
+sis of M6G to morphine, which then undergoes glucu-
+ronidation to M6G and M3G, hence the second peak. The
+occurrence of both M3G and morphine concurrently with
+the presence of sulfapyridine in plasma supports the theory
+that M3G is not able to interconvert to M6G and hence has
+to be produced by glucuronidation of morphine in the liver.
+In the present study, the plasma concentration peaks after
+50 mg occurred slightly later than previously published by
+Villesen et al. (t
+1: 3.5 vs. 2.5; t 2: 21.3 vs. 18 h,
+respectively). However, the differences are not statistically
+significant (t
+1: P=0.4; t 2: P=0.5). For both C maxs and
+AUCs, linearity is seen between the two doses.
+The second plasma concentration peak after 200 mg
+M6G was seen 18 h after administration, with a
+corresponding C max of 214±75 nmol/l. In four study
+subjects, the washout period was only 5 days, and more
+than 96 h after drug administration, M6G, M3G and
+morphine were still detectable in plasma in three of four
+study subjects. All three had relatively high plasma
+concentrations of sulfapyridine (Fig. 3)a t9 6h .
+The K
+M6G_abs/KM6G_M6G ratio of 10 indicates that the
+second absorption peak of M6G consists of approximately
+10× more absorbed M6G than reglucuronidated M6G. This
+means that the absorption of M6G happens throughout the
+entire gastrointestinal tract. The clinical consequense is that
+orally administered M6G acts as a physiological sustained-
+release system in itself, as earlier purposed by Stain-Texier
+et al. in 1998 [ 9]. However, great variability exists, and
+further pharmacokinetic modelling will be required.
+Conclusion
+The pharmacokinetic profile of M6G after oral administra-
+tion was confirmed, and with the presence of M3G and
+morphine in plasma after administration of M6G seems to
+be proof of the constant and prolonged absorption of M6G.
+The K
+M6G_abs/KM6G_M6G ratio of 10 indicates that the
+second absorption peak of M6G consists of approximately
+10 times more absorbed M6G than reglucuronidated M6G.
+However, further studies are required to determine the
+precise kinetics of the second absorption peak.
+Fig. 3 Individual plasma con-
+centration profiles of morphine-
+6-glucuronide (M6G) ( square),
+morphine-3-glucuronide (M3G)
+(diamond), morphine ( triangle),
+paracetamol ( circle) and sulfa-
+pyridine ( invert triangle ) after
+oral administration of 200 mg
+M6G for four of the study
+subjects
+766 Eur J Clin Pharmacol (2007) 63:761 –767
+Acknowledgements This study was partly supported by CeNeS
+Limited, Cambridge, UK. All the authors are independent of CeNeS
+Limited.
+References
+1. Romberg R, Olofsen E, Sarton E, den Harting J, Taschner PEM,
+Dahan A (2004) Pharmacokinetic-pharmacodynamic modeling of
+morphine-6-glucuronide-induced analgesia in healthy volunteers.
+Anesthesiology 100:120 –133
+2. Thomson PI, Joel S, John L, Wedzicha JA, Maclean M, Slevin M
+(1995) Respiratory depression following morphine and morphine-
+6-glucuronide in normal subjects. Br J Clin Pharmacol 40:145 –
+152
+3. Skarke C, Darimont J, Schmidt H, Geisslinger G, Lötsch J (2003)
+Analgesic effects of morphine and morphine-6-glucuronide in an
+transcutaneous electric pain model in healthy volunteers. Clin
+Pharmacol Ther 73:107 –121
+4. Cann C, Curran J, Milner T, Ho B (2002) Unwanted effects of
+morphine-6-glucoronide and morphine. Anaestesia 57:1200 –1203
+5. Romberg R, Olofsen E, Sarton E, Teppema L, Dahan A (2003)
+Pharmacodynamic effect of morphine-6-glucuronide versus mor-
+phine on hypoxic and hypercapnic breathing in healthy volun-
+teers. Anesthesiology 99:788 –798
+6. Peat SJ, Hanna MH, Woodham M, Knibb A, Ponte J (1991)
+Morphine-6-glucuronide: effects on ventilation in normal volun-
+teers. Pain 45:101 –104
+7. Penson RT, Joel SP , Roberts M, Gloyne A, Beckwith S, Slevin
+ML (2002) The bioavailability and pharmacokinetics of subcuta-
+neous, nebulized and oral morphine-6-glucuronide. Br J Clin
+Pharmacol 53:347 –354
+8. Villesen HH, Hedal B, Engbaek J et al (2006) Pharmacokinetics
+of M6G following intravenous and oral administration in healthy
+volunteers. Acute Pain 8:63 –71
+9. Stain-Texier F, Sandouk P , Scherrmann J-M (1998) Intestinal
+absorption and stability of morphine-6-glucuronide in different
+physiological compartments of the rat. Drug Metab Dispos
+26:383–387
+10. Chapman DJ (1990) Analysis and pharmacokinetics of morphine
+and morphine-6-glucuronide. University of Surrey, UK
+11. Lötsch J, Stockmann A, Kobal G et al (1996) Pharmacokinetics of
+morphine and its glucuronides after intravenous infusion of
+morphine and morphine-6-glucuronide in healthy volunteers. Clin
+Pharmacol Ther 60:316 –325
+12. Osborne R, Thompson P , Joel S, Trew D, Patel SS, levin M
+(1992) The analgesic activity of morphine-6-glucuronide. Br J
+Pharmacol 34:130 –138
+13. Lötsch J, Weiss M, Kobal G, Geisslinger G (1998) Pharmacokinet-
+ics of morphine-6-glucuronide and its formation from morphine
+after intravenous administration. Clin Pharmacol Ther 63:629 –639
+14. Christrup LL, Froekjaer S, Villesen HH (2006) Morphine-6-
+Glucuronide: the clinical potential after oral administration.
+Permation of isolated rat gut segments. Eur J Pharm Biopharm.
+unpublished data
+15. Sunesen VH, V edelsdal R, Kristensen HG, Christrup L, Mullertz
+A (2005) Effect of liquid volume and food intake on the absolute
+bioavailability of danazol, a poorly soluble drug. Eur J Pharm Sci
+24:297–303
+16. Rowland M, Tozer TN (1995) Clinical pharmacokinetics. Con-
+cepts and applications, 3rd edn. Lippincott Williams & Wilkins,
+Philadelphia
+Eur J Clin Pharmacol (2007) 63:761 –767 767

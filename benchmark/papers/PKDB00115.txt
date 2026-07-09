@@ -1,0 +1,720 @@
+Br.J.clin.Pharmac.(1991),31,635-642
+PharmacokineticsofcodeineanditsmetabolitesinCaucasian
+healthyvolunteers:comparisonsbetweenextensiveandpoor
+hydroxylatorsofdebrisoquine
+Q.Y.YUE,J.HASSELSTROM,J.0.SVENSSON&J.SAWE
+DepartmentofClinicalPharmacology,HuddingeUniversityHospital,KarolinskaInstitute,S-14186Huddinge,Sweden
+1 Thekineticsofcodeineandsevenofitsmetabolitescodeine-6-glucuronide(C6G),
+norcodeine(NC),NC-glucuronide(NCG),morphine(M),M-3(M3G)and6-glucu-
+ronides(M6G),andnormorphine(NM)wereinvestigatedafterasingleoraldoseof50
+mgcodeinephosphatein14healthyCaucasiansubjectsincludingeightextensive(EM)
+andsixpoor(PM)hydroxylatorsofdebrisoquine.Theplasmaandurineconcentrations
+ofcodeineandthemetabolitesweremeasuredbyh.p.l.c.
+2 Themeanareaunderthecurve(AUC),half-lifeandtotalplasmaclearanceofcodeine
+were1020±340nmol1-1h,2.58±0.57hand2.02±0.731h-1kg-1,respectively.
+TherewerenosignificantdifferencesbetweenEM andPM intheseaspects.
+3 PMhadsignificantlylowerAUCofM3G,theactivemetabolitesM6G,NM andM (P
+<0.0001),andlowerpartialmetabolicclearancebyO-demethylation(P<0.0001).In
+contrast,thePM hadhigherAUC ofNC (P< 0.05)thantheEM.Therewasno
+differencebetweenPM andEM intheAUC ofC6GandNCG,norinthepartial
+clearancesbyN-demethylationandglucuronidation.
+4 AmongEM,theAUCofC6Gwas15timeshigherthanthatofcodeine,whichinturn
+was50timeshigherthanthatofM.TheAUCsofM6GandNM wereabout6and10
+timeshigherthanthatofM,respectively.Thepartialclearancebyglucuronidationwas
+about8and12timeshigherthanthosebyN-andO-demethylations,respectively.
+5 Thetotalrecoveryofdrug-relatedmaterialin48hurinecollectionsrangedfrom71%
+to106%ofthedoseanddidnotdifferbetweenEM andPM.Sixpercentofthedose
+wasO-demethylatedinEM andthemajorityofthemetabolitesproducedthroughthis
+pathwaywereconjugated.UnconjugatedM accountedforlessthan0.2%ofthedose.
+InPM,only0.33%ofthedosewasmetabolizedbyO-demethylationandM was
+negligible(0.001%ofthedose).However,PM hadasignificantlyhigherrecoveryof
+NC(P<0.001)thanEM.TherewasnosignificantdifferencebetweenEM andPMin
+therecoveryofcodeine,C6GandNCG,andintherenalclearanceofcodeineoranyof
+itsmetabolites.
+6 DatafromachronicdosingstudyincludingthreeEM andthreePM confirmedthe
+resultsofthesingledosestudy.
+7 Theclinicallyimportantfindingswerethenegligibleplasmaconcentrationofthe0-
+demethylatedactivemetabolitesM6G,NM andM inPM,andtherelativelyhigh
+concentrationsofM6GandNM inEM.Consideringthelowplasmaconcentrationof
+M aswellasthepotentanalgesiceffectsofM6GandNM,thelattercompoundsmight
+playanimportantroleintheanalgesiceffectofcodeine.
+Keywordscodeinemetabolismactivemetabolitespharmacokinetics
+pharmacogeneticsCaucasiandebrisoquinephenotype
+Correspondence:DrJ.Sawe,DepartmentofClinicalPharmacology,HuddingeUniversityHospital,KarolinskaInstitute,S-14186
+Huddinge,Sweden
+635
+AD0NIS0306525191001147
+636 Q.Y.Yueetal.
+Introduction
+Codeineisacommonlyusedanalgesicandantitussive
+drug.Itspharmacokineticsinman(Findlayetal.,1977,
+1978;Guayetal.,1987;Quidingetal.,1986)andthe
+influenceofsmoking(Rogersetal.,1982),alcohol
+(Boddetal.,1987)aswellasrenaldisease(Guayetal.,
+1988)havebeeninvestigated.Thehypothesisthatco-
+deinemayexertitsmoderateanalgesicpotencythrough
+partialbiotransformationtomorphine(M)hasbeen
+proposed(Sanfilippo,1948),andthebiotransformation
+ofcodeinetoM inmanbyO-demethylationhasbeen
+demonstrated(Findlayetal.,1978;Guayetal.,1987,
+1988;Quidingetal.,1986;Rogersetal.,1982).Apart
+fromM,twoothermetabolitesofcodeineO-demeth-
+ylation,morphine-6-glucuronide(M6G)andnormor-
+phine(NM),havealsobeenshowntobeactive.Much
+strongeranalgesicpotencyhasbeenreportedforM6G
+comparedwithM (Handetal.,1987;Joeletal.,1985;
+Osborneetal.,1988;Pauletal.,1989;Shimomuraetal.,
+1971;Yoshimuraetal.,1973).Figure1showsthemajor
+metabolicpathwaysofcodeine.
+Itiswellrecognisedthatsomedrugsaremetabolised
+bypathwaysthatareundermonogeniccontrol.Among
+thebeststudiedpathwaysshowinggeneticpolymorphism
+isdebrisoquine-typehydroxylation;5-10%ofCaucasians
+areclassifiedas'poorhydroxylators'(PM)whilethe
+remainderare'extensivehydroxylators'(EM)(Mahgoub
+etal.,1977;Steineretal.,1988).O-demethylationof
+codeine,leadingtotheformationoftheactivemetab-
+olitesM,M6GandNM,hasbeenfoundtoco-segregate
+withthedebrisoquineoxidationpolymorphism(Chenet
+al.,1988;Dayeretal.,1988;Yueetal.,1988,1989a,
+1989b).Wehavenowstudiedthepharmacokineticsof
+codeineanditsmetabolitesinPM andEM ofdebriso-
+quine.
+Methods
+FourteenhealthyCaucasians,includingeightEM and
+sixPM ofdebrisoquine,participatedinthissingledose
+studywhichwasapprovedbytheEthicsCommitteeof
+HuddingeUniversityHospital.Informedconsentwas
+obtainedfromallsubjects.Thesubjectcharacteristics
+anddebrisoquinemetabolicratios(MR)arepresented
+inTable1.Eachsubjectwasphenotypedwithasingle
+10mgoraldoseofdebrisoquinehemisulphate(Declinax,
+Hoffmann-LaRoche).Theratioofparentdrugandthe
+4-hydroxy-metabolite(D/4-OH-D)wasmeasuredinan
+aliquotofa8hurinecollection.Debrisoquineand
+4-OH-Dweremeasuredbygaschromatographywith
+flame-ionizationdetectionaccordingtoLennardetal.
+(1977).APMwasdefinedashavingaMR >12.6(Evans
+etal.,1980).
+Onaseparateoccasion,thesubjectsweregivena
+singleoraldoseof50mgcodeinephosphate(Kodein®,ACO DrugsAB,Sweden)followinganovernightfast.
+Bloodsamples(10ml)wereobtainedthroughanin-
+dwellingintravenouscatheterintoheparinizedVacu-
+tainertubesbeforeand0.17,0.33,0.5,0.67,1,1.5,2,
+3,4,5,7,9,11and24hafterthedose.Thesampleswere
+centrifugedandtheplasmawasstoredat-20°Cuntil
+analysis.Serialurinesampleswerecollectedfor48h
+from0-2,2-4,4-6,6-8,8-10,10-12,12-24,24-36and
+36-48h.UrinevolumesandpHweremeasuredand
+aliquotswerestoredat-20°Cuntilanalyzed.
+Anothersixhealthyvolunteers,includingthreeEM
+withMRsbetween0.34and0.68(aged27to33years)
+andthreePMwithMRsbetween37and64(aged28to
+41years),receivedmultipledosesofcodeine.Following
+thefirstdose,bloodandurinesampleswerecollectedfor
+24h.Fromday2(after24h),codeine(50mg)was
+administeredregularlyevery6hforninedoses.Blood
+sampleswerecollectedfor30handurinesamplesfor48
+hafterthelastdose.
+Codeineanditssevenknownmetabolitesmorphine
+(M),M-3-(M3G),andM-6-glucuronide(M6G),nor-
+morphine(NM),codeine-6-glucuronide(C6G),nor-
+codeine(NC),NC-glucuronide(NCG)inbothplasma
+andurineweremeasuredusingion-pairhighper-
+formanceliquidchromatographybyamodificationof
+themethodofSvensson(1986)asdescribedinYueetal.
+(1989a).ForthesourcesofallthechemicalsseeYueet
+al.(1989a)andSvensson(1986).
+Theareaunderthecurve(AUC)ofcodeinewas
+calculatedbythelineartrapezoidalruleandextrapolated
+Codeineglucuronide
+tNCH,
+HH
+O-demethylationCH3°O0° 'OHN-demethylation
+NC,CodeineN-CH3 NH
+Glucuronides H HH Glucuronide
+(M3G, M6G) (NCG)
+HO 0 OH CH3-0 0 OH
+Morphine NH Norcodeine
+HH
+N-demethylation O-demethylation
+HO OH
+Normorphine
+Figure1 Themajormetabolicpathwaysofcodeine.M3G = Morphine-3-glucuronide;M6G = Morphine-6-glucuronide;
+NCG = Norcodeineglucuronide.
+Codeinemetabolismanddebrisoquinephenotype637
+toinfinitybyuseofthelastmeasuredplasmaconcentra-
+tionandtheeliminationrateconstant(Xl),whichwas
+determinedbylog-linearregressionanalysisofthe
+terminalconcentration-timepoints.Theeliminationhalf-
+life(t½,2)wasobtainedbydividingln2by,\.Theplasma
+clearance(CL)ofcodeinewascalculatedfromtheratio
+ofdoseandAUC.Renalclearance(CLR)andmetabolic
+clearanceofcodeinethroughdifferentpathwayswere
+calculatedusingthefollowingequations:
+CLR = Ae(codeine),_t2/AUCt,-t2
+CLglucuronidation= Ae(C6G)t,_t2/AUCt,-t2
+CLO demethylation =
+Ae(M+M3G+M6G+NM)tl-2/AUCtI- t2
+CLN-demethylation= Ae(NC+NCG+NM)t_t2/AUCt,-t2
+Aet,1t2istheurinaryrecoveryofcompoundoverthe
+urinecollectionintervalt1_t2,andAUCt,-t2isthearea
+undertheplasmacodeineconcentrationvstimecurve
+overtheurinecollectionintervalt1-t2.Itwas assumed
+thatcodeineisabsorbedcompletelyfromtheg.i.tract
+(Bechtel& Sinterhauf,1978).Anotherassumptionwas
+thatthefinaleliminationofthemetabolitesoccursonly
+byrenalexcretion.Maximumplasmaconcentrations
+(Cmax)andtimetoattainCmax(tmax)were estimated
+fromobservedplasmaconcentrationvstimedata.
+TheunpairedStudent'st-test(orU-testforO-de-
+methylationdata)wasusedforthecomparisonbetween
+thetwophenotypicgroups.
+Results
+Theindividualkineticparametersin14subjects(eight
+EM andsixPM)areshowninTable1.TheAUC of
+codeinerangedfrom537to1728(mean± s.d.= 1020+
+340)nmol1-1hinallthesubjects.Therangesofplasma
+codeinehalf-lifeandplasmaclearancewere between
+1.55and3.29(2.58± 0.57)handbetween1.23and3.95
+(2.02± 0.73)1h-1kg-'respectively.
+Representativeplasma-concentrationvstimecurves
+forcodeineanditsmetabolitesinone PM andone EM
+areshowninFigure2andtheaverageAUC valuesforall
+subjectsarelistedinTable2.Therewas no difference
+betweenEM andPM intheAUC andplasmaclearance
+ofcodeine(Tables1and2).However,therewere pro-
+nounceddifferencesintheformationofmetabolites
+betweenEM andPM (Figure2andTable2).PM had
+significantlylowerAUC valuesofM3G,M6G,NM and
+M (P< 0.0001),andlowerpartialmetabolicclearance
+byO-demethylation(P< 0.0001,Table1and2).Fiveof
+sixPM didnothaveadetectableamountofM andone
+PM hadanAUC ofM lessthan2nmoll-1h.TheAUC
+valuesofM6G andNM were more than20xlowerin
+PM comparedtoEM (Table2).
+Incontrast,thePM hadhigherAUC valuesofNC (P
+< 0.05)thantheEM (Table2).Therewas nosignificant
+differencebetweenPM andEM intheAUCsofC6G
+andNCG,norinthepartialclearancesbyN-demethyl-
+ationandglucuronidation(Tables1and2).
+Table1 Subjectcharacteristics,debrisoquineratioandkineticparametersofcodeineand
+metabolitesafterasingleoral50mg(123,umol)ofcodeinephosphateto14healthyCaucasian
+subjects(eightEM andsixPM)
+SubjectAgelsex/weightDBMRa Cmax tmaxt½/2CL Partialmetabolicclearanceb
+O-dem N-dem Glucu
+(years)(kg) (nmol1-')(h) (h)(1h-1kg-l)(1h-1kg-)(lh-'kg-')(lh-'kg-')
+EM
+1 35/F/58 0.34 462 0.5 1.23 1.23 0.09 0.09 0.77
+2 40/F/68 0.51 272 1.5 2.51 1.38 0.09 0.11 0.89
+3 31/M/70 0.46 250 1.0 2.91 1.88 0.25 0.17 1.42
+4 38/F/58 0.21 206 1.5 1.58 3.95 0.27 0.33 2.24
+5 31/M/78 0.43 165 1.0 2.88 2.13 0.20 0.14 1.34
+6 29/M/80 3.10 327 0.5 1.55 2.39 0.06 0.22 1.31
+7 31/F/65 3.30 272 1.0 2.84 1.83 0.04 0.12 1.52
+8 32/F/52 7.48 378 1.0 1.89 2.04 0.01 0.21 1.86
+Mean 33l-l66 1.98 292 1.0 2.43 2.10 0.12 0.17 1.42
+s.d. 34/-/10 2.57 95 0.380.58 0.84 0.10 0.08 0.48
+PM
+9 27/F/67 250 432 0.673.29 1.24 0.002 0.16 0.81
+10 40/F/67 37 179 1.5 2.73 2.36 0.004 0.16 1.47
+11 23/F/55 26 173 0.673.20 2.81 0.017 0.38 2.18
+12 27/M/85 97 154 1.0 2.79 1.73 0.009 0.15 1.60
+13 31/F/61 380 249 1.0 2.21 2.11 0.004 0.27 1.50
+14 31/M/78 31 505 0.333.18 1.24 0.004 0.15 1.03
+Mean 30/-/69 137* 282 0.862.90 1.92 0.007* 0.21 1.43
+s.d. 6/-/11 146 150 0.400.41 0.63 0.006 0.09 0.48
+aDBMR = debrisoquinemetabolicratio;
+bO-dem= O-demethylation;N-dem= N-demethylation;Glucu= glucuronidation;
+*P<0.0001.U-testbetweenEM andPM.
+638 Q.Y.Yueetal.
+a
+ ~1 A.!
+0. 0 ..: 0 10 20 30
+Figure2 Plasmaconcentration-timecurvesofcodeineanditsmetabolitesinaPM(a)andEM (b)ofdebrisoquineafterasingle
+oraldoseof50mgcodeinephosphate.(DataforNCandNCGwereexcludedforthesakeofclarity.)
+Table2 PlasmaAUCandurinaryrecoveryofcodeineanditsmetabolitesineightEM andsix
+PMofdebrisoquine(mean±s.d.)a
+PlasmaAUC(nmol1-h) Urinaryrecovery(%ofdose)
+EM pMb EM PMb
+Codeine 1010±391 1020±292 3.33±1.52 3.56±0.85
+C6G 15200±2690 17700±2710 68.4±7.7 75.3± 11.3
+NC 163±87 289±117* 2.3±1.6 5.7±1.2**
+NCG 772±351 976±380 4.4±0.7 5.3±1.7
+M3G 807±808 25.4±10.4***3.5±2.7 0.16±0.07***
+M6G 117±95 5.2±2.8***0.83±0.63 0.14±0.12***
+M 20±20 <2c 0.18±0.16 0.001±0.002***
+NM 191±157 < 9*** 1.50±0.87 0.029±0.05***
+Total 84.4±15.9 90.2±15.3
+aTheU-testwasusedtocompareEM andPMwithrespecttoM3G,M6G,M andNM andthe
+t-testwasusedfortheremainingmetabolites.
+bDifferencebetweenEM andPM *(P<0.05);**(P<0.001);***(P<0.0001).
+StatisticcomparisonswerenotpossiblesinceM couldbedetectedinonlyonePM.
+AmongEM,thepartialclearancebyglucuronidation
+(Table1)was more than8timeshigherthanthatbyN-
+demethylationandabout12timeshigherthanthatby0-
+demethylation(Table1).TheAUCofC6Gwas15times
+greaterthanthatofcodeine,whichinturnwas50times
+greaterthanthatofM.TheAUC valuesofactiveM6G
+andNM wereabout6and10timeshigherthanthatofM,
+respectively(Table2).
+In48hurinecollections,thetotalrecoveryofdrug-
+relatedmaterialrangedfrom71%to106%ofthedose
+anddidnotdifferbetweenEM andPM (Table1).The
+patternofurinaryrecoverywassimilartothatofplasma
+AUC forbothcodeineandthemetabolites(Table2).
+Sixpercentofthedosewas 0-demethylatedinEM and
+themajorityofthemetabolitesformedbythispathway
+wereconjugated;M accountedforlessthan0.2%ofthe
+dose.InPM,only0.33%ofthedosewasmetabolisedby
+0-demethylationandM recoverywasnegligible(0.001%
+ofthedose).However,PM hadasignificantlyhigher
+recoveryofNC (P< 0.001)thantheEM (Table2).No
+significantdifferencewas observedintherecoveryof
+codeine,C6GandNCG betweenEM andPM (Table2).
+Therenalclearanceofcodeinedidnotdiffersignificantly
+betweenEM andPM.
+Theresultsofthesingledosestudywereconfirmedin
+anextendedstudywithchronicdosing.Thesedataare
+presentedinTables3and4.
+Threeofthe14volunteersexperiencedslightside
+effectsincludingtiredness(oneEM andtwoPM)and
+headache(onePM)aftersingledose,andfiveofsix
+subjectsreportedtiredness(twoEM andtwoPM),
+dizziness(twoEM)nausea(oneEM andonePM)or
+headache(onePM)aftermultipledoses.
+Discussion
+Theresultsindicatesignificantinterindividualdiffer-
+encesinthecapacitytoformmorphinefromcodeine.
+IndividualswhowerePM phenotypesfordebrisoquine
+hydroxylationhadveryloworundetectableconcen-
+trationsoftheactivecompoundsM,M6GandNM.
+No majoralterationofcodeinepharmacokinetics
+occurredduringmultipledoseadministration,inaccord
+withthefindingsofothers(Guayetal.,1987).With
+regardtotheaccumulationofM afterchronicdosing,
+contradictoryresultshavebeenreported(Guayetal.,
+
+Codeinemetabolismanddebrisoquinephenotype639
+00 N0 b
+Cl Cl-)Cl
++l+1+1+1+1+1+1+1 t "ItO l
+*4 m011.000 00
+ 0000Cr-W)0000It
+'-en ONCl~0n e'vt+I+I+I+I+I+I+I+I
+/ 00 '- ON
+m00 0 r_
+ bN00 m00 l'
+ C)--oo *-4O W)o 00bq
+00N r ON0l
+,- -/t IN
+ )+1 +1+1+1+1+1+1
+r-8 tn,r oll- C)r-tn 0 Cooo00c'"C
+Cl O NClON te,,
+00 r,N0 00 N0C
+r.0-C- Cl4 CN0l 00ON
+ Cl Ci/N0
+C0004CDN00kn00
+ 66o ,so C' t t, Cl
+ +I+ +I+I+I+I+I+I
+ .',I /O Nv00
+- C')C')Cl0 -rNo
+90 N-OCl lC, 0
++l+l+l+I+l+l+l+l
+0ZnC)00 N VI)VI)0
+Cu ON '-tcfn00N0-C)NVI)N2
+C++I+I+I+ +l+I+I+ONlr- \IC "cl 00'ICN-
+O£NN'
+L 00 C. N -4r-0 C'nW)I/ I/N IN~0cl
+ ONC~00
+co enS
+ C' CO ulClC'(4
+U l)+ +I+I+I+I+I+l+
+') 00000 \C 1- r-4N
+- Nll~0)00'I"'"Cl
+o t.o
+ Z\Cu U
+ uu 's zS
+11
+CZ
+CZS.C
+0
+CO
+C.)
+CZ
+0
+0
+C.
+0
+to
+C)
+CZ
+0
+"0
+0
+ut
+"0
+C.)
+CZ~~~~~~~~~~~~C
+"0CO_O
+Cl
+c.)
+COU,
+I-
+C.
+.0
+CO
+c.)
+S U,
+"0CO
+C.)
+CO
+C._
+~~~C.)~ ~ ~ ~ ~ .
+0
+c.)
+ .= ~~~~~~~~~~~~CO
+~CO
+O.C 'I.
+ 0,=t~~~~~~~~~~~~4
+V*Cu
+- n(4)- CfNCC)O C)C
+-X+I+I+I+I+IZ Z Z
+00tr N 00
++1+1+1+1+1Z Z Z
+00tCN 00
+ OD
+00660o 00 0
+e'n "-4 "-
+rClr0I/"I/ZZZ +I+I+I+I+I
+I 1 8Wour tnZ Z Z00 "ClcON e-eCl-
+Cl+1+1+1 +1+1 z
+ 00 Cl~0)~ "-t
+00 r 00N 'I
+enen 000 N
+ ++I+I+I +IZ Z Z0000 00-1 0
+ . . . I/
+en OItO
+ +I+I+I +I+IZ Z Z
+00 C O0 00 m ON,CO
+c'c'00en 0%c
+ ++ + + +IZ Z Z
+ ..
+cn)+l1+l+l+1+IZ Z Z
+0000 N-Cl4(')
+X- o- - Cl 1-r
+\,o-,4,c"-,+l+1+1+1+1Z Z Z \ON* c * \0I t o)C,No)
+0ON o N C
+U +l+I+I+I +I Z
+ON 00\0-cn c'\)* :t
+ern
+.)
+'IO0 00 0
+U0'UICU enZ£,Cu u Z Z ,:,zSZ >
+II
++1
+C.CZ
+CZ)
+.4
+CZ
+0
+0
+CZ)
+C-
+0
+C.)
+0
+"0
+0X
+"0C.
+C.)
+C.)
+CO
+C.)
+c.)
+c.)cO
+"0
+0sC.)
+ .O
+.. .gU, ,X~CA
+C.- C)
+C) = U,
+-C -O
+O ,=11
+V; nzCA,, Z
+,£
+,Z
+4-
+640 Q.Y.Yueetal.
+1987;Quidingetal.,1986).We foundasignificant
+increaseintheCmaxofC6GandNCG (inPM,Table4)
+duringmultiple-doseadministration.However,noin-
+creasewasobservedforothermetabolitesofcodeine.
+Itiscommonlycitedthatapproximately10%ofan
+oraldoseofcodeineisrecoveredinurineasfreeand
+conjugatedM (Goodman&Gilman,1985).Thesefigures
+arebasedprimarilyonresultsobtainedusingradio-
+immunoassays(Findlayetal.,1977,1978;Rogersetal.,
+1982).Thecorrespondingfiguresinourstudywere6%
+inEM andlessthan0.4%inPM.M accountedforless
+than0.2%ofthedoseintheEM andwasessentially
+absentinthePM.The% relativeplasmaAUC ofM to
+codeinevariedfrom0.19and4.5%inEM andfrom0
+and0.13%inPM.Theseresultsareinagreementwith
+earlierdataobtainedbyaGC-MSmethodwithvalues
+rangingfrom0and4.4%in12volunteersafteroral
+dosesof60mgatsteady-state(Quidingetal.,1986).The
+meanplasmaCmaxvaluesofM were8.4nmol1-1inEM
+andlessthan2nmol1-1inPM,whichcomparewitha
+reportedvalueof3.5ngml-'(9.3nmoll-1)(Quidinget
+al.,1986).Themeanminimumeffectiveplasmacon-
+centrationofM forthereliefofpaininpatientsafter
+abdominalsurgeryhasbeenestimatedtobe16ngml-'
+(42.7nmoll-1)(Dahlstrometal.,1982).Considering
+theverylowplasmaconcentrationofM detectedatthe
+usualdosesofcodeineusedinthetreatmentofpainitis
+unlikelythatthismetabolitecontributesmuchtothe
+analgesiceffectofcodeineinman.
+M6Gisanotheractivemetaboliteofcodeineformed
+byO-demethylationtoM andfurtherglucuronidationat
+the6-position.Theanalgesicpotencyofthismetabolite
+hasbeenrecognizedformorethanadecade(Shimomura
+etal.,1971;Yoshimuraetal.,1973),butitspotential
+clinicalimportancewithrespecttoanalgesicactionhas
+onlybeenappreciatedrecently(Handetal.,1987;Joelet
+al.,1985;Osborneetal.,1988).Thus,M6Ghasbeen
+showntohaveananalgesiceffectapproximatelytwice
+thatofM whengivensubcutaneouslyinmice.However,
+wheninjectedeitherintracerebroventricularlyorintra-
+thecally,M6Gwasapproximately90-and650-foldmore
+potentananalgesicthanM,respectively(Pauletal.,
+1989).ThegreaterpotencyofM6Ghasalsobeenreported
+inrats(Abbott&Palmour,1988;Sullivanetal.,1989).
+TheincreaseddegreeanddurationofeffectofM in
+patientswithrenaldysfunctionhasfocusedattentionon
+theactivemetabolitesofM (Hasselstrometal.,1989;
+Osborneetal.,1986;Sawe,1986).Thei.v.administration
+of0.5-1mg70kg-'M6Gtocancerpatientsresultedin
+analgesicactivity,andithasbeensuggestedthatmostof
+theanalgesiceffectoccurringafterM treatmentisdueto
+thismetabolite(Osborneetal.,1988,1990).However,
+M6G isawatersolublecompoundanditsmovement
+throughthebloodbrainbarriermaybelimited.Inthe
+presentstudy,theAUC ofM6G wasalmostsixtimes
+higherthanthatofM aftercodeineadministration,
+whichisinaccordancewiththereportedmeanM6Gto
+M AUC ratioafteroralM (Osborneetal.,1990;Saweet
+al.,1985).Inconjunctionwiththedemonstrationofthe
+pharmacologicalactivityofM6G,thefindingsofthe
+presentstudysuggestthatM6Gplaysamoreimportant
+rolethanM intheanalgesiceffectofcodeine.
+NM whichisformedfromcodeinebybothN and0-
+demethylationalsohasanalgesiceffect(Lasagna& de
+Kornfeld,1958;Sullivanetal.,1989).NM wasequipotent
+withM afterintrathecalinjectionintorats(Sullivanet
+al.,1989).Whengiventorelievepostoperativepainin
+man,NM wasapproximatelyone-fourthaspotentasM
+(Lasagna&deKornfeld,1958).Inviewofthealmost10-
+foldhigherAUCofNM comparedtothatofM observed
+inthisstudy,NM mightalsomakeasignificantcontribu-
+tiontoanalgesiaafteradministrationofcodeine.
+ThevaluesofCmax,tmax,AUC andt½/2ofcodeine
+observedinthisstudyweresimilartothosereportedby
+others(Findlayetal.,1977,1978;Quidingetal.,1986)
+andtherewerenosignificantdifferencesbetweenEM
+andPM.TheAUC andurinaryrecoveryofC6Gwere
+alsosimilarinEM andPM.Asfarasweknow,C6Ghas
+notbeenshowntohaveanyanalgesiceffect.However,
+PMhadasignificantlyhigherAUC andurinaryrecovery
+ofNCcomparedtoEM whichisinterestingsinceithas
+beenreportedthatNChasanalgesicactivity(Miller&
+Anderson,1954).Thesedifferencesconfirmobservations
+madeinapopulationstudyinwhichurinesamplesfrom
+severalhundredhealthyvolunteerswereanalysed(Yue
+etal.,1989b).Thedifferenceintheconcentrationsof
+NCwaslessthantwo-foldbetweenthetwophenotypes
+andtheefficacyofNC appearsnottobegreaterthan
+thatofcodeine(Miller&Anderson,1954).Therefore,
+higherconcentrationsofNCwouldnotbeexpectedto
+compensateforthedifferencesbetweenEM andPMin
+theformationofO-demethylatedmetabolites.
+Theclinicalsignificanceofdebrisoquineoxidation
+polymorphismhasbeenreviewed(Br0sen& Gram,
+1989;Sjoqvist,1989a,1989b).Ingeneralitisimportant
+onlywhenthekineticsofthedrugaresignificantlyde-
+pendentonthespecificisoenzymecytochromeP4501ID6.
+Codeinemightbeanexceptiontothis.Although0-
+demethylationofcodeineisonlyaminormetabolic
+routeandthekineticsoftheparentdrugarenotsignif-
+icantlyinfluencedbythispathway,itcouldbeofclinical
+importancebecauseoftheactivityofthemetabolites
+associatedwiththispathway.Ithasbeensuggestedthat
+codeineisineffectiveinPM,butonlyonePMvolunteer
+wasincludedinthestudy(Desmeulesetal.,1989).A
+moredetailedinvestigationoftheanalgesiceffectof
+codeineisindicatedusingalargersamplesize.
+Inconclusion,CaucasianswhoarePMofdebrisoquine
+haveveryloworundetectableplasmaconcentrationsof
+the0-demethylatedmetabolitemorphine,aswellaslow
+concentrationsofthetwootherimportantactivemet-
+abolitesmorphine-6-glucuronideandnormorphine.The
+plasmaclearanceofcodeineissimilarinCaucasianEM
+andPM.
+ThisworkwassupportedbytheSwedishResearchCouncil
+(3902)andtheSwedishCancerSociety(1910-B88-O1V).SamplesofcodeinemetaboliteswerekindlyprovidedbyNation-
+alInstituteofDrugAbuse,USA.
+Codeinemetabolismanddebrisoquinephenotype641
+References
+Abbott,F.V.& Palmour,R.M.(1988).Morphine-6-glucu-
+ronide:analgesiceffectsandreceptorbindingprofilein
+rats.LifeSci.,43,1685-1695.
+Bechtel,W.D.& Sinterhauf,K.(1978).Plasmaleveland
+renalexcretionof[3H]codeinephosphateinmanandinthe
+dog.Arzneim.-Forsch.,28,308-311.
+Bodd,E.,Beylich,K.M.,Christophersen,A.S.&Morland,
+J.(1987).Oraladministrationofcodeineinthepresenceof
+ethanol:apharmacokineticstudyinman.Pharmac.Tox.,
+61,297-300.
+Br0sen,K.&Gram,L.F.(1989).Clinicalsignificanceofthe
+sparteine/debrisoquineoxidationpolymorphism.Eur.J.
+clin.Pharmac.,36,537-547.
+Chen,Z.R.,Somogyi,A.A.& Bochner,F.(1988).Poly-
+morphicO-demethylationofcodeine.Lancet,ii,914-915.
+Dahlstrom,B.,Tamsen,A.,Paalzow,L.&Hartvig,P.(1982).
+Patient-controlledanalgesictherapy,partIV:Pharmaco-
+kineticsandanalgesicplasmaconcentrationsofmorphine.
+Clin.Pharmacokin.,7,266-279.
+Dayer,P.,Desmeules,J.,Leemann,T.&Stribemi,R.(1988).
+Bioactivationofthenarcoticdrugcodeineinhumanliveris
+mediatedbythepolymorphicmonooxygenasecatalyzing
+debrisoquine4-hydroxylation(cytochromeP-450dbl/bufI).
+Biochem.Biophys.Res.Commun.,152,411-416.
+Desmeules,J.,Dayer,P.,Gascon,M.P.& Magistris,M.
+(1989).Impactofgeneticandenvironmentalfactorson
+codeineanalgesia.Clin.Pharmac.Ther.,45,122.
+Evans,D.A.,Mahgoub,A.,Sloan,T.P.,Idle,J.R.&Smith,
+R.L.(1980).Afamilyandpopulationstudyofthegenetic
+polymorphismofdebrisoquineoxidationinawhiteBritish
+population.J.med.Genet.,17,102-105.
+Findlay,J.W. A.,Butz,R.F.& Welch,R.M.(1977).
+Codeinekineticsasdeterminedbyradioimmunoassay.Clin.
+Pharmac.Ther.,22,439-446.
+Findlay,J.W.A.,Jones,E.C.,Butz,R.F.&Welch,R.M.
+(1978).Plasmacodeineandmorphineconcentrationsafter
+therapeuticoraldosesofcodeine-containinganalgesics.
+Clin.Pharmac.Ther.,24,60-68.
+Goodman,L.J.& Gilman,A.(1985).Thepharmacological
+basisoftherapeutics,TheodoreW.Rall,7thed.,p.506.
+NewYork:Macmillan.
+Guay,D.R.P.,Awni,W.M.,Halstenson,C.E.,Findlay,
+J.W.A.,Opsahl,J.A.,Abraham,P.A.,Jones,E.C.&
+Matzke,G.R.(1987).Pharmacokineticsofcodeineafter
+single-andmultiple-oral-doseadministrationtonormal
+volunteers.J.clin.Pharmac.,27,983-987.
+Guay,D.R.P.,Awni,W.M.,Findlay,J.W.A.,Halstenson,
+C.E.,Abraham,P.A.,Opsahl,J.A.,Jones,E.C.&
+Matzke,G.R.(1988).Pharmacokineticsandpharmaco-
+dynamicsofcodeineinend-stagerenaldisease.Clin.Phar-
+mac.Ther.,43,63-71.
+Hand,C.W.,Blunnie,W.P.,Claffey,L.P.,McShane,A.J.,
+McQuay,H.J.&Moore,R.A.(1987).Potentialanalgesic
+contributionfrommorphine-6-glucuronideinCSF.Lancet,
+ii,1207-1208.
+Hasselstrom,J.,Berg,U.,Lofgren,A.& Sawe,J.(1989).
+Longlastingrespiratorydepressioninducedbymorphine-
+6-glucuronide?Br.J.clin.Pharmac.,27,515-518.
+Joel,S.P.,Osborne,R.J.,Nixon,N.S.& Slevin,M.L.
+(1985).Morphine-6-glucuronide,animportantmetabolite.
+Lancet,i,1099-1100.
+Lasagna,L.&DeKornfeld,T.J.(1958).Analgesicpotencyof
+normorphineinpatientswithpostoperativepain.J.Phar-
+mac.,124,260-263.
+Lennard,M.S.,Silas,J.H.,Smith,A.J.& Tucker,G.T.
+(1977).Determinationofdebrisoquineandits4-hydroxy
+metaboliteinbiologicalfluidsbygaschromatographywith
+flame-ionizationandnitrogen-selectivedetection.J.
+Chromatogr.,133,161-166.
+Mahgoub,A.,Idle,J.R.,Dring,L.G.,Lancaster,R.&
+Smith,R.L.(1977).Polymorphichydroxylationofdebriso-
+quineinman.Lancet,ii,584-586.
+Miller,J.W.& Anderson,H.H.(1954).TheeffectofN-
+demethylationoncertainpharmacologicactionsofmor-
+phine,codeineandmeperidineinthemouse.J.Pharmac.,
+112,191-196.
+Osborne,R.J.,Joel,S.P.&Slevin,M.L.(1986).Morphine
+intoxicationinrenalfailure:theroleofmorphine-6-glucu-
+ronide.Br.med.J.,282,1548-1549.
+Osborne,R.J.,Joel,S.P.,Trew,D.& Slevin,M.(1988).
+Analgesicactivityofmorphine-6-glucuronide.Lancet,i,
+828.
+Osborne,R.,Joel,S.,Trew,D.&Slevin,M.(1990).Morphine
+andmetabolitebehaviorafterdifferentroutesofmorphine
+administration:demonstrationoftheimportanceofthe
+activemetabolitemorphine-6-glucuronide.Clin.Pharmac.
+Ther.,47,12-19.
+Paul,D.,Standifer,K.M.,Inturrisi,C.E.&Pasternak,G.W.
+(1989).Pharmacologicalcharacterizationofmorphine-6p-glucuronide,averypotentmorphinemetabolite.J.Pharmac.
+exp.Ther.,251,477-483.
+Quiding,H.,Anderson,P.,Bondesson,U.,Boreus,L.0.&
+Hynning,P.A.(1986).Plasmaconcentrationsofcodeine
+anditsmetabolite,morphine,aftersingleandrepeatedoral
+administration.Eur.J.clin.Pharmac.,30,673-677.
+Rogers,J.F.,Findlay,J.W.A.,Hull,J.H.,Butz,R.F.,
+Jones,E.C.,Bustrack,J.A.& Welch,R.M.(1982).
+Codeinedispositioninsmokersandnonsmokers.Clin.
+Pharmac.Ther.,32,983-987.
+Sanfilippo,G.(1948).Contributosperimentaleall'ipotesi
+dellasmetilazionedellacodeinenell'organismo.I.Influenze
+delladosesull'assuefazioneallacodeine.II.Assuefazione
+allacodeineattenutaconsomministrazioneprolungatadi
+morfina.Boll.Soc.Ital.Biol.Sper.,24,723-726.
+Sawe,J.(1986).High-dosemorphineandmethadoneincancer
+patients.Clinicalpharmacokineticconsiderationoforal
+treatment.Clin.Pharmacokin.,11,87-106.
+Sawe,J.,Kager,L.,Svensson,J.0.&Rane,A.(1985).Oral
+morphineincancerpatients:invivokineticsandinvitro
+hepaticglucuronidation.Br.J.clin.Pharmac.,19,495-
+501.
+Shimomura,K.,Kamata,O.,Ueki,S.,Ida,S.,Oguri,K.,
+Yoshimura,H.&Tsukamoto,H.(1971).Analgesiceffect
+ofmorphineglucuronides.TohokuJ.exp.Med.,105,45-
+52.
+Sjoqvist,F.(1989a).Polymorphicdrugoxidation- clinical
+implications.Rev.Pharmac.clin.Exp.,6,189-191.
+Sjoqvist,F.(1989b).Slowdrughydroxylation- implications
+forpatientmanagementanddrugutilization.InXenobiotic
+metabolismanddisposition,ed.Kato,R.,Estabrook,R.
+W. & Cayen,M.N.,pp476-482.London:Taylor&
+Francis.
+Steiner,E.,Bertilsson,L.,Sawe,J.,Bertling,I.&Sjoqvist,F.
+(1988).Polymorphicdebrisoquinehydroxylationin757
+Swedishsubjects.Clin.Pharmac.Ther.,44,431-435.
+Sullivan,A.F.,McQuay,H.J.,Bailey,D.& Dickenson,A.
+H.(1989).Thespinalantinociceptiveactionsofmorphine
+metabolites,morphine-6p-glucuronideandnormorphine
+intherat.BrianRes.,482,219-224.
+Svensson,J.0.(1986).Determinationofmorphine,morphine-
+6-glucuronideandnormorphineinplasmaandurinewith
+high-performanceliquidchromatographyandelectro-
+chemicaldetection.I.Chromatogr.,375,174-178.
+Yoshimura,H.,Ida,S.,Oguri,K.& Tsukamoto,H.(1973).
+642 Q.Y.Yue.,etal.
+Biochemicalbasisforanalgesicactivityofmorphine-6,-
+glucuronide-I:Penetrationofmorphine-6-glucuronidein
+thebrainofrats.Biochem.Pharmac.,22,1423-1430.
+Yue,Q.Y.,Sawe,J.,Svensson,J.0.& Sjoqvist,F.(1988).
+InterindividualandinterethnicdifferencesintheO-de-
+methylationandglucuronidationofcodeine- observations
+inChineseandSwedishvolunteers.5thSoutheastAsianand
+WesternPacificRegionalMeetingofPharmacologists.
+Beijing,China,July1988.
+Yue,Q.Y.,Svensson,J.O.,Alm,C.,Sjoqvist,F.&Sawe,J.
+(1989a).Interindividualandinterethnicdifferencesinthe
+demethylationandglucuronidationofcodeine.Br.J.clin.
+Pharmac.,28,629-637.
+Yue,Q.Y.,Svensson,J.O.,Alm,C.,Sjoqvist,F.&Sawe,J.
+(1989b).CodeineO-demethylationco-segregateswithpoly-
+morphicdebrisoquinehydroxylation.Br.J.clin.Pharmac.,
+28,639-645.
+(Received24July1990,
+accepted6December1990)

@@ -1,0 +1,173 @@
+Br.J.clin.Pharmac.(1985),19,843-845
+Chronopharmacokineticsofparacetamolinnormalsubjects
+J.MALAN,J.MONCRIEFF& E.BOSCH
+DepartmentofPharmacology,UniversityofPretoria,Pretoria,RepublicofSouthAfrica
+Thechronopharmacokineticsofparacetamolwas studiedinsixmalevolunteers.Serum
+concentrationsofparacetamolwere determinedafterasingleoraldoseof1g,on three
+occasions,spacedatleast1weekapart.Plasmadrugconcentrationvstimecurveswere
+obtainedafterdosageat08.00h(Day1),14.00h(Day2)and20.00h(Day3),under
+standardizedconditions.Pharmacokineticparameterscomparedwere tl,t1/2,ztma
+CmaxandAUCpO.Nostatisticallysignificantdifferenceswerefound.
+Keywordsparacetamolpharmacokineticschronopharmacology
+Introduction
+Circadianrhythmicchangesinthepharmaco-
+kineticsofseveraldrugshavebeendocumented
+andreviewed(Reinberg&Smolensky,1982).
+Inthecaseofparacetamol,ithasbeennoted
+thattheeliminationhalf-lifewasslightly(15%),
+butsignificantly(P< 0.025)longerinhealthy
+malesat06.00hthanat14.00h(Shively&
+Vesell,1975).
+We decidedtoinvestigateandcompare
+possibledifferencesinpharmacokineticpara-
+meters(t2,,,t½,z,tmaxCmmaandAUCpO)after
+asingledoseofparacetamol,whentakenat
+08.00h,14.00hand20.00h.
+Methods
+Sixhealthynon-smokingadultmalevolunteers
+participatedinthestudy.An opencross-over
+trialdesignwasused,i.e.eachvolunteerserved
+ashisowncontrol.Writteninformedconsent
+wasobtainedandthestudyapprovedbythe
+localEthicsCommittee.
+Onthreeoccasions,spacedatleast1week
+apart,thesubjectstook1gofparacetamol(2x
+500mgtablets:Panadolg)asasingledoseper
+os,with250mltapwater.Onthefirsttrialday,
+medicationwastakenat08.00h,onthesecond
+at14.00handonthethird,at20.00h.
+Thevolunteerswerefastingforatleast8h
+whendosingtookplace.A standardizedmeal
+wasingested2haftermedication.Forthesefirst
+843
+2hofeachstudy,thesubjectsweresupine.No
+othermedicationwaspermittedfortheduration
+oftheproject.Bloodsamplesweredrawnviaan
+indwellingintravenouscannula,beforeandat
+thefollowingintervalsaftermedication:0.25,
+0.5,0.75,1,1.5,2,2.5,3,3.5,4,6and8h.
+Thesampleswereassayedbyh.p.l.c.usinga
+rapidmicromethoddevelopedinthedepart-
+ment,utilizingreversephaseseparationand
+u.v./VISspectrophotometricdetectionat
+247nm,withaminophyllineasinternalstandard.
+Internalstandardwasaddedto100ILserum
+inacentrifugetubetogiveaconcentrationof20
+t.g/ml.Theproteinwasthenprecipitatedwith
+10%perchloricacidand,aftershaking,thetube
+wasspunat3000rev/minfor3minand100,ulof
+theclearsupernatantwasinjectedontotheC18
+reversephasecolumnandelutedwith6%ace-
+tonitrileinpH3phosphatebufferataflowrate
+of2.5mlminandacolumntemperatureof370C.
+Thedrugwasdetectedat247nmandquantified
+fromthestandardscurveonthebasisofpeak
+heightratio.Thedetectionlimitwas0.1p.g/mlandthedeviationwas±0.1atthe5,ug/mllevel.
+Theresponsewaslinearfrom0.5,ug/ml-50,ug/
+mlwithacorrelationcoefficientof1.000.
+Datawereprocessedby'CSTRIP',acom-
+puterprogramforobtaininginitialpoly-
+exponentialparameterestimates(Sedman&
+Wagner,1976).TheFriedmantestwasusedtodetermine
+statisticallysignificantdifferences.AP-valueof
+c0.05wasregardedasindicativeofsignificance.
+844 J.Malan,J.Moncrieff&E.Bosch
+Results
+Themeanvalues(n=6)ofthefollowingphar-
+macokineticparametersaresummarizedin
+Table1andillustratedgraphicallyinFigure1:
+t/2,a7,t%2tmax,CmaxandAUCpo
+Table1 Results(meanvaluesands.d.)ofpharmaco-
+kineticdataevaluated
+Mean
+Parameter Day (n=6) s.d.
+t,,,(h) 1 0.2 0.1
+2 0.2 0.0
+3 0.2 0.1
+t½,2z(h) 1 2.4 0.4
+2 2.3 0.5
+3 2.5 0.2
+tmax(h) 1 0.8 0.2
+2 0.9 0.3
+3 1.0 0.1
+Cmax 1 9.0 2.8
+(Fig/ml) 2 9.4 3.4
+3 8.7 1.6
+AUCpO 1 33.0 10.4
+(mgml-h) 2 34.8 14.9
+3 35.2 8.3
+Day1= medicationgivenat08.00h,
+Day2= medicationgivenat14.00hand
+Day3= medicationgivenat20.00h
+Ithasbeenestablishedthattherearecircadian
+changesofdrugdispositioninman (Reinberg&
+Smolensky,1982).Thesechronopharmaco-
+kineticdifferencesmay beoftherapeuticimpor-
+tanceinsome cases,e.g.forindomethacin
+(Clenchetal.,1981;Guissouetal.,1983)and
+theophylline(Leskoetal.,1980).
+Itwas previouslyreportedthattheterminal
+eliminationhalf-life(to/2z)Ofparacetamolwas
+significantlylongerinnormalvolunteerswhen
+givenat06.00hthanat14.00h(131.18minat
+06.00h;114 9.8minat14.00h;decreaseequal
+to± 15%,P< 0.025)(Shively&Vesell,1975).
+Thiswaspresumedtobeduetoachangeinthe
+volumeofdistribution.Ithasalsobeenclaimed
+thatparacetamolabsorptionwasfivetimesmore
+rapidafteran overnightfastthanaftercon-
+comitantingestionofahighcarbohydratebreak-
+fast(McGilveray& Mattok,1972).
+Ourstudywasdoneunderrigidlycontrolled
+andstandardizedconditions.Itisclearthatno
+statisticallysignificantdifferenceswere found
+betweenthepharmacokineticparametersstudied,
+andthattimeofdosingdidnotseem tocause
+influentialchangesintheabsorptionanddis-
+positionpatternofparacetamol.
+10
+8
+ | N
+E
+CD
+:u
+ 6
+E
+co
+C/)
+2
+0 1 2 3 4 5 6 7 8
+Time(h)
+Figure1 Meanserumconcentrationsofparacetamolafteradministrationat08.00h(v),14.00h(0)and
+20.00h(-).
+Discussion
+Shortreport845
+References
+Clench,J.,Reinberg,A.,Dziewanowska,Z.,Ghata,
+J.& Smolensky,M.(1981).Circadianchangesin
+thebioavailabilityandeffectsofindomethacinin
+healthysubjects.Eur.J.clin.Pharmac.,20,359-
+369.
+Guissou,P.,Cuisinaud,G.,Llorca,G.,Lejeune,E.&
+Sassard,J.(1983).Chronopharmacokineticstudy
+ofaprolongedreleaseformofindomethacin.Eur.
+J.clin.Pharmac.,24,667-670.
+Lesko,L.J.,Brousseau,D.,Canada,A.T.& East-
+wood,G.(1980).Temporalvariationsintrough
+serumtheophyllineconcentrationsatsteadystate.
+J.pharm.Sci.,69,358-359.
+McGilveray,I.J.& Mattok,G.L.(1972).Some
+factorsaffectingtheabsorptionofparacetamol.J.
+Pharm.Pharmac.,24,615-619.
+Reinberg,A.& Smolensky,M.H.(1982).Circadian
+changesofdrugdispositioninman.Clin.Phar-
+macokin.,7,401-420.
+Sedman,A.J.& Wagner,J.G.(1976).CSTRIP,a
+FortranIVcomputerprogramforobtainingInitial
+PolyexponentialParameterEstimates.J.pharm.
+Sci.,65,1007-1010.
+Shively,C.A.&Vesell,E.S.(1975).Temporalvaria-
+tionsinacetaminophenandphenacetinhalf-lifein
+man.Clin.Pharmac.Ther.,18,413-424.
+(ReceivedOctober24,1984,
+acceptedFebruary5,1985)

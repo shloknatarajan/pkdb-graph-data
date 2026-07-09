@@ -1,0 +1,1011 @@
+Plasma and Oral Fluid Pharmacokinetics and
+Pharmacodynamics after Oral Codeine
+Administration
+Insook Kim,1 Allan J. Barnes, 1 Jonathan M. Oyler, 1 Raf Schepers,1
+Robert E. Joseph, Jr., 2 Edward J. Cone, 3 Diana Lafko,1 Eric T. Moolchan, 1 and
+Marilyn A. Huestis 1*
+Background: The ease, noninvasiveness, and safety of
+oral fluid collection have increased the use of this
+alternative matrix for drugs-of-abuse testing; however,
+few controlled drug administration data are available to
+aid in the interpretation of oral fluid results.
+Methods: Single oral codeine doses (60 and 120 mg/70
+kg) were administered to 19 volunteers. Oral fluid and
+plasma were analyzed for free codeine, norcodeine,
+morphine, and normorphine by solid-phase extraction
+combined with gas chromatography–mass spectrometry
+(SPE/GC-MS). Physiologic and subjective effects were
+examined.
+Results: Mean (SE) peak codeine concentrations were
+214.2 /H1155027.6 and 474.3 /H1155077.0
+/H9262g/L in plasma and 638.4 /H11550
+64.4 and 1599.3 /H11550241.0 /H9262g/L in oral fluid. The oral
+fluid-to-plasma ratio for codeine was relatively constant
+(/H110114) from 1 to 12 h. The mean half-life ( t
+1/2) of codeine
+was 2.2 /H115500.10 h in plasma and 2.2 /H115500.16 h in oral fluid.
+Significant dose-related miosis and increases in seda-
+tion, psychotomimetic effect, and “high” occurred after
+the high dose. Mean codeine oral fluid detection time
+was 21 h with a 2.5
+/H9262g/L cutoff, longer than that of
+plasma (12–16 h). Detection times with the proposed
+Substance Abuse and Mental Health Services Adminis-
+tration cutoff (40
+/H9262g/L) were only 7 h. Norcodeine, but
+not morphine or normorphine, was quantified in both
+plasma and oral fluid.
+Conclusions: The disposition of codeine over time was
+similar in plasma and oral fluid, but because of high
+variability, oral fluid codeine concentrations did not
+reliably predict concurrent plasma concentrations. Oral
+fluid testing is a useful alternative matrix for monitor-
+ing codeine exposure with a detection window of 7–21 h
+for single doses, depending on cutoff concentrations.
+These controlled drug administration data should aid in
+the interpretation of oral fluid codeine results.
+© 2002 American Association for Clinical Chemistry
+Traditional matrices for drugs-of-abuse testing are urine
+and plasma, but interest in oral fluid monitoring has
+increased because of the ease and noninvasiveness of
+specimen collection. Disadvantages of urine testing in-
+clude concentration variations attributable to changing
+fluid intake and a greater possibility for adulteration or
+substitution. Oral fluid collection can be readily observed
+without loss of privacy, reducing or eliminating the risk of
+an invalid specimen. Although plasma specimens provide
+an estimate of the actual circulating concentrations of
+analytes, blood collection is invasive, causes discomfort,
+and exposes the individual to the risk of infection. Mon-
+itoring of oral fluid maybe especially advantageous and
+important when multiple serial samples are needed or
+when drug concentrations in children are required.
+Earlier studies demonstrated that many therapeutic
+drugs are transferred rapidly from plasma to saliva by
+drug transport across biological membranes ( 1 –6). Drug
+entry into oral fluid is dependent on the physicochemical
+characteristics of the drug molecule (lipid solubility, de-
+gree of ionization, molecular size) and the membrane. It is
+generally presumed that the drug concentration in oral
+fluid corresponds to the concentration of free or unbound
+drug in the plasma, the physiologically active drug com-
+ponent. Lipid-soluble basic drugs that are not extensively
+bound to plasma proteins preferentially partition into oral
+1 Chemistry and Drug Metabolism, Intramural Research Program, Na-
+tional Institute on Drug Abuse, NIH, 5500 Nathan Shock Dr., Baltimore, MD
+21224.
+2 Clinical Affairs, Amgen Inc., 1 Amgen Center Dr., Thousand Oaks, CA
+91320-1799.
+3 ConeChem Research, 441 Fairtree Dr., Severna Park, MD 21146.
+*Author for correspondence. Fax 410-550-2971; e-mail mhuestis@intra.
+nida.nih.gov.
+Received March 18, 2002; accepted May 9, 2002.
+Clinical Chemistry 48:9
+1486 –1496 (2002) Drug Monitoring and
+Toxicology
+1486
+fluid. In addition, oral fluid (pH 6.5–7.2) is generally more
+acidic than plasma; consequently, basic drugs will parti-
+tion in oral fluid at higher concentrations than in plasma
+(7, 8).
+Oral fluid testing has been used for therapeutic drug
+monitoring of phenytoin, antipyrine, primidone, ethosux-
+imide, and theophylline concentrations (9–14 ). Oral fluid
+testing has also been developed for drugs of abuse,
+including amphetamines, barbiturates, cannabinoids, co-
+caine, diazepam, lysergic acid diethylamide, opioids, and
+phencyclidine (15–17 ). Therefore, oral fluid may be a
+viable alternative testing matrix to plasma for drug treat-
+ment, workplace drug testing, child custody cases, driv-
+ing under the influence, and criminal investigations.
+Nonstimulated oral fluid samples can be collected by
+expectoration or draining oral fluid into a tube. Stimu-
+lated oral fluid samples have been conventionally ob-
+tained by chewing Parafilm wax or Teflon or through
+exposure of the oral cavity to citric acid candy or crystals.
+In addition, several oral fluid collection devices and
+techniques, such as Salivette
+®, OraSure ®, and the Oral-
+Diffusion-Sink device, have been developed to facilitate
+and standardize oral fluid sampling. The advantages and
+disadvantages of several of these new devices that utilize
+absorbent cotton swabs, rolls, or salt solutions to collect
+oral fluid have been reviewed recently (18, 19 ).
+Codeine is an opiate commonly prescribed for pain
+relief and for cough suppression. Although widely used
+for therapy, codeine is also abused for its euphoric and
+depressant effects and to prevent opiate withdrawal (20–
+23 ). Because of increasing abuse and potential perfor-
+mance-impairing effects, codeine is included in workplace
+and military drug testing programs. Recently, the Sub-
+stance Abuse and Mental Health Services Administration
+(SAMHSA)
+4 suggested a 40 /H9262g/L screening and confir-
+mation cutoff concentration for federally mandated test-
+ing for codeine in oral fluid.
+Although several studies have addressed the disposi-
+tion of codeine in plasma and oral fluid after single or
+multiple doses (7, 24–28 ), there remain many questions
+on codeine oral fluid pharmacokinetics and on the corre-
+lation of drug concentration to concurrent physiologic
+and behavioral effects. This controlled clinical drug ad-
+ministration study evaluates these relationships and de-
+termines the sensitivity and detection time of codeine in
+oral fluid.
+Materials and Methods
+human participants
+Twelve male and 7 female healthy volunteers participated
+in the controlled drug administration protocol. Of the 19
+participants, 14 were African American, 3 were Cauca-
+sian, and 2 were Hispanic. Their mean (SE) age was 34.8/H11006
+1.1 years (range, 23–43 years) with a mean (SE) weight of
+78.0 /H110063.4 kg (range, 56.6 –106.5 kg). The protocol was
+approved by the National Institute on Drug Abuse Insti-
+tutional Review Board. Participants provided written
+informed consent and were paid for their participation.
+Screening procedures included a comprehensive physical
+and psychologic examination. Participants reported a
+history of cocaine and opioid use, verified by a positive
+urine test before admission, and were not physically
+dependent on drugs or medications, with the possible
+exception of nicotine and caffeine. During the 10-week
+study, all participants resided on the closed research unit
+of the Intramural Research Program, National Institute on
+Drug Abuse.
+drug administration
+Codeine sulfate for oral human administration was ob-
+tained from Roxane Laboratories and was prepared in
+polished lactose capsules (Amend Drug and Chemical
+Co.). Participants were admitted to the research unit 20
+days before the first scheduled dose to permit previously
+self-administered drugs to be cleared from the body.
+Three low doses (60 mg/70 kg) and three high doses (120
+mg/70 kg) of codeine sulfate were taken within 7 days
+(minimum separation of 48 h) in weeks 4 and 8, respec-
+tively.
+plasma and oral fluid specimens
+Whole-blood samples were withdrawn with a syringe
+through an indwelling catheter in the antecubital vein and
+collected in Vacutainer Tubes containing sodium fluoride
+and acetic acid. Standard green top (sodium lithium)
+Vacutainer Tubes were supplemented with 25
+/H9262Lo f
+saturated sodium fluoride and 25 /H9262L of 100 g/L acetic
+acid per milliliter of blood to improve the stability of
+cocaine in blood. These specimens were analyzed for
+cocaine and metabolites in addition to the opiate analytes
+required for this study. Specimens were placed on ice and
+centrifuged (2060 g for 10 min) to separate the plasma.
+Plasma was transferred to polypropylene cryotubes and
+frozen at /H1100220 °C until analysis. Specimens were collected
+at the following times: predose, 0.08, 0.17, 0.25, 0.50, 1, 2,
+4, 8, 12, 24, and 48 h after the first drug administration.
+Citric acid candy-stimulated oral fluid specimens were
+obtained at the same time points after the first codeine
+dose. Oral fluid was also collected with citric acid candy
+stimulation at the same time points after the second and
+third doses in four participants to study intrasubject
+variability (group I). In a second group of four partici-
+pants (group II), three oral fluid collection methods were
+used to study drug concentrations with different collec-
+4 Nonstandard abbreviations: SAMHSA, Substance Abuse and Mental
+Health Services Administration; BSTFA, N,O-bis(trimethyl)trifluoroacetamide;
+TMCS, trimethylchlorosilane; MTBSTFA, N-methyl-N-(tert-butyldimethylsilyl)-
+trifluoroacetamide; TBDMCS, tert-butyldimethylchlorosilane; SPE, solid-phase
+extraction; GC-MS, gas chromatography –mass spectrometry; LOD, limit of
+detection; LOQ, limit of quantification; S/P, oral fluid/plasma; cmax, peak
+concentration; tmax, time of peak concentration; t1/2, half-life; AUC, area under
+the curve; ARCI, Addiction Research Center Inventory; SDQ, Single Dose
+Questionnaire; VAS, Visual Analog Scales; PCAG, Phenobarbital-Chlorprom-
+azine-Alcohol group; and LSD, lysergic acid diethylamide.
+Clinical Chemistry 48, No. 9, 2002 1487
+tion methods. Oral fluid was collected with citric acid
+candy stimulation after the first dose, with the Salivette
+citric acid-treated cotton swab after the second dose, and
+with the Salivette neutral cotton swab after the third dose.
+Specimens collected with the Salivette devices were cen-
+trifuged in conical tubes to release oral fluid from the
+cotton. Subsequently, oral fluid was transferred to
+polypropylene cryotubes and frozen at /H1100220 °C until anal-
+ysis.
+chemicals and reagents
+Chemicals were obtained from the following sources:
+codeine /H18528PO
+4,[ 2H3]codeine hydrochloride /H185282H 2O,
+norcodeine hydrochloride /H185283H 2O, morphine sulfate,
+[2H3]morphine hydrochloride /H185283H 2O, and normorphine
+hydrochloride /H18528H2O were from Sigma Chemicals; N,O-
+bis(trimethyl)trifluoroacetamide (BSTFA) containing 1%
+trimethylchlorosilane (TMCS) and N-methyl-N-(tert-bu-
+tyldimethylsilyl)trifluoroacetamide (MTBSTFA) with 1%
+tert-butyldimethylchlorosilane (TBDMCS) were from
+Pierce Chemical. Deuterated codeine was used as the
+internal standard for codeine and norcodeine, and deu-
+terated morphine was used as the internal standard for
+morphine and normorphine. Solid-phase extraction (SPE)
+columns (Clean Screen ZSDAU020) and filtration col-
+umns (RFV02F4P) were obtained from United Chemical
+Technologies. Solvents were HPLC grade and purchased
+from the following sources: methylene chloride, 2-propa-
+nol, and acetonitrile were from Mallinckrodt Baker Inc.;
+and methanol was from Fisher Scientific. Sodium acetate,
+acetic acid, ammonium hydroxide, and hydrochloric acid
+were A.C.S. reagent grade and were obtained from
+Mallinckrodt Baker.
+analytical procedure
+Calibrators and quality-control, oral fluid, and plasma
+samples were analyzed for codeine, norcodeine, mor-
+phine, and normorphine by SPE and gas chromatog-
+raphy–mass spectrometry (GC-MS) according to a previ-
+ously published procedure (29 ). Calibrators were
+prepared at drug concentrations from 1.25 to 1000
+/H9262g/L
+in drug-free oral fluid or plasma for codeine and its
+metabolites. Drug-free oral fluid was collected from
+healthy volunteers, and drug-free plasma was purchased
+from Red Cross Blood Services. We verified these matrices
+to be drug free [below the limit of detection (LOD) of the
+method] before preparation of calibrators and controls.
+Drug-free oral fluid and plasma were enriched with
+different stock solutions of codeine, norcodeine, mor-
+phine, and normorphine at 0, 12.5, 25, and 250
+/H9262g/L to
+prepare quality-control samples. Briefly, for the extrac-
+tion, 1 mL of calibrator, control, and clinical samples was
+mixed with 2 mL of sodium acetate buffer (2 mol/L, pH
+4). [
+2H3]Codeine and [2H3]morphine were added as inter-
+nal standards (100 /H9262L of a 1 mg/L solution) to each
+sample. The SPE columns were preconditioned in the
+following order: 1 mL of methylene chloride–2-propanal–
+concentrated ammonium hydroxide (80:20:2 by volume),
+3 mL of methanol, twice with 3 mL of deionized water,
+and 1.5 mL of 2 mol/L sodium acetate buffer (pH 4). After
+centrifugation of samples, the supernatant was decanted
+onto preconditioned SPE cartridges and washed with 2
+mL of deionized water, 1.5 mL of 0.2 mol/L hydrochloric
+acid, and twice with 1 mL of methanol. Analytes were
+eluted four times with 1 mL of methylene chloride –2-
+propanol–concentrated ammonium hydroxide (80:20:2 by
+volume), and eluates were combined. After the addition
+of 20
+/H9262L of MTBSTFA /H110011% TBDMCS, eluates were
+evaporated to dryness under nitrogen, reconstituted with
+20
+/H9262L of acetonitrile, and transferred to autosampler vials
+for dual derivatization. After the addition of 20 /H9262Lo f
+MTBSTFA /H110011% TBDMCS, vials were loosely capped and
+placed in a heat block at 80 °C for 15–20 min. BSTFA /H110011%
+TMCS (20 /H9262L) was added to each vial, and extracts were
+crimp-capped and heated at 80 °C for 45 min. A dual
+derivatization procedure was used because the trimethyl-
+silyl derivatives of morphine and norcodeine have com-
+mon mass fragments and partially coelute when nonpolar
+GC phases are used for separation with single-step tri-
+methylsilane derivatization. The derivatized extract (1
+/H9262L)
+was injected onto the GC-MS system in the electron
+impact mode. Specimens were analyzed with the low
+(2.5–50
+/H9262g/L) or high calibration curve (50 –500 /H9262g/L).
+Split curves were required to obtain adequate sensitivity
+and linearity ( r /H113500.98) for the four analytes.
+GC-MS analysis was performed on a Hewlett-Packard
+5890A gas chromatograph interfaced with a Hewlett-
+Packard 5972 mass-selective detector or a Hewlett-Pack-
+ard 6890 gas chromatograph interfaced with a Hewlett-
+Packard 5973 mass-selective detector. The instruments
+were operated in the splitless mode. Separation of ana-
+lytes was achieved with a HP-1 [12 m /H110030.2 mm (i.d.);
+0.33-
+/H9262m film thickness] or Phenomenex ZB1 fused-silica
+capillary column [15 m /H110030.2 mm (i.d.); 0.25- /H9262m film
+thickness] with helium as carrier gas at a flow rate of 1.0
+mL/min. The initial column temperature of 70 °C was
+held for 1.5 min, followed by increases to 175 °Ca t
+30 °C/min, to 250 °Ca t2 3 °C/min, and to 325 °Ca t
+18 °C/min with a 1.0-min final hold time. The mass
+spectrometer was operated in the electron impact mode
+with a dwell time of 10 ms/ion. Three ions for each
+analyte were monitored. The ions for each compound
+were (quantitative ion indicated in parentheses):
+[
+2H3]codeine, m/z (374), 237, 181; codeine, m/z (371), 234,
+178; norcodeine, m/z (429), 254, 292; [ 2H3]morphine, m/z
+(417), 474, 281; morphine, m/z (414), 471, 278; and normor-
+phine, m/z (472), 529, 350. Ion ratios of quality-control
+samples and participant samples were required to be
+within /H1100620% of those observed for the 10- and 100-ng
+calibrators for the low and high calibration curves, respec-
+tively. The upper limit of linearity for the high calibration
+curve was 500
+/H9262g/L; specimens that exceeded 500 /H9262g/L
+were diluted with blank oral fluid or plasma and reex-
+tracted and analyzed.
+1488 Kim et al.: Codeine Plasma and Oral Fluid Pharmacokinetics
+The LOD of the method was defined as the lowest
+concentration at which signal-to-noise ratios of the iden-
+tifying ions (determined by peak height) were /H110223:1,
+chromatography and retention time were acceptable, and
+three of four replicates at specified concentrations had ion
+ratios within /H1100620% of those observed for the 10-ng
+calibrator. The limit of quantification (LOQ) was the
+lowest concentration that met LOD criteria plus the re-
+quirement that three of four replicates quantify within /H11006
+20% of the target concentration. The LOD and LOQ of the
+method were 2.5
+/H9262g/L for all analytes. Interassay preci-
+sion and accuracy data for codeine and its metabolites
+were determined for three concentrations (12.5, 25, and
+250
+/H9262g/L) in plasma and oral fluid. The interassay CVs
+for plasma (n /H1100510 runs; 2 –3 replicates per run) were as
+follows: codeine, 13%, 13%, and 7.8%, respectively; nor-
+codeine 13%, 13%, and 13%; morphine 13%, 8.7%, and
+13%; normorphine 8.0%, 13%, and 15%. Interassay CVs
+were as follows for oral fluid: codeine, 8.7%, 7.0%, and
+5.1%; norcodeine, 23%, 30%, and 10%; morphine, 11%,
+7.7%, and 16%; and normorphine, 29%, 25%, and 18%.
+oral fluid:plasma (s/p) and norcodeine:codeine
+(ncod:cod) ratios
+The S/P ratio was calculated by dividing the oral fluid
+drug concentration by the plasma drug concentration for
+specimens collected at the same time after codeine admin-
+istration. NCOD:COD ratios were obtained by dividing
+norcodeine by codeine concentrations and multiplying by
+100.
+pharmacokinetic analysis
+Peak plasma and oral fluid concentrations ( cmax) and the
+time of peak concentration ( tmax) were obtained directly
+from the concentration –time data. Elimination half-lives
+(t1/2) were calculated as t1/2 /H11005ln2//H9261, where the elimina-
+tion rate constant (/H9261) was calculated from the slope of the
+terminal portion of the semilogarithmic concentration –
+time curve by linear regression analysis. The areas under
+the plasma or oral fluid concentration –time curves
+(AUCs) were calculated by the linear trapezoidal rule for
+24 h after drug administration. Plasma and oral fluid
+pharmacokinetic parameters were derived by noncom-
+partmental methods with the use of WinNonlin Profes-
+sional software (Ver. 3.2; Pharsight Co.). Uniform weight-
+ing for all data points was used throughout the analysis.
+data analysis
+Data are represented as mean /H11006SE. Statistical analysis
+was performed by SPSS software (Ver. 10.0; SPSS Inc.).
+For plasma and oral fluid drug concentrations, multivar-
+iate ANOVA was used for statistical analysis of the data.
+For physiologic and subjective effect data, repeated-mea-
+sures ANOVA was used. Factors were dose (60 and 120
+mg/70 kg of codeine) and time (hours after drug admin-
+istration). Statistical significance was assumed when P
+was /H113490.05. Separate paired t-tests or post hoc t-tests were
+performed between placebo and effects at each codeine
+dose when dose and dose /H11003time effects were significant.
+physiologic and behavioral measurements
+Participants underwent physiologic measurements before
+and 0.08, 0.17, 0.25, 0.5, 1, 2, 4, 8, and 12 h after placebo
+and oral codeine administration. Physiologic measure-
+ments included pupil size, systolic and diastolic blood
+pressure, pulse, skin temperature, respiration, blood oxy-
+genation, and core temperature. Each participant also
+completed self-rating subjective scales before and 0.08,
+0.17, 0.25, 0.5, 1, 2, 4, an d 8 h after dosing. The Addiction
+Research Center Inventory (ARCI) (30 ), Single Dose
+Questionnaire (SDQ) (31 ), and Visual Analog Scales
+(VAS) were used to assess subjective effects. ARCI self-
+rating subjective subscales consisted of the Morphine-
+Benzedrine group, Phenobarbital-Chlorpromazine-Alco-
+hol group (PCAG), and Lysergic Acid Diethylamide
+(LSD) and the Opiate Withdrawal Subscale. The SDQ,
+modified to provide only subject ratings, consisted of 14
+items that were rated on a scale from 0 (no) to 1 (yes)
+including “feel drug”, “normal”, “skin itchy”, “relaxed”,
+“coasting”, “nodding”, “high”, “sleepy”, “drunken”,
+“nervous”, “drive”, “soap box”, “turning stomach”, and
+“pleasant sick”. VAS assessed the following effects: “stim-
+ulated”, “high”, “anxious”, “sedated”, “down”, and
+“hungry”. Participants marked a line on a scale ranging
+from 0 mm (not at all) to 100 mm (extremely) to indicate
+how they felt at that moment.
+Results
+codeine and metabolite concentrations in
+plasma
+Codeine was the primary analyte detected in plasma.
+Mean codeine plasma concentrations-vs-time curves (n /H11005
+16 for low dose; n /H1100514 for high dose) are illustrated in
+Fig. 1A. All specimens collected before drug administra-
+tion were negative for codeine and metabolites. Plasma
+data were not available for 3 of the 19 participants because
+of phlebotomy problems. Codeine was initially detected
+between 0.17 and 1 h, with a mean of 0.5 /H110060.07 h for the
+low dose and 0.4 /H110060.04 h for the high dose. Plasma
+codeine concentrations peaked between 0.5 an d4ha ta
+mean of 1.3 /H110060.22 h and 1.2 /H110060.18 h for the low and high
+doses, respectively. The mean plasma codeine c
+max was
+214.2 /H1100627.6 /H9262g/L (range, 66.1 –413.2) after the low dose
+and 474.3 /H1100677.0 /H9262g/L (range, 184.0–1158.1) after the high
+dose. Plasma codeine concentration was significantly re-
+lated to dose from 0.5 t o8h( P /H110210.05). The mean
+pharmacokinetic parameters for codeine are shown in
+Table 1. The mean t
+1/2 of codeine in plasma (n /H1100514) was
+2.1 /H110060.08 h (range, 1.5 –2.7 h), and 2.4 /H110060.18 h (range,
+1.4–3.5 h) for low and high doses, respectively. The AUCs
+for codeine were 734 /H1100666 and 1800 /H11006222 h /H18528/H9262g/L for the
+60 and 120 mg/70 kg doses, respectively, also demon-
+strating a significant dose –concentration relationship
+(P /H110050.001).
+Clinical Chemistry 48, No. 9, 2002 1489
+Morphine and normorphine were not detected in any
+specimen based on the method LOQ of 2.5 /H9262g/L; how-
+ever, norcodeine was detected in the plasma after all drug
+doses except for one participant after the low codeine
+dose. Mean norcodeine plasma concentrations vs time
+after oral administration of 60 and 120 mg/70 kg codeine
+sulfate are illustrated in Fig. 1B. Norcodeine was initially
+detected from 0.17 and 2 h after codeine administration at
+a mean of 0.7 /H110060.14 h for the low dose and 0.6 /H110060.08 h
+for the high dose, slightly later than initial detection of the
+parent drug. Plasma norcodeine concentrations peaked
+between 0.5 and 4 h, with a mean peak time of 1.4/H110060.26 h
+after the low dose and 1.5/H110060.17 h after the high dose. The
+mean c
+max for norcodeine was 12.2 /H110061.5 /H9262g/L (range,
+4.2–26.1) and 33.4 /H110064.2 /H9262g/L (range, 9.2 –63.0) for low
+and high doses, respectively. There was a significant
+nonlinear dose–concentration relationship for mean nor-
+codeine in plasma between 0.5 an d8h( P /H110210.05). The
+mean pharmacokinetic parameters for norcodeine in
+plasma and oral fluid are shown in Table 1. The mean t
+1/2
+for norcodeine in plasma was 4.3 /H110060.61 h (range, 2.0 –8.6
+h) for the low dose and 4.3 /H110060.45 h (range, 2.7–6.9 h) for
+the high dose; two to three times longer than that of
+codeine. The mean AUCs for norcodeine in plasma were
+84 /H1100616 and 232 /H1100634 h /H18528/H9262g/L for the low and high doses,
+respectively, and a significant dose –AUC relationship in
+plasma was observed ( P /H110210.001). NCOD:COD ratios
+increased over time during elimination (Fig. 2), indicating
+a longer t
+1/2 for the metabolite compared with the parent
+drug. NCOD:COD ratios ranged from 2% to 46% between
+0.5 and 8 h after codeine ingestion.
+codeine and metabolites in oral fluid
+The time course of codeine concentration in oral fluid was
+similar to that seen in plasma (Fig. 1A). Generally, codeine
+concentrations were higher in oral fluid than in plasma (P
+/H110210.05 for both doses from 0.5 to 8 h). Codeine was initially
+detected in oral fluid between 0.08 and 1.0 h with a mean
+of 0.5 /H110060.05 h for the low dose and 0.4 /H110060.05 h for the
+high dose, comparable to initial detection in plasma. Oral
+fluid concentrations peaked at 0.5 –4 h with a mean of
+1.7 /H110060.23 h and 1.6 /H110060.14 h with concentrations of
+638.6 /H1100664.4
+/H9262g/L (range, 184.0 –1288.8 /H9262g/L) and
+1599.3 /H11006241.0 /H9262g/L (range, 619.6 –3350.2 /H9262g/L) after the
+60 and 120 mg/70 kg doses, respectively. There were
+significant dose –concentration relationships for codeine
+Fig. 1. Mean concentrations of codeine ( A)
+and norcodeine ( B) in plasma and oral fluid
+after a single dose.
+/H18554, plasma concentration after 60 mg/70 kg dose
+of codeine (n /H1100516 for codeine; n /H1100513 for
+norcodeine); E, plasma concentration after 120
+mg/70 kg dose (n /H1100514 for codeine; n /H1100513 for
+norcodeine); Œ, oral fluid concentration after 60
+mg/70 kg dose (n /H1100519 for codeine; n /H1100517 for
+norcodeine); /H12135, oral fluid concentration after 120
+mg/70 kg dose (n /H1100513 for codeine; n /H1100513 for
+norcodeine). Bars, SE.
+Table 1. Mean pharmacokinetic parameters for codeine and norcodeine in plasma and oral fluid.
+Dose,
+mg/70 kg n cmax,a /H9262g/L tmax,a h t1/2,a h
+AUC24,a,b
+h /H18528/H9262g/L
+Codeine
+Plasma 60 16 214.2 /H1100627.6 1.3 /H110060.22 2.1 /H110060.08 734 /H1100666
+120 14 474.3 /H1100677.0 1.2 /H110060.18 2.4 /H110060.18 1800 /H11006222
+Oral fluid 60 19 638.6 /H1100664.4 1.7 /H110060.23 2.5 /H110060.21 2612 /H11006408
+120 13 1599.3 /H11006241.0 1.6 /H110060.14 1.8 /H110060.19 5827 /H11006766
+S/P ratio 60 14 3.4 /H110060.6
+120 13 4.1 /H110060.8
+Norcodeine
+Plasma 60 13 12.2 /H110061.5 1.4 /H110060.26 4.3 /H110060.61 84 /H1100616
+120 13 33.4 /H110064.2 1.5 /H110060.17 4.3 /H110060.45 232 /H1100634
+Oral fluid 60 17 17.1 /H110063.1 2.1 /H110060.31 7.9 /H110062.17 144 /H1100640
+120 13 46.7 /H1100617.0 2.4 /H110061.19 4.6 /H110061.11 279 /H1100697
+a Data are mean /H11006SE.
+b AUC24, AUC for 24 h.
+1490 Kim et al.: Codeine Plasma and Oral Fluid Pharmacokinetics
+in oral fluid collected from 0.5 t o 4 h after oral adminis-
+tration ( P /H110210.05). The mean t1/2 of codeine in oral fluid
+was 2.5 /H110060.21 h (range, 1.0 –3.8 h) for the low dose and
+1.8 /H110060.19 h (range, 1.2–3.1 h) for the high dose. The AUCs
+for codeine in oral fluid were 2612 /H11006408 and 5827 /H11006766
+h /H18528/H9262g/L for the low and high doses, respectively, dem-
+onstrating a significant dose –AUC relationship for co-
+deine in oral fluid ( P /H110210.001).
+Morphine and normorphine were not detected in oral
+fluid at the LOQ of 2.5 /H9262g/L in any specimen. Norcodeine
+was not detected in oral fluid in 2 of 19 participants after
+the low dose of codeine despite paired plasma sample
+concentrations of 3.9 –12.5
+/H9262g/L. Mean initial detection
+times for norcodeine in oral fluid were 1.0 /H110060.13 h after
+administration of the low dose and 0.8 /H110060.12 h after
+administration of the high dose. The mean norcodeine
+t
+max in oral fluid occurred later than the plasma tmax and
+was 2.1 /H110060.31 and 2.4 /H110060.33 h after administration of the
+low and high doses, respectively. The mean norcodeine
+cmax was 17.1 /H110063.1 /H9262g/L (range, 3.9–58 /H9262g/L) after the 60
+mg/70 kg dose and 46.7 /H1100617.0 /H9262g/L (range, 10.3 –191.2
+/H9262g/L) after the 120 mg/70 kg dose of codeine sulfate. The
+mean disposition profile of norcodeine in oral fluid fol-
+lowed a time course similar to that in plasma (Fig. 1B).
+The mean t
+1/2 of norcodeine in oral fluid was 7.9 /H110062.17 h
+for the low dose (range, 1.6 –30.9 h) and 4.6 /H110061.11 h for
+the high dose (range, 2.1 –9.5 h) and was longer than that
+of codeine. The AUCs for norcodeine in oral fluid were
+144 /H1100640 and 279 /H1100697 h /H18528
+/H9262g/L for the low and high
+doses, respectively. The NCOD:COD ratio in oral fluid
+increased over time, ranging from 0.3% to 31% between
+0.5 and 8 h after administration.
+codeine and norcodeine s/p ratios
+The S/P codeine concentration ratios are illustrated as a
+function of time after drug administration in Fig. 3A.
+Except for early in the time course during codeine absorp-
+tion and distribution, S/P ratios were /H110221. Codeine S/P
+ratios increased up t o 1 h and then were relatively
+constant from 1 to 12 h, with a mean ratio of 4.0 /H110060.5
+(range, 1.1 –17.2) for the low dose and 4.1 /H110060.5 (range,
+0.6–16.4) for the high dose. In addition, the mean codeine
+AUC S/P ratios were 3.4 /H110060.6 (range, 1.3–7.6) for the low
+dose and 4.1 /H110060.8 (range, 1.0 –10.4) for the high dose. As
+shown in Fig. 4, oral fluid codeine concentrations were
+significantly correlated to plasma codeine concentrations
+from 0.5 to 12 h after dosing ( r /H110050.22; P /H110210.0001).
+Higher variability in norcodeine oral fluid concentra-
+tions produced greater variability in norcodeine S/P
+ratios. Mean norcodeine S/P ratios for the low dose (1.7 /H11006
+0.3) tended to be higher than those of the high dose (1.0 /H11006
+0.2; Fig. 3B). Norcodeine S/P ratios were lower than
+concurrent codeine S/P ratios.
+effects of collection method on codeine and
+metabolite oral fluid concentrations
+In group I (n /H110054), citric acid candy was used to stimulate
+oral fluid secretion after administration of three 60 mg/70
+kg doses of codeine (Fig. 5A). Although variability in
+codeine oral fluid concentration was observed, there were
+Fig. 2. Mean NCOD:COD ratios ( /H11003100) in plasma and oral fluid.
+/H18554, plasma concentration after 60 mg/70 kg dose of codeine (n /H1100513); E,
+plasma concentration after 120 mg/70 kg dose (n /H1100513); Œ, oral fluid
+concentration after 60 mg/70 kg dose (n/H1100517); /H12135, oral fluid concentration after
+120 mg/70 kg dose (n /H1100513).
+Fig. 3. Mean S/P ratios for codeine ( A) and
+norcodeine (B) after 60 mg/70 kg dose ( /H18554)
+and 120 mg/70 kg dose ( F) of codeine.
+Bars, SE.
+Clinical Chemistry 48, No. 9, 2002 1491
+no significant differences in the 24-h AUCs of these doses.
+In group II (n /H110054), three different collection methods
+were evaluated: citric acid candy stimulation after the first
+dose, Salivette with citric acid-treated cotton swab after
+the second dose; and Salivette with neutral cotton swab
+after the third dose (Fig. 5B). Codeine concentrations in
+oral fluid collected with citric acid sour candy tended to
+be higher than those in oral fluid collected with the other
+methods up to 2 h after drug administration; however, the
+differences were not statistically significant. After 2 h,
+codeine concentrations in oral fluid were consistent across
+collection methods.
+detection times of codeine in plasma and oral
+fluid
+Detection times for codeine in plasma and oral fluid
+varied by participant, dose, and cutoff concentration.
+Mean detection times for codeine in plasma with a 2.5
+/H9262g/L cutoff were 12.4 /H110061.70 and 16.6 /H110062.57 h for the low
+and high doses, respectively (Table 2). Codeine in oral
+fluid collected with citric acid candy was detectable for
+21.1 /H110061.70 h after the low dose and 21.6 /H110061.38 h after the
+high dose with a 2.5
+/H9262g/L cutoff. Codeine could be
+detected for 5 –9 h longer in oral fluid than in plasma
+when the LOQ cutoff was used. Codeine in oral fluid was
+detected for only7hw i t ha4 0
+/H9262g/L cutoff concentration,
+the suggested SAMHSA confirmatory test cutoff.
+Norcodeine had shorter detection times than codeine
+in both matrices. Mean detection times for norcodeine
+based on the LOQ were 9.4 /H110062.07 and 10.3 /H110061.77 h in
+plasma and 6.0 /H110060.74 and 9.4 /H110061.64 h in oral fluid after
+the low and high doses, respectively.
+physiologic effects
+The effects of 60 and 120 mg/70 kg doses of oral codeine
+on physiologic measures are illustrated in Fig. 6A. Statis-
+tically significant dose-related miosis was observed at 4 h
+after 60 mg/70 kg and from 1 t o 4 h after 120 mg/70 kg
+oral codeine ( P /H110210.05). Pulse, respiration, diastolic and
+systolic blood pressures, skin and core temperatures, and
+blood oxygenation were not significantly affected by
+single 60- or 120-mg doses of oral codeine.
+subjective effects
+Mean responses on the PCAG (sedation) and LSD (psy-
+chotomimetic effect) scales of the ARCI were significantly
+increased compared with placebo ( P /H110210.05) after 120 mg
+of codeine for 1–2 h and 1–4 h, respectively (Fig. 6, B and
+C). In addition, “feel drug ”, “relaxed”, and “high” self-
+rating scales of the SDQ were significantly increased from
+placebo (P /H110210.05) from 0.5 to 2 h after the high dose (Fig.
+6, D –F). No significant differences were found for the
+other ARCI, SDQ, or VAS measures at any time after
+single 60 or 120 mg/70 kg oral codeine doses.
+Discussion
+Oral codeine induced dose-related decreases in pupil size,
+but did not significantly affect other physiologic mea-
+sures. These results are consistent with those of other
+Fig. 5. Oral fluid codeine concentrations.
+(A), mean (n /H110054) oral fluid codeine concentrations
+with citric acid candy stimulation after 60 mg/70 kg
+codeine dose: /H12135, first codeine dose; E, second
+codeine dose; /c141, third codeine dose. ( B), mean
+(n /H110054) oral fluid codeine concentrations after 60
+mg/70 kg codeine dose: f, citric acid candy stim-
+ulation collection method; E, Salivette with citric
+acid-treated cotton swab collection method; Œ,
+Salivette with neutral cotton swab collection
+method. Bars, SE.
+Fig. 4. Correlation of oral fluid to plasma codeine concentration in 19
+participants between 0.5 and 12 h after 60 and 120 mg/70 kg oral
+codeine.
+The regression was calculated by least-squares regression analysis. Equation for
+the line: y /H110051.34x /H11001241.90 (r /H110050.22; P /H110210.0001).
+1492 Kim et al.: Codeine Plasma and Oral Fluid Pharmacokinetics
+studies. Walker and Zacny (32 )found dose-related miosis
+and no effects on other physiologic measures after single
+60- and 120-mg doses of oral codeine. Cone (24 ) reported
+peak miotic effects within 0.75 –1.0 h after 60 and 120 mg
+of intramuscular codeine in one participant.
+In this study, PCAG and LSD scales of the ARCI and
+“feel drug”, “relaxed”, and “high” scales of the SDQ were
+increased after 120 mg/70 kg oral codeine. The PCAG
+scale reflects feelings of sedation and apathy, and the LSD
+scale reflects feelings of dysphoria and sensory and so-
+matic disturbance (30, 33 ). The SDQ relies on participants’
+own personal history of exposure to various drugs. In
+another study (32 ), oral codeine did not affect ARCI
+scores, but produced significant increases in “dry mouth”
+and a trend for increased “skin itch” and “numb” feelings
+after 120 mg of oral codeine. A drug-induced “high” was
+also reported after a 120-mg intramuscular dose of co-
+deine in one participant (24 ).
+Codeine is primarily metabolized by glucuronidation
+to codeine 6-glucuronide, N-demethylation to norcodeine,
+and O-demethylation to morphine in humans (28, 34, 35 ).
+Norcodeine and morphine also undergo glucuronidation.
+In the current study, we analyzed free codeine and free
+metabolites in plasma and oral fluid after single oral
+administration of 60 and 120 mg/70 kg of codeine to
+evaluate the relationship of free codeine and its metabo-
+lites in plasma and oral fluid. Codeine was the primary
+analyte in plasma and oral fluid; the metabolite, norco-
+deine, was also detected in both matrices. Morphine and
+normorphine were not identified in any specimens with a
+2.5
+/H9262g/L LOQ. O ’Neal et al. (25 ) analyzed free codeine
+and free morphine in plasma and oral fluid by GC-MS
+with a 5
+/H9262g/L LOQ after 30 mg of oral liquid codeine.
+Participants (n /H1100517) had previously received three daily
+doses of 30 mg of codeine for 5 days, followed by a 24-h
+washout period. The authors also reported codeine as the
+primary analyte in plasma and oral fluid. Unlike the
+present study, morphine was detected in three saliva
+specimens shortly after dosing with liquid codeine; how-
+ever, concentrations were below the method LOQ. Mor-
+phine was not identified in plasma. Although conjugated
+Table 2. Comparison of codeine and norcodeine detection
+times in plasma and oral fluid after oral codeine
+administration.
+GC-MS cutoff,
+/H9262g/L
+Dose,
+mg/70 kg n
+Detection time,a h
+Codeine Norcodeine
+Plasma 2.5 b 60 14 12.4 /H110061.70 9.4 /H110062.07
+120 15 16.6 /H110062.57 10.3 /H110061.77
+Oral fluid 2.5 b 60 16 21.1 /H110061.70 6.0 /H110060.74
+120 18 21.6 /H110061.38 9.4 /H110061.64
+40c 60 16 7.2 /H110061.30 NA d
+120 18 7.3 /H110060.36 NA
+a Data are mean /H11006SE.
+b Method LOQ.
+c The suggested SAMHSA cutoff concentration.
+d NA, not applicable.
+Fig. 6. Mean time course (n /H1100519) of effects after 60 mg/70 kg codeine ( F), 120 mg/70 kg codeine ( Œ), and placebo (/H18554).
+Effects: (A), pupil size; (B), PCAG group (ARCI), a measure of sedation; (C), LSD (ARCI), a measure of psychotomimetic effect; (D), “feel drug”; (E), “relaxed”; (F), “high”.
+D–F are included in the SDQ. Each point represents the mean rating across all participants.
+Clinical Chemistry 48, No. 9, 2002 1493
+codeine has been reported in plasma by others after single
+(30 mg) and multiple (30 mg ever y 8 h for 7 days) oral
+doses (35 ), conjugated codeine was not detected in oral
+fluid, likely because of its high polarity and poor lipophi-
+licity.
+Few studies have evaluated the disposition of codeine
+in plasma and oral fluid and the resulting S/P ratios
+(7, 24, 25 ). Cone (24 ) reported peak oral fluid codeine
+concentrations of 183.9 and 307.6
+/H9262g/L in one participant
+0.5–0.75 h after single 60- and 120-mg intramuscular
+doses of codeine. Plasma concentrations peaked by 0.25 –
+0.5 h at concentrations of 212.4 /H9262g/L for the 60-mg dose
+and 272.4 /H9262g/L for the 120-mg dose. Despite different
+administration routes, peak plasma codeine concentra-
+tions were comparable after similar dosages; however,
+oral fluid concentrations, also collected with citric acid
+candy, were lower than our findings. Sharp et al. (7 )
+reported mean codeine concentrations of 280 /H11006250
+/H9262g/L
+in oral fluid and 60 /H1100610 /H9262g/L in plasma at 1 h and mean
+S/P ratios of 3.3 (range, 2.1 –6.5) for three participants
+after a 30-mg oral dose of codeine. Codeine S/P ratios
+were more variable than those of methaqualone, secobar-
+bital, and diphenhydramine. O’Neal et al. (25 ) reported a
+mean S/P ratio of 3.7 that remained consistent over time
+from 2 to 12 h after 30 mg of oral codeine, similar to our
+findings. In addition, a significant correlation ( r /H110050.809)
+between saliva and plasma codeine concentrations was
+observed after 2 h, suggesting that oral fluid codeine
+concentrations could be used to predict plasma concen-
+trations. However, because of oral contamination, no
+correlation was observed at earlier time points. Chen et al.
+(35 )also reported a positive correlation between oral fluid
+and plasma codeine concentrations ( r /H110050.80; P /H110210.01)
+after 30 mg of oral codeine (n /H110058) with a codeine AUC
+S/P of 2.95 /H110060.72, comparable to what we observed. In
+our study, although oral fluid codeine concentrations
+were significantly correlated to plasma codeine concen-
+trations, we concluded that it was not possible to accu-
+rately predict a plasma codeine concentration from an
+oral fluid codeine concentration because of high intra- and
+intersubject variability.
+Norcodeine S/P ratios were lower than those of co-
+deine, most likely because of differences in p K
+a and
+polarity. Drugs enter oral fluid primarily via passive
+diffusion, a process that facilitates the passage of nonion-
+ized drugs (3, 36–38 ). For acidic or basic drugs, the degree
+of ionization in the oral fluid and plasma is highly
+dependent on the p K
+a of the drug and the pH of the
+environment (8, 11–14 ). The pH of oral fluid is lower than
+that of plasma. Norcodeine, with a p Ka of 5.7 (39 ) com-
+pared with the p Ka of 8.2 for codeine (39 ), would be less
+ionized in plasma than codeine and thus less subject to
+ion trapping in the more acidic oral fluid. In addition,
+norcodeine is more polar than codeine. The oil/water
+(1-octanol/water) coefficient for codeine (37 °C, pH 7.4) is
+2.90, and that for norcodeine is 0.11 (personal communi-
+cation from Edward J. Cone). Thus, norcodeine is /H1101126
+times less lipophilic than codeine, limiting the passive
+diffusion of norcodeine from plasma to oral fluid. In
+addition, NCOD:COD ratios increased over time in both
+plasma and oral fluid, indicating a longer half-life for the
+metabolite than the parent compound.
+A major drawback to the use of oral fluid for drug
+monitoring is the variability of oral fluid pH. Mucklow et
+al. (11 ) reported that alteration of oral fluid flow rate and
+pH produced twofold changes in oral fluid drug concen-
+trations with wide inter- and intrasubject variation. Oral
+fluid pH is dependent on salivary flow rates; salivary
+gland stimulation increases bicarbonate concentration
+and oral fluid pH.
+Our mean elimination half-lives for codeine in plasma
+and oral fluid were comparable to previously reported
+estimates. A plasma t
+1/2 of 2.4 /H110060.76 h (females) and
+2.9 /H110060.32 h (males) was reported after the last of fifteen
+30-mg consecutive codeine oral doses over 5 days (40 ).A
+similar mean plasma t1/2 of 2.36 h in 19 male participants
+after a 60- or 120-mg codeine dose was noted by Rollins
+et al. (41 ). After 30-mg oral codeine, O ’Neal et al. (25 )
+observed a mean codeine t
+1/2 of 2.6 /H110060.32 h for plasma
+and 2.9 /H110060.28 h for oral fluid. Using the same dosing
+regimen, Chen et al. (35 )determined a mean t1/2 of 3.24 /H11006
+0.34 h for plasma and 3.11 /H110060.45 h for oral fluid.
+O’Neal et al. (18 ) reported higher codeine concentra-
+tions in nonstimulated oral fluid (expectoration) com-
+pared with stimulated oral fluid. Oral fluid codeine
+concentrations collected with the Salivette device or with
+acidic stimulation (a lemon drop) were lower than those
+collected by expectoration (control), 77% and 30% of
+control, respectively. Our study also compared codeine
+concentrations in oral fluid collected by three different
+methods, the first method using citric acid candy stimu-
+lation, the second a citric acid-impregnated Salivette de-
+vice, and the third a neutral Salivette cotton swab. At
+early collection time points, codeine concentrations
+tended to be higher after citric acid candy stimulation
+than with either Salivette device; however, these differ-
+ences did not reach statistical significance. Expectoration
+after acidic stimulation did produce a higher volume of
+oral fluid. Collection with the Salivette devices yielded
+smaller volumes of oral fluid and required an additional
+centrifugation step to separate oral fluid from the cotton
+swabs. However, the use of collection devices is consid-
+ered less objectionable to participants and staff and pro-
+duces a cleaner oral fluid sample.
+Codeine detection times in plasma of 12 –16 h (LOQ of
+2.5
+/H9262g/L), as reported in this study, are in agreement with
+those reported by O ’Neal et al. (25 ). A shorter mean
+plasma detection time of 5 h was observed by Vree et al.
+(28 )with a 5
+/H9262g/L cutoff after a 30-mg dose. In our study,
+the mean detection times for codeine in oral fluid were
+longer than in plasma. Thus, the advantages of monitor-
+ing codeine use in oral fluid include a longer detection
+window compared with plasma, less invasive sampling
+and discomfort, and a lower risk of infection. With the
+1494 Kim et al.: Codeine Plasma and Oral Fluid Pharmacokinetics
+higher SAMHSA-recommended cutoff of 40 /H9262g/L for
+codeine in oral fluid, a mean detection time of only 7 h
+was found after the 60 and 120 mg/70 kg doses. Use of
+this cutoff for monitoring codeine use could enable the
+identification of far fewer positive specimens than other
+types of drug testing, i.e., urine. Therefore, a lower oral
+fluid cutoff for codeine is recommended.
+In conclusion, we found that codeine was the major
+analyte detected in plasma and oral fluid. Initial detection
+times for codeine in oral fluid were comparable to those
+observed for plasma, peak concentrations were signifi-
+cantly higher, and mean detection times were 5–9 h longer
+than in plasma. Norcodeine also was detected in both
+matrices; however, morphine and normorphine were not
+measurable at the GC-MS LOQ of 2.5
+/H9262g/L after single 60
+and 120 mg/70 kg doses. Although it is difficult to predict
+plasma codeine concentrations from simultaneously col-
+lected oral fluid specimens because of intra- and intersub-
+ject variability, codeine S/P ratios were relatively constant
+after 1–2 h. Thus, the advantages of using oral fluid as a
+test matrix for codeine exposure compared with plasma
+include higher concentrations, longer detection windows,
+less invasive sampling and discomfort, and lower risk of
+infection. Oral fluid is a useful alternative matrix to
+monitor opiate use for drug treatment, workplace testing,
+criminal justice, and driving under the influence testing
+programs.
+We thank Bonnie Ladaga and Richard Taylor for expert
+assistance with the statistical analysis and pharmacody-
+namic assessments.
+References
+1. Joselow MM, Ruiz R, Goldwater LJ. The use of salivary (parotid)
+fluid in biochemical monitoring. Am Ind Hyg Assoc J 1969;30:77–
+82.
+2. Borzelleca JF, Doyle CH. Excretion of drugs in saliva, salicylate,
+barbiturate, sulfanilamide. J Oral Ther Pharmacol 1966;3:104 –
+11.
+3. Rasmussen F. Salivary excretion of sulphonamides and barbitu-
+rates by cows and goats. Acta Pharmacol Toxicol 1964;21:11–9.
+4. Killmann SA, Thaysen JH. The permeability of the human parotid
+gland to a series of sulfonamide compounds, paraaminohippurate
+and inulin. J Clin Lab Invest 1955;7:86 –91.
+5. Borzelleca JF, Cherrick HM. The excretion of drugs in saliva
+antibiotics. J Oral Ther Pharmacol 1965;2:180 –7.
+6. Borzelleca JF Jr, Putney JW. A model for the movement of
+salicylate across the parotid epithelium. J Pharmacol Exp Ther
+1970;174:527–34.
+7. Sharp ME, Wallace SM, Hindmarsh KW, Peel HW. Monitoring
+saliva concentrations of methaqualone, codeine, secobarbital,
+diphenhydramine and diazepam after single oral doses. J Anal
+Toxicol 1983;7:11–4.
+8. Dvorchik BH, Vesell ES. Pharmacokinetic interpretation of data
+gathered during therapeutic drug monitoring. Clin Chem 1976;22:
+868–78.
+9. Levy G, Ellis EF, Koysooko R. Indirect plasma-theophylline moni-
+toring in asthmatic children by determination of theophylline
+concentration in saliva. Pediatrics 1974;53:873–6.
+10. Aviram M, Tal A, Ben-Zvi Z, Gorodischer R. Monitoring theophylline
+therapy using citric acid-stimulated saliva in infants and children
+with asthma. Pediatrics 1987;80:894 –7.
+11. Mucklow JC, Bending MR, Kahn GC, Dollery CT. Drug concentra-
+tion in saliva. Clin Pharmacol Ther 1978;24:563 –70.
+12. Drobitch RK, Svensson CK. Therapeutic drug monitoring in saliva.
+An update. Clin Pharmacokinet 1992;23:365–79.
+13. Danhof M, Breimer DD. Therapeutic drug monitoring in saliva. Clin
+Pharmacokinet 1978;3:39 –57.
+14. Horning MG, Brown L, Nowlin J, Lertratatanangkoon K, Kellaway P,
+Zion TE. Use of saliva in therapeutic drug monitoring. Clin Chem
+1977;23:157–64.
+15. Idowu OR, Caddy B. A review of the use of saliva in the forensic
+detection of drugs and other chemicals. J Forensic Sci Soc
+1982;22:123–35.
+16. Schramm W, Smith RH, Craig PA, Kidwell DA. Drugs of abuse in
+saliva: a review. J Anal Toxicol 1992;16:1 –9.
+17. Cone EJ. Saliva testing for drugs of abuse. An n N Y Acad Sci
+1993;694:91–127.
+18. O’Neal CL, Crouch DL, Rollins DE, Fatah AA. The effects of
+collection methods on oral fluid codeine concentrations. J Anal
+Toxicol 2000;24:536 –42.
+19. Lenander-Lumikari M, Johansson I, Vilja P, Samaranayake LP.
+Newer saliva collection methods and saliva composition: a study
+of two Salivette kits. Oral Dis 1995;1:86 –91.
+20. Romach MK, Sproule BA, Sellers EM, Somer G, Busto UE.
+Long-term codeine use is associated with depressive symptoms.
+J Clin Psychopharm 1999;19:373–6.
+21. Sproule BA, Busto UE, Somer G, Romach MK, Sellers EM.
+Characteristics of dependent and nondependent regular users of
+codeine. J Clin Psychopharm 1999;19:367–72.
+22. Jensen S, Hansen AC. Abuse of codeine separated from over-the-
+counter drugs containing acetylsalicylic acid and codeine. Int J Leg
+Med 1993;105:279 –81.
+23. Isaac P, Seto W, Lanctot KL, Busto UE. Use and abuse of
+prescription opioids in Canada 1978 to 1989. Can J Clin Pharma-
+col 1995;2:81–6.
+24. Cone EJ. Testing human hair for drugs of abuse. I. Individual dose
+and time profiles of morphine and codeine in plasma, saliva,
+urine, and beard compared to drug-induced effects on pupils and
+behavior. J Anal Toxicol 1990;14:1–7.
+25. O’Neal CL, Crouch DJ, Rollins DE, Fatah A, Cheever ML. Correla-
+tion of saliva codeine concentrations with plasma concentrations
+after oral codeine administration. J Anal Toxicol 1999;23:452–9.
+26. Yue QY, Hasselstrom J, Svensson JO, Sawe J. Pharmacokinetics
+of codeine and its metabolites in Caucasian healthy volunteers:
+comparisons between extensive and poor hydroxylators of de-
+brisoquine. Br J Clin Pharmacol 1991;31:635 –42.
+27. Yue QY, Svensson JO, Sjoqvist F, Sawe J. A comparison of the
+pharmacokinetics of codeine and its metabolites in healthy Chi-
+nese and Caucasian extensive hydroxylators of debrisoquine. Br J
+Pharmacol 1991;31:643–7.
+28. Vree TB, Verwey-Van Wissen CPWGM. Pharmacokinetics and
+metabolism of codeine in humans. Biopharm Drug Dispos 1992;
+13:445–60.
+29. Huestis MA, Oyler JM, Cone EJ, Wstadik AT, Schoendorfer D,
+Joseph RE Jr. Sweat testing for cocaine, codeine and metabolites
+by gas chromatography-mass spectrometry. J Chromatogr 1999;
+733:247–64.
+30. Haertzen CA. Development of scales based on patterns of drug
+effects, using the addiction research center inventory (ARCI).
+Psychol Rep 1966;18:163–94.
+31. Fraser HF, Van Horn GD, Martin WR, Wolbach AB, Isbell H. Method
+Clinical Chemistry 48, No. 9, 2002 1495
+for evaluating addiction liability: (A) attitude of opiate addicts
+toward opiate-like drugs, (B) a short term “direct” addiction test.
+J Pharmacol Exp Ther 1961;133:371–87.
+32. Walker DJ, Zacny JP. Subjective, psychomotor, and analgesic
+effects of oral codeine and morphine in healthy volunteers.
+Psychopharmacology 1998;140:191–201.
+33. Bigelow GE. Human drug abuse liability assessment: opioids and
+analgesics. Br J Addict 1991;86:1615–28.
+34. Guay DRP, Awni WM, Halstenson CE, Findlay JWA, Opsahl JA,
+Abraham PA, et al. Pharmacokinetics of codeine after single-and
+multiple-oral-dose administration to normal volunteers. J Clin
+Pharmacol 1987;27:983–7.
+35. Chen ZR, Somogyi AA, Reynolds G, Bochner F. Disposition and
+metabolism of codeine after single and chronic doses in one poor
+and seven extensive metabolites. Br J Clin Pharmacol 1991;31:
+381–90.
+36. Amberson WR, Hober R. The permeability of mammalian salivary
+glands for organic non-electrolytes. J Cell Comp Physiol 1932;2:
+201–21.
+37. Burgen ASV. The secretion of non-electrolytes in the parotid
+saliva. J Cell Physiol 1956;48:113–38.
+38. Hoeprich PD, Warshauer DM. Entry of four tetracyclines into saliva
+and tears. Antimicrob Agents Chemother 1974;5:330 –6.
+39. Moffat AC, Jackson JV, Moss MS, Widdop B, eds. Clarke ’s
+isolation and identification of drugs in pharmaceuticals, body
+fluids, and post-mortem material, 2nd ed. London: The Pharma-
+ceutical Press, 1986:490 –1;821.
+40. Wilkins DG, Haughey HM, Krueger GG, Rollins DE. Disposition of
+codeine in female human hair after multiple-dose administration.
+J Anal Toxicol 1995;19:492–8.
+41. Rollins DE, Wilkins DG, Krueger GG. Codeine disposition in human
+hair after single and multiple doses. Eur J Clin Pharmacol 1996;
+50:391–7.
+1496 Kim et al.: Codeine Plasma and Oral Fluid Pharmacokinetics

@@ -1,0 +1,765 @@
+Br.J.clin.Pharmac.(1980),10,291S-298S
+KINETICSAND METABOLISM
+OFPARACETAMOL AND PHENACETIN
+L.F.PRESCOTT
+UniversityDepartmentofTherapeuticsandClinicalPharmacology,TheRoyalInfirmary,
+Edinburgh,UK
+1 Therateofabsorptionoforalparacetamoldependsontherateofgastricemptyingandisusually
+rapidandcomplete.Themean systemicavailabilityisabout757o.
+2 Paracetamolisextensivelymetabolizedandtheplasmahalf-lifeis1.5-2.5hours.About55%oand
+3007ofatherapeuticdoseisexcretedintheurineasglucuronideandsulphateconjugates,respectively,
+whereasmercapturicacidandcysteineconjugates(representingconversiontoa potentiallytoxic
+intermediatemetabolite)eachaccountforsome4%oofthedose.Paracetamolmetabolismisage-and
+dose-dependent.
+3 Withhepatotoxicdoses,paracetamolmetabolismisimpairedandthehalf-lifeprolonged.Sulphate
+conjugationissaturatedandtheproportionexcretedasmercapturicacidandcysteineconjugatesis
+increased.
+4 TherenalclearanceofparacetamoldependsonurineflowratebynotpH.Therenalclearancesof'
+theglucuronideandsulphateconjugatesoftenexceedtheglomerularfiltrationrateandare
+independentofurineflowandpH.
+5 Phenacetinabsorptiondependsonformulation.Itisextensivelymetabolizedtoparacetamoland
+minormetabolitesareprobablyresponsiblefortoxicity
+Paracetamol
+PARACETAMOL(acetaminophen,N-acetyl-p-amino-
+phenol,4-hydroxyacetanilide)isamoderatelywater-
+andlipid-solubleweakorganicacid.IthasapKa
+valueof9.5andisthereforelargelyunionizedover
+thephysiologicalrangeofpH.
+Absorption
+Paracetamolisinvariablytakenorally.Absorption
+fromthegastrointestinaltractisbypassivetransport
+(Bagnall,Kelleher,Walker& Losowsky,1979)and
+thereisonlyminormetabolismofthedrugbythe
+gastrointestinalmucosaintherat(Josting,Winne&
+Bock,1976).Inman,paracetamolabsorptionis
+negligiblefromthestomachbutveryrapidfromthe
+smallintestineandtherateofabsorptiontherefore
+dependsontherateofgastricemptying(Heading,
+Nimmo,Prescott& Tothill,1973).Absorptionis
+slowedifgastricemptyingisdelayedbyfood,
+posture,diseaseanddrugssuchaspropanthelineand
+narcoticanalgesics,butthetotalamountabsorbedis
+notdecreased(McGilveray&Mattok,1972;Nimmo,
+Heading,Tothill& Prescott,1973;Nimmo,
+Heading,Wilson,Tothill& Prescott,1975;Nimmo
+&Prescott,1978).
+Infastinghealthysubjects,absorptionofpara-
+cetamolinsolutionisveryrapidwithpeakplasma
+concentrationsoftenoccurringwithin15-30minof
+ingestion.Absorptionfromtabletsisusuallyslower,
+andinpracticalclinicalconditionstheremaybeas
+muchasan80-foldrangeinplasmaconcentrations
+1h afteradministrationofa therapeuticdose
+(Prescott,1974).
+Distribution
+Paracetamolisrapidlyandrelativelyuniformly
+distributedinthetissues(Brodie& Axelrod,1949).
+Theratioofconcentrationsinredbloodcellsand
+plasmaisabout1.2:1 andbindingtoplasma
+proteinsisinsignificant(Gazzard,Ford-Hutchinson,
+Smith& Williams,1973).Theapparentvolumeof
+distributionofparacetamolinmanisabout0.91/kg
+(seebelow).
+Metabolism
+Paracetamolisextensivelymetabolizedandonly
+2-5Woofatherapeuticdoseisexcretedunchangedin
+theurine.Althoughbiotransformationoccurs
+predominatelyintheliver,theremay besome
+metabolismofthedruginthegutandkidney
+(Josting,Winne& Bock,1976;Jones,Sundby,
+Ormstad& Orrenius,1979;Mitchell,McMurtry,
+Statham&Nelson,1977).
+Themajormetabolitesofparacetamolarethe
+sulphateandglucuronideconjugates,butaminor
+3$MacmillanPublishersLtd19800306-5251/80/140291-08$01.00 291S
+292S L.F.PRESCOTT
+20r
+C
+0
+.5
+0
+E
+L
+0 2 4 6 8
+Timeafteradministration(h)
+Figure1 Meanplasmaconcentrationsofparacetamol
+(0; t4=2.3)anditssulphate(Q)andglucuronide
+conjugates(0)(expressedasparacetamolequivalents)in
+8healthysubjectsafteranoraldoseof20mg/kg.
+fractionisconvertedbyhepaticmixedfunction
+oxidasetoa highlyreactivealkylatingmetabolite.
+Thismetaboliteisnormallyrapidlyinactivatedby
+conjugationwithreducedglutathioneandeventually
+excretedintheurineascysteineandmercapturicacid
+conjugates.Largedosesofparacetamolcauseacute
+hepaticnecrosisas a resultofdepletionof
+glutathioneandofcovalentbindingoftheexcess
+reactivemetaboliteto vitalcellconstituents
+(Mitchell,Jollow,Potter,Davis,Gillette& Brodie,
+1973;Mitchell,Thorgeirsson,Potter,Jollow&
+Keiser,1974).Paracetamolcausesacuterenaltubular
+necrosisbya similarmechanismanditstoxicityis
+dependenton microsomalenzyme activityand
+glutathioneavailability(Mitchelletal.,1977).In
+keepingwiththesemechanisms,liverdamageand
+renalfailurefollowingparacetamoloverdosagecan
+bepreventedbyearlyadministrationofsulphydryl
+compoundssuchas N-acetylcysteine(Prescott,
+Illingworth,Critchley,Stewart,Adam&Proudfoot,
+1979).Otherminormetabolitesof paracetamol
+includeconjugatesof3-methoxy-,3-hydroxy-and3-
+thiomethylparacetamol(Andrews,Bond,Burnett,
+Saunders& Watson,1976;Klutch,Levin,Chang,
+Vane&Conney,1978).
+Paracetamolmetabolismisage- anddose-
+dependent.Inhealthyyoung adultstheplasma
+paracetamolhalf-lifefollowingatherapeuticdoseis
+about2h(range1.5-2.5h),andabout40o,30%0,
+55%,407and4% ofthedoseisexcretedintheurine
+in24hasunchangedparacetamolanditssulphate,
+glucuronide,cysteineand mercapturicacid
+conjugates,respectively.Inneonatesandyoung
+children,however,glucuronideconjugationis
+deficient.Thehalf-lifeisprolongedandsulphate
+conjugationisthedominantmetabolicpathway
+(Levy,Khanna,Soda,Tsuzuki&Stern,1975;Miller,
+Roberts& Fischer,1976).Althoughithasbeen
+claimedthatparacetamolmetabolismisimpairedin
+theelderly(Briant,Dorrington,Cleal& Williams,
+1976),themeanplasmahalf-life(2.17h)iswell
+withintherangereportedinyoungadultsbymany
+investigators.Theplasmaparacetamolhalf-lifeis
+prolongedinchronicliverdisease,buttoalesser
+extentthanantipyrineandlignocaine,andoverallits
+metabolismisquantitativelythesameasinhealthy
+subjects(Forrest,Finlayson,Adjepon-Yamoah&
+Prescott,1977;Forrest,Adriaenssens,Finlayson&
+Prescott,1979).Paracetamolmetabolismisalso
+impairedinsevereparacetamolpoisoning,and
+prolongationoftheplasmahalf-lifeisthenareliable
+indexoftheseverityofliverdamage(Prescott&
+Wright,1973).
+Paracetamolmetabolismhasbeencomparedin
+healthyadultsgivenanoraldoseof20mg/kgand
+patientswithparacetamolpoisoningreceiving
+differenttreatments(Prescottetal.,1979).Plasma
+andurineconcentrationsofparacetamolandits
+metaboliteshavebeenmeasuredby high
+performanceliquidchromatography(Adriaenssens&
+Prescott,1978).The20mg/kgdoseisrapidly
+absorbedandafter3htheplasmaconcentrationsof
+glucuronideexceedthoseoftheparentdrug(Figure
+1).Thereisasimilarrelationshipbetweentheplasma
+concentrationsofparacetamolanditsglucuronide
+conjugateinpatientswithparacetamolpoisoning
+withoutliverdamage,butinthosewhodeveloped
+severeliverdamage(plasmaaminotransferases>
+1,000IU/1)paracetamolmetabolismisimpaired,the
+half-lifeisprolongedandglucuronideconcentrations
+arelowerthanthoseoftheunchangeddrugatall
+times(Figures1-3).Theimpairmentofglucuronide
+conjugationseemstobedependentonlyontheextent
+ofliverdamageandisunrelatedtotreatment(except
+insofarthatearlytreatmentpreventsliverdamage).
+Thesulphateconjugationofparacetamolbecomes
+saturatedinadultswithinthetherapeuticdoserange
+(Levy&Yamada,1971).Afteradoseof20mg/kg,
+themean maximumplasmaconcentrationof
+paracetamolsulphateisabout5pg/ml,andthe
+concentrationsareonlyslightlyhigherinuntreated
+poisonedpatients.However,patientsreceivingearly
+treatmentwithN-acetylcysteineandcysteamineshow
+amarkedincreaseinplasmaconcentrationsofthe
+sulphate,andthereisaminordelayedincreasein
+thosewithsevereliverdamagereceivinglatetreat-
+ment(Figures1-3).Theseresultsareconsistentwith
+saturationofsulphateconjugation,depletionof
+inorganicsulphatewithlargedosesofparacetamol,
+andincreasedavailabilityofsulphatefollowingearly
+METABOLISMOFPARACETAMOL&PHENACETIN 293S
+a
+100k
+301-
+10-
+1 0 2
+0 10 20
+b
+0 10 20 30
+Timeafteringestion(h)
+Figure2 Meanplasmaconcentrationsofparacetamol(@)anditssulphate(0)andglucuronideconjugates(A)
+(expressedasparacetamolequivalents)inpoisonedpatients(n=4)withoutliverdamagereceivingnotreatment(a)
+andearlytreatmentwithN-acetylcysteine(n=14)andcysteamine(n=4).Paracetamoltt:a,3.4h;b,3.7hours.
+b
+10 20 30 0 10 20 30
+Timeafteringestion(h)
+Figure3 Meanplasmaconcentrationsofparacetamol(-)anditssulphate(0)andglucuronideconjugates(A)
+(expressedasparacetamolequivalents)inpoisonedpatients(n= 5)withsevereliverdamagereceivingnotreatment
+(a)andlate(>10h)treatmentwithN-acetylcysteine(n= 9)andcysteamine(n= 4).Paracetamolt+:a,6.7h;b,6.9
+hours.
+treatmentwithN-acetylcysteine.Intravenoussodium
+sulphatehasasimilareffecton sulphateconjugation
+ofparacetamolinrats(Galinsky,Slattery& Levy,
+1979).
+Theurinaryexcretionofparacetamolandits
+metabolitesafteroverdosageandaftera doseof
+20mg/kgisshowninTable1.Inthelattergroup
+therecoveryofsulphateandglucuronideconjugates
+isabout30%0and55%0ofthedose,respectively,and
+excretionisvirtuallycompletewithin24hours.The
+sulphateconjugateaccountsfora veryhighinitial
+butrapidlyfallingproportionofthetotalexcreted
+(Figure4),againconsistentwitha limitedand
+decreasingcapacityforsulphateconjugation.
+300
+._o
+Co
+Eenco 3
+a300r
+100iF0)
+Z.
+C
+0
+Co
+C0
+Co
+E
+Co
+30F
+10I
+3
+.0 I IIl '
+294S L.F.PRESCOTT
+60r
+0
+E(a 50C',n
+C.
+0& 40
+.0
+E 30
+-'a
+O 20ECu
+0 1
+-0co5
+-A
+(0L I i A I I L.
+0 2 4 6 8 10 12 18
+Timeafteradministration(h)
+Figure4 Changesinthemeanproportionalurinary
+excretionofparacetamol(0)anditssulphate(0),
+glucuronide(0),cysteine(A)andmercapturicacid
+conjugates(U)(expressedasparacetamolequivalents)
+withtimeafteranoraldoseof20mg/kgineighthealthy
+subjects.
+0
+0._'a
+E
+Cu._
+0
+c
+0
+-oCu
+0
+E'ac
+Q
+Cu
+4-
+00
+VD
+0.
+40
+0
+0'Uw
+0la
+Cu
+0
+04
+(U
+.0
+CuCu
+.c
+co
+0
+O. coCo
+0
+.IV
+C)
+CO
+C)
+Cu
+C)
+0_
+cn
+'0
+._
+C)
+Cu
+C).w
+Cu 0) ...
+Cu ,
+Cu'
+ 2 ._
+Cu;
+ .,C
+Q 'o
+C)Cu
+ .,Cu
+80r
+60
+40[
+20
+IJ_ A I '
+0 20 40 60
+Timeafteroverdose(h)
+Figure5 Changingpatternofrelativeurinaryexcretion
+ofthesulphate(0),glucuronide(0),andcysteineplus
+mercapturicacidconjugates(0)ofparacetamol
+(expressedasparacetamolequivalents)inapatientwith
+fatalliverdamageafterparacetamoloverdosage
+receivingsupportivetherapy.
+en (S_s'tt 00 r- O
+ B a _______
+ jct o NItt- No 00 V
+W;i ,6vo
+1.NO d* N 'O*
+-u_ f r)On -_ f)e C _-
+Q- 0 0or-o0e0 0r6__
+ce 000
+00 WI,00 n 00oe 00
+ u zu z0
+0."
+co C40
+C) 0 o
+c E0 Q ~0 >
+ Cu_X
+C)
+C)
+.Cu
+ Z
+C)
+ Cu)
+o.2
+ oCu
+'0o
+* +-
+1.q.l
+METABOLISMOFPARACETAMOL&PHENACETIN
+Inthepoisonedpatientsonly10-12%ofthetotal
+excretedisrecoveredassulphateandthereisa
+correspondingincreaseintheexcretionof
+glucuronideandunchangeddrug(Table1).Asthe
+amountofparacetamolremaininginthebody
+decreases,thereisa progressiveincreaseinthe
+proportionrecoveredassulphate(Figure5)andin
+somepatientsitbecomesthedominanturinary
+metabolite.
+Theproductionofcysteineandmercapturicacid
+conjugatesofparacetamolisofmajortoxicological
+significance(Mitchelletal.,1973;1974;1977).
+About4%ofadoseof20mg/kgisrecoveredinthe
+urineascysteine,and4% asmercapturicacid
+conjugates.Irrespectiveoftreatment,therecoveryis
+virtuallythesameinthepoisonedpatientswithout
+liverdamage,butthereisasignificantincreasein
+thosewithsevereliverdamage(Table1).Themean
+totalurinaryrecoveryofcysteineandmercapturic
+acidconjugatesisalmosttwiceashighinpatients
+withsevereliverdamagethaninthosewithout(1.95
+and1.13g,respectively).Thepeakpercentage
+excretionofthecysteineandmercapturicacid
+conjugatesisusuallydelayedforabout30h in
+patientswithsevereliverdamage,whenthesetwo
+metabolitesaccountfor20-50%ofthetotalexcreted
+(Figure5).
+Treatmentwithcysteamineandmethioninehas
+littleifanyeffectonthepatternofexcretionof
+paracetamolmetabolitesbutsulphate,cysteineand
+mercapturicacidconjugatesareclearlyincreasedby
+N-acetylcysteine(Table1).
+Renalexcretion
+Themeanrenalclearanceofparacetamolinthe
+healthysubjectsgiven20mg/kgwas13ml/minute.
+Asimilarvaluehasbeenreportedinapreviousstudy,
+andtheclearancedependsonurineflowratebutnot
+pH (Prescott& Wright,1973).Paracetamolseems
+tobefilteredattheglomeruluswithsubsequent
+extensivetubularreabsorption.
+Themeanrenalclearancesofparacetamolsulphate
+andglucuronideare166and130ml/min,respec-
+tively,andthereisnocorrelationwithurineflowor
+pH.Thesefindingsindicateactiverenaltubular
+secretion,andsimilarmechanismsoftherenal
+excretionofparacetamolandtheseconjugateshave
+beendemonstratedindogs(Duggin&Mudge,1975).
+Theplasmahalf-lifeofparacetamolisnotincreased
+inpatientswithimpairedrenalfunction,butthereis
+accumulationandretentionofconjugates(Prescott,
+1969;0ie,Lowenthal,Briggs&Levy,1975).
+Kinetics
+Thekineticsofparacetamolabsorption,distribution
+andeliminationhavebeenstudiedbymany
+50r
+201
+E
+(0
+'5
+E
+C.)0.
+EC'Co
+101
+5
+2
+0 2 4
+Timeafteradministration(h)
+6
+Figure6 Meanplasmaconcentrationsofparacetamolin
+fourhealthysubjectsfollowingintravenous(-)andoral
+doses(0)of12mg/kgonseparateoccasions.
+investigators(Nelson&Morioka,1963;Cummings,
+King& Martin,1967;Levy& Yamada,1971;
+Prescott&Wright,1973;0ieetal.,1975;Clements&
+Prescott,1976;Briantetal.,1976;Rawlins,
+Henderson& Hijab,1977;Clements,Heading,
+Nimmo&Prescott,1978;Slattery&Levy,1979;and
+others).A newpharmacokineticmodelhasrecently
+beendevelopedtotakeintoaccountthecriticaleffect
+ofvariationingastricemptyingrateonparacetamol
+absorptioninman.Withthismodelthereisexcellent
+agreementbetweenobservedandcalculatedplasma
+paracetamolconcentrationswithdifferentratesand
+patternsofgastricemptying.Themeanhalf-timefor
+paracetamolabsorptionfromthesmallintestineis
+lessthan7min(Clementsetal.,1978).
+Aftertheintravenousinjectionof12mg/kgof
+paracetamolover2mininhealthyadults,plasma
+concentrationsdecreaserapidlyduringthefirsthour
+followedbyaslowereliminationphase(Figure6).
+Thedataareconsistentwithatwo-compartment
+openmodel,andtheresultsofconventionalpharma-
+cokineticanalysisaresummarizedinTable2.The
+volumeofdistributionandtotalbodyclearancein
+a 70kgadultareabout651and380ml/min,
+respectively.Inthesamesubjectssubsequentlygiven
+thesamedoseofparacetamolorallyinsolution,
+absorptionisveryrapidwiththemeanpeakplasma
+concentrationoccurringat15min;aftera short
+distributivephase,concentrationsdeclineinparallel
+295S
+296S L.F.PRESCOTT
+loor
+E
+0n
+.0
+a)0._
+CE
+-a
+E
+m
+C)
+cu
+p0._
+0
+a)
+CL
+0
+0
+xa)
+ ._
+EC
+501F
+20F
+10F
+5p-
+2
+0 2 4 6 8 10 12
+Timeafteradministration(h)
+Figure7 Meanurinaryexcretionratesofparacetamol
+(@)anditssulphate(0),glucuronide(0),cysteine(A)
+andmercapturicacidconjugates(*) (expressedas
+paracetamolequivalents)ineighthealthysubjectsafter
+anoraldoseof20mg/kg.
+withthoseafterintravenousinjection(Figure6).
+Meansystemicavailabilityofparacetamolcalculated
+fromtherelativeareasundertheintravenousand
+oralplasma-concentration-timecurvesis7607.
+Similarresultshavebeenreportedbyothers,andthe
+'first-pass'metabolismofparacetamolmaybedose-
+dependentandinducible(Rawlinsetal.,1977;
+Perucca&Richens,1979).
+Theurinaryexcretionofparacetamolandits
+sulphate,glucuronide,cysteineandmercapturicacid
+conjugatesinhealthysubjectsgivenanoraldoseof
+20mg/kgisshowninFigure7.Whenthedataare
+plottedas'sigma-minus'values(Cummingsetal.,
+1967),theregressionlinesbecomeapproximately
+parallelafter3-4hours.
+Phenacetin
+Phenacetin(acetophenetidine)ishighlylipid-soluble
+withlimitedaqueoussolubility,anditsoral
+absorptionishighlydependenton formulation
+factorssuchasparticlesize(Prescott,Steel&Ferrier,
+1970).Thedrugisextensivelymetabolizedandless
+than0.5%ofadoseisrecoveredunchangedinthe
+urine.Themajormetabolicrouteis0-dealkylation
+toparacetamol(60-80%o),andminorpathwaysincludedeacetylationandhydroxylationtoformp-
+phenetidine,2-hydroxyphenetidine,2-and3-
+hydroxyphenacetinandN-hydroxyphenacetin.These
+metabolites,togetherwiththepreviouslymentioned
+metabolitesofparacetamol,areexcretedlargelyas
+conjugatesintheurine(Brodie& Axelrod,1949;
+Jagenburg&Toczko,1964;Buch,Pfleger,Rummel,
+Ullrich,Hey& Staudinger,1967;Prescott,1969;
+Raaflaub& Dubach,1969;Nery,1971;Uehleke,
+1973;Smith&Timbrell,1974;Klutchetal.,1978).
+Thereisextensive'first-pass'metabolismof
+phenacetinbythesmallintestinalmucosaandliver,
+whichisinduciblebypolycyclichydrocarbonsand
+cigarettesmoking(Kuntzman,Pantuck,Kaplan&
+Conney,1977).Thehydroxylationofphenacetinis
+undergeneticcontrolandtherearemarkedspecies
+differencesinthemetabolismofthedrug(Smith&
+Timbrell,1974).Inanimalsandinman thede-
+acetylationofphenacetinisdose-dependentwitha
+markedrelativeincreaseintheproductionofp-
+phenetidineand2-hydroxyphenetidineathigher
+doses(Raaflaub&Dubach,1969;Smith&Timbrell,
+1974).Theplasmahalf-lifeofphenacetininmanis
+about1h(Prescott,Sansur,Levin&Conney,1968;
+Table2 Pharmacokineticvariablesinfourhealthyadultmalesgivenparacetamol
+12mg/kgintravenouslyandorallyonseparateoccasions.
+Orally
+Eliminationhalf-life(h)
+Distributionhalf-life(h)
+Totalbodyclearance(mlkg-'min-')
+VD,(ml/kg)
+VD,,(ml/kg)
+AUCoougml'h-')Systemicavailability
+1.97+0.3
+28.0+5.8
+76+13%
+Intravenously
+1.98+0.3
+0.13+0.05
+5.45+0.2
+509+68
+897+94
+36.7±+1.2
+Valuesgivenaremean±s.d.VDC,Volumeofcentralcompartment.
+VD,Volumeofcentralandperipheralcompartments.
+I I~~~~1
+METABOLISMOFPARACETAMOL &PHENACETIN 297S
+Kuntzmanetal.,1977).
+Thetoxicityofphenacetinisrelatedtoits
+metabolism.Methaemoglobinaemiahasbeen
+attributedtotheformationofp-phenetidineandN-
+hydroxymetabolitesandisincreasedbymicrosomal
+enzyme induction(Uehleke,1973).Like
+paracetamol,phenacetinisconvertedtoareactive
+alkylatingmetabolitewhichbindscovalentlyto
+hepaticandrenaltubularcellproteinscausing
+necrosis(Mitchelletal.,1977).Thereactive
+metaboliteisprobablyabenzoquinone-iminederived
+fromN-hydroxyphenacetin(Nery,1971;Calder,
+Creek,Williams,Funder,Green,Ham & Tange,
+1973).
+Phenacetinhasbeenuniversallyanduncritically
+implicatedinthedevelopmentoftumoursofthe
+renalpelvis,uretersandbladderinpatientswith
+analgesicnephropathy.Althoughchronictoxicity
+studiesofphenacetinhavefailedtoproducesimilar
+tumoursinanimals,manycarcinogenicaromatic
+aminesareactivatedbyN-hydroxylationandrecent
+studieshaveshownthattheN-O-sulphateand
+glucuronideconjugatesofN-hydroxyphenacetinare
+potentalkylatingagents(Mulder,Hinson&Gillette,
+1977;1978).Theseunstableconjugatesare
+concentratedintheurineandliabletoenzymic
+hydrolysisbytheuroepitheliumandpossibly
+bacteria.Unlikeitspolarmetabolites,phenacetinis
+extensivelyre-absorbedbytherenaltubules.Thereis
+no significantcorticomedullaryconcentration
+gradientandtheratioofurinetoplasmaconcentra-
+tionsisessentiallyunity(Duggin&Mudge,1976).
+References
+ADRIAENSSENS,P.I.&PRESCOTT,L.F.(1978).Highper-
+formanceliquidchromatographicestimationofpara-
+cetamolmetabolitesinplasma.Br.J.clin.Pharmac.,
+6,87-88.
+ANDREWS,R.S.,BOND,C.C.,BURNETT,J.,SAUNDERS,A.&
+WATSON,K.(1976).Isolationandidentificationof
+paracetamolmetabolites.J.Int.med.Res.,4,suppl.4,
+34-39.
+LOSOWSKY,M.S.(1979).Thegastrointestinalabsorption
+ofparacetamolintherat.J.Pharm.Pharmac.,31,
+157-160.
+BRIANT,R.H.,DORRINGTON,R.E.,CLEAL,J.&WILLIAMS,
+F.M.(1976).Therateofacetaminophenmetabolismin
+theelderlyandtheyoung.J.Am.GeriatricSoc.,24,
+359-361.
+BRODIE,B.B.& AXELROD,J.(1949).Thefateofaceto-
+phenetidin(phenacetin)inmanandmethodsforthe
+estimationofacetophenetidinanditsmetabolitesin
+biologicalmaterial.J.Pharmac.exp.Therap.,97,
+58-67.
+BOCH,H.,PFLEGER,K.,RUMMEL, W.,ULLRICH,V.,
+HEY,D.&STAUDINGER,.H.(1967).Untersuchungen
+uberdenoxydativenStoffwechseldesPhenacetinsbei
+derRatte.Biochem.Pharmac.,16,2247-2256.
+CALDER,I.C.,CREEK,M.J.,WILLIAMS,P.J.,FUNDER,
+C.C.,GREEN,C.R.,HAM, K.N.& TANGE,J.D.(1973).
+N-Hydroxylationofp-Acetophenetidideasafactorin
+nephrotoxicity.J.med.Chem.,16,499-502.
+CLEMENTS, J.A.,HEADING, R.C.,NIMMO, W.S.&
+PRESCOTT,L.F.(1978).Kineticsofacetaminophen
+absorptionandgastricemptyinginman.Clin.Pharmac.
+Ther.,24,420-431.
+CLEMENTS,J.A.& PRESCOTT,L.F.(1976).Datapoint
+weightinginpharmacokineticanalysis:intravenous
+paracetamolinman.J.Pharm.Pharmac.,28,707-709.
+CUMMINGS,A.J.,KING,M.L.& MARTIN,B.K.(1967).
+A kineticstudyofdrugelimination:theexcretionof
+paracetamolanditsmetabolitesinman.Br.J.Pharmac.
+Chemother.,29,150-157.
+DUGGIN,G.G.& MUDGE,G.H.(1975).Renaltubular
+transportofparacetamolanditsconjugatesinthedog.
+Br.J.Pharmac.,54,359-366.
+DUGGIN,G.G.&MUDGE,G.H.(1976).Phenacetin:renal
+tubulartransportandintrarenaldistributioninthedog.
+J.Pharmac.exp.Ther.,199,10-16.
+FORREST,J.A.H.,ADRIAENSSENS,P.1.,FINLAYSON,N.D.C.
+& PRESCOTT,L.F.(1979).Paracetamolmetabolismin
+chronicliverdisease.Eur.J.clin.Pharmac.,15,427-431.
+FORREST,J.A.H.,FINLAYSON,N.D.C.,ADJEPON-YAMOAH,
+K.K.&PRESCOTT,L.F.(1977).Antipyrine,paracetamol,
+andlignocaineeliminationinchronicliverdisease.Br.
+med.J.,1,1384-1387.
+GALINSKY,R.E.,SLATTERY,J.T.&LEVY,G.(1979).Effect
+ofsodiumsulphateonacetaminopheneliminationbyrats.
+J.pharm.Sci.,68,803-805.
+GAZZARD,B.G.,FORD-HUTCHINSON,A.W.,SMITH,M.J.H.
+&WILLIAMS,R.(1973).Thebindingofparacetamolto
+plasmaproteinsofmanandpig.J.Pharm.Pharmac.,
+25,964-967.
+HEADING,R.C.,NIMMO,J.,PRESCOTT,L.F.& TOTHILL,
+P.(1973).Thedependenceofparacetamolabsorptionon
+therateofgastricemptying.Br.J.Pharmac.,47,
+415-421.
+JAGENBURG,O.R.&TOCZKO,K.(1964).Themetabolism
+ofacetophenetidine.Isolationandcharacterizationof
+S-(l-acetamido-4-hydroxyphenyl)-cysteine,ametabolite
+ofacetophenetidine.Biochem.J.,92,639-643.
+JONES,D.P.,SUNDBY,G.-B.,ORMSTAD,K.&ORRENIUS,S.
+(1979).Useofisolatedkidneycellsforstudyofdrug
+metabolism.Biochem.Pharmac.,28,929-935.
+JOSTING,D.,WINNE,D.&BOCK,K.W.(1976).Glucuronida-
+tionofparacetamol,morphineandl-naphtholintherat
+intestinalloop.Biochem.Pharmac.,25,613-616.
+KLUTCH,A.,LEVIN,W.,CHANG, R.L.,VANE,F.&
+CONNEY,A.H.(1978).Formationofa thiomethyl
+metaboliteofphenacetinandacetaminophenindogs
+andman.Clin.Pharmac.Therap.,24,287-293.
+KUNTZMAN,R.,PANTUCK,E.J.,KAPLAN,S.A.&CONNEY,
+A.H.(1977).Phenacetinmetabolism:Effectofhydro-
+carbonsandcigarettesmoking.Clin.Pharmac.Therap.,
+298S L.F.PRESCOTT
+22,757-764.
+LEVY,G.,KHANNA, N.N.,SODA,D.M.,TSUZUKI,0.&
+STERN,L.(1975).Pharmacokineticsofacetaminophen
+inthehumanneonate:formationofacetaminophen
+glucuronideandsulfateinrelationtoplasmabilirubin
+concentrationandd-glucaricacidexcretion.Pediatrics,
+55,818-825.
+LEVY,G.&YAMADA,H.(1971).Drugbiotransformation
+interactionsinmanIII:acetaminophenandsalicylamide.
+J.pharm.Sci.,60,215-221.
+McGILVERAY,I.J.&MATTOK,G.L.(1972).Somefactors
+affectingtheabsorptionofparacetamol.J.Pharm.
+Pharmac.,24,615-619.
+MILLER,R.P.,ROBERTS,R.J.& FISCHER,L.J.(1976).
+Acetaminopheneliminationkineticsinneonates,
+children,andadults.Clin.Pharmac.Therap.,19,
+284-294.
+MITCHELL,J.R.,JOLLOW,D.J.,POTTER,W.Z.,DAVIS,
+D.C.,GILLETTE,J.R.&BRODIE,B.B.(1973).Acetamino-
+phen-inducedhepaticnecrosis.I.Roleofdrugmeta-
+bolism.J.Pharmac.exp.Therap.,187,185-194.
+MITCHELL,J.R.,McMURTRY,R.J.,STATHAM,C.N.&
+NELSON,S.D.(1977).Molecularbasisforseveraldrug-
+inducednephropathies.Am.J.Med.,62,518-526.
+MITCHELL,J.R.,THORGEIRSSON,S.S.,POTTER,W.Z.,
+JOLLOW,D.J.& KEISER,H.(1974).Acetaminophen-
+inducedhepaticinjury:Protectiveroleofglutathionein
+manandrationalefortherapy.Clin.Pharmac.Therap.,
+16,676-684.
+MULDER,G.J.,HINSON,J.A.& GILLETTE,J.T.(1977).
+GenerationofreactivemetabolitesofN-hydroxy-
+phenacetinbyglucuronidationandsulfation.Biochem.
+Pharmac.,26,189-196.
+MULDER,G.J.,HINSON,J.A.& GILLETTE,J.R.(1978).
+ConversionoftheN-O-glucuronideandN-O-sulfate
+conjugatesofN-hydroxyphenacetintoreactiveinter-
+mediates.Biochem.Pharmac.,27,1641-1649.
+NELSON,E.&MORIOKA,T.(1963).Kineticsofthemeta-
+bolismofacetaminophenbyhumans.J.pharm.Sci.,
+52,864-868.
+NERY,R.(1971).Somenewaspectsofthemetabolismof
+phenacetinintherat.Biochem.J.,122,317-326.
+NIMMO,J.,HEADING,R.C.,TOTHILL,P.& PRESCOTT,
+L.F.(1973).Pharmacologicalmodificationofgastric
+emptying:effectsofpropanthelineandmetoclopromide
+onparacetamolabsorption.Br.med.J.,1,587-589.
+NIMMO,W.S.,HEADING,R.C.,WILSON,J.,TOTHILL,P.
+&PRESCOTT,L.F.(1975).Inhibitionofgastricemptying
+anddrugabsorptionbynarcoticanalgesics.Br.J.clin.
+Pharmac.,2,509-513.
+NIMMO,W.S.&PRESCOTT,L.F.(1978).Theinfluenceof
+postureon paracetamolabsorption.Br.J.clin.
+Pharmac.,5,348-349.
+0IE,S.,LOWENTHAL,D.T.,BRIGGS,W.A.& LEVY,G.
+(1975).Effectofhemodialysison kineticsof
+acetaminopheneliminationbyanephricpatients.Clin.
+Pharmac.Therap.,18,680-686.
+PERUCCA,E.& RICHENS,A.(1979).Paracetamoldis-
+positioninnormalsubjectsandinpatientstreatedwith
+antiepilepticdrugs.Br.J.clin.Pharmac.,7,201-206.
+PRESCOTT,L.F.(1969).Themetabolismofphenacetininpatientswithrenaldisease.Clin.Pharmac.Therap.,
+10,383-394.
+PRESCOTT,L.F.(1974).Gastrointestinalabsorptionof
+drugs.Med.Clin.N.Am.,58,907-916.
+PRESCOTT,L.F.,ILLINGWORTH,R.N.,CRITCHLEY,
+J.A.J.H.,STEWART,M.J.,ADAM,R.D.&PROUDFOOT,
+A.T.(1979).IntravenousN-acetylcysteine- thetreat-
+mentofchoiceforsevereparacetamolpoisoning.Br.
+med.J.,2,1097-1100.
+PRESCOTT,L.F.,SANSUR,M.,LEVIN,W.& CONNEY,
+A.H.(1968).Thecomparativemetabolismofphenacetin
+andN-acetyl-p-aminophenolinman,withparticular
+referencetoeffectsonthekidney.Clin.Pharmac.
+Therap.,9,605-614.
+PRESCOTT,L.F.,STEEL,R.F.& FERRIER,W.R.(1970).
+Theeffectsofparticlesizeon theabsorptionof
+phenacetininman.Clin.Pharmac.Therap.,11,
+496-504.
+PRESCOTT,L.F.& WRIGHT,N.(1973).Theeffectsof
+hepaticandrenaldamageonparacetamolmetabolism
+andexcretionfollowingoverdosage.A pharmaco-
+kineticstudy.Br.J.Pharmac.,49,602-613.
+RAAFLAUB,H.&DUBACH,U.C.(1969).Dose-dependent
+changeinthepatternofphenacetinmetabolisminman
+anditspossiblesignificanceinanalgesicnephropathy.
+Klin.Wschr.,47,1286-1287.
+RAWLINS,M.D.,HENDERSON,D.B.&HIJAB,A.R.(1977).
+Pharmacokineticsofparacetamol(acetaminophen)after
+intravenousandoraladministration.Eur.J.clin.
+Pharmac.,11,283-286.
+SLATTERY,J.T.&LEVY,G.(1979).Acetaminophenkinetics
+inacutelypoisonedpatients.Clin.Pharmac.Therap.,
+25,184-195.
+SMITH,R.L.&TIMBRELL,J.A.(1974).Factorsaffectingthe
+metabolismofphenacetin.I.Influenceofdose,chronic
+dosage,routeofadministrationandspeciesonthe
+metabolismof[1-14C-acetylJphenacetin.Xenobiotica,
+4,489-501.
+UEHLEKE,H.(1973).Biochemicalpharmacologyandtoxi-
+cologyofphenacetin.InInternationalSymposiumon
+ProblemsofPhenacetinAbuse.Ed.Haschek,H.Pp.
+31-44.Vienna:FactaPublication.

@@ -1,0 +1,52 @@
+{
+  "train": [
+    "17541571__Fig1",
+    "17541571__Fig2",
+    "17541571__Fig3",
+    "7002186__Fig1",
+    "7002186__Fig4",
+    "7002186__Fig6",
+    "7002186__Fig7",
+    "7983238__Fig1",
+    "PKDB00021__Fig2",
+    "PKDB00047__Fig3",
+    "PKDB00063__Fig1",
+    "PKDB00091__Fig2",
+    "PKDB00094__Fig1",
+    "PKDB00115__Fig2",
+    "PKDB00119__Fig1",
+    "PKDB00121__Fig2",
+    "PKDB00124__Fig1",
+    "PKDB00124__Fig2",
+    "PKDB00151__Fig1",
+    "PKDB00154__Fig1",
+    "PKDB00156__Fig1",
+    "PKDB00156__Fig10",
+    "PKDB00156__Fig3",
+    "PKDB00156__Fig4",
+    "PKDB00156__Fig5",
+    "PKDB00156__Fig6",
+    "PKDB00156__Fig7",
+    "PKDB00156__Fig8",
+    "PKDB00156__Fig9",
+    "PKDB00195__Fig1",
+    "PKDB00323__Fig1",
+    "PKDB00323__Fig2",
+    "PKDB00427__Fig1"
+  ],
+  "val": [
+    "1623898__Fig2",
+    "PKDB00024__Fig1",
+    "PKDB00114__Fig1",
+    "PKDB00114__Fig2",
+    "PKDB00136__Fig3",
+    "PKDB00252__Fig1"
+  ],
+  "val_studies": [
+    "1623898",
+    "PKDB00024",
+    "PKDB00114",
+    "PKDB00136",
+    "PKDB00252"
+  ]
+}

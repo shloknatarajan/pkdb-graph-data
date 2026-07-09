@@ -1,0 +1,707 @@
+Pharmacokinetic assessment
+of a ﬁve-probe cocktail for
+CYPs 1A2, 2C9, 2C19, 2D6
+and 3A
+Sandrine Turpault, William Brian, Robert Van Horn, Alix Santoni, 2
+Franck Poitiers, 3 Yves Donazzolo4 & Xavier Boulenc 1
+Global Metabolism and Pharmacokinetics, Sanoﬁ-Aventis, Malvern, PA, USA,1GMPK and 2Clinical and
+Exploratory Pharmacology, Sanoﬁ-Aventis, Montpellier,3Biostatistics, Sanoﬁ-Aventis, Chilly-Mazarin
+and 4Optimed, Gieres, France
+Correspondence
+Dr Sandrine Turpault, Global Metabolism
+and Pharmacokinetics, Sanoﬁ-aventis, 9
+Great Valley Parkway, Malvern, PA, USA.
+Tel: +1 610 889 6592
+Fax: +1 610 889 6923
+E-mail:
+sandrine.turpault@sanoﬁ-aventis.com
+----------------------------------------------------------------------
+Keywords
+cocktail, CYP ,in vivo drug–drug
+interaction
+----------------------------------------------------------------------
+Received
+15 December 2008
+Accepted
+17 August 2009
+WHAT IS ALREADY KNOWN ABOUT
+THIS SUBJECT
+• Numerous cocktails using concurrent
+administration of several cytochrome P450
+(CYP) isoform-selective probe drugs have
+been reported to investigate drug–drug
+interactions in vivo.
+• This approach has several advantages:
+characterize the inhibitory or induction
+potential of compounds in development
+toward the CYP enzymes identiﬁed in vitro
+in an in vivo situation, assess several
+enzymes in the same trial, and have
+complete in vivo information about
+potential CYP-based drug interactions.
+WHAT THIS STUDY ADDS
+• This study describes a new cocktail
+containing ﬁve probe drugs that has never
+been published.
+• This cocktail can be used to test the effects
+of a new chemical entity on multiple CYP
+isoforms in a single clinical study: CYP1A2
+(caffeine), CYP2C9 (warfarin), CYP2C19
+(omeprazole), CYP2D6 (metoprolol), and
+CYP3A (midazolam) and was designed to
+overcome potential liabilities of other
+reported cocktails.
+AIMS
+To assess the pharmacokinetics (PK) of selective substrates of CYP1A2
+(caffeine), CYP2C9 (S-warfarin), CYP2C19 (omeprazole), CYP2D6
+(metoprolol) and CYP3A (midazolam) when administered orally and
+concurrently as a cocktail relative to the drugs administered alone.
+METHODS
+This was an open-label, single-dose, randomized, six-treatment
+six-period six-sequence William’s design study with a wash-out of 7 or
+14 days. Thirty healthy male subjects received 100 mg caffeine, 100 mg
+metoprolol, 0.03 mg kg
+-1 midazolam, 20 mg omeprazole and 10 mg
+warfarin individually and in combination (cocktail). Poor metabolizers
+of CYP2C9, 2C19 and 2D6 were excluded. Plasma samples were
+obtained up to 48 h for caffeine, metoprolol and omeprazole, 12 h for
+midazolam, 312 h for warfarin and the cocktail. Three different
+validated liquid chromatography tandem mass spectrometry methods
+were used. Noncompartmental PK parameters were calculated.
+Log-transformed C
+max,A U Clast and AUC for each analyte were analysed
+with a linear mixed effects model with ﬁxed term for treatment,
+sequence and period, and random term for subject within sequence.
+Point estimates (90% CI) for treatment ratios (individual/cocktail) were
+computed for each analyte C
+max,A U Clast and AUC.
+RESUL TS
+There was no PK interaction between the probe drugs when
+administered in combination as a cocktail, relative to the probes
+administered alone, as the 90% CI of the PK parameters was within the
+prespeciﬁed bioequivalence limits of 0.80, 1.25.
+CONCLUSION
+The lack of interaction between probes indicates that this cocktail
+could be used to evaluate the potential for multiple drug–drug
+interactions in vivo.
+British Journal of Clinical
+Pharmacology
+DOI:10.1111/j.1365-2125.2009.03548.x
+928 / Br J Clin Pharmacol / 68:6 / 928–935 © 2009 The Authors
+Journal compilation © 2009 The British Pharmacological Society
+Introduction
+Multiple drug therapy is common in clinical practice. The
+resultant potential for drug–drug interactions (DDIs) is a
+safety concern. Therefore, there is a need to identify pos-
+sible DDIs during early drug development. This typically
+begins with in vitro evaluation of a new chemical entity as
+an inhibitor or inducer of CYP isoforms. Positive in vitro
+ﬁndings then lead to follow-up studies in vivo . However,
+conducting multiple clinical drug interaction trials is costly
+and time-consuming. With a drug cocktail, more than one
+interaction can be tested in a single crossover study, as it
+involves the simultaneous administration of two or more
+probe drugs.
+Numerous cocktails using concurrent administration of
+several cytochrome P450 (CYP) isoform-selective probe
+drugs have been reported to investigate DDI in vivo , like
+the ‘Inje’ or ‘Cooperstown 5 + 1’ cocktails [1, 2]. This
+approach was successfully used to investigate the effect of
+drugs on various CYP isoforms (e.g. the effect of propiver-
+ine on the activity of intestinal 3A and of hepatic CYP3A,
+CYP2C9, CYP2C19 and CYP1A2 [3]).
+The main advantage is to characterize the inhibitory or
+induction potential of compounds in development toward
+the several CYP enzymes identiﬁed in vitro in an in vivo
+situation and therefore have complete in vivo information
+about potential CYP-based drug interactions in the same
+trial.
+Drugs used in such a cocktail should be selective for
+individual CYP isoforms and should not interact with each
+other. This study describes the validation of a new cocktail
+containing ﬁve probe drugs for ﬁve isoforms: CYP1A2 (caf-
+feine), CYP2C9 (warfarin), CYP2C19 (omeprazole), CYP2D6
+(metoprolol) and CYP3A (midazolam).
+The present clinical study was conducted to test for
+pharmacokinetic (PK) interactions between these probe
+drugs by administering them each alone and simulta-
+neously. In addition, the overall safety of this cocktail was
+assessed during the study.
+Materials and methods
+Clinical study design
+A single-centre, open-label, single oral dose study was
+carried out in healthy male subjects in a six-treatment
+six-period six-sequence William’s design with a wash-out
+of 7 days after caffeine, omeprazole, metoprolol and mida-
+zolam treatments and 14 days after cocktail and warfarin
+treatments. The study was conducted at Optimed (Gieres,
+France) in accordance with the ethical principles set forth
+in the Declaration of Helsinki and in compliance with local
+regulations. The protocol was reviewed and approved by
+the Comite Consultatif pour la Protection des Personnes
+dans la Recherche Biomedicale de LYON B. Prior to any
+study procedures, subjects provided written informed
+consent after having received verbal and written informa-
+tion on the procedure and possible hazards and risks of
+the studies.
+Thirty-three subjects met the inclusion/exclusion crite-
+ria of the study. Exclusion criteria included any medication
+or nutraceutical (e.g. St John’s Wort) received within 20
+days prior to the drug administration, or within six times
+the elimination half-life, whichever was longest, except
+occasional use of paracetamol; administration of enzyme-
+inducing or enzyme-inhibiting drugs within 3 months of
+trial initiation; history or presence of drug or alcohol abuse;
+excessive consumption of beverages containing caffeine
+(more than four cups or glasses per day) or unable to stop
+consumption during the hospitalization; smoking more
+than ﬁve cigarettes or equivalent per day or not able to
+stop smoking during hospitalization; and grapefruit and
+grapefruit-containing products or orange juice were pro-
+hibited from 48 h prior to each dosing until the last sample
+was taken for each period. CYP2C9, CYP2C19 and CYP2D6
+poor metabolizers were excluded, based on genotyping of
+genomic DNA from blood samples.
+International Normalized Ratio (INR) was monitored
+during the study and subjects were institutionalized until
+INR returned to baseline value /H1100610% or INR < 2 of each
+period with warfarin administration only. In cases where a
+major therapeutic effect was observed (e.g. INR > 5 and/or
+occurrence of haemorrhage) after warfarin or cocktail
+administration, the investigator had the responsibility
+to investigate the appropriateness of administering the
+antidote (vitamin K). If such a case occurred at the ﬁrst
+warfarin administration, the subject should have been
+excluded from the second study period with warfarin
+administration.
+Subjects, after attending the unit for the laboratory
+value check in the morning, were institutionalized on the
+afternoon the day before administration, until 24 h post
+administration (day 2) of each period.
+Drug, dose and administration route
+On day 1 of each corresponding period, subjects received
+one of the following treatments with 200 ml of water at
+approximately 08.00 h while fasting: caffeine 100 mg (four
+vials of 50 mg of Cafeine Cooper containing 25 mg of caf-
+feine base); warfarin 10 mg (two tablets of 5 mg); omepra-
+zole 20 mg (one capsule of 20 mg); metoprolol 100 mg
+(one coated tablet of 100 mg); midazolam 0.03 mg kg
+–1
+(5 mg/5 ml vials mixed in 120 ml of 5% dextrose in water)
+administered; the cocktail: all ﬁve drugs administered
+together in the same doses and conditions. Blood samples
+were collected for 48 h for caffeine, metoprolol and ome-
+prazole, 12 h for midazolam and 312 h for warfarin and the
+cocktail.
+Except for metoprolol, these drugs are all listed as sen-
+sitive substrates in the Food and Drug Administration draft
+guidance. Yet metoprolol is a well-documented CYP2D6
+probe drug. The doses chosen were based on the clinical
+Pharmacokinetic assessment of a ﬁve-probe cocktail
+Br J Clin Pharmacol / 68:6 / 929
+tolerability of these drugs and the ability to assess reliably
+their PK parameters. For caffeine, 100 mg was chosen as it
+is approximately the amount found in one cup of coffee.
+For warfarin, in patients 10 mg is often used as a mainte-
+nance dose. For omeprazole, the dose of 20 mg once a
+day is used in the treatment of symptomatic gastro-
+oesophageal reﬂux disease and duodenal ulcer. For mida-
+zolam, as it has an absolute bioavailability of 74.5%, a dose
+of 0.03 mg kg
+–1 of the intravenous formulation given orally
+should lead to signiﬁcant systemic exposure without
+major sedative effect [4]. Metoprolol is currently used in
+clinic at a daily dose of 100 mg. This dose allows meto-
+prolol plasma concentrations to be quantiﬁed up to 24 h.
+Bioanalytical methods
+Caffeine and its metabolite (paraxanthine), metoprolol and
+omeprazole plasma samples were analysed together, while
+midazolam and R- and S-warfarin plasma concentrations
+were analysed separately. All procedures associated with
+this analysis were conducted following methods previ-
+ously validated by Covance (Indianapolis, IN, USA).
+Regarding caffeine, paraxanthine, metoprolol and
+omeprazole, plasma samples were spiked with an internal
+standard {caffeine-(trimethyl)-
+13C3, theophylline-(2-13C,1-3-
+15N2) [for paraxanthine], metoprolol-d 7(+) tartrate, lanso-
+prazole [for omeprazole]}. The analytes and their internal
+standards were then extracted from human plasma by
+Oasis HLB solid-phase extraction using sodium acetate,
+5% methanol in water. The solid-phase extraction car-
+tridges were subsequently placed on top of an Axygen
+96-well plate and, to ﬁnish, 90% methanol in water was
+added to them. Next, the samples were analysed using
+a Sciex API 4000 liquid chromatography coupled with
+tandem mass spectrometry system (LC-MS/MS). Chro-
+matographic separation of the compounds was accom-
+plished using a Genesis C18 column, with 1% acetic acid
+in methanol : water (90:10, v : v) as the mobile phase at a
+ﬂow rate of 1.00 ml min
+–1. The MS/MS system was oper-
+ated using an electrospray in positive ionization mode.
+The precursor-to-product ion reactions monitored are
+presented in Table 1. The lower limit of quantiﬁcation
+(LLOQ) was 25 ng ml
+–1 for caffeine and paraxanthine and
+5n gm l–1 for metoprolol and omeprazole.
+Regarding midazolam, plasma samples were spiked
+with an internal standard (a-hydroxytriazolam), alkalinized
+with 5% ammonium hydroxide, and extracted with
+methyl-tert-butyl ether. After evaporation of the organic
+solvent under nitrogen, reconstituted residues of the
+organic phase were analysed using a Sciex API 4000
+LC-MS/MS. Chromatographic separation of the com-
+pounds was accomplished using a Chromolith SpeedROD
+RP-18e with 0.15% triﬂuoroacetic acid in ammonium
+formate and methanol (30:70, v/v) as the mobile phase at a
+ﬂow rate of 1.00 ml min
+–1.The MS/MS system was operated
+using an electrospray in positive ionization mode. For
+midazolam and a-hydroxytriazolam, the precursor-to-
+product ion reactions monitored are presented in Table 1.
+The LLOQ for midazolam was 0.1 ng ml
+–1.
+Finally regarding R- and S-warfarin, plasma samples
+were spiked with an internal standard (R- and S-warfarin-
+d
+6), acidiﬁed with 1.0 N sulphuric acid and extracted
+with 5% ethyl acetate in hexane. After evaporation of the
+organic solvent under nitrogen, reconstituted residues of
+the organic phase were analysed using a Sciex API 3000
+negative ion atmospheric pressure chemical ionization
+LC-MS/MS. Chromatographic separation of the com-
+pounds was accomplished using an Astec b-cyclodextrin
+cyclobond I with acetonitrile : acetic acid : triethylamine
+(1000:3:2.5, v:v:v ) a s t h e mobile phase at a ﬂow rate of
+1.00 ml min
+–1. For R- and S-warfarin and R- and S-warfarin-
+d6, the precursor-to-product ion reactions monitored are
+presented in Table 1. The LLOQ for R- and S-warfarin was
+1.0 ng ml
+–1.
+Calibration standards and quality control (QC) samples
+were analysed in at least one batch to determine intra-
+assay precision and mean accuracy, and in a minimum of
+three batches to determine interassay precision and mean
+accuracy. Calibration standards and QC samples were
+interspersed throughout each batch. The accuracy of the
+method was determined by comparing the means of
+the measured concentrations of the calibration standards
+and QC samples with their theoretical concentrations. The
+ranges, interassay precisions and accuracy values for the
+calibration standards are presented in Table 2. The interas-
+say results demonstrated a relative standard deviation for
+calibration standards and QC samples of <13%. The accu-
+Table 1
+Mass transition monitored for each probe and its internal standard
+Drug Transition monitored IS name Transition monitored
+Caffeine 195.1 → 110.1 Caffeine-(trimethyl)- 13C3 198.1 → 140.0
+Paraxanthine 181.1 → 68.9 Theophylline-(2- 13C,1-3-15N2 183.9 → 125.0
+Metoprolol 268.1 → 116.2 Metoprolol-d 7(+) tartrate 275.3 → 122.9
+Omeprazole 346.1 → 198.0 Lansoprazole 370.0 → 252.0
+Midazolam 326.1 → 291.1 a-Hydroxytriazolam 359.1 → 176.1
+R- and S-warfarin 307.1 → 161.0 R- and S-warfarin-d 6 313.1 → 161.0
+S. Turpault et al.
+930 / 68:6 / Br J Clin Pharmacol
+racy results demonstrated calculated deviation of mean
+value from nominal values in the range of –8.0 to 6.9% for
+calibration standards and QC samples.
+For all analytes, no signiﬁcant interfering peaks were
+detected in matrix blanks.
+Data analysis
+PK parameters of caffeine, paraxanthine, metoprolol,
+midazolam, omeprazole, R-warfarin and S-warfarin were
+determined on day 1 of each treatment period by noncom-
+partmental analysis of plasma concentrations and real
+time values using WinNonlin Professional,Version 4.01.The
+peak plasma concentration ( C
+max), the time to reach Cmax
+(tmax), and time corresponding to the last concentration
+above the limit of quantiﬁcation ( tlast) were obtained
+directly from experimental observations. The area under
+the plasma concentration–time curve extrapolated to
+inﬁnity (AUC) was calculated according to the following
+equation: AUC = AUC
+last + (Clast/lz), where AUClast was calcu-
+lated using the trapezoidal method from time 0 to the
+real time t
+last. The terminal half-life ( t1/2z) was determined
+according to the following equation: t1/2z = 0.693/lz, where
+lz is the slope of the regression line of the terminal phase
+of the plasma concentration–time curve, on a semi-
+logarithmic scale.
+Statistical analysis
+Transformed pharmacokinetic parameters ( Cmax,A U C last
+and AUC values were log transformed, tmax was rank trans-
+formed and t1/2z values were replaced with lz values) were
+analysed with a linear mixed effects model with ﬁxed term
+for treatment (cocktail and probe alone), sequence and
+period, and random term for subject within sequence,
+parameter = sequence + subject(sequence) + treatment +
+period, ﬁt using SAS PROC MIXED. For C
+max,A U Clast and
+AUC, estimates and 90% conﬁdence intervals (CIs) for the
+ratios of treatments were obtained by computing esti-
+mates and 90% CIs for the differences between treatment
+means within the mixed model framework, and converting
+to ratios by the antilog transformation. Equivalence was
+concluded if the 90% CI for the ratio was entirely within the
+0.80, 1.25 equivalence speciﬁcations. For t
+max and t1/2z, dif-
+ferences between treatments were tested for signiﬁcance
+with P-values from the mixed model analysis of rank tmax
+and lz, respectively.
+Results
+All subjects were healthy White men.The mean age was 26
+years (range 19–35 years). The mean body mass index was
+22.6 kg m
+–2 with a range of 18.2–25.8 kg m –2. Three of the
+33 subjects who participated in the study discontinued
+study treatment, but none for safety-related reasons. Thus,
+30 subjects were available for PK analyses.
+Plots of the mean caffeine, paraxanthine, metoprolol,
+midazolam, omeprazole, R-warfarin and S-warfarin plasma
+concentrations administered alone or concurrently as a
+cocktail are shown in Figure 1.
+PK parameters for caffeine, paraxanthine, metoprolol,
+midazolam, omeprazole and S-warfarin administered
+alone or concurrently as a cocktail are summarized in
+Table 3.
+Geometric mean (%CV) and point estimates (90% CI) of
+the pharmacokinetic parameters of caffeine, paraxanthine,
+metoprolol, midazolam, omeprazole and S-warfarin
+administered alone or concurrently as a cocktail are pre-
+sented in Table 4.
+One subject experienced two adverse events (dizziness
+and headache following caffeine and midazolam adminis-
+tration, respectively) during the study.There were sporadic
+abnormalities in haematology (decreases in haemoglo-
+bin), ECG, and vital sign (minor orthostatic changes in
+heart rate or blood pressure) parameters, but these were
+not clinically relevant and none occurred following cock-
+tail administration. In addition, the mean value of INR in
+this study was <1.5. Only one subject had a value reaching
+the threshold of therapeutic efﬁcacy (INR of 2) on two
+occasions.
+Discussion
+Drugs to be included in a cocktail should meet several
+criteria [5]. Each drug should be a selective substrate for a
+Table 2
+Ranges, interassay precisions and accuracy values for each probe calibration standards
+Drug Calibration range (ng ml –1) Interassay precision (RSD%) Accuracy (DMT%)
+Caffeine 25–20 000 2.9–6.6 -4t o6 . 9
+Paraxanthine 25–20 000 3.7–7.4 -3.5 to 6.3
+Metoprolol 5–2500 2.1–7.3 -1.2 to 1.6
+Omeprazole 5–2 500 3–7.2 -3.2 to 3.5
+Midazolam 0.1–100 2.6–7.6 -4.8 to 2.5
+R-warfarin 1–100 2.8–8.2 -3t o3
+S-warfarin 1–100 2.5–6.3 -1.5 to 1
+Pharmacokinetic assessment of a ﬁve-probe cocktail
+Br J Clin Pharmacol / 68:6 / 931
+Time (hours)
+241287643210
+Caffeine plasma concentration
+(ng/mL)
+0
+500
+1000
+1500
+2000
+2500
+3000
+Time (hours)
+241287643210
+Paraxanthine plasma concentration
+(ng/mL)
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+Time (hours)
+482412876
+81 276
+43210
+43210
+Metoprolol plasma concentration
+(ng/mL)
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Time (hours)
+241287643210
+Midazolam plasma concentration
+(ng/mL)
+0
+2
+4
+6
+8
+10
+12
+Time (hours)
+Omeprazole plasma concentration
+(ng/mL)
+0
+50
+100
+150
+200
+250
+Time (hours)
+S-warfarin plasma concentration
+(ng/mL)
+0
+100
+200
+300
+400
+500
+600
+Caffeine
+Metoprolol
+Omeprazole S-warfarin
+Midazolam
+Paraxanthine
+01224 48 72 96 120 144 168 216 264 312
+Caffeine alone
+Cocktail
+Caffeine alone
+Cocktail
+Omeprazole alone
+Cocktail
+Metoprolol alone
+Cocktail
+Warfarin alone
+Cocktail
+Midazolam alone
+Cocktail
+Figure 1
+Mean (/H11006SD) plasma concentrations for each probe administered alone or concurrently as a cocktail ( n /H1134933)
+S. Turpault et al.
+932 / 68:6 / Br J Clin Pharmacol
+single CYP isoform (i.e. clearance of the probe drug should
+predominantly be due to a single CYP isoform). Drugs
+within a cocktail should not interfere with the metabolism
+and clearance of other drugs in the cocktail. The drugs
+should be safe for trial subjects, readily available and
+straightforward to administer. Assays for quantifying
+probe drugs should be sensitive and rigorous. PK of the
+drugs should be easily interpretable, even with signiﬁcant
+inhibition or induction of one or more CYP isoforms.
+This new cocktail was designed to overcome potential
+liabilities of other reported cocktails [5]. The probe drugs
+(caffeine, warfarin, omeprazole, metoprolol and mida-
+zolam) were selected to test the ﬁve CYP isoforms
+predominantly involved in metabolism of most small-
+molecule drugs [6]. Drugs and doses were carefully
+selected based on described metabolism and PK charac-
+teristics to minimize or eliminate potential interference
+between probes. The probes to be used in this cocktail
+approach were chosen based not only on their CYP speci-
+ﬁcity, but also on their availability on the major global
+markets and recommendations in regulatory guidance.
+The doses selected are commonly used in clinical drug
+interaction trials and thought not to interfere with clear-
+ance of the other probe drugs, which was veriﬁed in this
+study. Drugs were administered orally to reﬂect both liver
+and intestinal activities, which are particularly relevant for
+CYP3A (i.e. midazolam probe).
+Ideally, evaluation of probe drugs would be non-
+invasive, allowing quantiﬁcation of drug or metabolites in
+urine or breath, but that was not practical with the use of
+drugs selected as probes in this cocktail. Therefore, quan-
+tiﬁcation of the probe drugs and metabolites in plasma
+was intentional, to overcome potential problems with
+assays utilizing urine, including issues of urine collection
+and interference with quantiﬁcation due to changes in pH,
+ﬂuid intake or output, or other documented problems.
+For this cocktail, blood samples must be collected in a
+clinical protocol where blood is already drawn to quantify
+concentrations of the new chemical entity and clinical
+chemistry parameters. Bioanalysis of clinical samples to
+quantify concentrations of probe drugs or metabolites
+used to be problematic due to the need for large sample
+sizes, lack of sensitivity and analytical chemical interfer-
+ence between compounds. However, the use of LC-MS/MS
+to quantify drug concentrations eliminated these issues for
+the probe drugs used in this cocktail.
+The aim of our approach was the determination of a
+potential metabolic-based DDI as well as its magnitude.
+That is why we assumed that the determination of the
+AUC, reﬂecting the clearance, was the best end-point for
+this kind of study. In addition, the CV values of the AUC
+Table 3
+Summary of PK parameters for each probe administered alone or concurrently as a cocktail
+Drug Period nC max (ng ml–1) tmax (h)* AUC last (ng h–1 ml–1) AUC (ng h –1 ml–1) t1/2z (h) tlast (h)*
+Caffeine Alone 30 2390 (559) 0.500 (0.500, 2.00) 21 300 (9 530) NC† NC† 48.0 (12.0, 48.0)
+Cocktail 33 2430 (625) 0.500 (0.500, 48.0) 22 900 (11 500) NC† NC† 48.0 (12.0, 48.0)
+Paraxanthine Alone 30 1230 (684) 4.00 (1.00, 48.0) 28 300 (18 600) NC† NC† 48.0 (48.0, 48.0)
+Cocktail 33 1100 (457) 5.00 (0.500, 48.0) 27 100 (12 500) NC† NC† 48.0 (24.0, 48.0)
+Metoprolol Alone 31 101 (54.2) 2.00 (0.500, 3.00) 449 (303) 494 (321) 2.76 (0.738) 12.0 (4.00, 24.0)
+Cocktail 33 105 (55.7) 1.00 (0.500, 4.00) 445 (344) 510 (383)‡ 3.04 (1.49) 12.0 (2.00, 24.0)
+Midazolam Alone 30 9.43 (2.60) 0.500 (0.500, 1.00) 23.7 (7.96) 25.1 (9.24) 3.33 (0.925) 12.0 (8.00, 12.0)
+Cocktail 33 10.7 (3.58) 0.500 (0.500, 1.00) 26.1 (10.7) 27.0 (11.4)‡ 3.41 (1.19)‡ 12.0 (8.00, 48.0)
+Omeprazole Alone 31 187 (98.0) 2.00 (1.00, 4.00) 368 (250) 396 (263)§ 0.858 (0.313)§ 6.00 (3.00, 8.00)
+Cocktail 33 184 (118) 2.00 (1.00, 3.00) 340 (230) 350 (236) 0.802 (0.224) 6.00 (3.00, 8.00)
+S-warfarin Alone 31 316 (57.0) 12.0 (12.0, 24.0) 16 000 (4 340) 17 200 (4 800) 120 (41.7) 312 (312, 312)
+Cocktail 33 321 (45.5) 12.0 (12.0, 12.0) 16 000 (4 780) 17 400 (4 780)¶ 113 (30.1)¶ 312 (24.0, 312)
+*T abulated values are mean (SD) except for tmax and tlast, where values are median (min, max). †No half-life for caffeine and paraxanthine was calculated due to the rebound
+in plasma concentration at 48 h. This rebound is probably due to ingestion of caffeinated drinks or food, as the subjects were discharged 24 h after the d ose. ‡ n = 31. § n = 28.
+¶n = 32. NC, not calculated; AUC values extrapolated by >30% were excluded from the analysis.
+Table 4
+PK parameter point estimates (90% CI) for each probe
+Drug Parameter n Ratio estimate (90% CI)
+Caffeine Cmax 30 1.03 (0.97, 1.10)
+AUClast 30 1.10 (1.01, 1.20)
+Paraxanthine Cmax 30 0.95 (0.84, 1.08)
+AUClast 30 1.05 (0.89, 1.23)
+Metoprolol Cmax 31 1.06 (0.95, 1.18)
+AUClast 31 0.95 (0.86, 1.05)
+AUC 29 0.97 (0.88, 1.06)
+Midazolam Cmax 30 1.11 (1.02, 1.21)
+AUClast 30 1.08 (0.99, 1.18)
+AUC 29 1.06 (0.98, 1.16)
+Omeprazole Cmax 31 0.99 (0.85, 1.16)
+AUClast 31 0.93 (0.84, 1.04)
+AUC 28 0.91 (0.81, 1.02)
+S-warfarin Cmax 31 1.02 (0.95, 1.09)
+AUClast 31 1.03 (0.99, 1.08)
+AUC 31 1.02 (0.98, 1.07)
+Pharmacokinetic assessment of a ﬁve-probe cocktail
+Br J Clin Pharmacol / 68:6 / 933
+parameter are smaller than those found for a single sam-
+pling point, as already reported for Cmax [7]. Moreover the
+European Medicines Agency has recommended assessing
+complete AUCs for the probe drugs in order to estimate
+effects on (oral) clearance. Simpler ratios such as
+metabolite-to-parent drug ratios in urine are usually not a
+satisfactory parameter, as results may have more con-
+founding factors, and as the magnitude of an effect is
+difﬁcult to translate into inhibition or induction potency
+and into treatment recommendations in the Summary of
+Product Characteristics [8].
+These probe drugs were tested to determine their
+utility in a cocktail. Each drug exhibited equivalent PK char-
+acteristics when administered alone or together in the
+cocktail. The lack of interaction between probes indicates
+that this cocktail can be used for the in vivo evaluation of
+metabolism-based DDIs. This cocktail should be useful for
+testing DDI due to CYP inhibition or induction, and could
+be used in various combinations to test ﬁve or fewer
+potential interactions, as appropriate.
+Another critical point is the safety of co-administering
+multiple drugs. The safety proﬁle of this Sanoﬁ-Aventis
+cocktail was excellent.
+As with all previously reported cocktails, it should be
+noted that the validation protocol reported here demon-
+strates the lack of interaction of the cocktail in the ‘control’
+state that is without the additional effect of an enzyme
+inducer or inhibitor. The probe drugs and doses in this
+cocktail were chosen to be selective for individual CYP iso-
+forms, with the expectation of no or minimal interference
+between probes [5, 9–17]. However, loss of selectivity of a
+probe drug may be possible if the CYP isoform responsible
+for the metabolism of the probe drug is inhibited by the
+test compound and probe concentrations are elevated.
+Induction of one or more CYP isoforms by the new chemi-
+cal entity could also potentially interfere with interpreta-
+tion of a cocktail drug interaction study. Because of this
+limitation, it may be prudent to consider all positive data
+obtained from any cocktail study as requiring further in
+vivo investigations.
+There were no PK interactions between the probe
+drugs, caffeine (CYP1A2), warfarin (CYP2C9), omeprazole
+(CYP2C19), metoprolol (CYP2D6) or midazolam (CYP3A)
+when administered in combination as a cocktail, relative to
+the probes administered alone. The safety proﬁle of this
+cocktail was excellent. The lack of interaction between
+probes indicates that this cocktail could be used for in vivo
+evaluation of the potential DDIs involving multiple CYP
+isoforms.
+Competing interests
+None to declare.
+REFERENCES
+1 Chainuvati S, Nafziger AN, Leeder JS, Gaedigk A, Kearns GL,
+Sellers E, Zhang Y, Kashuba ADM, Rowland E, Bertino JS.
+Combined phenotypic assessment of CYP1A2, CYP2C9,
+CYP2C19, CYP2D6, CYP3A, NAT2 and XO with the
+Cooperstown 5+1 Cocktail. Clin Pharmacol Ther 2003; 74:
+437–47.
+2 Ryu JY, Song IS, Sunwoo YE, Shon JH, Liu KH, Cha IJ, Shin JG.
+Development of the ‘Inje Cocktail’ for high-throughput
+evaluation of ﬁve human cytochrome P450 isoforms in vivo.
+Clin Pharmacol Ther 2007; 82: 531–40.
+3 Tomalik-Scharte D, Jetter A, Kinzig-Schippers M, Skott A,
+Sörgel F, Klaassen T, Kasel D, Harlﬁnger S, Doroshyenko O,
+Frank D, Kirchheiner J, Bräter M, Richter K, Gramatté T,
+Fuhr U. Effect of propiverine on cytochrome P450 enzymes:
+a cocktail interaction study in healthy volunteers. Drug
+Metab Dispos 2005; 33: 1859–66.
+4 Schwagmeier R, Alincic S, Striebel HW. Midazolam
+pharmacokinetics following intravenous and buccal
+administration. Br J Clin Pharmacol 1998; 46: 203–6.
+5 Zhou H, Tong Z, McLeod JF. ‘Cocktail’ approaches and
+strategies in drug development: valuable tool or ﬂawed
+science? J Clin Pharmacol 2004; 44: 120–34.
+6 Guengerich FP. Cytochromes P450, drugs, and diseases. Mol
+Interv 2003; 3: 194–204.
+7 Yuen KH, Wong JW, Yap SP, Billa N. Estimated coefﬁcient of
+variation values for sample size planning in bioequivalence
+studies. Int J Clin Pharmacol Ther 2001; 39: 37–40.
+8 Efﬁcacy working party: questions and answers on the use of
+Cocktail studies for investigating in vivo drug interaction
+potential. EMEA/CHMP/EWP/490784/2007.
+9 Andersson T, Miners J-O, Tassaneeyakul W, Veronese ME,
+Meyer UA, Birkett DJ. Identiﬁcation of human liver
+cytochrome P450 isoforms mediating omeprazole
+metabolism. Br J Clin Pharmacol 1993; 36: 521–30.
+10 Andersson T, Bredberg E, Lagerstrom PO, Naesdal J, Wilson I.
+Lack of drug–drug interaction between three different
+non-steroidal anti-inﬂammatory drugs and omeprazole. Eur
+J Clin Pharmacol 1998; 54: 399–404.
+11 Andersson T, Lundborg P, Regårdh CG. Lack of effect of
+omeprazole treatment on steady-state plasma levels of
+metoprolol. Eur J Clin Pharmacol 1991; 40: 61–5.
+12 Andersson T, Bergstrand R, Cederberg C, Eriksson S,
+Lagerström PO, Skånberg I. Omeprazole treatment does not
+affect the metabolism of caffeine. Gastroenterology 1991;
+101: 943–7.
+13 Li G, Klotz U. Inhibitory effect of omeprazole on the
+metabolism of midazolam in vitro. Arzneimittelforschung
+1990; 40: 1105–7.
+14 McGourty JC, Silas JS, Lennard MS, Tucker GT, Woods HF.
+Metoprolol metabolism and debrisoquine oxidation
+polymorphism—population and family studies. Br J Clin
+Pharmacol 1985; 20: 555–66.
+15 Schmider J, Brockmöller J, Arold G, Bauer S, Roots I.
+Simultaneous assessment of CYP3A4 and CYP1A2 activity in
+vivo with alprazolam and caffeine. Pharmacogenetics 1999;
+9: 725–34.
+S. Turpault et al.
+934 / 68:6 / Br J Clin Pharmacol
+16 Prueksaritanont T, Gorham LM, Ma B, Liu L, Yu X, Zhao JJ,
+Slaughter DE, Arison BH, Vyas KP. In vitro metabolism of
+simvastatin in humans [SBT] identiﬁcation of metabolizing
+enzymes and effect of the drug on hepatic P450s. Drug
+Metab Dispos 1997; 25: 1191–9.
+17 Streetman DS, Bleakley JF, Kim JS, Nafziger AN, Leeder JS,
+Gaedigk A, Gotschall R, Kearns GL, Bertino JS Jr. Combined
+phenotypic assessment of CYP1A2, CYP2C19, CYP2D6,
+CYP3A, N-acetyltransferase-2, and xanthine oxidase with
+the ‘Cooperstown cocktail’. Clin Pharmacol Ther 2000; 68:
+375–83.
+Pharmacokinetic assessment of a ﬁve-probe cocktail
+Br J Clin Pharmacol / 68:6 / 935

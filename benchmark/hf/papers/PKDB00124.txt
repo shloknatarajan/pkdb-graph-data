@@ -1,0 +1,512 @@
+Br.J.clin.Phannac.(1979),7,201-206
+PARACETAMOLDISPOSITIONINNORMAL
+SUBJECTSANDINPATIENTSTREATED
+WITHANTIEPILEPTICDRUGS
+E.PERUCCA
+ChalfontCentreforEpilepsy.ChalfontSt.Peter,Buckinghamshire
+A.RICHENS
+DepartmentofClinicalPharmacology,St.Bartholomew'sHospital,
+LondonEC1A7BEand
+TheInstituteofNeurology,TheNationalHospital,Queen'sSquare,
+LondonWC1N3BG
+I Theserumconcentrationprofileofparacetamolhasbeendeterminedafteradministrationofsingle
+1000mgintravenousandoraldosesinsixnormalsubjectsandsixepilepticpatientsonchronic
+antiepilepticdrugtherapy.Theurinaryexcretionoffreeandconjugatedparacetamolhasalsobeen
+determined.
+2 Followingintravenousadministration,serumparacetamolconcentrationdeclinedwithfirst-order
+kinetics.Botheliminationrateandtotalbodyclearancewerehigherintheepilepticpatients,although
+inneithercasewasthedifferencestatisticallysignificant.
+3 Theoralbioavailability(mean+s.e.mean)wassignificantlylowerintheepilepticpatientsthanin
+thenormalsubjects(0.77+0.03and0.89+0.02respectively,P<0.01),whereastheurinaryexcretion
+total(free+conjugated)paracetamolwasalmostidenticalinthetwogroups.
+4 Itissuggestedthatthelowerbioavailabilityofparacetamolintheepilepticpatientsresultsfrom
+enhancementoffirst-passmetabolism,secondarytoenzymeinduction.
+Introduction
+Chronicadministrationoftherapeuticagentssuchas
+barbituratesand phenytoin,or exposure to
+environmentalcontaminantssuchasDDT,lindane,
+certainfoodadditives,may inducetheactivityofdrug
+metabolizingenzymes in hepaticmicrosomes
+(Conney,1967;Kuntzman,1969;Parke,1975).A
+largenumberofclinicallyimportantdruginteractions
+havebeenattributedtothismechanism(Breckenridge,
+1975;Hunter& Chasseaud,1976).Inmostcases,the
+interactionsdescribedinvolvedrugswithlowhepatic
+extractionratiosatphysiologicalratesofliverblood
+flow.Forthisgroup ofdrugs(e.g.antipyrine,
+phenylbutazone,coumarinanticoagulants)anincrease
+intherateofhepaticmetabolismresultsina
+shorteningoftheserumhalf-lifeanda reductionin
+steadystateserumconcentration(Wilkinson&Shand,
+1975).
+Thesituationisquitedifferentfordrugswhichhave
+a highhepaticextractionratio.Whereasenzyme
+inductionhasanegligibleeffectontheserumhalf-life
+ofthesecompounds,itmarkedlyreducestheir
+systemicavailabilityafteroraladministration
+(Gibaldi,Boyes& Feldman,1971;Rowland,1972;
+Perrier& Gibaldi,1974;Wilkinson& Shand,1975).
+Althoughthetheoreticalaspectsofthisphenomenon
+havebeencarefullyanalysed,verylittleexperimental
+evidenceisavailableinman (Meikle,Jubiz,
+Matsukura,West&Tyler,1969;Alvan,Piafsky,Lind
+&vonBahr,1977).Inthisstudytheeffectsofenzymeinductiononthe
+dispositionofa drugsubjecttoa relativelyhigh
+hepaticbloodclearancehavebeeninvestigated.The
+kineticsofparacetamolafteroralandintravenous
+dosinghavebeencomparedinhealthysubjectsand
+epilepticpatientstreatedwithknownenzyme-inducingagents.Paracetamolhasbeenselectedasamodeldrug
+becauseitisalmostcompletelyeliminatedby
+biotransformation,mainlyintheliver(Mrochek,
+Katz,Christie& Dinsmore,1974;Koch-Weser,
+1976),andhasamoderatelyhighextractionratioas
+indicatedbyabloodclearanceofapproximately350
+ml/minandevidenceoffirst-passeffectattherapeuticdosages(Rawlins,Henderson& Hijab,1977).Furthermore,paracetamolhasbeenpreviouslyused
+asamodeldruginpharmacokineticstudiesdesigned
+toassesschangesintherateofdrugmetabolism
+202 E.PERUCCA&A.RICHENS
+(Shively& Vesell,1975;Triggs,Nation,Long&
+Ashley,1975).
+Methods
+Subjects
+Sixhealthyvolunteersandsixepilepticpatients,whose
+agesrangedfrom19to42years,consentedtotake
+partinthestudy.Thetwogroupswereclosely
+matchedforage,sexandbodyweight.Thehealthy
+subjectshadnotbeenbeenreceivingdrugtherapy
+regularlyforatleast6monthsprecedingthestudy.
+TheepilepticpatientswereresidentsattheChalfont
+CentreforEpilepsy,andwerereceivingchronic
+treatmentwitha combinationofatleasttwo
+antiepilepticdrugsknownto produceenzyme
+induction(phenobarbitone,primidone,phenytoinand
+carbamazepine).Theonlyexceptionwasa42-year-old
+epilepticpatientwhowasreceivingphenytoinalone
+(400mgdaily).
+Eachsubjectreceivedthefollowingtwotreatments
+inrandomorderseparatedbya 1-weekinterval:a
+singleoraldose(1000mg)ofparacetamol,anda
+similardoseinjectedintravenouslyover5min.The
+oralpreparationwasintheformofeffervescent
+paracetamol(Panadoleffervescent,Winthrop)
+dissolvedin75ml water.Forintravenoususe
+paracetamol(50mg/ml)wasdissolvedinasterile
+vehicleof40%v/vpropyleneglycoland10%v/v
+ethylalcoholinwater.Inordertoavoidtheeffectsof
+circadianvariationsinthedispositionofparacetamol
+(Shively& Vesell,1975),thetimeofadministration
+waskeptconstantat08.00hafteranovernightfast.
+Bloodsamples(10ml)weretakenat0.5,1,1.5,2,3,
+4,5and6hafteradministration.A urinesamplewas
+collectedovertheperiodofbloodsampling.Apart
+fromslightirritationattheinjectionsiteduring
+intravenousinjection,no adverseeffectswere
+observed.
+Measurementofparacetamolconcentrationinserum
+andurine
+Theconcentrationoffree(unconjugated)paracetamol
+wasdeterminedinserum(2ml)andurine(1ml)samplesbygas-liquidchromatographyaccordingto
+themethodofPrescott(1971a).Forthedetermination
+oftotal(freeandconjugated)paracetamol,diluted
+urinesamples(1ml)wereincubatedwithfi-glucuronidasecontainingsulphataseactivity
+(extractedfromHelixpomatia,Sigma)at370Candat
+pH 5.2for20h.Theseconditionswerefoundin
+preliminaryexperimentstobeoptimalforhydrolysis.
+At thecompletionoftheincubationperiodthe
+sampleswereaddedto2ml0.2Mglycinebuffer(pH9.0)andthenextractedaccordingtothemethodof
+Prescott(1971b).Thegas-chromatograph(Perkin
+ElmerF33)wasequippedwithdualflameionization
+detectorsandfittedwithaglasscolumn1.7m long,3
+mm i.d.,filledwith2.5%OV 17onGasChromQ
+100-120mesh.Temperatureswere2350Cforthe
+columnand2750Cforinjectionportanddetector.
+Carriergas(N2)flowwasadjustedtoaninletpressure
+of175kN/m2.
+Pharmacokineticanalysis
+Althoughabicompartmentalmodelhaspreviously
+beenusedtodescribeparacetamolkinetics(Rawlinset
+al.,1977),theshortdistributivephasecouldnotbe
+characterizedaccuratelyinthepresentstudydueto
+thelimitednumberofearlysamples.Akineticanalysis
+could,however,besatisfactorilyperformedaccording
+toaone-compartmentopenmodel.Theelimination
+rateconstant(Kel)wascalculatedbylinearregression
+fromtheterminalpartofthecurve.Theareaunderthe
+curve(AUC)wasdeterminedbythetrapezoidalrule
+andextrapolatedtoinfinity.Thetotalserumclearance,
+Cl,wascalculatedasDose/AUCv (Wilkinson&
+Shand,1975).Thevolumesofdistribution,VdextrapandVdareawerecalculatedrespectivelyasDose/C0
+(whereC0istheconcentrationatzerotime)andas
+Cl/K,g(Odar-CederlofandBorga,1974).
+Theoralbioavailability(F)wascalculatedas
+AUCO_OO/AUC'v0O,.By assumingcomplete
+absorption,F wasalsopredictedforeachindividual
+fromintravenousdataaccordingtotheformula
+(Rowland,1972):
+F=lfm(Dose)
+LBF.L.AUCiv
+wherefmisthefractionmetabolizedbytheliver,A
+theratiooftheconcentrationofparacetamolinwhole
+bloodtotheconcentrationofthedrugintheserum
+andLBFtheliverbloodflow,whichwasassumedto
+be1.55I/min(Levine,1973).Awasdeterminedat
+variousconcentrationsofparacetamolinthree
+epilepticpatientsandintwonormalsubjectsandwas
+foundtoaverage1.18+0.02(s.e.mean)(n=10).fm
+wassubstitutedfor1- fe(wherefeisthefraction
+excretedunchangedintheurine)ontheassumptionthatallmetabolismwashepatic.
+Results
+Afterapproximately1-1.5hfollowingintravenous
+administration,serumparacetamollevelsdeclined
+monoexponentiallyinbothhealthyvolunteersand
+epilepticpatients(Figure1).Followingoral
+administrationinthehealthyvolunteers,serumlevels
+roserapidlywithin0.5htovaluessimilartothose
+foundatcorrespondingtimesafterintravenous
+administration,decliningwitha similarpattern
+PARACETAMOLDISPOSITION203
+E \ \
+CY)
+=0.
+C')
+ 2
+1 2 3 4 5 6
+Time(h)
+Figure1 Serum paracetamolconcentration
+(mean+s.e.mean)afterasingle1000mgi.v.dosein
+sixnormalsubjects(A)andsixepilepticpatients(A)
+thereafter.Thereforethetimeconcentrationcurves
+followingbothroutesofadministrationwerevery
+similar,althoughlevelsweregenerallyslightlylower
+aftertheoraldosing(Figure2).A differentpattern
+wasobservedafteroraladministrationintheepileptic
+patients.Serumlevelsroserapidlywithin0.5hto
+relativelylowpeakvaluesandremainedatall
+samplingtimesclearlylowerthanthoseobservedafter
+intravenousadministration(Figure2).Kinetic
+parameterscalculatedaccordingto a one
+compartmentopenmodelareillustratedinTables1
+and2.ValuesforVdextrapweresimilartothosefor
+Vdarea.Serumhalf-liveswereshorterandtotal
+serumclearanceswerehigherinthepatientsthanin
+thenormalsubjects,butduetotherelativelylarge
+inter-individualvariability,inneithercasewasthe
+differencestatisticallysignificant(0.05<P<0.10).
+Theoralbioavailabilitywasincompleteinboth
+groupsandwassignificantlylowerinthepatientsthan
+inthenormalvolunteers(P<0.01).Therewasa
+relativelygoodagreementbetweenthepredictedand
+theobservedbioavailability,althoughinbothgroups
+predictedvalueswereslightlylowerthanthose
+observed(Table2).Therewasaparticularlygood
+agreementbetweenthepredictedandobserved
+decreaseinoralavailabilityinthepatients(12%and
+13%respectively).
+Therecoveryoftotalandfreeparacetamolinurine
+isillustratedinTable3.About60-70%ofthedose
+couldberecoveredover6hfollowingadministration
+ofthedrug.Therewasno significantdifference
+betweenrecoveriesfollowingoralandintravenous
+administration.Therecoverywasalmostidenticalon
+bothoccasionsinthepatients,whileamarginally
+lowervaluewasobservedinthenormalsubjectsafter
+oraldosing.Thelatterdiscrepancywasentirelydueto
+verylowrecoveryinasinglesubjectinwhomaurine
+voidwaslostduringthecollectionperiod.
+Onlyaverysmallfractionofthedosewasexcreted
+asfreeparacetamol.Theratiooffreetototaldrugin
+theurinewaslowerinthepatientsbutthedifference
+didnotreachstatisticalsignificance.
+Discussion
+The distributionand eliminationkineticsof
+paracetamolafteroralandintravenousadministration
+innormalsubjectshasbeenrecentlyinvestigatedin
+b
+L
+I
+1 2 3 4 5 6
+I I
+1 2 3 4 5 6
+Time(h)
+Figure2 Serumparacetamolconcentration(mean+ s.e.mean)followinga single
+intravenous(A,A)doseina)sixnormalsubjectsandb)sixepilepticpatients.
+1000mg oral(-,0)or
+a
+Jit
+10F0)
+ECu
+0.
+E
+0)c')
+5
+204 E.PERUCCA&A.RICHENS
+Table1 Kineticparameters(mean±s.e.mean)calculatedafterintravenousadministrationofparacetamol
+(1000mg).
+CO(gg/ml)
+Vdextrap(I/kg)
+Vdarea(I/kg)Kel(h-')
+Tj(h)
+AUC0_OO(mg1-'h-1)
+Cl(Ih-1)
+Healthysubjects
+16.0±1.4
+0.94+0.08
+0.96+0.11
+0.292+0.036
+2.52±0.25
+55.3+1.9
+19.3+2.5
+Epilepticpatients
+14.9±2.1
+1.05+0.11
+1.11+0.14
+0.381±0.028
+1.88±0.17*
+38.3±6.4**
+29.4±4.4*
+*P<0.10,**P<0.05(Student'st-test)
+Table2 Kineticparameters(mean+s.e.mean)calculatedafteroraladministrationofparacetamol(1000
+mg).
+Healthysubjects Epilepticpatients
+AUCoral(mg1-1h-1) 49.4+1.8 29.3+5.1**
+F(observed) 0.89+0.02 0.77±0.03*
+F(predictedfromi.v.data) 0.83±0.02 0.73±0.04*
+*P<0.01,* P<0.05(Student'st-test)
+Table3 Recoveryoffreeandconjugatedparacetamolinurineexpressedasmean±s.e.mean
+Healthysubjects
+Totalamountrecovered(free+conjugated(mg)Fractionfree(%)
+Epilepticpatients
+Totalamountrecovered(free+
+conjugated)(mg)Fractionfree(%)
+I.V.
+administration
+657±86
+2.4+0.6
+682±53
+2.0±0.5
+Oral
+administration
+601+72
+2.0+0.4
+677+33
+1.8+0.3
+PARACETAMOLDISPOSITION205
+detailbyRawlinsetal.(1977).Ourdatainnormal
+subjectsareinverycloseagreementwiththeirs.In
+particular,thereisaremarkablesimilarityoftheoral
+bioavailabilitydeterminedaftera1000mgdose(0.89
+in bothstudies)despitetheuseofdifferent
+formulations.Theincompleteoralbioavailabilityof
+paracetamolhasbeeninterpretedasevidenceoffirst-
+passmetabolismon theassumptionthatgas-
+trointestinalabsorptioniscomplete(Rawlinsetal;
+1977).Occurrenceoffirst-passmetabolismisfurther
+suggestedby ourobservationthattheurinary
+recoveryoffreeplusconjugatedparacetamolafter
+oraladministrationwas similarto thatafter
+intravenousadministrationinbothnormalsubjects
+andepilepticpatients.
+Oralbioavailabilitywassignificantlylowerinour
+patientsthaninnormalsubjects.Thisobservationisin
+linewithourhypothesisthatparacetamolmetabolism
+isenhancedby concurrentadministrationof
+antiepilepticdrugs.In fact,by assumingthat
+eliminationisentirelyduetohepaticmetabolism,it
+canbecalculated(Wilkinson& Shand,1975)thatfor
+aliverbloodflowof1.55I/minthehepaticextraction
+ratioaveraged0.17inthenormalsubjectsand0.27in
+thepatients.Accordingtothesevalues,the
+pharmacokineticpatternofparacetamolshouldbe
+intermediatebetweenthatofahighlyextractedand
+thatofa poorlyextractedcompound.Therefore,
+stimulationofitsmetabolismshouldresultina
+moderatedecreaseofbothsystemicavailabilityand
+biologicalhalf-life(Wilkinson& Shand,1975).The
+hypothesisthatfirst-passmetabolismratherthan
+incompleteabsorptionisresponsibleforthelower
+bioavailabilityofparacetamolinepilepticpatientsis
+supportedbytheurinarydataandbythegood
+agreementbetweenpredictedandobserveddecrease
+ofbioavailability.Itisofinterestthatpredictedvalues
+wereslightlylowerthanthoseobserved.The
+discrepancymay beduetotheoccurrenceof
+saturationkineticsduringtheabsorptionprocessor,
+alternatively,topartofmetabolismtakingplace
+outsidetheliver,inwhichcasetheestimatesofhepatic
+extractionratiosgivenabovewoulderronthehigh
+side.
+Thefirsthypothesisissupportedbytheobservation
+thattheoralbioavailabilityofparacetamolis
+significantlyhigheraftera1000mgthanaftera500
+mgdose(Rawlinsetal.,1977).Occurrenceofextra-
+hepaticmetabolismcannotbeexcludedonthebasisof
+ourresultsalonebutthereisconsiderableevidence
+thatthisisunlikely.Paracetamolismetabolized
+mainlybyconjugationwithglucuronicacidand,toa
+lesserextent,withsulphuricacid(Cummings,King&
+Martin,1967).Bothofthesereactionsareknownto
+takeplacelargelyintheliver(Koch-Weser,1976).
+Moreover,thefactthatparacetamolmetabolismisnot
+alteredinanephricpatientscomparedwithnormal
+subjectsindicatesthatthekidneydoesnotplaya
+significantpartinthebiotransformationofthedrug
+(Lowenthal,0ie,vanStone,Briggs&Levy,1976).The
+higherbloodclearanceofparacetamolinepileptic
+patientsislikelytobeaconsequenceofincreased
+hepaticmetabolism(asisalsosuggestedbytheslightly
+lowerratiosoffreetoconjugateddruginthepatients'
+urine),butenzymeinductionperseisnotnecessarily
+themechanisminvolved.
+Althoughtheenzymesystemresponsiblefor
+glucuronideformationisinducible(Blaschke,Berk,
+Rodkey,Scharschmidt,Collison& Waggoner,1974;
+Lecamwasam,1975;Parke,1975),animalstudies
+indicatethatthestimulationofhepaticmicrosomal
+enzymesby phenobarbitoneisassociatedwith
+changesinseveralothermeasuresofliverfunction,
+eachofwhichcouldtheoreticallyresultin
+enhancementofmetabolicdrugclearance.These
+includeincreasedconcentrationinthehepatocyteof
+theY organicanion-bindingprotein(Reyes,Levy,
+Gatmaitan& Arias,1971),increasedbileflow
+(Redinger& Small,1973)andincreasedliverblood
+flow(Ohnaus,Thorgeirsson,Davies& Breckenridge,
+1970;Branch,Shand,Wilkinson& Nies,1974;Nies,
+Wilkinson,Rush,Strother& McDevitt,1977).The
+latterisunlikelytoaccountforthefasterelimination
+ofparacetamolsincethemetabolicclearanceofthis
+druginmanisconsiderablylowerthantheaverage
+bloodflowtotheliver(Lowenthaletal.,1976).
+Apartfromthetheoreticalinterestintermsofa
+pharmacokineticmodel,ourresultsmay have
+importantclinicalimplications.Ithasbeensuggested
+thatthehepatoxicityofparacetamolisrelatedtothe
+formationofatoxichighly-reactivemetaboliteinliver
+microsomes(Mitchell& Potter,1975;Davis,
+Simmons,Harrison& Williams,1976).Inductionof
+itsmetabolismbyotherdrugsmaytheoretically
+increasethesusceptibilitytothedevelopmentofacute
+necrosisoftheliver.Indeed,thishasbeenshowntobe
+thecaseinlaboratoryanimals(McLean&Day,1975)
+andtheobservationthatpatientsreceivingenzyme-
+inducingagentsfareparticularlybadlyaftera
+paracetamoloverdosesuggeststhatasimilareffect
+takesplaceinman(Wright&Prescott,1973).
+We thankDr JohnLaidlaw,SeniorPhysicianatthe
+ChalfontCentreforEpilepsy,forallowingustostudy
+patientsunderhiscare;thenursingstaffoftheChalfont
+Centrefortheirhelp,andtheChalfontResearchFundand
+McAlpineFoundationforfinancialsupport.
+14
+References
+ALVAN,G.,PIAFSKY,K.,LIND,M.& vonBAHR,C.(1977).
+Effectofphenobarbitalonthedispositionofalprenolol.
+Clin.Pharmac.Ther.,22,316-321.
+BLASCHKE, T.F.,BERK, P.D.,RODKEY, F.L.,
+SCHARSCHMIDT, B.F.,COLLISON, H.A. &
+WAGGONER,G.(1974).Drugsandtheliver1.Effectsof
+206 E.PERUCCA&A.RICHENS
+glutethimideandphenobarbitalonhepaticbilirubin
+clearance,plasmabilirubinturnoverandcarbon
+monoxideproductioninman.Biochem.Pharmac.,23,
+2795-2806.
+BRANCH,R.A.,SHAND,D.G.,WILKINSON,G.R.& NIES,
+A.S.(1974).Increasedclearanceofantipyrineandd-
+propranololafterphenobarbitaltreatmentinthemonkey.
+J.clin.Invest.,53,1101-1107.
+BRECKENRIDGE,A.(1975).Clinicalimplicationsof
+enzymeinduction.InEnzymeinductioned.Parke,D.V.
+Pp273-301.London:PlenumPress.
+CONNEY,A.H.(1967).Pharmacologicalimplicationsof
+microsomalenzymeinduction.Phartnac.Rev.,19,
+317-366.
+CUMMINGS,A.J.,KING,M.L.& MARTIN,B.K.(1967).A
+kineticstudyofdrugelimination:theexcretionof
+paracetamolanditsmetabolitesinman.Br.J.Pharmac.
+Chemother.,29,150-167.
+DAVIS,M.,SIMMONS,C.J.,HARRISON,N.G.&WILLIAMS,
+R.(1976).Paracetamoloverdoseinman:relationship
+betweenpatternofurinarymetabolitesandseverityof
+liverdamage.Quart.J.Med.,45,181-191.
+GIBALDI,M.,BOYES,R.N.& FELDMAN,S.(1971).
+Influenceoffirst-passeffectonavailabilityofdrugson
+oraladministration.J.pharm.Sci.,60,1338-1340.
+HUNTER,J.&CHASSEAUD,L.F.(1976).Clinicalaspectsof
+microsomalenzyme-induction.InProgressinDrug
+Metabolism,1,Eds.BridgesJ.W.,& Chasseaud,L.F.
+Pp129-191.London:J.Wiley&Sons.
+KOCH-WESER,J.(1976).Acetaminophen.NewEng.J.
+Med.,295,1297-1312.
+KUNTZMAN,R.(1969).Drugsandenzymeinduction.Ann.
+Rev.Pharmac.,9,21-36.
+LECAMWASAM,D.S.(1975).Hepaticenzymeinductionand
+itsrelationshiptourinaryD-glucaricacidexcretionin
+man.Br.J.clin.Pharmac.,2,546-548.
+LEVINE,R.R.(1973).Pharmacology:DrugActionsand
+Reactions,p101.Boston,U.S.A:Little,Brown& Co.
+LOWENTHAL,D.T.,0IE,S.,vanSTONE,J.C.,BRIGGS,W.A.
+&LEVY,G.(1976).Pharmacokineticsofacetaminophen
+eliminationinanephricpatients.J.Pharmac.exp.Ther.,
+196,570-578.
+McLEAN,A.E.M.&DAY,P.A.(1975).Theeffectofdietonthe
+toxicityofparacetamol.Biochem.Pharnac.,24,37-42.
+MEIKLE,A.,JUBIZ,W.,MATSUKURA,S.,WEST,C.D.&
+TYLER,F.H.(1969).Effectofdiphenylhydantoinonthe
+metabolismofmetyraponeandreleaseofACTHinman.
+J.clin.Endocrinol.,29,895-918.
+MITCHELL,J.R.&POTTER,W.Z.(1975).Drugmetabolismintheproductionofliverinjury.MedicalClinicsof
+NorthAmerica,59,877-885.
+MROCHEK, J.E.,KATZ, S.,CHRISTIE,W.H. &
+DINSMORE,S.R.(1974).Acetaminophenmetabolismin
+man as determinedby highresolutionliquid
+chromatography.Clin.Chem.,20,1086-1096.
+NIES,A.S.,WILKINSON,G.R.,RUSH,B.D.,STROTHER,G.T.
+& McDEVITT,D.G.(1977).Effectsofalterationof
+hepaticmicrosomalenzymeactivityonliverbloodflow
+intherat.Biochem.Pharmac.,25,1991-1993.
+ODAR-CEDERL6F,I.& BORGA,0.(1974).Kineticsof
+diphenylhydantoininuraemicpatients:consequencesof
+decreasedplasmaproteinbinding.Eur.J.clin.Pharnac.,
+7,31-37.
+OHNAUS,E.E.,THORGEIRSSON,S.S.,DAVIES,D.S.&
+BRECKENRIDGE,A.(1970).Changesinliverbloodflow
+duringenzymeinduction.Biochem.Pharmac.,20,
+2561-2570.
+PARKE,D.V.(1975).Inductionofthedrug-metabolizing
+enzymes.InEnzymeinduction,ed.Parke,D.V.pp
+207-271.London:PlenumPress.
+PERRIER,D.& GIBALDI,M.(1974).Clearanceand
+biologicalhalf-lifeasindicesofintrinsichepatic
+metabolism.J.Pharmac.exp.Ther.,191,17-24.
+PRESCOTT,L.F.(1971a).Gas-liquidchromatographic
+estimationofparacetamol.J.Pharm.Pharmac.,23,
+807-808.
+PRESCOTT,L.F.(1971b).Thegasliquidchromatographic
+estimationofphenacetinandparacetamolinplasmaand
+urine.J.Pharm.Pharmac.,23,111-115.
+RAWLINS,M.D.,HENDERSON,D.B.&HUAB,A.R.(1977).
+Pharmacokineticsofparacetamol(acetaminophen)after
+intravenousandoraladministration.Eur.J.clin.
+Phannac.,11,283-286.
+REDINGER,R.N.& SMALL,D.M.(1973).Theeffectof
+phenobarbitaluponbilesaltsynthesisandpoolsize,
+biliarylipidsecretionandbilecomposition.J.clin.
+Invest.,52,161-172.
+REYES,H.,LEVY,AJ.,GATMAITAN,Z.& ARIAS,I.M.
+(1971).StudiesofY andZ:twohepaticcytoplasmic
+organicanion-bindingproteins:effectofdrugs,
+chemicals,hormonesandcholestasis.J.clin.Invest.,50,
+2242-2252.
+ROWLAND,M.(1972).Influenceofrouteofadministration
+ondrugavailability.J.Pharm.Sci.,61,70-74.
+SHIVELY,C.A.&VESELL,E.S.(1975).Temporalvariations
+inacetaminophenandphenacetinhalf-lifeinman.Clin.
+Pharmac.Ther.,18,413-424.
+TRIGGS,EJ.,NATION,R.L.,LONG,A.& ASHLEY,JJ.
+(1975).Pharmacokineticsintheelderly.Eur.J.clin.
+Pharmac.,8,55-62.
+WILKINSON,G.R.&SHAND,D.G.(1975).Aphysiologicalapproachtohepaticdrugclearance.Clin.Pharmac.
+Ther.,18,377-390.
+WRIGHT,N.& PRESCOTT,L.F.(1973).Potentiationbypreviousdrugtherapyofhepatotoxicityfollowing
+paracetamoloverdosage.Scot.med.J.,18,56-58.
+(ReceivedMarch21,1978)

@@ -1,0 +1,672 @@
+tions. Thus, the desired reduction of k could be achieved at any 
+temperature by adjusting the appropriate acetone vapor pressure. 
+Conversely, at any vapor pressure the optimum release rate could be 
+attained by manipulation of the treatment temperature. The extent 
+of rate reduction would be limited only by condensation. 
+SUMMARY AND CONCLUSIONS 
+An apparatus was developed to study the variables involved in the 
+acetone vapor treatment of tablets made from a methyl acrylate- 
+methyl methacrylate copolymer matrix containing dispersed solid 
+drug. This apparatus allows close control of temperature and 
+acetone vapor pressure. It also allows monitoring of the amount of 
+acetone absorbed throughout the run. 
+Release from the acetone-treated tablets followed the Higuchi 
+relationship in which the quantity of drug released per unit surface 
+area was proportional to the square root of time. Except under very 
+mild conditions, the drug release rate was reduced. The extent of re- 
+duction was related to the amount of acetone absorbed. Generally, 
+increasing the vapor pressure or decreasing the treatment tempera- 
+ture increased acetone absorption. Thus, by manipulation and 
+control of these two variables, the drug release rate may be regu- 
+lated in a reproducible fashion. The decrease in release rate can be 
+explained primarily on the basis of an increase in matrix tortuosity. 
+REFERENCES 
+(1) B. Farhadieh, S. Borodkin, and J. D. Buddenhagen, J. Pharm. 
+(2) T. Higuchi, ibid., 52, 1145(1963). 
+(3) S. J. Desai, A. P. Simonelli, and W. I. Higuchi, ibid., 54, 1459 
+(4) S. J. Desai, P. Singh, A. P. Simonelli, and W. I. Higuchi, 
+(5) Zbid., 55, 1230 (1966). 
+(6) Ibid., 55, 1235(1966). 
+(7) C. J. Endicott, U. S. pat. 3,087,860 (1963). 
+(8) C. L. Levesque, U. S. pat. 2,987,445 (1961). 
+Sci., 60, 209(1971). 
+(1965). 
+ibid., 55, 1224(1966). 
+ACKNOWLEDGMENTS AND ADDRESSES 
+Received April 27, 1970, from the Pharmaceutical Products Divi- 
+Accepted for publication August 17, 1970. 
+Presented to the Basic Pharmaceutics Section, APHA Academy of 
+sion, Abbott Laboratories, North Chicago, IL 60064 
+Pharmaceutical Sciences, Washington, D. C. meeting, April 1970. 
+Drug Biotransformation Interactions in Man 111: 
+Acetaminophen and Salicylamide 
+GERHARD LEVY and HIDE0 YAMADA* 
+Abstract 0 Acetaminophen (1 and 2 g.), salicylamide (1 g.), and 1 
+g. acetaminophen followed 1.5 hr. later by 1 or 2 g. salicylamide 
+were administered in aqueous solutions to healthy human subjects. 
+Urine was collected every 15-30 min. for the first 4-5 hr. and then 
+at longer intervals. The urine samples were analyzed for acetamino- 
+phen, acetaminophen sulfate, acetaminophen glucuronide, salicyl- 
+amide, salicylamide sulfate, and salicylamide glucuronide. The ex- 
+cretion rates of acetaminophen sulfate and acetaminophen glu- 
+curonide decreased immediately after administration of salicyl- 
+amide. Acetaminophen decreased the formation of salicylamide 
+sulfate. Coadministration of L-cysteine (a source of sulfate) pre- 
+vented this effect and also increased the excretion of acetamino- 
+phen sulfate. The results indicate a competitive inhibition in the 
+formation of acetaminophen sulfate and salicylamide sulfate and 
+suggest also a competitive inhibition in the formation of acetamino- 
+phen glucuronide and salicylamide glucuronide. 
+Keyphrases 0 Acetaminophen, salicylamid+biotransformation 
+interaction, human 0 Biotransformation interaction-acetamino- 
+phen, salicylamide Metabolites, acetaminophen, salicylamide- 
+isolated, identified 0 Colorimetric analysis-spectrophotometer 
+Previous reports from this laboratory have shown that 
+the formation of salicylamide sulfate from salicylamide 
+is easily saturated in man (1) and that there occurs a 
+mutual inhibition of glucuronide formation by salicyl- 
+amide and salicylate when these drugs are administered 
+concomitantly (2). Since acetaminophen, like salicyl- 
+amide, is eliminated primarily by glucuronide and 
+sulfate formation, and since these mild analgesic and 
+antipyretic drugs are often taken together, the effect of 
+each on the biotransformation of the other has been 
+investigated. 
+EXPERIMENTAL 
+Healthy, male, ambulatory human subjects received orally 1 or 2 
+g. acetaminophen in one test, 1 g. salicylamide in the second test, 
+and 1 g. acetaminophen followed 1.5 hr. later by 1 or 2 g. salicyl- 
+amide in the third test, Intervals between tests were at least 1 week. 
+The drugs were administered in aqueous solution in the morning 
+on an empty stomach. Food was withheld for at least 2 hr. there 
+after. Urine was collected every 15-30 min. for the first 4-5 hr. and 
+then at longer intervals for at least 24 hr. About 50 ml. of water was 
+ingested after each urine collection to assure adequate urine output. 
+Determination of Acetaminophen and Its Metabolites in Urine- 
+Free acetaminophen was extracted from urine by a method similar 
+to that of Brodie and Axelrod (3). Acetaminophen glucuronide 
+and acetaminophen sulfate were hydrolyzed enzymatically and then 
+extracted as acetaminophen. The concentration of this drug was 
+determined by a modification of the colorimetric method of Welch 
+and Conney (4). 
+Specifically, free acetaminophen was extracted by adding 4 g. 
+sodium chloride and 15 ml. ether' to 10 ml. urine. This mixture was 
+shaken mechanically for 15 min. and centrifuged to separate the 
+phases. Ten milliliters of the ether phase was extracted with 3 ml. 
+0.1 N sodium hydroxide solution by shaking 5 min. and centrifuging. 
+One-half milliliter of the aqueous phase was pipeted into a gradu- 
+ated test tube, and 0.5 ml. 4 N hydrochloric acid was added. The 
+test tube was then placed in a boiling water bath for 30 min. The 
+solution was then cooled to room temperature, and 10 ml. phenol- 
+hypobromite mixture (4) and sufficient distilled water to yield a 
+total volume of 11 ml. were added. Forty minutes later, the ab- 
+sorbance of the solution at 625 nm. was determined spectrophoto- 
+metrically. Reagent blank determinations were made by using water 
+instead of urine in the procedure. A urine sample containing 2 mg. 
+acetaminophen/100 ml. will yield a reagent phase with an absorbance 
+of about 0.21/cm. pathlength by this method. 
+1 Ether for Anesthesia, Merck, purified by successive washings with 
+1 N NaOH, 1 N HCI, and three washings with distilled water. 
+VoI. 60, No. 2, February I971 [7 215 
+Table I--Verification of Assay Method for Acetaminophen and Its Metabolites and Salicylamide and Its Metabolites in Urine Samples 
+Containing Both Groups of Substances 
+Concentrations, as mg. APAP or SAM Equivalent - 
+-A- -B- 
+Urine after Urine after 
+Acetaminophen Salicylamide --Equal Parts, A and B-- 
+Metabolite0 Sampleb Administration Administration Assay Theoretical 
+APAP 
+APAPG 
+APAPS 
+SAMG 
+SAMS 
+I 
+I1 
+I 
+11 
+I1 1 
+I 
+I1 
+I 
+I1 
+1.6 
+1.8 
+10.4 
+40.0 
+9.2 
+22.8 
+0.0 
+0.0 
+0.0 
+1 .o 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+8.6 
+49.2 
+10.2 
+12.8 
+0.8 
+0.9 
+5.0 
+21.1 
+5.0 
+10.0 
+4.3 
+24.6 
+5.1 
+6.9 
+0.8 
+0.9 
+5.2 
+20.0 
+4.6 
+11.4 
+4.3 
+24.6 
+5.1 
+6.9 
+Abbreviations: APAP, acetaminophen; APAPG, acetaminophen glucuronide; APAPS, acetaminophen sulfate; SAMG, salicylamide 
+glucuronide; and SAMS, salicylamide sulfate. b Roman numerals refer to a specific urine sample obtained after either acetaminophen or sal- 
+icylamide administration. 
+Table 11-Recovery of Acetaminophen and Its Metabolites in Mana 
+-Urinary Excretion Products: of Dose- 
+Subject Sex Age, yr. Weight, kg. Dose, g. APAP APAPG APAPS 
+Y 
+Y 
+J 
+M 
+M 
+M 
+36 
+36 
+26 
+62 
+62 
+85 
+1 
+2 
+1 
+3.2 
+3.4 
+3.1 
+57.9 
+65.3 
+62.5 
+31.1 
+29.3 
+20.5 
+K M 24 66 1 3.7 63.7 25.8 
+K M 24 66 2 3.5 63.4 24.1 
+a Acetaminophen in solution administered orally, b Abbreviations: APAP, acetaminophen; APAPG, acetaminophen glucuronide; and APAPS, 
+acetaminophen sulfate. 
+Acetaminophen glucuronide was assayed as free acetaminophen 
+after incubating 2 ml. urine with 1 ml. (5000 units) beef liver (3- 
+glucuronidasez and 3 ml. distilled water at 37" for 4 hr. Free acet- 
+aminophen was then extracted and assayed as described in the pre- 
+ceding paragraphs. Control experiments with pH 5.0 acetate buffer 
+(0.2 M) instead of beef liver 8-glucuronidase showed that non- 
+enzymatic hydrolysis of acetaminophen conjugates was negligible 
+(< 1 %) under the experimental conditions. Acetaminophen glucur- 
+onide concentrations were determined by subtracting the acet- 
+aminophen concentration obtained in the assay for free acetamino- 
+phen from the acetaminophen concentration obtained in the present 
+assay. 
+Acetaminophen sulfate was determined as free acetaminophen 
+after hydrolysis with sulfatase. Glusulase3 containing 50,000 units 
+of sulfatase and 100,OOO units 8-glucuronidaselml., was diluted 10- 
+fold with pH 5.0 acetate buffer (0.2 M). One milliliter of this solution 
+and 3 mi. distilled water were added to 2 ml. urine, and this mixture 
+was incubated at 37" for 4 hr. Acetaminophen was then extracted 
+and assayed as described previously. Acetaminophen sulfate was 
+calculated as the difference in acetaminophen concentration ob- 
+tained in this assay and in that for acetaminophen glucuronide. 
+Similar results were obtained with another enzyme preparati~n,~ but 
+this required a longer (> 10 hr.) period of incubation. 
+Determination of Acetaminophen and Its Metabolites in the Pres- 
+ence of Salicylamide Metabolites-Gentisamide, a metabolite of 
+salicylamide, interfered in the acetaminophen assay and had to be 
+removed. Urine samples containing acetaminophen and salicyl- 
+amide metabolites were adjusted to pH 9.0 with borate buffer, 
+saturated with sodium chloride, and extracted with ether. Acet- 
+aminophen, but not gentisamide, is thereby extracted. Specifically, 
+2 g. sodium chloride, 5 ml. pH 9.0 borate buffer (0.2 M) saturated 
+with sodium chloride, and 15 ml. washed ether were added to 5 
+ml. urine. The mixture was shaken for 15 min. and centrifuged. Ten 
+milliliters of the organic phase was extracted with 1 ml. 0.1 N 
+sodium hydroxide, and the subsequent procedures were as described 
+for acetaminophen alone. 
+Acetaminophen glucuronide was assayed as acetaminophen after 
+incubating 1 ml. urine with 2 ml. (l0,OOO units) (3-glucuronidase 
+2 Ketodase, Warner-Chilcott, Morris Plains, N. J. 
+3 Endo Laboratories, Garden City, N. Y. 
+4 Mylase P, Nutritional Biochemicals Corp., Cleveland, Ohio. 
+and 2 ml. distilled water at 37" for 16 hr. To 2 ml. of this solution 
+were added 1 g. sodium chloride, 8 ml. borate buffer saturated with 
+sodium chloride, and 15 ml. washed ether. Acetaminophen was 
+then extracted and assayed as described previously. 
+Acetaminophen sulfate was assayed as acetaminophen after 
+incubating 1 ml. urine with 2 ml. of lGfold diluted glusulase and 2 
+ml. distilled water at 37" for 16 hr. To 2 ml. of this solution were 
+added 8 ml. borate buffer saturated with sodium chloride, 1 g. 
+sodium chloride, and 20 ml. washed ether. Acetaminophen was then 
+extracted and assayed as described previously. 
+Determination of Salicylamide and Its Metabolites-These 
+determinations were carried out as described by Levy and Matsu- 
+zawa (1). 
+Individual urine samples were diluted with distilled water where 
+necessary. All assays were carried out at least in duplicate. The sum 
+of the assay results obtained from individual samples in a given ex- 
+periment was compared to the results obtained by assaying a com- 
+posite sample prepared by combining aliquots of the individual 
+urine samples. These agreed within 5% or less. All samples were 
+stored in a freezer until analyzed. Urine samples obtained from 
+nonmedicated subjects produced no measurable blank values in the 
+acetaminophen assay (<1 mg. per day). 
+RESULTS 
+The assay methods for acetaminophen, salicylamide, and their 
+respective metabolites were checked for possible interference by the 
+other substances. Thus, urine samples obtained after either acet- 
+aminophen or salicylamide administration were assayed, combined 
+in equal volumes, and reassayed. This revealed an interference by 
+gentisamide, a minor metabolite of salicylamide, in the acetami- 
+nophen assay. The assay procedure was therefore modified by ad- 
+justing the pH for extraction to 9.0, thereby separating the 
+interfering substance from acetaminophen. Table I shows a repre- 
+sentative example of analytical results which verify the assay meth- 
+ods employed in this study. The recovery of acetaminophen and its 
+metabolites after oral administration of 1- and 2-g. doses of acet- 
+aminophen is summarized in Table 11. The average recovery of drug 
+in all forms was 92z, mostly as acetaminophen glucuronide and 
+acetaminophen sulfate. Only about 3.4% of the dose was recovered 
+as free acetaminophen. 
+216 Journal of Pharmaceutical Sciences 
+\ 
+2 4 6 8 10 12 
+HOURS 
+Figure 1 shows the time course of urinary excretion of acetamino- 
+phen and its metabolites by Subject Y after oral administration of 1 
+g. of the drug. A semilogarithmic plot of acetaminophen excretion 
+rate uersus time could be resolved into two postabsorption expo- 
+nential phases, suggesting an initial distributive phase (Fig. 2). 
+Administration of 2 g. acetaminophen to the same subject resulted in 
+the excretion of acetaminophen sulfate at an essentially constant 
+rate for about 5 hr., this rate being only slightly higher than the peak 
+excretion rate of acetaminophen sulfate after the 1-g. dose (Fig. 3). 
+On the other hand, the maximum excretion rate of acetaminophen 
+glucuronide after 2 g. acetaminophen (200 mg. acetaminophen 
+equivalent per hour) was more than twice as high as the maximum 
+rate after the 1-g. dose (80 mg./hr,). Subject J excreted acetamino- 
+phen sulfate at a much lower rate than Subject Y and showed an ex- 
+cretion rate plateau of over 4 hr. even with a 1-g. dose of acetamino- 
+10 
+5 
+2 > 
+J 
+? 
+2 
+=1 2 
+L 
+LL 
+LL 
+0 
+X w 
+0.5 
+0.1 111111111IrIII 
+2 4 6 8 10 12 14 
+HOURS 
+Figure 2-Semilogarithmic plot of excretion rate of acetaminophen 
+(m) following oral administration of 1 g. acetaminophen to Subject Y. 
+The open circles represent the differences between the experimental 
+values and the hypothetical values obtained by back-extrapolation of 
+the terminal linear segment. 
+Figure 1-Excretion rate of acetaminophen 
+(m), acetaminophen glucuronide (e), and acet- 
+aminophen surfate (A) following oral admin- 
+istration of 1 g. acetaminophen to Subject Y. 
+The excretion rate in this figure and in the sub- 
+sequentfigures is expressed in mg.lhr. acetamino- 
+phen equivalent. 
+phen (Fig. 4). No such plateau in the excretion of acetaminophen 
+sulfate was apparent after administration of 2 g. acetaminophen to 
+Subject K (Fig, 5). 
+One gram salicylamide, given 1.5 hr. after 1 g. acetaminophen, de- 
+creased the urinary excretion of acetaminophen glucuronide and 
+acetaminophen sulfate for some time (Fig. 6). A more pronounced 
+effect was obtained when the dose of salicylamide was increased to 2 
+g. (Fig. 7). The excretion rate of acetaminophen sulfate during the 
+1.5 hr. before salicylamide administration in these experiments was 
+in good agreement with similar data obtained during the control 
+experiments. This is particularly significant in the case of Subject J, 
+whose excretion rate of acetaminophen sulfate was consistently low 
+(Fig. 8). Concomitant administration of L-cysteine increased the ex- 
+cretion rate of acetaminophen sulfate and partly counteracted the 
+effect of salicylamide (Fig. 9). 
+Acetaminophen decreased the formation of salicylamide sulfate 
+from salicylamide, resulting in a somewhat increased formation of 
+salicylamide glucuronide (Fig. 10, Table 111). Concomitant admin- 
+istration of L-cysteine with salicylamide increased salicylamide 
+sulfate formation and prevented the inhibition of salicylamide sul- 
+fate formation by acetaminophen (Table IV). 
+Table 111-Effect of Acetaminophen on the Metabolic Fate of 
+Salicylamide in Mana 
+-Recovery of Salicylamide Metabolites,” % of Dose- 
+Subject Control With APAP Control With APAP 
+- SAMG c__ -SAMS- 
+Y 
+J 
+K 
+50.9 63.6 33.4 27.2 
+45.3 56.3 36.5 28 .O 
+48.0 53.8 41.3 26.7 
+0 One gram salicylamide administered orally alone or 1.5 hr. follow- 
+ing I g. acetaminophen. * Abbreviations: SAMG, saiicylamide glu- 
+curonide; SAMS, salicylamide sulfate; and APAP, acetaminophen. 
+Table IV-Effect of L-Cysteine on the Biotransformation 
+Interaction of Acetaminophen and Salicylamidea 
+~~ ~~ ~ ~~ ~~~~ ~ 
+-Percent of Dose Recovered in Urin- 
+With 
+APAP 
+With L- and L- 
+Metabolite Control With APAP Cysteine Cysteine 
+SAMG 50.9 63.6 40.2 41.8 
+SAMS 33.4 27.2 47.5 47.9 
+0 One gram SAM alone or 1.5 hr. after 1 g. APAP. Two grams L- 
+cysteine every hour from - 1.5 to +2.5 hr. Abbreviations as in Table 
+I, Subject Y. 
+Vo1. 60, No. 2, February 1971 217 
+200 
+160 
+i r 
+2 
+2 
+E 120 
+W' 
+LL 
+z 
+80 
+LL 
+0 
+II 
+40 
+Figure 3-Excretion rate of acetaminophen (B), 
+acetaminophen glucuronide (@), and acetaminophen 
+sulfate (A) following oral administration of 2 g. 
+acetaminophen to Subject Y. 
+2 4 6 8 
+HOURS 
+DISCUSSION 
+The total recovery of acetaminophen and its metabolites in this 
+study (92x of the dose on the average) is similar to the average re- 
+coveries of 82 and 95z reported by Prescott et al. (5) and Nelson 
+and Morioka (6), respectively. Cummings et nl. (7) showed that 
+acetaminophen is eliminated mainly as the glucuronide and sulfate 
+and to a smaller extent as free drug. They identified the two metabo- 
+lites by comparing their chromatographic characteristics and IR ab- 
+sorption spectra with those of pure acetaminophen glucuronide 
+and acetaminophen sulfate. The composition of urinary excretion 
+products of acetaminophen found in the present study (Table 11) is 
+very similar to that reported by Cummings et al. (7) (4z acetamino- 
+phen, 26z acetaminophen sulfate, and 49 % acetaminophen glu- 
+curonide). 
+It appears that the formation of acetaminophen sulfate in man 
+may be capacity limited in the 1-2-g. dose range. This is indicated 
+by the acetaminophen sulfate excretion-rate plateaus following 
+acetaminophen administration (Figs. 3 and 4) and by the less than 
+proportional increase in acetaminophen sulfate excretion rates but 
+10 12 
+more than proportional increase in acetaminophen glucuronide ex- 
+cretion rates when the dose of acetaminophen was increased from 
+1 to 2 g. (Figs. 1 and 3). While there were appreciable intersubject 
+differences in acetaminophen sulfate formation, the results in any 
+one subject were quite reproducible (Figs. 6-8). The fraction of 
+acetaminophen excreted as acetaminophen sulfate decreased only 
+slightly with increasing dose (Table 11) in the dose range tested. 
+This may be due to the fact that acetaminophen sulfate formation 
+accounts for less than one-third of the acetaminophen elimination 
+process and that deviation from apparent first-order acetaminophen 
+sulfate formation may occur only when the amount of drug in the 
+body is a relatively large fraction of the doses used in this study. 
+There is also the possibility that acetaminophen glucuronide forma- 
+tion becomes capacity limited upon administration of the 2-g. dose 
+of acetaminophen. In that case, the composition of the major uri- 
+nary metabolites of acetaminophen would not change much with 
+dose. Saturation of acetaminophen sulfate and acetaminophen glu- 
+curonide formation was observed in the rat by Biich et al. (8). They 
+found that the same amount of acetaminophen sulfate was excreted 
+within 4 hr. after administration of 300 and 600 mg./kg. acetamino- 
+Figure &Excretion rate of acetaminophen (a), 
+acetaminophen glucuronide (@), and acetaminophen 
+sulfate (A) following oral administration of I g. 
+acetaminophen to Subject J. 
+2 4 6 8 10 12 
+HOURS 
+218 0 JournaI ofPharmaceutica1 Sciences 
+Figure 5-Excretion rate of acetaminophen (a), 
+acetaminophen glucuronide (a), and acetaminophen 
+sulfafe (A) following oral administration of 2 g. 
+acetaminophen to Subject K. 
+200 
+< 160 c > M 
+E 
+J 
+a 120 
+z 
+t 
+0 
+t; a 0 
+5 80 
+40 
+2 4 6 8 10 12 
+HOURS 
+phen and that acetaminophen glucuronide excretion increased by 
+only 25%. The formation rate of acetaminophen sulfate could be 
+increased by intravenous injection of sodium sulfate (9). 
+Concomitant administration of acetaminophen and salicylamide 
+resulted in a mutual inhibition of sulfate formation (Figs. 6-8 and 10 
+and Table 111). This effect was counteracted by L-cysteine (Fig. 9 and 
+Table IV), a source of inorganic sulfate (lo), which unlike inorganic 
+sulfate is well absorbed upon oral administration. The formation of 
+organic sulfate is a biphasic process: activation of inorganic sulfate 
+to 3 '-phosphoadenosine-5 '-phosphosulfate followed by the transfer 
+of sulfate to the acceptor molecule (1 1). The transfer reaction is 
+mediated by a number of substrate-specific sulfokinases, while the 
+activation step is common to each of these transfer reactions. Since 
+the capacity-limiting step in the formation of salicylamide sulfate 
+and acetaminophen sulfate appears to be the availability of sulfate, 
+salicylamide and acetaminophen may be expected to inhibit com- 
+petitively not only the formation of other phenolic sulfates but also 
+n 
+the conjugation with sulfate of nonphenolic compounds such as vari- 
+ous steroids which utilize different sulfokinases. 
+Based on the previously demonstrated competitive inhibition of 
+glucuronide formation by salicylamide and salicylate (2), the de- 
+creased excretion of acetaminophen glucuronide after salicylamide 
+administration (Figs. 6-8) is believed to be due to a similar competi- 
+tive effect. However, the possibility that the renal clearance (rather 
+than the formation) of acetaminophen glucuronide was inhibited by 
+salicylamide or its metabolites cannot be excluded on the basis of the 
+experimental data. The simultaneous inhibition of the parallel and 
+competing process, sulfate formation, actually results in increased 
+conversion of both acetaminophen and salicylamide to their respec- 
+tive glucuronides. Even the magnitude of a temporary inhibition of 
+acetaminophen glucuronide formation rate would be "dampened" 
+therefore by the more pronounced inhibition of the concurrent 
+sulfate formation process. 
+This study showed not only that acetaminophen elimination may 
+become capacity limited and that there occurs a mutual inhibition in 
+I,/ '\ \ 
+Figure &Effect of 1 g. salicylamide, given at 
+1.5 hr., on theelimination of1 g. acetaminophen by 
+Subject Y. Key: m, acetaminophen; e, acetami- 
+nophen glucuronide; and A, acetaminophen suffate. 
+The broken line in this and the subsequent figures 
+represents the excretion-rate curves of the cor- 
+responding substances following oral administra- 
+tion of 1 g. acetaminophen alone. 
+2 4 6 8 10 12 
+HOURS 
+Vol. 60, No. 2, February 1971 0 219 
+2 4 6 8 10 12 
+Figure 7-Effect of 2 g. salicylamide, given at 1.5 
+hr., on the elimination of 1 g. acetaminophen by 
+Subject Y. Key: B, acetaminophen; 0, acetamino- 
+phen glucuronide; and A, acetaminophen sulfate. 
+HOURS 
+- ,. 
+I 
+/ 
+, 
+\ 
+Figure &Effect of 1 g. salicylamide, given at 1.5 
+hr., on the elimination of 1 g. acetaminophen by 
+Subject J. Key: ., acetaminophen; 0, acetamino- 
+phen glucuronide; and A, acetaminophen sulfate. 
+2 4 6 8 10 12 
+HOURS 
+I 
+I 
+Figure 9-Efect of a sulfate precursor (L-cysteine) 
+on the influence of salicylamide on the elimination 
+of acetaminophen by Subject Y. Two-gram doses 
+of cysteine were administered at 0, 1, 2, 3, and 
+4 hr. The 1 g. acetaminophen was administered at 
+zero time and 1 g. salicylamide was given 1.5 hr. 
+later. Symbols are as in Fig. I. The broken line 
+is from Fig. 7 (acetaminophen and salicylamide). 
+2 4 6 8 10 12 
+HOURS 
+220 0 Journal of Pharmaceutical Sciences 
+300 
+L 
+C 
+2 
+E 
+Li 
+200 a a 
+0 
+b 
+Z 
+a 
+2 100 
+10 
+L 
+z- 
+"- 
+'c- 
+M 
+E 5- 
+ILi 
+a 
+0 
+t, 
+4 
+t- 
+rr 
+z- 
+2 
+- 
+4 
+HOURS 
+the elimination of acetaminophen and salicylamide. It also revealed 
+that, in the absence of noticeable saturation effects, acetaminophen 
+elimination is a biexponential process. This feature of acetamino- 
+phen pharmacokinetics became apparent when the drug was ad- 
+ministered in a rapidly absorbed form (solution) and when urine was 
+collected every 15 min. (Fig. 2). Previous investigators, who ad- 
+ministered the drug in solid form and collected urine less frequently, 
+characterized acetaminophen elimination in terms of a one-com- 
+partment model (6,7). If the results in Fig. 2 are reexpressed by com- 
+bining several data points and thereby simulating results that would 
+be obtained by collecting urine at greater intervals, the kinetics of 
+acetaminophen elimination would agree perfectly with those ob- 
+tained by other investigators (Fig. 11). 
+In this study, characterization of the previously reported biotrans- 
+formation interaction between salicylamide and salicylate (2) has 
+been extended to a description of the interaction of salicylamide and 
+acetaminophen. The biotransforrnation of salicylate and acetamino- 
+phen in the presence of one another will be the subject of a subse- 
+quent report (12). These interactions between widely used non- 
+I \. 
+\ 
+b\ 
+\ 
+\ 
+\ 
+\ 
+a\ 
+\ 
+\. 
+\ 
+[Ih 
+\ 
+2 4 6 8 
+HOURS 
+Figure 11-Comparison 
+of excretion rates of 
+acetaminophen reported 
+by Cummings et al. 
+(Subject D, in Table I, 
+Reference 7) with those 
+of Subject Y in the pres- 
+ent study. Key: 0, 
+Subject D from the 
+study of Cummings 
+et al.; and m, data from 
+Subject Y from Fig. I 
+of the present study, 
+but presented at greater 
+interuals. 
+Figure ICExcretion rate of salicyl- 
+amide glucuronide (0) and salicyl- 
+amide sulfate (A) following oral 
+administration of 1 g. salicylamide 
+at 1.5 hr. afrer I g. acetaminophen 
+(Subject Y). The excretion rates 
+are expressed as mg.lhr. salicyl- 
+amide equivalent, The broken lines 
+represent the excretion-rate curves 
+following oral administration of 1 g. 
+salicylamide alone. 
+6 
+narcotic analgesics have important pharrnacokinetic and thera- 
+peutic implications (2, 13-15). 
+REFERENCES 
+(1) G. Levy and T. Matsuzawa, J. Pharmacol. Exp. Ther., 156, 
+(2) G. Levy and J. A. Procknal, J. Pharm. Sci., 57, 133q1968). 
+(3) B. B. Brodie and J. Axelrod, J. Pharmacol. Exp. Ther., 94, 
+(4) R. M. Welch and A. H. Conney, Clin. Chem., 11, 1064 
+(5) L. F. Prescott, M. Sansur, W. Levin, and A. H. Conney, 
+(6) E. Nelson and T. Morioka, J. Pharm. Sci., 52, 864(1963). 
+(7) A. J. Cummings, M. L. King, and B. K. Martin, Brit. J. 
+(8) H. Biich, K. Pfleger, and W. Riidiger, 2. Klin. Chem. Bio- 
+(9) H. Biich, C. H. Eschrich, and K. Pfleger, Arch. Exp. Pathol. 
+285( 1967). 
+22( 1948). 
+(1965). 
+Clin. Pharmacol. Ther., 9, 605(1968). 
+Pharmacol. Chemother., 29, 15q1967). 
+chem., 5, llO(1967). 
+Pharmakol., 255,6(1966). 
+(10) B. Sorbo, Scand. J. Clin. Lab. Znuest., 17, 21(1966). 
+(1 1) F. Lipmann, Science, 128, 575( 1958). 
+(12) G. Levy and C.-G. Regardh, to be published. 
+(13) L. P. Amsel and G. Levy, J. Pharm. Sci., 58,321(1969). 
+(14) L. P. Amsel and G. Levy, Proc. SOC. Exp. Biol. Med., 135, 
+(15) G. Levy, to be published. 
+813(1970). 
+ACKNOWLEDGMENTS AND ADDRESSES 
+Received July 23, 1970, from the Department of Pharmaceutics, 
+School of Pharmacy, State University of New York at Buffalo, 
+Buffalo, NY 14214 
+Pharmaceutical Sciences, Washington, D. C. meeting, April 1970. 
+Institutes of Health. 
+Accepted for publication September 1, 1970. 
+Presented to the Basic Pharmaceutics Section, APHA Academy of 
+Supported in part by Grant 5 RO1 FD00015 from the National 
+* Present address: Shionogi Research Laboratory, Osaka, Japan. 
+Vol. 60, No. 2, February 1971 0 221 

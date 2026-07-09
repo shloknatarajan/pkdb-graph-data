@@ -1,0 +1,15 @@
+PK-DB Figure → Timecourse (VLM) — license & attribution
+========================================================
+
+Data derived from PK-DB (https://pk-db.com), open-licence studies only.
+
+PK-DB's TERMS_OF_USE state no restriction beyond the original data owners, but
+ATTRIBUTION IS REQUIRED. When using this dataset you must cite:
+
+  Grzegorzewski J, et al. PK-DB: pharmacokinetics database for individualized and
+  stratified computational modeling. Nucleic Acids Research. 2021;49(D1):D1358-D1364.
+  doi:10.1093/nar/gkaa990
+
+and acknowledge PK-DB (https://pk-db.com) as the source of the figures and
+digitized data. Underlying figures originate from the cited primary publications
+(see each record's `pmid` / `reference_title`); respect those publishers' terms.

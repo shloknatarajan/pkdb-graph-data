@@ -1,0 +1,348 @@
+Br.J.clin.Pharmac.(1984),18,481-485
+Theroleofsulphateconjugationinthemetabolismand
+dispositionoforalandintravenousparacetamolinman
+J.A.CLEMENTS1,J.A.J.H.CRITCHLEY2& L.F.PRESCOTf2
+'DepartmentofPharmacy,Heriot-WattUniversity&
+2DepartmentofTherapeuticsandClinicalPharmacology,RoyalInfirmary,Edinburgh
+1 Theeffectsofparacetamoldose(5and20mg/kg)androuteofadministration
+(intravenousandoral)ontheurinaryexcretionofparacetamolanditsglucuronide,
+sulphate,cysteineandmercapturicacidconjugateswerestudiedinfivehealthysubjects.
+2 Thefractionalurinaryexcretionofunchangedparacetamolanditsconjugateswas
+independentoftherouteofadministrationatbothdoselevels,suggestingthatthe
+gastrointestinaltractisnotanimportantsiteforparacetamolmetabolism.
+3 Thepercentageofthedoseexcretedasthesulphateconjugatewassignificantly
+higherafter5thanafter20mg/kg(37.7%and33.3%respectively)andthisisconsistent
+withsaturationofsulphateconjugation.
+4 No significanteffectofparacetamoldoseupontheareaundertheplasma
+concentration-timecurve(AUC),correctedfordose,wasfoundforthesulphateor
+glucuronideconjugates.
+5 Thetotalplasmaclearanceofparacetamolandtherenalclearanceofthesulphate
+conjugateweresignificantlyhigherafterthe5thanthe20mg/kgdose(331+42ml/min
+and295±48mlmin;273+ 74m/minand205±46ml/minrespectively).
+6 Theoralsystemicavailabilityofparacetamolwas80%andindependentofdose.
+Keywordsparacetamolsulphateconjugationmetabolism
+Introduction
+Sulphationisanimportantrouteofintestinal
+metabolismofsomephenolicdrugs(George,
+1981).Ifthisreactionoccursinboththe
+intestineandtheliver,theproportionofthe
+doseconvertedtothesulphateconjugate
+shoulddependonwhethertherouteofadminis-
+trationisoralorparenteral.Forexample,the
+sulphateconjugationofisoprenalineinmanis
+extensivefollowingoralbutisminimalafter
+parenteraladministration(Conollyetal.,1972;
+Georgeetal.,1974).Paracetamolundergoes
+extensivesulphateandglucuronideconjugation
+butitisnotknownwhetheritsmetabolismis
+similarlyroute-dependent.
+Toinvestigatethecontributionofintestinal
+sulphateconjugationtoparacetamolmetabo-
+lism,wemeasuredtheurinarymetabolitesof
+oralandintravenousparacetamolinfivehealthy
+subjectsgivendosesof5 and20mg/kgon
+separateoccasions.Thesulphateconjugationof
+paracetamolisdose-dependent(Levy& Yama-
+da,1971)andtominimisethepossibilityof
+saturationofgastrointestinalsulphateconju-
+gation,concentrationsatthesite(s)ofmetabo-
+lismwerekeptlowbyslow,constant-ratedeliv-
+eryofthedrugoveraperiodof2h.
+Methods
+Fivehealthymalesubjects(age29to39years,
+mean33.4years;weight66to83kg,mean72.4
+kg)whoweretakingnootherdrugsparticipated
+inthestudy.Eachfastedovernightandwas
+giveneachdoseofintravenousparacetamol(5
+481
+482 J.A.Clements,J.A.J.H.Critchley& L.F.Prescott
+or20mg/kg)byconstantinfusionover2husing
+anIMED pump(IMEDCorporation,Cali-
+fornia).Intravenousparacetamol(0.875and
+3.5mg/ml)waspreparedinphosphatebuffer
+(pH6.0)andsterilisedbyfiltration.Onsub-
+sequentoccasionsparacetamolwasdissolvedin
+400mlof'CocaCola'andingestedover2h;50
+mlaliquotsweretakenoversuccessive15min
+periods.Inthisway,ratesofadministration
+weresimilarbybothroutes.Thesubjects
+remainedseatedfor2h andthenresumed
+normalactivities.Food,drinkandtobaccowere
+allowedafter4h.Eachofthefourstudieswas
+separatedbyatleastoneweek.
+Venousbloodwastakenat0,15,30,45,60,
+75and90minand2,3,4,6and8h.Urinewas
+collectedat0,0-1,1-2,2-3,3-4,4-6,6-8,8-
+10,10-12and12-24h.Plasmaandurinewere
+storedat-20°Cuntilassayedforparacetamol
+anditsglucuronide,sulphate,mercapturicacid
+andcysteineconjugatesbymodificationofthe
+high-pressureliquidchromatographicmethods
+ofAdriaenssens&Prescott(1978)andKnox&
+Jurand(1978).Inordertomeasurelowurinary
+concentrationsofthesulphateconjugateinthe
+presenceofinterferingcompounds,itsretention
+wasincreasedbytheuseofcetyltrimethyl-
+ammoniumbromideascounter-ion;electro-
+chemicaldetectiotn(ModelLC-4A,Bioanalyti-
+calSystemsInc.)wasusedtoincreasesensiti-
+vityandselectivityforunchangedparacetamol
+andthemercapturicacidandcysteineconju-
+gates.
+Totalquantitiesofparacetamolanditscon-
+jugatesexcretedintheurineover24hwere
+expressedaspercentagesofthetotalrecovered
+material.Areasundertheplasmaconcentra-
+tion-timecurves(AUC)werecalculatedbythe
+trapezoidalrulewithcorrection(forparace-
+tamolonly)fortheareabeyondthelastdata
+point(Gibaldi& Perrier,1975).Thetotal
+plasmaparacetamolclearancewascalculatedas
+theintravenousdose/AUC(0toinfinity)and
+thesystemicavailabilityastheratioofareas
+afteroralandintravenousadministration.
+Meanresultsareshownwithstandarddevi-
+ations;Student'st-testandanalysisofvariance
+wereusedintestsofstatisticalsignificance.
+Results
+Foreachdose,theplasmaconcentrationsof
+unchangedparacetamolweresimilaraftereach
+routeofadministration,takingintoaccountthe
+first-passlossandthedifferenceindose
+(Figure1).
+Urinaryexcretion
+Thepercentagerecoveryofparacetamoland
+eachofitsconjugateswasindependentofthe
+routeofadministrationatbothdoselevels
+(Table1).Inparticular,theproductionof
+sulphateconjugatewasnotsignificantlyhigher
+afteroraladministration.Indeed,whenresults
+forbothdoseswerecombined,lesssulphate
+conjugatewasrecoveredaftertheoral(35.0%)
+thanafterintravenous(36.1%)administration.
+Thedosehadasignificanteffectuponthe
+excretionofparacetamolsulphateandthe
+meanrecoveriesafterthe5and20mg/kgdoses
+were37.7± 10.4%and33.3+ 8.9%respec-
+tively(P< 0.001).Therewerereciprocal
+changesintheglucuronideconjugationwith
+higherrecoveryafterthe20thanthe5mg/kg
+dose(51.8± 11.9%and47.1± 12.5%
+respectively;P<0.002).
+Byanalysisofvariance,the'subject'factor
+washighlysignificant(P< 0.01)forallthe
+metabolites,reflectinglargebutveryconsistent
+differencesbetweensubjectsintheproportion
+ofmetabolitesexcreted.Incontrast,theexcre-
+tionofunchangedparacetamolwassurprisingly
+Z
+.5mE
+Coco-
+EU)
+Co
+5
+4
+3
+2
+20
+16
+12
+8
+4
+b
+U i 4 6 8 -0 2 4 6 8
+Time(h)aftercommencingparacetamoladministration
+Figure1 Meanplasmaparacetamolconcentrations(mg/l)infivesubjectsafteroral(0)andintravenous
+(A)administrationof(a)5and(b)20mg/kg,(mean+ s.e.mean).
+ v o.I..F
+Sulphateconjugationoforalandi.v.paracetamol
+Table1 Percentageurinaryrecoveriesofparacetamolandmetabolitesafteri.v.
+infusionandoraladministrationof5and20mg/kgover2hinfivehealthysubjects
+(mean± s.d.)
+Dose(mglkg) i.v.infusion Oralsolution
+Paracetamol 5 3.2±0.4 5.5±3.4
+20 4.3± 1.9 3.1± 0.4
+Sulphateconjugate 5 38.4± 11.8 36.9± 11.4
+20 *33.7± 10.1 *33.0± 9.6
+Glucuronideconjugate 5 47.6± 12.6 46.6± 15.2
+20 50.4± 13.5 *53.2± 12.8
+Cysteineandmercapturic 5 10.8± 4.0 11.1± 6.3
+acidconjugates 20 11.6± 8.7 10.7± 6.1
+* Significantdifference(P< 0.025)from5mg/kg.Differencesbetweenroutesnot
+significant(P> 0.05).
+uniformwithnosignificantdifferencesbetween
+subjects.Theratioofsulphatetoglucuronide
+conjugateexcretedin24hwasindependentof
+therouteofadministrationbutwassignificantly
+higherafter5 than20mg/kg(0.90+ 0.50and
+0.72± 0.32respectively;P < 0.02).
+Renalclearance
+Therenalclearanceofthesulphateconjugate
+ofparacetamolwas significantlyhigherafter5
+thanafter20mg/kg(273± 74m/minand205
++ 46mlmin,respectively;P < 0.02).There
+were no similardose-dependentdifferencesin
+therenalclearanceofparacetamoloranyofthe
+otherconjugates.
+Areasundertheplasmaconcentration-time
+curves
+TheAUC forparacetamolwas significantly
+smallerafteroralthanintravenousadministra-
+tionbecauseof'first-pass'metabolism(Table2)
+andthesystemicavailabilityoforalparaceta-
+molwasvirtuallyidenticalafter5 and20mg/kg
+doses(79.6+ 9.6%and80.8+ 7.8%respec-
+tively).Whencorrectedfordose,theAUC for
+paracetamolwas significantlyhigherafter20
+thanafter5 mg/kgforbothroutesofadminis-
+tration.Paracetamolplasmaclearancesafter
+intravenousadministrationwere 331+ 42ml/
+minand295 48m/minforthe5and20mg/
+kgrespectivelyanddifferedsignificantly(P<
+0.05).
+Therouteofparacetamoladministrationhad
+noimportanteffecton theAUC valuesforthe
+sulphateorglucuronideconjugates.However,
+theAUC forthesulphate(butnottheglucuro-
+nide)conjugatewassignificantlyhigherafter20
+than5 mg/kgintravenously(Table2).
+Discussion
+We were unabletodemonstrateanyeffectof
+routeofadministrationontheextentofparace-
+tamolsulphateconjugationateitherdoselevel.
+Table2 AUC (mgI1-h)forplasmaparacetamol(0toinfinity)anditssulphateandglucuronide
+conjugates(0to8h)afteri.v.infusionandoraladministrationof5and20mg/kgover2hinfive
+healthysubjects.(TabulatedvaluesofAUCforthe20mg/kgdosearetheobservedvaluesdivided
+by4.0)(mean±s.d.)
+Dose i.v.infusion Oralsolution Difference
+(mglkg)
+Paracetamol 5 18.38± 1.65 14.67±2.48 P<0.001
+20 *20.62±2.50 *16.67±2.55 P<0.001
+Sulphateconjugate 5 5.32± 1.82 6.75±2.42 NS
+20 *6.602.58 6.65± 1.42 NS
+Glucuronideconjugate 5 14.64±4.97 17.67±7.13 P<0.05
+20 15.66±4.84 16.95±7.54 NS
+*Significantdifferencefrom5mg/kgdose(P<0.05).
+483
+484 J.A.Clements,J.A.J.H.Critchley& L.F.Prescott
+Thisimpliesthatnosignificantconjugation
+occurredinthegastrointestinaltractatthese
+doses.Itispossiblethatintestinalmetabolism
+couldplayamoreimportantroleatverylow
+doses,asfoundwithisoprenaline(Conollyet
+al.,1972),isoetharine(Williamsetal.,1974),
+rimiterol(Evansetal.,1974)andterbutaline
+(Daviesetal.,1974).
+Considerableinter-subjectvariationinthe
+metabolismofparacetamolwasobservedbut
+thefractionalurinaryrecoveryofeachconju-
+gatewasremarkablyconstantwithineach
+subject.
+Therewasdose-dependentsulphateconjuga-
+tionofparacetamol,inkeepingwithprevious
+reportsofthelimitedcapacityofthismetabolic
+routeafteroraladministrationinman(Levy&
+Yamada,1971).We haveshownthatthe
+eliminationofparacetamolasthesulphate
+conjugateisalsodose-dependentafterintra-
+venousparacetamoladministration.
+Thedecreasedformationofthesulphate
+conjugateatthehigherdoseofparacetamol
+wasaccompaniedbyacorrespondingincrease
+intheextentofglucuronideconjugation.
+Neitherdosenorrouteofadministrationhad
+anysignificanteffectontheformationofthe
+cysteineandmercapturicacidconjugates.
+Afterthe5mg/kgoraldoseofparacetamol,
+theextentofformationofthesulphatecon-
+jugate(asmeasuredbytheurinaryrecovery)
+anditsrenalclearancewerebothgreaterthan
+afterthe20mg/kgdose.Asaresult,thedose-
+adjustedAUC valueswerenotsignificantly
+different.However,afterintravenousadminis-
+trationtheAUCforthesulphateconjugatewas
+significantlygreaterafterthe20mg/kgdose,
+despitethesmallerproportionofsulphate
+conjugateformed.Thiswasduetothemuch
+lowerrenalclearanceofthesulphateconjugate
+atthehigherplasmaconcentrationsfoundafter
+the20mg/kgdose.Thus,withthedosesof
+paracetamolusedinthisstudythereissatura-
+tionofboththeformationandtherenal
+clearanceofthesulphateconjugate.Clearly,
+theAUC isanunsatisfactorymeasureof
+fractionalbiotransformationwhenametabolite
+isexcretedbyasaturablepathway.
+A furtherobservationwasthatthetotal
+plasmaclearanceofparacetamolwaslower
+after20than5mg/kgdoses.Althoughthe
+differencewassmall(12%)andclearlynotof
+therapeuticimportanceitshouldbetakeninto
+accountinbioavailabilitystudies.Ourfinding
+that20%ofanoraldoseofparacetamolislost
+bypre-systemicclearanceisinagreementwith
+previousreports(Perucca& Richens,1979;
+Prescott,1980).However,wewereunableto
+confirmthedose-dependentsystemicavaila-
+bilityofparacetamolreportedbyRawlinsetal.
+(1977).Inthelatterstudy,theAUC values
+afteroraldosesof500,1000and2000mgwere
+comparedwiththeAUC afterasingleintra-
+venousdoseof1000mg.Inthepresentstudy
+thesamedosewasgivenbybothroutes.The
+systemicavailabilityofthe500mgoraldose
+reportedbyRawlinsetal.(1977)mayhave
+beenspuriouslylowbecausetheplasmapara-
+cetamolclearancewashigherthanafterthe
+1000mgintravenousdose.
+References
+Adriaenssens,P.I.& Prescott,L.F.(1978).High
+performanceliquidchromatographicestimation
+ofparacetamolmetabolitesinplasma.Br.J.clin.
+Pharmac.,6,87-88.
+Conolly,M. E.,Davies,D.S.,Dollery,C.T.,
+Morgan,C.D.,Paterson,J.W.& Sandler,M.
+(1972).Metabolismofisoprenalineindogand
+man.Br.J.Pharmac.,46,458-472.
+Davies,D.S.,George,C.F.,Blackwell,E.W.,
+Conolly,M.E.&Dollery,C.T.(1974).Metabo-
+lismofterbutalineinmananddog.Br.J.clin.
+Pharmac.,1,129-136.
+Evans,M. E.,Shenfield,G.M.,Thomas,N.,
+Walker,S.R.& Paterson,J.W. (1974).The
+pharmacokineticsofrimiterolinman.Xenobio-
+tica,4,681-692.
+George,C.F.(1981).Drugmetabolismbythe
+gastrointestinalmucosa.Clin.Pharmacokin.,6,
+259-274.
+George,C.F.,Blackwell,F.W.& Davies,D.S.
+(1974).Metabolismofisoprenalineintheintes-
+tine.J.Pharm.Pharmac.,26,265-267.
+Gibaldi,M.& Perrier,D.(1975).Drugsinpharma-
+ceuticalsciences,Vol.1.InPharmacokinetics,pp
+45-86.NewYork:MarcelDekker.
+Knox,J.H.& Jurand,J.(1978).Determinationof
+paracetamolanditsmetabolitesinurinebyhigh-
+performanceliquidchromatographyusingion-
+pairsystems.J.Chromatogr.,149,297-312.
+Levy,G.&Yamada,H.(1971).Drugbiotransforma-
+tioninteractionsinmanIII.Acetaminophenand
+salicylamide.J.pharm.Sci.,60,215-221.
+Perucca,E.& Richens,A. (1979).Paracetamol
+dispositioninnormalsubjectsandinpatients
+treatedwithanti-epilepticdrugs.Br.J.clin.
+Pharmac.,7,201-206.
+Prescott,L.F.(1980).Kineticsandmetabolismof
+paracetamoland phenacetin.Br.J. clin.
+Pharmac.,10,291S-298S.
+Sulphateconjugationoforalandi.v.paracetamol485
+Rawlins,M.,Henderson,D.B.& Hijab,A.R.
+(1977).Pharmacokineticsofparacetamol(aceta-
+minophen)afterintravenousandoraladministra-
+tion.Eur.J.clin.Pharmac.,11,283-286.
+Williams,F.M.,Briant,R.H.,Dollery,C.T.&
+Davies,D.S.(1974).Theinfluenceofrouteof
+administrationinurinarymetabolitesofisoethar-
+ine.Xenobiotica,4,345-353.
+(ReceivedMarch15,1984,
+acceptedJune2,1984)

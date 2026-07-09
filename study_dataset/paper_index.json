@@ -1,0 +1,346 @@
+{
+  "PKDB00131": {
+    "sid": "PKDB00131",
+    "name": "Divoll1982",
+    "pmid": "7069091",
+    "has_fulltext": false,
+    "md": "papers/PKDB00131.md",
+    "pdf": null
+  },
+  "PKDB00119": {
+    "sid": "PKDB00119",
+    "name": "Malan1985",
+    "pmid": "4027126",
+    "has_fulltext": false,
+    "md": "papers/PKDB00119.md",
+    "pdf": "papers/PKDB00119.pdf"
+  },
+  "PKDB00021": {
+    "sid": "PKDB00021",
+    "name": "Shinoda2007",
+    "pmid": "17202677",
+    "has_fulltext": false,
+    "md": "papers/PKDB00021.md",
+    "pdf": "papers/PKDB00021.pdf"
+  },
+  "PKDB00024": {
+    "sid": "PKDB00024",
+    "name": "Baraka1990",
+    "pmid": "2306420",
+    "has_fulltext": false,
+    "md": "papers/PKDB00024.md",
+    "pdf": "papers/PKDB00024.pdf"
+  },
+  "PKDB00022": {
+    "sid": "PKDB00022",
+    "name": "Albert1974",
+    "pmid": "4829520",
+    "has_fulltext": false,
+    "md": "papers/PKDB00022.md",
+    "pdf": null
+  },
+  "PKDB00154": {
+    "sid": "PKDB00154",
+    "name": "Liukas2011",
+    "pmid": "21241071",
+    "has_fulltext": false,
+    "md": "papers/PKDB00154.md",
+    "pdf": "papers/PKDB00154.pdf"
+  },
+  "PKDB00125": {
+    "sid": "PKDB00125",
+    "name": "Renner2007",
+    "pmid": "17442681",
+    "has_fulltext": false,
+    "md": "papers/PKDB00125.md",
+    "pdf": null
+  },
+  "PKDB00124": {
+    "sid": "PKDB00124",
+    "name": "Perucca1979",
+    "pmid": "760753",
+    "has_fulltext": false,
+    "md": "papers/PKDB00124.md",
+    "pdf": "papers/PKDB00124.pdf"
+  },
+  "PKDB00121": {
+    "sid": "PKDB00121",
+    "name": "Ganetsky2013",
+    "pmid": "23436315",
+    "has_fulltext": false,
+    "md": "papers/PKDB00121.md",
+    "pdf": "papers/PKDB00121.pdf"
+  },
+  "PKDB00156": {
+    "sid": "PKDB00156",
+    "name": "Levy1971",
+    "pmid": "5572442",
+    "has_fulltext": false,
+    "md": "papers/PKDB00156.md",
+    "pdf": "papers/PKDB00156.pdf"
+  },
+  "7002186": {
+    "sid": "7002186",
+    "name": "Prescott1980",
+    "pmid": "7002186",
+    "has_fulltext": false,
+    "md": "papers/7002186.md",
+    "pdf": "papers/7002186.pdf"
+  },
+  "PKDB00019": {
+    "sid": "PKDB00019",
+    "name": "CulmMerdek2005",
+    "pmid": "16236038",
+    "has_fulltext": false,
+    "md": "papers/PKDB00019.md",
+    "pdf": "papers/PKDB00019.pdf"
+  },
+  "PKDB00041": {
+    "sid": "PKDB00041",
+    "name": "Healy1991",
+    "pmid": "2069371",
+    "has_fulltext": false,
+    "md": "papers/PKDB00041.md",
+    "pdf": null
+  },
+  "PKDB00136": {
+    "sid": "PKDB00136",
+    "name": "Tanaka2014",
+    "pmid": "24389476",
+    "has_fulltext": false,
+    "md": "papers/PKDB00136.md",
+    "pdf": "papers/PKDB00136.pdf"
+  },
+  "PKDB00427": {
+    "sid": "PKDB00427",
+    "name": "Abernethy1985a",
+    "pmid": "4027137",
+    "has_fulltext": false,
+    "md": "papers/PKDB00427.md",
+    "pdf": "papers/PKDB00427.pdf"
+  },
+  "PKDB00063": {
+    "sid": "PKDB00063",
+    "name": "Turpault2009",
+    "pmid": "20002088",
+    "has_fulltext": false,
+    "md": "papers/PKDB00063.md",
+    "pdf": "papers/PKDB00063.pdf"
+  },
+  "PKDB00047": {
+    "sid": "PKDB00047",
+    "name": "Lelo1986a",
+    "pmid": "3756065",
+    "has_fulltext": false,
+    "md": "papers/PKDB00047.md",
+    "pdf": "papers/PKDB00047.pdf"
+  },
+  "PKDB00091": {
+    "sid": "PKDB00091",
+    "name": "Chen1991",
+    "pmid": "2049245",
+    "has_fulltext": false,
+    "md": "papers/PKDB00091.md",
+    "pdf": "papers/PKDB00091.pdf"
+  },
+  "PKDB00106": {
+    "sid": "PKDB00106",
+    "name": "Shord2009",
+    "pmid": "19357842",
+    "has_fulltext": false,
+    "md": "papers/PKDB00106.md",
+    "pdf": null
+  },
+  "1623898": {
+    "sid": "1623898",
+    "name": "Sindrup1992",
+    "pmid": "1623898",
+    "has_fulltext": false,
+    "md": "papers/1623898.md",
+    "pdf": "papers/1623898.pdf"
+  },
+  "PKDB00115": {
+    "sid": "PKDB00115",
+    "name": "Yue1991a",
+    "pmid": "1867957",
+    "has_fulltext": false,
+    "md": "papers/PKDB00115.md",
+    "pdf": "papers/PKDB00115.pdf"
+  },
+  "PKDB00094": {
+    "sid": "PKDB00094",
+    "name": "Kim2002",
+    "pmid": "12194925",
+    "has_fulltext": false,
+    "md": "papers/PKDB00094.md",
+    "pdf": "papers/PKDB00094.pdf"
+  },
+  "PKDB00114": {
+    "sid": "PKDB00114",
+    "name": "Yue1991",
+    "pmid": "1867958",
+    "has_fulltext": false,
+    "md": "papers/PKDB00114.md",
+    "pdf": "papers/PKDB00114.pdf"
+  },
+  "7983238": {
+    "sid": "7983238",
+    "name": "Band1994",
+    "pmid": "7983238",
+    "has_fulltext": false,
+    "md": "papers/7983238.md",
+    "pdf": "papers/7983238.pdf"
+  },
+  "PKDB00072": {
+    "sid": "PKDB00072",
+    "name": "Ferrannini1979",
+    "pmid": "447855",
+    "has_fulltext": false,
+    "md": "papers/PKDB00072.md",
+    "pdf": null
+  },
+  "PKDB00070": {
+    "sid": "PKDB00070",
+    "name": "Degn2004",
+    "pmid": "15331551",
+    "has_fulltext": false,
+    "md": "papers/PKDB00070.md",
+    "pdf": null
+  },
+  "PKDB00075": {
+    "sid": "PKDB00075",
+    "name": "Firth1986",
+    "pmid": "3517067",
+    "has_fulltext": false,
+    "md": "papers/PKDB00075.md",
+    "pdf": null
+  },
+  "PKDB00077": {
+    "sid": "PKDB00077",
+    "name": "Hovorka2002",
+    "pmid": "11934663",
+    "has_fulltext": false,
+    "md": "papers/PKDB00077.md",
+    "pdf": null
+  },
+  "PKDB00084": {
+    "sid": "PKDB00084",
+    "name": "Polonsky1986",
+    "pmid": "3511094",
+    "has_fulltext": false,
+    "md": "papers/PKDB00084.md",
+    "pdf": null
+  },
+  "PKDB00067": {
+    "sid": "PKDB00067",
+    "name": "Bergman1981",
+    "pmid": "7033284",
+    "has_fulltext": false,
+    "md": "papers/PKDB00067.md",
+    "pdf": null
+  },
+  "PKDB00086": {
+    "sid": "PKDB00086",
+    "name": "Yang2015",
+    "pmid": "25922805",
+    "has_fulltext": false,
+    "md": "papers/PKDB00086.md",
+    "pdf": null
+  },
+  "PKDB00079": {
+    "sid": "PKDB00079",
+    "name": "Jones1998",
+    "pmid": "9614256",
+    "has_fulltext": false,
+    "md": "papers/PKDB00079.md",
+    "pdf": null
+  },
+  "PKDB00081": {
+    "sid": "PKDB00081",
+    "name": "Knop2007",
+    "pmid": "20103744",
+    "has_fulltext": false,
+    "md": "papers/PKDB00081.md",
+    "pdf": null
+  },
+  "PKDB00083": {
+    "sid": "PKDB00083",
+    "name": "Mitrakou1992",
+    "pmid": "1727062",
+    "has_fulltext": false,
+    "md": "papers/PKDB00083.md",
+    "pdf": null
+  },
+  "PKDB00248": {
+    "sid": "PKDB00248",
+    "name": "Link2008",
+    "pmid": "18537963",
+    "has_fulltext": false,
+    "md": "papers/PKDB00248.md",
+    "pdf": null
+  },
+  "PKDB00323": {
+    "sid": "PKDB00323",
+    "name": "Shord2010",
+    "pmid": "20233179",
+    "has_fulltext": false,
+    "md": "papers/PKDB00323.md",
+    "pdf": "papers/PKDB00323.pdf"
+  },
+  "PKDB00252": {
+    "sid": "PKDB00252",
+    "name": "Kawaguchi-Suzuki2017",
+    "pmid": "27503364",
+    "has_fulltext": false,
+    "md": "papers/PKDB00252.md",
+    "pdf": "papers/PKDB00252.pdf"
+  },
+  "PKDB00178": {
+    "sid": "PKDB00178",
+    "name": "Heizmann1983",
+    "pmid": "6138080",
+    "has_fulltext": false,
+    "md": "papers/PKDB00178.md",
+    "pdf": null
+  },
+  "PKDB00245": {
+    "sid": "PKDB00245",
+    "name": "Kharasch1997",
+    "pmid": "9232132",
+    "has_fulltext": false,
+    "md": "papers/PKDB00245.md",
+    "pdf": null
+  },
+  "PKDB00325": {
+    "sid": "PKDB00325",
+    "name": "Ma2009",
+    "pmid": "19220276",
+    "has_fulltext": false,
+    "md": "papers/PKDB00325.md",
+    "pdf": null
+  },
+  "17541571": {
+    "sid": "17541571",
+    "name": "Villesen2007b",
+    "pmid": "17541571",
+    "has_fulltext": false,
+    "md": "papers/17541571.md",
+    "pdf": "papers/17541571.pdf"
+  },
+  "PKDB00195": {
+    "sid": "PKDB00195",
+    "name": "Clements1984",
+    "pmid": "6487489",
+    "has_fulltext": false,
+    "md": "papers/PKDB00195.md",
+    "pdf": "papers/PKDB00195.pdf"
+  },
+  "PKDB00151": {
+    "sid": "PKDB00151",
+    "name": "Prescott1981",
+    "pmid": "7306429",
+    "has_fulltext": false,
+    "md": "papers/PKDB00151.md",
+    "pdf": "papers/PKDB00151.pdf"
+  }
+}

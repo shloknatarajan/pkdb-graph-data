@@ -1,0 +1,541 @@
+Br.J.clin.Pharmac.(1985),20,61-66
+Caffeinedispositioninobesity
+D.R.ABERNETHY,ELIZABETHL.TODD &JANICEB.SCHWARTZ
+SectiononHypertension-ClinicalPharmacology,DepartmentsofMedicineandInstituteforLipidResearch,
+BaylorCollegeofMedicine,Houston,Texas,USA
+1 Caffeinepharmacokineticswerestudiedin16obese(mean+s.e.meanbodyweight;
+110±8kg;% idealbodyweight(IBW);186±14%)and23normalbodyweight(64±
+3kg;103+ 3%IBW)subjects.Eightobeseandfourcontrolsubjectswerecigarette
+smokers.Afterabstainingfromcaffeinefor48handanovernightfast,eachsubject
+ingested162mgcaffeineorally.Concentrationsofcaffeineweremeasuredinplasma
+samplesobtainedduringthe24hfollowingthedoseandpharmacokineticvariableswere
+determined.
+2 Theapparentvolumeofdistributionwasincreasedmarkedlyinobesesubjects(69.9±
+5.9vs43.6+ 2.81;P< 0.001)intheabsenceofanychangeinoralclearance(135±
+14-obesevs112+ 12mVmin;NS),resultinginatrendtowardincreasedeliminationhalf-
+life(7.05+ 1.08-obesevs5.40+0.40h;NS).
+3 ApparentvolumeofdistributioncorrelatedwellwithpercentIBW(r= 0.65;P <
+0.001).Caffeineclearance,suggestedasameasureofinvivocytochromeP-448activityin
+humans,wasnotalteredinobesity.Incontrast,theextentofcaffeinedistribution
+increasedindirectrelationtobodyweight.
+4 Ifcaffeineisusedtherapeutically,theloadingdoseshouldbecalculatedasafunctionof
+totalbodyweight.Sinceclearanceofcaffeineisnotrelatedtobodyweight,thesedata
+indicatethatachronicdosingregimentomaintainagivenplasmacaffeineconcentration
+shouldnotbealteredduetoobesity.
+Keywordscaffeineobesitypharmacokinetics
+Introduction
+Caffeine,perhapsthemostextensivelyconsumed
+xenobioticintheworld(Greden,1979;Levi,
+1967;Ritchie,1975),hasreceivedincreasing
+attentionasatherapeuticagentforthetreat-
+mentofbronchospasticdiseaseandneonatal
+apnoea(Arandaetal.,1977,1979;Beckeretal.,
+1984).Previoushumanstudiesofcaffeinedis-
+positioninmanhavefocusedonfactorswhichigovernitsmetabolicbiotransformationand
+clearance(Blanchard&Sawers,1983a,b;Brazier
+etal.,1983;Broughton&Rogers,1981;Desmond
+etal.,1980;Knuttietal.,1981;Mitchelletal.,
+1983;Newtonetal.,1981).Thesestudiesin-
+dicatethatcaffeineundergoeshepaticoxidation
+toavarietyofbiologicallyactivemethylxanthine
+productsandthatcaffeineclearancemaybe
+closelyrelatedtocytochromeP-448(P1-450)activityinthehuman(Aldridge&Neims,1979;
+Aldridgeetal.,1977;Grantetal.,1983;Weitholtz
+etal.,1981).Inaddition,formationofonemeta-
+bolite(5-acetylamino-6-formylamino-3-methyl-
+uracil)exhibitsacetylationpolymorphismthat
+parallelsacetylatorphenotype(Grantetat.,1983).Todate,however,littleattentionhas
+Correspondence:DrD.Abernethy,SectiononHypertension-ClinicalPharmacology,DepartmentofMedicine,
+BaylorCollegeofMedicine,Room826EHouston,Texas77030,USA
+61
+62 D.R.Abernethy,ElizabethL.Todd&JaniceB.Schwartz
+beengiventochangesinthedistributionofcaf-
+feinewhichmayoccurindifferentpopulations.
+Previousstudieshaveshownthat,inthe
+absenceofotherdiseases,obesitymayprolong
+dramaticallytheeliminationhalf-lifeofsome
+drugssuchasthiopentone(Jungetal.,1982),
+diazepam(Abernethyetal.,1981)andphenytoin
+(Abernethy& Greenblatt,1983)owingto
+markedlyincreaseddistributionwithnochange
+indrugclearance.Thetherapeuticconsequence
+isprolongationofthetimerequiredtoreach
+steady-statedrugconcentrationsduringchronic
+dosingunlessaloadingregimenisemployedand
+aprolongedtimefordrugwashoutaftercessation
+ofchronicdosing(Abernethyetal.,1983).In
+suchacircumstancealoadingdosemayrequire
+adjustmentonthebasisofbodyweight.
+We reporttheeffectofobesityoncaffeine
+distributionandclearance.
+Methods
+Subjects
+Sixteenobese(11women,fivemen:allweighing
+morethan125%ofidealbodyweight(IBW)and
+withbodymassindex(BMI)greaterthan25.7)
+and23normalbodyweightindividuals(16
+women,sevenmen:allweighinglessthan125%
+IBWandwithBMIlessthan26.7)participated
+inthestudyaftergivingwritteninformedcon-
+sentfortheprotocolwhichwasapprovedbythe
+localethicscommittee.Forallsubjectsphysical
+examinationrevealednoabnormalitieswiththe
+exceptionofobesity,andresultsoflaboratory
+screening,includingliverfunctiontestsandserum
+creatininewerenormal.Subjectsweretakingno
+medicationandwerenotonspecialdietsde-
+signedforweightloss.Eightobeseandfive
+controlsubjectswerecigarettesmokers.
+IBWwasdefinedfromlifeinsurancetablesas
+follows(Anon,1959):
+IBW(men)= 110pounds±5poundsperinch
+aboveorbelow5ftheight
+IBW(women):= 100pounds+ 5poundsper
+inchaboveorbelow5ftheight
+BMIwasdefinedas:BMI=bodyweight(kg)/
+heightinsquaremetres(Baeckeetal.,1982;
+Frisancho&Fiegel,1982).
+PercentIBWwascalculatedastheratioof
+actualortotalbodyweight(TBW)toIBW.
+Procedure
+Allsubjectswereaskedtoabstainfromcaffeine
+consumption48hpriortothestudy.Afterfasting
+overnight,eachsubjectingested325mgcitrated
+caffeine(Lilly)with100mlwater(equivalentto
+162mgcaffeine).Subjectscontinuedtofastfor
+3hafterdrugadministration.Venousblood
+samplesweredrawnfromanindwellingbutterfly
+cannulakeptpatentbyflushingwith0.5mlofa
+10u/mlheparinsolutionduringthefirst10h
+afterthedose,andbyvenepunctureat24h.
+Samplesweredrawnintoheparinizedtubes
+beforethedoseandat5,10,15,30,45min,1h,
+2,3,4,6,8,10and24hafterdrugadministration,
+Plasmawasseparatedandstoredat-20°Cuntil
+assayedforcaffeineconcentration.
+Concentrationsofcaffeineinallplasma
+samplesweredeterminedbyhigh-pressureliquid
+chromatographyusingUV detectionat280nrn
+wavelengthbythemethodofBlanchardetal.
+(1980).Theinternalstandardwasphenacetin.
+TheanalyticalinstrumentwasaWatersmodel
+6000Apumpwithareverse-phaseC-18micro-
+bondapackcolumnandaWatersmodel440UV
+absorbancedetectorfittedwitha280nmwave-
+lengthfilter.Themobilephasewasacetonitrile
+25%(v/v):aqueousbuffer(0.01Macetate-pH
+4.0)75%(v/v)runataflowrateof1.8ml/min.
+Thesensitivityofthismethodforcaffeinewas
+0.05,ug/ml,andvariationbetweenreplicate
+sampleswaslessthan5%.Theretentiontimefor
+caffeinewas10.25minandforphenacetinitwas
+7.5min.Nointerferingpeaksfromendogenous
+plasmaconstituentsorcaffeinemetaboliteswere
+detected.
+Pharmacokineticparametersforcaffeine
+weredeterminedusingpreviouslydescribed
+methods(Abernethyetal.,1984;Gibaldi&
+Perrier,1975;Wagner,1975).Theslopeofthe
+terminalphaseoftheplasmadrugconcentration
+curvewasusedtocalculatetheeliminationhalf-
+life(Figure1).Theareaundertheplasmadrug
+concentrationcurvefromtimezerountilthe
+finalmeasuredplasmaconcentrationwasdeter-
+minedbythetrapezoidalmethod.Tothiswas
+addedtheresidualareaextrapolatedtoinfinity,
+calculatedasthefinalconcentrationdividedby
+therateconstantdescribingtheterminalelimi-
+nationphaseyieldingthetotalareaunderthe
+plasmaconcentrationcurvefromtimezeroto
+infinity(AUC).Clearancewascalculatedasdose
+dividedbyAUC,assumingcompletesystemic
+availabilityofcaffeineafteroraladministration
+(Blanchard& Sawers,1983b).An apparent
+volumeofdistributionwascalculatedasclearance
+dividedbytheeliminationrateconstant.Owing
+tothelimitedextentofcaffeinebindingtoplasma
+proteins(35%),pharmacokineticparameters
+basedonunbounddrugconcentrationswerenot
+calculated.
+Differencesbetweenobeseandnormalbody
+weightsubjectsweredeterminedbytheunpaired
+Caffeinedispositioninobesity63
+Student'st-test.Sincesubjectswere notwell
+matchedforcigarettesmoking,contribution
+ofthisvariablewas evaluatedbyanalysisof
+covariance,andtheidentifiedsubgroupsanalyzed
+byanalysisofvariance.
+Results
+Plasmacaffeineconcentrationswere wellde-
+scribedbyarapidrateofabsorptionfollowedby
+monoexponentialelimination(Figure1).Age
+andsexwere closelymatchedbetweenobese
+andcontrolgroups,howevercigarettesmokers
+wereoverrepresentedintheobesegroup(Table
+1).Thedegreeofobesity,measuredaspercent
+IBW,indicatedthatobesesubjectswerenearly
+twicetheirpredictedIBW(Table1).Acompari-
+son ofpercentIBW toanotherwidelyused
+anthropometricmeasure ofobesity,BMI,
+showedthatthetwomeasureswerehighlycor-
+relatedinthispopulation(r= 0.99).Theelimi-
+nationhalf-lifeofcaffeinetendedtobegreater
+inobesesubjects,althoughthisdifferencedid
+notreachstatisticalsignificance(Table1,Figure
+2).Thiswas theresultofamarkedincreasein
+apparentvolumeofdistributionwithnochange
+inoralclearance(Table1,Figure2).Stratification
+ofgroupsbetweensmokersandnon-smokers,or
+evaluationofnon-smokersonlydidnotchange
+thisfinding.Analysisofcovarianceforthecon-
+tributionofsmokingindicatedthatamong all
+subjects,smokershadhigherclearancethan
+non-smokers(P< 0.02).However,subgroup
+analysis(byanalysisofvariance)indicatedno
+significantdifferencesinclearancebetweenobese
+10
+5.0
+3.0
+2.0
+CDi
+0
+c0
+0
+0
+c._
+S
+o-o 29y.o.female216%
+IBW(123kg)
+*---@26y.o.female100%
+IBW(46kg)
+4 8 12 16
+Timeafterdose(h)
+Figure1 Plasmacaffeineconcentrationsafteroral
+caffeineadministrationtorepresentativeobese(O)
+andnormal(@)bodyweightnon-smokingsubjects.
+andcontrolnon-smokersorobeseandcontrol
+smokers.Analysisofcovarianceindicated
+smokingdidnotcontributesignificantlytoover-
+allvarianceinapparentvolumeofdistribution.
+Correctionofapparentvolumeofdistribution
+Table1 Subjectcharacteristicsandkineticvariablesforcaffeineinobeseand
+controlsubjects(mean±s.e.mean)
+Mean±s.e.
+Obese Control
+Subjectcharacteristics
+Number 16 23
+Age(years) 32±2 28±1
+Weight(kg) 109±8 64±3*
+Percentidealbodyweight 186±14 103±3*
+Bodymassindex(wt/ht2) 39.1+2.8 22.0±0.6*
+Sex(M/F) 5/11 7/16
+Cigarettesmokers 8 5
+Kineticvariables
+Eliminationhalf-life(h) 7.05±1.08 5.40±0.48
+Apparentvolumeofdistribution(1) 69.9±5.9 43.6±2.8*
+Apparentvolumeofdistributionperkg 0.653±0.044 0.689±0.041bodyweight(1/kg)Oralclearance(ml/min) 135±14 112±12
+*P< 0.001byunpairedStudent'st-test
+4
+64 D.R.Abernethy,ElizabethL.Todd&JaniceB.Schwartz
+0(18.7)
+0 10
+0 Io
+10-S I
+ Io1
+8 1
+8 .
+ O C
+ Obes-esCnto
+140
+130
+-120c
+ 110
+2 100
+I' 90
+~0oB80
+E 70
+o 60
+c 50
+a 40
+< 30
+20
+10
+ _ * I
+- O I
+.
+II8 1
+O 1*-0
+8 I
+1o t 9
+Ibs oto
+c
+200
+1-180
+°'160
+X140Lu
+.)120
+i-100
+o 80
+60
+40
+20
+I.
+co I
+I.
+0 I1
+Obes Coto
+,OD I 5
+o I
+ I,0o6 I
+ Iw,
+0
+8
+l
+Obese Control
+Figure2 Eliminationhalf-lifeapparentvolumeofdistributionandoralclearanceofcaffeineinobese
+andcontrolsubjects.*males,0females.
+forbodyweightindicatednodifferencebetween
+obeseandcontrolsubjects(Table1).This
+suggeststhatthedistributionofcaffeineinto
+excessbodyweightoverIBWoccurstothesame
+extentasdistributionintoIBW.PercentIBW,
+usedasameasureofadiposity,washighlycor-
+relatedwithapparentvolumeofdistribution,
+butwasnotrelatedtooralclearance(Figure3).
+Discussion
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+350
+0,300
+m 250 .- _
+O- 200
+ )g 150
+z 100
+ 50
+nn
+- 0
+- *0,3°*
+0
+0
+- 00 r
+-0 0
+ *0 F
+L1 l I1 I
+.
+-0
+OD
+0
+r
+o~~~~ °8 O
+ 00 0
+0 0
+50 100 150 200 250
+% IBW
+Figure3 Relationshipofpercentid'
+(IBW)tocaffeinevolumeofdistribu
+clearance.* males,0 females.
+0 Thesefindingsindicatethatcaffeinedistribution
+inobesesubjectsincreasesinparallelwiththe
+degreeofobesityinthesubject.Alackofchange
+incaffeineclearanceassociatedwithobesity
+confirmspreviousfindingswithantipyrine,dia-
+zepam(Abernethyetal.,1981),andalprazolam
+=0.65 (Abernethyetal.,1984),inwhichhepatically
+<0.001 oxidizedlowclearancedrugsdidnotshowaltered
+clearanceinobesesubjects.Inaddition,if
+, , caffeineisausefulmarkerforcytochromeP-448
+(P1-450)activity(Weitholtzetal.,1981),these
+datasuggestthatobesityisnotassociatedwithin
+vivochangesinthisenzymaticactivity.
+Theincreaseincaffeinedistributioninobese
+subjectsissimilartothatreportedforanother
+0.01 methylxanthine,theophylline(Galetal.,1978;Juskoetal.,1978;Rohrbaughetal.,1982).The
+physiologicalbasisforsuchanincreaseindistri-
+00 butionvolumeinvivomustberelatedtoan
+increaseinthesizeofoneormoreofthephysio-
+, , , logiccompartmentsintowhichcaffeinedistri-
+300350400 butes.Adiposetissuerepresentsthemost
+obviouslyincreasedtissueintheobesepopula-
+ealbodyweighttion.Theoctanol:waterpartitioncoefficientfor
+ltionandtooral caffeineisP = 0.85(Leoetalt,1971).This
+distributionratioissimilartothatfortheophyl-
+14
+13
+12
+11
+ c
+-10
+= n
+c 8c
+._ 7PUc 6
+*E5
+4
+3
+2
+1
+00
+0
+ C-:30
+zu If*
+ .U I
+Caffeinedispositioninobesity65
+line(P= 0.96)(Leoetal.,1971).However,
+increaseddistributionintononadiposetissues
+mustalsobeconsidered,sinceleanbodymass
+andtotalbodywaterarealsoincreasedinobese
+subjects(Forbes&Welle,1983).
+Whencaffeineisusedclinicallyinthetreat-
+mentofbronchospasticdisease,toattainsimilar
+initialplasmaconcentrationsamongpatientswith
+varyingdegreesofobesity,loadingdosesshould
+becalculatedasafunctionoftotalbodyweight
+sincetheloadingdoseisasimplemultipleof
+bodyweight.Sincecaffeineclearanceisnotdif-
+ferentinobeseandnormalbodyweightsubjects,
+maintenancedosesmaybecalculatedindepen-
+dentofweight.
+WearegratefulfortheassistanceofMayaSadhukhan,
+DrJerryR.Mitchell,andthestaffoftheHypertension/
+ClinicalPharmacologyResearchClinic.
+ThisworkwassupportedinpartbyGrantAM 33479
+fromtheUnitedStatesPublicHealthService.
+References
+Abernethy,D. R.& Greenblatt,D.J.(1983a).
+Phenytoindispositioninobesity:Determinationof
+loadingdose.Clin.Res.,31,677A.
+Abernethy,D.R.,Greenblatt,D.J.,Divoll,M.,
+Harmatz,J.S.&Shader,R.I.(1981).Alterations
+indrugdistributionandclearanceduetoobesity.J.
+Pharmac.exp.Ther.,217,681-685.
+Abernethy,D.R.,Greenblatt,D.J.,Divoll,M.&
+Shader,R.I.(1983).Prolongedaccumulationof
+diazepaminobesity.J.clin.Pharmac.,23,360-
+376.
+Abernethy,D.R.,Greenblatt,D.J.,Divoll,M.,
+Smith,R.B.&Shader,R.I.(1984).Theinfluence
+ofobesityonthepharmacokineticsoforalalpra-
+zolamandtriazolam.Clin.Pharmacokin.,9,177-
+183.
+Aldridge,A.& Neims,A.H.(1979).Theeffectsof
+phenobarbitaland1-naphthoflavoneontheelimi-
+nationkineticsandmetabolitepatterninthebeagle
+dog.DrugMetab.Disp.,7,378-382.
+Aldridge,A.,Parsons,W.D.&Neims,A.H.(1977).
+Stimulationofcaffeinemetabolismintheratby3-
+methylcholanthrene.LifeSci.,21,967-974.
+Anon(1959).WeightsofinsuredpersonsintheUnited
+Statesassociatedwithlowestmortality.Stat.Bull.
+MetropolLifeIns.Co.,40,Nov-Dec.
+Aranda,J.V.,Cook,C.E.,Gorman,W.,Collinge,
+J.M.,Loughnan,P.M.,Outerbridge,E.W.,
+Aldridge,A.& Neims,A.H.(1979).Pharmaco-
+kineticprofileofcaffeineintheprematurenew-
+borninfantwithapnea.J.Pediatr.,94,663-668.
+Aranda,J.V.,Gorman,W.,Borgsteinsson,H.&
+Gunn,T.(1977).Efficacyofcaffeineinthetreat-
+mentofapneainthelowbirthweightinfant.J.
+Pediatr.,190,467-471.
+Baecke,J.A.H.,Burema,J.& Deurenberg,P.
+(1982).Bodyfatness,relativeweightandframe
+sizeinyoungadults.Br.J.Nutr.,48,1-6.
+Becker,A.B.,Simons,K.J.,Gillespie,C.A.&
+Simons,F.E.R.(1984).Thebronchodilatoreffects
+andpharmacokineticsofcaffeineinasthma.New
+Engl.J.Med.,310,743-746.
+Blanchard,J.(1982).Proteinbindingofcaffeinein
+youngandelderlymales.J.pharm.Sci.,71,1415-
+1418.
+Blanchard,J.,Mohammadi,J.D.& Conrad,K.A.
+(1980).Improvedliquidchromatographicdeter-
+minationofcaffeineinplasma.Clin.Chem.,26,
+1351-1354.
+Blanchard,J.&Sawers,S.J.A.(1983a).Comparative
+pharmacokineticsofcaffeineinyoungandelderly
+men.J.Pharmacokin.Biopharm.,11,109-126.
+Blanchard,J.&Sawers,S.J.A.(1983b).Theabsolute
+bioavailabilityofcaffeineinman.Eur.J.clin.
+Pharmac.,24,93-98.
+Brazier,J.L.,Ritter,J.,Berland,M.,Khenfer,D.&
+Faucon,G.(1983).Pharmacokineticsofcaffeine
+duringandafterpregnancy.Dev.Pharmac.Ther.,
+6,315-322.
+Broughton,L.J.& Rogers,H.J.(1981).Decreased
+systemicclearanceofcaffeineduetocimetidine.
+Br.J.clin.Pharmac.,12,155-159.
+Desmond,P.V.,Patwardhan,R.,Parker,R.,
+Schenker,S.& Speeg,K.V.(1980).Effectof
+cimetidineandotherantihistaminicsontheelimi-
+nationofaminopyrine,phenacetin,andcaffeine.
+LifeSci.,26,1261-1268.
+Forbes,G.B.&Welle,S.L.(1983).Leanbodymass
+inobesity.Int.J.Obesity,7,99-107.
+Frisancho,A.R.& Fiegel,P.N.(1982).Relative
+meritsofoldandnewindicesofbodymasswith
+referencetoskinfoldthickness.Am.J.clin.Nutr.,
+36,697-699.
+Gal,P.,Jusko,W.J.,Yurchak,A.M.& Franklin,
+B.A.(1978).Theophyllinedispositioninobesity.
+Clin.Pharmac.Ther.,23,438-444.
+Gibaldi,M.& Perrier,D.(1975).Pharmacokinetics.
+NewYork:MarcelDekker,Inc.
+Grant,D.M.,Tang,B.K.&Kalow,W.(1983).Poly-
+morphicN-acetylationofacaffeinemetabolite.
+Clin.Pharmac.Ther.,33,355-359.
+Greden,J.F.(1979).Coffee,tea,andyou.The
+Sciences,19,6-11.
+Jung,D.,Mayershon,M.,Perrier,D.,Calkins,J.&
+Saunders,R.(1982).Thiopentaldispositioninlean
+andobesepatientsundergoingsurgery.Anes-
+thesiology,56,269-274.
+Jusko,W.J.,Gardner,J.M.,Mangione,A.,Schentag,
+J.J.,Koup,J.R.&Vance,J.W.(1978).Factors
+affectingtheophyllineclearances:age,tobacco,
+marijuana,cirrhosis,congestiveheartfailure,
+obesity,oralcontraceptives,benzodiazepines,bar-
+biturates,andethanol.J.pharm.Sci.,68,1358-
+1366.
+Knutti,R.,Rothweiler,H.& Schlatter,Ch.(1981).
+Effectofpregnancyonthepharmacokineticsof
+caffeine.Eur.J.clin.Pharmac.,21,121-126.
+Leo,A.,Hansch,C.& Elkins,D.(1971).Partition
+66 D.R.Abernethy,ElizabethL.Todd&JaniceB.Schwartz
+coefficientsandtheiruses.Chem.Rev.,71,525-
+616.
+Levi,L.(1967).Theeffectofcoffeeonthefunctionof
+thesympathoadrenomedullarysysteminman.
+Actamed.Scand.,181,431-438.
+Mitchell,M.C.,Hoyumpa,A.M.,Schenker,S.,
+Johnson,R.F.,Nichols,S.&Patwardhan,R.V.
+(1983).Inhibitionofcaffeineeliminationbyshort-
+termethanoladministration.J.lab.clin.Med.,
+101,826-834.
+Newton,R.,Broughton,L.J.,Lind,M.J.,Morrison,
+P.J.,Rogers,H.J.& Bradbrook,I.D.(1981).
+Plasmaandsalivarypharmacokineticsofcaffeine
+inman.Eur.J.clin.Pharmac.,21,45-52.
+Ritchie,J.M.(1975).Centralnervoussystemstimu-
+lants,thexanthines.InThepharmacologicbasisof
+therapeutics,5thed.,edsGoodman,L.S.&
+Gilman,A.NewYork:Macmillan.
+Rohrbaugh,T.M.,Danish,M.,Ragni,M.C.&Yaffe,
+S.J.(1982).Theeffectofobesityonapparent
+volumeofdistributionoftheophylline.Ped.
+Pharmac.,2,75-83.
+Wagner,J.G. (1975).Fundamentalsofclinical
+pharmacokinetics.Hamilton,Ill:DrugIntelligence
+Publications.
+Weitholtz,H.,Voegelin,M.,Arnaud,M.J.,Bircher,
+J.& Preisig,R.(1981).Assessmentofthecyto-
+chromeP-448dependentliverenzymesystemby
+acaffeinebreathtest.Eur.J.clin.Pharmac.,21,
+53-59.
+(Received17October,1984,
+acceptedIMarch,1985)

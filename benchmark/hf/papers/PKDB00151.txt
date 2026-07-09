@@ -1,0 +1,405 @@
+Br.J.clin.Pharmac.(1981),12,149-153
+EFFECTSOFMICROSOMAL ENZYME INDUCTIONON
+PARACETAMOL METABOLISM INMAN
+L.F.PRESCOT, J.A.J.H.CRITCHLEY,M.BALALI-MOOD & B.PENTLAND
+UniversityDepartmentsofTherapeuticsandClinicalPharmacologyandMedicalNeurology,TheRoyalInfirmary,
+Edinburgh,EH39YW
+1 Themetabolismofparacetamolafterasingleoraldoseof20mg/kgwascomparedinfifteenpatients
+withmicrosomalenzymeinductiontakinganticonvulsantsorrifampicinandtwelvehealthyvolunteers.
+2 Inductionwasconfirmedbymeasurementoftheplasmaantipyrinehalf-life(mean6.4hinthe
+patientscomparedwith12.8hinthevolunteers).
+3 Theglucuronideconjugationofparacetamolwasenhancedintheinducedpatientsasshownby
+lowerplasmaparacetamolconcentrations,a shorterparacetamolhalf-life,higherparacetamol
+glucuronideconcentrationsandanincreasedratiooftheareaundertheplasmaconcentrationtime
+curvesoftheglucuronidetotheunchangeddrug.Therewerenosignificantdifferencesinsulphate
+conjugation.
+4 Therewasacorrespondingchangeinthepatternofurinarymetaboliteexcretion.Theinduced
+patientsexcretedsignificantlylessunchangeddrugandsulphateconjugateandmoreglucuronide
+conjugatethanthehealthyvolunteers.
+5 Theurinaryexcretionofthemercapturicacidandcysteineconjugatesofparacetamolwasthesame
+inbothgroups.
+6 Conversionofparacetamoltoitspotentiallyhepatotoxicmetabolitedoesnotseemtobeincreased
+inpatientsinducedwithanticonvulsantsorrifampicin.Therewouldseemtobenocontraindicationto
+theuseofthesedrugsincombination.
+Introduction
+Paracetamolisawidelyusedandnormallyverysafe
+analgesic.However,inoverdosageitcancauseacute
+hepaticnecrosisthroughtheformationofahighly
+reactiveintermediatemetabolitebyhepaticcyto-
+chromeP-450dependentmicrosomalenzymes
+(Mitchelletal.,1973;Mitchelletal.,1974).Inmost
+laboratoryanimalspecies,thehepatotoxicityof
+paracetamolisincreasedbypretreatmentwithmic-
+rosomalenzymeinducerssuchasphenobarbitone,
+3-methyl-cholanthreneandethanolanddecreased
+byinhibitorssuchaspiperonylbutoxide(Mitchellet
+al.,1973;Mitchelletal.,1974;Jollowetal.,1974;
+Strubelt,Obermeier&Siegers,1978;Teschke,Stutz
+& Strohmeyer,1979;Streeter& Timbrell,1979).
+Therehavebeenrecentanecdotalreportsofliver
+damagefollowingtheallegedtherapeuticuseof
+paracetamolinchronicalcoholics(Licht,Seeff&
+Zimmerman,1980;Gerberetal.,1980;Goldfinger
+etal.,1978;McClainetal.,1980)andafteroverdos-
+agetheseverityofliverdamageappearstobegreater
+inchronicalcoholicsandpatientswhohaveprevious-
+lybeentakingdrugslikelytocauseinduction(Wright
+& Prescott,1973).
+0306-5251/81/080149-05$01.0()
+Theseobservationssuggestthatmicrosomalen-
+zymeinductionmightincreasetheproductionofthe
+reactivemetaboliteofparacetamolandthusenhance
+itshepatotoxicity.A detailedcomparisonof
+paracetamolmetabolismwasthereforecarriedoutin
+healthyvolunteersandpatientswithmicrosomalen-
+zymeinductiontakinganticonvulsantsorrifampicin.
+Inductioninthepatientswasconfirmedbymeasure-
+mentoftheantipyrinehalf-lifeandtheextentof
+conversionofparacetamoltoitspotentiallytoxic
+metabolitewasassessedbytheurinaryexcretionof
+itscysteineandmercapturicacidconjugates.
+Methods
+Fifteenfastingpatientsonlong-termtherapywith
+inducingdrugsandtwelvehealthyvolunteersre-
+ceived20mg/kgofparacetamolin400mlof'Coca
+Cola'and18mg/kgofantipyrinein200mlorange
+juiceorallyover2minonsuccessivemornings.The
+CocaColaandorangejuicewereusedtodisguisethe
+©)MacmillanPublishersLtd1981
+150 L.F.PRESCOTT,J.A.J.H.CRITCHLEY,M.BALALI-MOOD & B.PENTLAND
+tasteofthedrugs.Allthesubjectswereambulant.
+Fluidsandtobaccowerewithheldfor2handfoodfor
+4hafterdosing.
+Allbutthreeofthepatientsweremaleandtheir
+meanageandbodyweightwere41years(range
+22-72)and71kg(range53-99)respectively.Thir-
+teenpatientswereepilepticsonlong-termtherapy
+withinducinganticonvulsantsgivensinglyorincom-
+bination- twelveweretakingdiphenylhydantoin
+(meandailydose315mg),twophenobarbitone,two
+carbamazepineandoneprimidone.Theothertwo
+patientsweretakingrifampicin600mgdailywith
+isoniazidfortuberculosis.Thesedrugswerecon-
+tinuedasusualduringthestudy.Theplasmabiliru-
+bin,alanineaminotransferase,albuminand
+creatininewerenormalinallthepatients,butfour
+hadmildelevationofthealkalinephosphatase.
+Noneofthehealthyvolunteerstookdrugsorex-
+cessiveamountsofethanolregularly.Elevenwere
+maleandtheirmeanageandbodyweightwere31
+years(range21-45)and67kg(range55-82)re-
+spectively.
+Serialbloodsamplesweretakenfor8and24h
+afteringestionoftheparacetamolandantipyrine
+respectivelyandurinewascollectedat0,4,8,12and
+24haftertheparacetamol.Plasmaandurinewere
+storedfrozen.Paracetamolanditsmetabolitesin
+plasmaandurineandantipyrineinplasmawere
+estimatedbyhighperformanceliquidchromatog-
+raphy(Adriaenssens& Prescott,1978;Prescottet
+al.,1979).Noneoftheinducingdrugsortheir
+metabolitesinterferedwiththeassays.
+Theareaundertheplasmaconcentrationtime
+curves(AUC)wascalculatedbythetrapezoidalrule,
+theplasmahalf-lifefromtheregressionofthelinear
+terminaleliminationphaseandtherenalclearances
+bydividingtheamountofdrugormetabolitesex-
+cretedintheurinebythecorrespondingAUC.The
+apparentvolumeofdistributionofantipyrinewas
+obtainedbydividingtheadministereddosebythe
+extrapolatedplasmaconcentrationatzerotime.
+Theplasmaclearanceofantipyrinewasestimated
+bymultiplyingthevolumeofdistributionby1n2and
+dividingbythehalf-life.Paracetamolclearances
+werenotcalculatedbecauseitssignificantandvari-
+ablefirst-passmetabolismwouldinvalidatecompari-
+sonsbetweenthegroups(Perucca&Richens,1979).
+Student'st-testwasusedforstatisticalcomparisons
+ofmeandata.Allresultsaregivenasmeans±s.d.
+andconcentrationsofparacetamolmetabolitesare
+expressedasparacetamolequivalents.
+Results
+Antipyrinehalf-life
+Inductionofmicrosomalenzymesinthepatientswas
+confirmedbythemeanantipyrineplasmahalf-lifeof
+6.4±2.1hcomparedwith12.8±3.9hinthehealthy
+volunteers(P<0.001).Therewasasimilarhighly
+significantdifferenceinthemeanplasmaantipyrine
+clearances(96±54ml/minintheinducedpatients
+and41±10ml/mininthevolunteers).Themean
+apparentvolumesofdistributioninthetwogroups
+werealmostidentical(0.66and0.651/kgrespec-
+tively).
+Paracetamolandmetabolitesinplasma
+Themeanplasmaconcentrationsofparacetamoland
+itssulphateandglucuronideconjugatesinthein-
+ducedpatientsandhealthyvolunteersareshownin
+Figure1.Paracetamolmetabolismwasenhancedin
+thepatients.Themeanplasmaparacetamolconcent-
+ratiodswerelowerthaninthevolunteersatalltime
+points,theAUCO-8hwassignificantlylessandthe
+plasmahalf-lifewas.significantlyshorterat1.9h
+comparedwith2.4h (Table1).Thesedifferences
+wereduetoincreasedglucuronideconjugationof
+paracetamolinthepatientssincetheAUCo.ghforthe
+sulphateconjugatewassimilarinbothgroupswhile
+theinitialglucuronideconcentrationsandAUCo48h
+werehigherinthepatients.TheratiooftheAUCsof
+Table1 Plasmaparacetamolhalf-lifeandareasundertheplasmaconcentration-timecurves(AUC)from0-8h
+forparacetamolanditsglucuronideandsulphateconjugatesininducedpatientsandhealthyvolunteers
+Plasma
+paracetamol
+half-life(h)
+Healthyvolunteers
+(n=12)
+Inducedpatients
+(n=15)
+*P=<0.001.
+2.4±0.3
+1.9± 0.2*
+AUC
+paracetamol
+(;L.gml'h)
+65±9
+40± 9*
+AUC
+paracetamol
+glucuronide
+(i.ggmU'h)
+69±24
+88±28
+RatioofAUC
+glucuronidel
+paracetamol
+1.1±0.5
+2.3± 0.7*
+AUC
+paracetamol
+sulphate
+(I.gmm'h)
+28±7
+25±8
+ENZYME INDUCTIONAND PARACETAMOL METABOLISM 151
+20 a paracetamolglucuronidetotheparentdruginthe
+patientswasmorethandoublethatinthevolunteers
+(Table1).
+Therewasnostatisticallysignificantcorrelation
+E betweentheplasmahalf-livesofantipyrineand
+t 15 paracetamol.
+C
+° Io -0. Urinaryexcretionofparacetamolandmetabolites
+C@10-I / \ "In thehealthyvolunteersabout5% ofthetotal
+amountrecoveredin24hwasexcretedunchanged,0oU with57%asglucuronide,30%assulphate,4.5%as
+E E /\mercapturicacidand3.7%ascysteineconjugates.
+E 5 * .\.* However,in thepatients,significantlyless
+X paracetamolwasrecoveredunchangedandassul-
+phatewhilesignificantlymore was excretedas
+/ --.^ glucuronide.Theexcretionofthemercapturicacid
+ b IX andcysteineconjugateswasnogreaterintheinduced20b patientsthaninthevolunteers(Table2).Therewas
+noevidenceofinitialmorerapidproductionofmer-
+1.0 capturicacidandcysteineconjugatesinthepatients.
+d \ ~~~~~~~~Thepatternofurinaryexcretionofparacetamoland
+E E / metabolitesfrom0-4hand0-24hwassimilarandif
+m 15 A X anythingthefractionexcretedasmercapturicacid
+andcysteineconjugatesfrom0-4hwaslessinthe
+0 patients(3.6and2.5%)thaninthecontrols(3.8and
+2.8%).
+C 1 /E Thetotalurinaryrecoveryofdrugwasslightlybutnotsignificantlylowerinthepatientsthaninthe
+ | volunteers(Table2)whilethemean24hurinevol-
+CU 1° \ 'umeswere virtuallyidentical(1783and1798ml
+E I AA,K Xa respectively).
+XU ,, ^ o Themean renalclearancesofparacetamolandits
+glucuronideandsulphateconjugateswere11.9,131
+ . L:and166ml/minrespectivelyinthehealthyvolun-
+teers.Theclearancesofallthreecompoundswere
+0 2 4 6 8 somewhatlowerintheinducedpatientsbutthedif-
+ferenceswerenotstatisticallysignificant(Table3).
+Time(h)
+Flgre1 Meanplasmaconcentrationsofparacetamol
+(-)anditsglucuronide(0)andsulphate(A)conjugates Dicuson
+ina)twelvehealthyvolunteersandb)fifteeninduced
+patientsaftera singleoraldoseof20mg/kgof Inductionofdrugmetabolisingenzymeswascon-
+paracetamol. firmedinthepatientstakinganticonvulsantsand
+Tabl2 Urinaryexcretionofparacetamolanditsglucuronide,sulphate,mercapturicacidandcysteineconjugatesin
+healthyvolunteersandinducedpatients
+% ofdose
+Percentageexcretedin24has: recovered
+ParacetamolGlucuronideSulphate Mercapturicacid Cysteinein24h
+Healthyvolunteers4.8±1.6 57±11 30±10 4.5±1.2 3.7±1.1 92±10
+(n=12)
+Inducedpatients2.4±0.9***68±6** 22±4* 4.2±2.1 3.7±1.3 83±19
+(n=15)
+*P=<0.05,**P=<0.01,***P=<0.001.
+152 L.F.PRESCOTT,J.A.J.H.CRITCHLEY,M.BALALI-MOOD& B.PENTLAND
+Table3 Renalclearances(0-8h)ofparacetamolanditsglucuronideand
+sulphateconjugatesinhealthyvolunteersandinducedpatients
+Renalclearance(ml/min)
+ParacetamolGlucuronideSulphate
+11.9±4.9 131±22
+9.0±5.5 116±30
+rifampicinbythegreatlyshortenedantipyrinehalf-
+lifeandincreasedclearancewithoutany changein
+theapparentvolumeofdistribution.Theglucuronide
+conjugationofparacetamolwas alsoenhancedinthe
+patientsascomparedtothehealthyvolunteers.The
+plasmaconcentrationsofparacetamolwere lower
+andthehalf-lifewas shorterwhileplasmaconcentra-
+tionsoftheglucuronideconjugateandtheratioofthe
+AUC oftheglucuronidetotheunchangeddrugwere
+increased.Therewere correspondingchangesinthe
+urinaryexcretionofparacetamolanditsmetabolites.
+Thepatientsexcretedlessunchangeddrugandsul-
+phateconjugatebutmore glucuronideconjugate
+thanthevolunteers.Althoughtherenalclearancesof
+paracetamolanditsconjugateswere slightlylowerin
+thepatients,thisalonecouldnotaccountforthe
+observeddifferencesin the dispositionof
+paracetamol.Unlikeglucuronyltransferase,sulpho-
+transferaseisnotaninduciblemicrosomalenzyme,
+andasexpectedsulphateconjugationwas notin-
+creasedintheinducedpatients.
+Littleisknownoftheeffectsofmicrosomalen-
+zyme inductionon paracetamolmetabolisminman
+andpreviousstudieshavegivenconflictingresults.
+Perucca& Richens(1979)demonstratedreduced
+oralbioavailabilityofparacetamolwhichtheyattri-
+butedto increasedfirst-passmetabolisminsix
+epilepticscomparedwithsixnormalsubjects.The
+mean totalbodyclearanceandeliminationratewere
+higherintheformergroupbutthedifferenceswere
+notsignificant.Nodatawasprovidedontheindividu-
+almetabolitesofparacetamolandthemercapturic
+acidandcysteineconjugateswere notmeasured.On
+theotherhand,Mitchelletal.(1974)foundthat
+pretreatmentwith3mg/kgofphenobarbitonefor5
+dayshad no effecton theplasmahalf-lifeof
+paracetamolinseven healthyvolunteersalthough
+formationofthemercapturicacidconjugatewas
+increased.
+An importantbutunexpectedfindinginthepres-
+entstudywas thattheurinaryexcretionofthemer-
+capturicacidandcysteineconjugatesofparacetamol
+was notincreasedintheinducedpatients.However,
+inviewoftheenhancedglucuronideconjugationin
+thesepatients,significantreductionintherecoveryof
+166±29
+138±46
+themercapturicacidandcysteineconjugateswould
+havebeenexpectedasoccurredwiththeunchanged
+drugandthesulphateconjugate.Someinductionof
+theoxidativemetabolismofparacetamolcannot
+thereforebeexcludedbutwouldseem tobeofno
+clinicalsignificanceatrecommendedtherapuetic
+doses.Itcannotbeassumedthatthiswouldnecessar-
+ilybethecaseafteroverdosagesinceparacetamol
+metabolismisdose-dependent(Prescott,1980).
+Themercapturicacidandcysteineconjugatesre-
+flecttheconversionofparacetamoltothepotentially
+hepatotoxicmetabolite.Inanimalsthefractionofa
+doseconvertedtothemercapturicacidconjugateis
+highestinspeciesmostsusceptibletothehepatotox-
+icityofparacetamolandlowestinthosemostresis-
+tant.Similarly,inducingagentswhichpotentiate
+paracetamollivertoxicityalsoincreasemercapturic
+acidconjugateproductionwhileitsformationisde-
+creasedbytreatmentswhichprotect(JollowetaL,
+1974;Sato,Matsuda&Lieber,1979).Thesituation
+isfarfromsimplehowever,andextrapolationsmust
+bemadewithgreatcaution.Thusphenobarbitone
+actuallyprotectsagainstparacetamolliverinjuryand
+inhibitsmercapturicacidformationinhamsters(Jol-
+lowetaL,1974)andpotentiationofhepatotoxicity
+byestablishedinducersisnotnecessarilyrelatedto
+increasedhepaticcytochromeP-450(Streeter&
+Timbrell,1979;Peterson,Holloway,McClain&
+Holtzman,1979).Similarly,acuteadministrationof
+ethanolpreventsparacetamolhepatotoxicityinrats
+(Sato& Lieber,1980).Otherunknownfactorsmust
+beresponsible.Somediscrepanciescouldbeex-
+plainedbytheselectiveactivationofone ormore of
+themultipleformsofcytochromeP-450which,de-
+pendingontheparticularinducerandspecies,may or
+may notberesponsiblefortheoxidativemetabolism
+ofparacetamol.Whatevertheexplanation,patients
+withenzyme inductionduetotreatmentwithanti-
+convulsantsandrifampicindonotseem tobeat
+greaterriskofparacetamolhepatotoxicitybecauseof
+increasedproductionofthetoxicmetabolite.
+We aregratefultoMrsLindseyBrownforexperttechnical
+assistance.
+Healthyvolunteers
+(n=12)
+Inducedpatients
+(n=15)
+ENZYME INDUCTIONAND PARACETAMOL METABOLISM 153
+References
+ADRIAENSSENS,P.I.&PRESCOTT,L.F.(1978).Highper-
+formanceliquidchromatographicestimationof
+paracetamolmetabolitesinplasma.Br.J.clin.Phar-
+mac.,6,87-88.
+GERBER,M.A.,KAUFMANN, H.,KLION,F.&ALPERT,L.I.
+(1980).Acetaminophenassociatedhepaticinjury.Re-
+portoftwocasesshowingunusualportaltractreactions.
+HumanPath.,11,37-42.
+GOLDFINGER,R.,AHMED, K.S.,PITCHUMONI,C.S.&
+WESELEY,S.A.(1978).Concomitantalcoholanddrug
+abuseenhancingacetominophentoxicity.Am.J.Gas-
+troent.,70,385-388.
+JOLLOW, D.J.,THORGEIRSSON,S.S.,POTTER, W.Z.,
+HASHIMOTO, M. & MITCHELL,J.R. (1974).
+Acetaminophen-inducedhepaticnecrosis.VI.
+Metabolicdispositionoftoxicandnontoxicdosesof
+acetaminophen.Pharmacology,12,251-271.
+LICHT,H.,SEEFF,L.B.&ZIMMERMAN,H.J.(1980).Ap-
+parentpotentiationofacetaminophenhepatotoxicityby
+alcohol.Ann.intern.Med.,92,511.
+McCLAIN,C.J.,KROMHOUT, J.P.,PETERSON,F.J.&
+HOLTZMAN,J.L.(1980).Potentiationofacetami-
+nophenhepatotoxicitybyalcohol.J.Am.med.Ass.,
+244,251-253.
+MITCHELL,J.R.,JOLLOW,D.J.,POTTER,W.Z.,DAVIS,D.C.,
+GILLETTE,J.R.& BRODIE,B.B.(1973).Ace-
+taminophen-inducedhepaticnecrosis.I.Roleofdrug
+metabolism.J.Pharmac.exp.Ther.,187,185-194.
+MITCHELL,J.R.,THORGEIRSSON,S.S.,PO1TTER,W.Z.,
+JOLLOW,D.J.& KEISER,H.(1974).Acetaminophen-
+inducedhepaticinjury:Protectiveroleofglutathionein
+manandrationalefortherapy.Clin.Pharmac.Ther.,16,
+676-684.
+PERUCCA,E.&RICHENS,A.(1979).Paracetamoldisposi-
+tioninnormalsubjectsandinpatientstreatedwith
+antiepilepticdrugs.Br.J.clin.Pharmac.,7,201-206.
+PETERSON,F.J.,HOLLOWAY, D.E.,McCLAIN,C.J.&
+HOLTZMAN,J.L.(1979).Biochemicalstudiesonthe
+interactionofethanolandacetaminopheninmalemice.
+Pharmacologist,21,220(Abstract).
+PRESCOTT,L.F.(1980).Kineticsandmetabolismof
+paracetamolandphenacetin.InMildAnalgesics-A
+Re-evaluation,eds.Nicholson,P.,Prescott,L.F.&
+Coulston,F.Br.J.clin.Pharmac.,10,2915-2985.
+PRESCOTr,L.F.,KING,I.S.,BROWN, L.,BALALI,M.&
+ADRIAENSSENS,P.I.(1979).HPLC inclinicalphar-
+macologicalstudiesofanalgesicdrugs.Proc.Analyt.
+Div.Chem.Soc.,16,300-302.
+SATO,C. & LIEBER,C.S.(1980).Preventionof
+acetominophen-inducedhepatotoxicitybyethanolin
+therat.Pharmacologist,22,227(Abstract).
+SATO,C.,MATSUDA,Y.&LIEBER,C.S.(1979).Increased
+hepatotoxicityofacetaminophenafterchronicethanol
+consumption.Fed.Proc.,38,916(Abstract).
+STREETER,A.J.& TIMBRELL,J.A.(1979).Theeffectof
+dichloralphenazonepretreatmenton paracetamol
+hepatotoxicityin mice.Biochem.Pharmac.,28,
+3035-3037.
+STRUBELT,O.,OBERMEIER,F.& SIEGERS,C.P.(1978).
+Theinfluenceofethanolpretreatmentontheeffectsof
+ninehepatotoxicagents.ActaPharmac.Tox.,43,
+211-218.
+TESCHKE,R.,STUTZ,G.&STROHMEYER,G.(1979).In-
+creasedparacetamol-inducedhepatotoxicityafter
+chronicalcoholconsumption.Biochem.Biophys.Res.
+Comm.,91,368-374.
+WRIGHT,N.& PRESCOTT,L.F.(1973).Potentiationby
+previousdrugtherapyofhepatotoxicityfollowing
+paracetamoloverdosage.Scot.med.J.,18,56-58.
+(ReceivedSeptember10,1980)

@@ -1,0 +1,544 @@
+Br.J.clin.Pharmac.(1986),22,177-182
+Comparativepharmacokineticsofcaffeineanditsprimary
+demethylatedmetabolitesparaxanthine,theobromineand
+theophyllineinman
+A.LELO,D.J.BIRKETT,R.A.ROBSON&J.0.MINERS
+DepartmentofClinicalPharmacology,FlindersMedicalCentre,BedfordPark,Adelaide,SouthAustralia
+1 Thepharmacokineticsofcaffeine(CA),paraxanthine(PX),theobromine(TB)and
+theophylline(TP)werestudiedinsixhealthymalevolunteersafteroraladministrationof
+eachcompoundonseparateoccasions.
+2 ThetotalplasmaclearancesofCAandPXweresimilarinvalue(2.07and2.20mlmin-
+kg-',respectively)aswerethoseforTPandTB(0.93and1.20mlmin-'kg-',respectively).
+TheunboundplasmaclearancesofCAandPXwerealsosimilarinmagnitude(3.11and
+4.14mlmin-'kg-',respectively)aswerethoseofTPandTB(1.61and1.39mlmin-tkg-',
+respectively).
+3 Thehalf-livesofTPandTB(6.2and7.2h,respectively)weresignificantlylongerthan
+thoseofCA andPX(4.1and3.1h,respectively).
+4 ThevolumeofdistributionatsteadystateofTP(0.441kg-')waslowerthanthatofthe
+othermethylxanthines(0.63-0.721kg-1).TheunboundvolumeofdistributionofTP(0.77
+1kg-)washoweverthesameasthatofTB(0.791kg-')whereastheunboundvolumeof
+distributionofPX(1.181kg-1)wassimilartothatofCA(1.061kg-').
+Keywordsmethylxanthinescaffeineparaxanthinetheobrominetheophylline
+drugmetabolism
+Introduction
+Thestructurally-relatednaturallyoccurringalka-
+loidscaffeine(1,3,7-trimethylxanthine;CA),
+theobromine(3,7-dimethylxanthine;TB)and
+theophylline(1,3-dimethylxaAthine:TP)(Figure
+1)areamongthemostwidelyandfrequently
+consumedcompoundsthroughouttheworld.It
+hasbeenestimated(Barone& Roberts,1984)
+thatthemeandailyintakeofCA intheUSA
+frombeveragessuchascoffee,teaandcolais3
+mgkg-'foralladultsinthegeneralpopulation.
+Inaddition,ithasbeenestimatedthatabout
+1,000prescriptiondrugproductsandabout
+2,000non-prescriptiondrugproductscontain
+CA (Barone& Roberts,1984).TBisamajor
+constituentofcocoaandaminorconstituentof
+teaandcoffee;ithasalsobeenincludedin
+certainpharmaceuticalpreparations.TPhasfound
+widespreadclinicaluseasabronchodilatorand
+alsooccursasaminorconstituentoftea.Along
+withtheisomericdimethylxanthineparaxanthine
+(1,7-dimethylxanthine;PX)(Figure1),which
+doesnotoccurnaturally,TPandTBareprimary
+metabolicproductsofCA.Arnaud& Welsch
+(1980)haverecentlydemonstratedthatPXis
+quantitativelythemostimportantdemethylation
+productofCA inhumans,withPXformation
+accountingforapproximately70%ofCAmeta-
+bolism.Indeed,inarecentstudy(Leloetal.,
+Correspondence:DrJ.0.Miners,DepartmentofClinicalPharmacology,FlindersMedicalCentre,Bedford
+Park,SouthAustralia5042
+177
+178 A.Leloetal.
+CH3H
+ OHCH -Ni6
+A3 94N N
+CH3
+CaffTeine
+o HN
+N." N
+CH3
+Theophylline
+CH0 1 3NHN
+N N
+CH3
+Theobromine
+CH0 1 3NCH3-N
+<N N
+H
+Paraxanthine
+Figure1 Structuresofcaffeineanditsdimethylxanthinemetabolites.
+1986)innormalteaandcoffeedrinkersinvesti-
+gatingtherelationshipofdailyCA intaketo
+plasmaconcentrationsofCA anditsdimethyl-
+xanthinemetabolites,weshowedthattheaverage
+24hplasmaconcentrationofPXwas2mg[-1,
+whereasthoseofTPandTBwere0.2mg[-and
+0.7mg1-1respectively.Thus,theindirectexpo-
+sureofnormalCA-consumerstoPXmaybe
+considerable.
+ConsistentwiththeclinicalimportanceofTP
+andthewidespreaduseofCA,theliterature
+relatingtothepharmacokineticsoftheseagents
+isextensive(forreviewssee:Bonati&Garattini,
+1984;Ogilvie,1978).However,thereisnoin-
+formationrelatingtothepharmacokineticsofPX
+inmanalthoughsomestudiesofTBpharmaco-
+kineticsandmetabolisminhumanshavebeen
+reported(Birkettetal.,1985;Drouillardetal.,
+1978;Minersetal.,1982,1985;Shivelyetal.,
+1985;Simonsetal.,1984;Tarkaetal.,1983).
+Therehasnotbeenanydirectcomparisonofthe
+pharmacokineticsofallmembersofthemethyl-
+xanthinegroupinhumans.Theaimofthepre-
+entstudywastodefineCA,TB,TPandPX
+pharmacokineticparametersinthesameindi-
+viduals,therebyprovidingthefirstkineticdata
+forPXinmanandenablingadirectcomparison
+ofthekineticsoftheseagentstobemade.
+Methods
+Subjects
+Subjectsweresixnon-smokingmalevolunteers,
+aged19-21years,weight62-104kg.Nosubject
+wasreceivinganymedicationsatthetimeofthe
+study,althoughallweremodestsocialdrinkers
+ofalcohol.Thesubjectswerehealthyasdeter-
+minedbymedicalhistory,physicalexamination
+andbiochemicalandhaematologicalmeasure-
+ments.Writteninformedconsentwasobtained
+fromeachsubjectandthestudieswereapproved
+bytheClinicalInvestigationandDrugand
+TherapeuticsAdvisoryCommitteesofFlinders
+MedicalCentre.
+Preparations
+CAandTB(bothB.P.)weresuppliedbyHamilton
+Laboratories(Adelaide,S.A.)andadministered
+ingelatincapsules.TPwasadministeredinthe
+formofNuelintablets(125mg,Riker).PXwas
+purchasedfromtheSigmaChemicalCo.(St
+Louis,MO,USA)andadministeredingelatin
+capsules.ThePXusedwasshowntobe> 99.8%
+purebyelementalanalysisandchromatography.
+PermissionwasobtainedfromtheAustralian
+Pharmacokineticsofcaffeineanditsdemethylatedmetabolites
+DepartmentofHealthfortheuseofPXinthis
+studysinceitisnotanapprovedsubstancefor
+useinhumans.
+Protocol
+EquimolaroraldosesofTP,TB,PX(250mgof
+each)andCA(270mg)wereseparatelyadmini-
+steredtoeachsubject.Subjectsfastedfromthe
+eveningpriortoanduntil4hfollowingmethyl-
+xanthineadministrationoneachstudyday.The
+methylxanthinedosewasadministeredwith
+150mlwateratapproximately08.00hofthe
+studyday.Thesubjectsabstainedfromallmethyl-
+xanthine-containingfoodsandbeveragesfor
+4dayspriortoandduringthebloodcollection
+periodfollowingeachmethylxanthineadmini-
+stration.Theorderofthemethylxanthinedoses
+wasrandomisedandatleast1weekseparated
+eachadministration.
+Oneachstudydayvenousbloodsamples(5ml
+intoanheparinisedtube)werecollectedthrough
+anindwellingcannulainsertedinaforearmvein
+priortoandat0.25,0.5,0.75,1,1.5,2,3,4,6,8
+and10hafterthemethylxanthinedose.The
+cannulawaskeptpatentwith0.9%w/vsodium
+chloridesolutioncontainingheparin5uml-'.Additionalsampleswerecollectedat24,28and
+32hpost-dosebyvenepuncture.Plasmawas
+separatedbycentrifugation(3,000gfor5min)
+andstoredat-20°Cuntilanalysed.
+Analyticalprocedures
+PlasmaconcentrationsofCA,TB,TPandPX
+weremeasuredbyahighperformanceliquid
+chromatographicmethod(Leloetal.,1986).
+Thismethodallowstheseparationofeachmethyl-
+xanthineinthepresenceoftheothersandhasa
+limitofsensitivityof0.1mg1-1foreachcom-
+pound.TheplasmaproteinbindingofCA,TB,
+TPandPXwasdeterminedintheblank(pre-
+dose)plasmasamplefromeachsubjectand
+wasmeasuredbyequilibriumdialysisusinga
+spectrapor-2cellulosemembrane(Spectrum
+MedicalIndustries).Plasma(1ml)wasintro-
+ducedintoonesideofthecell(Dianorm)and
+dialysedat37°Cfor3hagainstanequalvolume
+ofisotonicphosphatebuffer(pH7.4)containing
+eitherCA,TB,TPorPX.Thebindingofeach
+methylxanthinewasdeterminedforaddedcon-
+centrationsof2,4,6and8mgl-l.
+Analysisofresults
+Thefollowingparameterswereestimatedfor
+eachmethylxanthinefromtheplasmaconcentra-
+tiondata.Areaundertheplasmaconcentration-
+timecurve(AUC)wasmeasuredbythetrape-
+zoidalrulewithextrapolationtoinfinitetime.
+Eliminationhalf-life(t½Z)wascalculatedfrom
+theslopeoftheterminralportionofthecon-
+centration-timecurvebylinearleastsquares
+regressionandvolumeofdistributionatsteady
+state(V,,)bythemodel-independentprocedure
+ofBenet&Galeazzi(1979).Totalplasmaclear-
+ancewasdeterminedas:
+CL= Dose/(AUCxB.W.)
+whereB.W.isthebodyweightinkg.Unbound
+clearancewascalculatedas:
+CLu= CL/fu
+wherefuisthefractionofunbounddrugin
+plasma.
+Allresultsareexpressedasmean+ s.d.The
+meanvaluesofeachpharmacokineticparameter
+forthemethylxanthineswerecomparedby
+analysisofvariance.Individualcomparisonswere
+performedusingtheNeuman-KeulsStudentised
+rangetest.Correlationsbetweenunboundclear-
+ancesweredeterminedbylinearregression.The
+factorsrequiredfortheconversionofplasma
+concentrationsofthedimethylxanthines(TP,
+TB,PX)andCAfrommg1[1toS.I.units(,umol
+1-1)are5.55and5.15,respectively.
+Results
+Meanpharmacokineticparametersforeachof
+themethylxanthinesaresummarisedinFigure2.
+Representativeplasmaconcentration-timepro-
+filesareshowninFigure3.
+ThetotalplasmaclearancesofCA andPX
+weresimilarinmagnitude(2.07+0.96and2.20
++ 0.91mlmin-'kg-l,respectively)aswere
+thoseforTPandTB(0.93+ 0.22and1.20±
+0.40mlmin-'kg-',respectively).Althoughthe
+totalplasmaclearancesofCA andPX were
+significantlygreater(P<0.025)thanthatofTP,
+thedifferencesbetweenthetotalclearanceof
+TBandthoseofCAandPXwerenotstatistically
+significant.Therewasconsiderableinterindivi-
+dualvariabilityinthetotalclearancesofCA(3.2
+fold),PX(2.7fold)andTB(2.6fold)butTP
+clearancewaslessvariable(1.6foldrange).The
+half-livesofCA andPXweresimilarinvalue
+(4.1+ 1.3and3.1+ 0.8h,respectively)and
+significantlyshorter(P<0.01)thanthoseofTP
+andTB(6.2+ 1.4and7.2+ 1.6h,respectively).
+ThemeanfreefractionsofCA,PX,TPandTB
+were0.68+0.04,0.54+0.04,0.58+ 0.06and
+0.86± 0.03,respectively.Proteinbindingof
+eachofthemethylxanthineswasconcentration
+independentovertherangestudied.Aswith
+179
+I C.)
+0
+I-to
+0 E _ _
+cLE_i_
+5
+4
+3
+2
+1
+0
+6i
+CD 5C
+m
+ Cu-
+°-T 4 10) u
+1 0 E 2
+0
+.0
+c 1
+0
+1.6
+0)
+ __~~~~~~~~~~~~1
+C
+0
+.0 _~~~~~~~~~~~~~~~~~(A
+la
+0.
+ _ .~~~~0
+0
+| 11I b~~
+0.0
+4- -
+0 -
+0 cm
+E--w
+M =-
+'5r-> 0-0,'rC nD .00 ,r-
+.0V;C 1.D
+1.21-
+0.8F
+0.4F
+0.0L.
+Figure2 Mean±s.d.pharmacokineticparametersofcaffeine(B),paraxanthine(EI),theobromine(0)and
+theophylline(H)insixhealthyvolunteersreceivingeachcompound(250-270mgp.o.)onfourseparateoccasions.
+totalclearance,theunboundplasmaclearances
+ofCAandPXweresimilar(3.11±1.50and4.14
+± 1.85mlmin-'kg-1,respectively)aswere
+thoseofTPandTB(1.61±0.41and1.39_0.44
+mlmin-'kg-1,respectively).Therewasalsoa
+similartrendinthedegreeofvariabilityinun-
+boundclearancewiththatpreviouslyobserved
+fortotalclearance,thevariabilityinTPtotal
+ 18 16 24 32
+-If
+:1 K-7
+d 0.0 a
+- I
+0 8 16 24 32
+Time(h)
+Figure3 Plasmaconcentration-timecurvesofcaffeine(0),paraxanthine(0),theobromine(0)and
+theophylline(O),(a)afteroraladministrationofeachcompound(250-270mg)onseparateoccasionstoasingle
+subject,and(b)afteroraladministrationofcaffeine(270mg)tothesame subject.
+180 A.Leloetal.
+8k
+61-
+-c
+.C
+0
+._._
+UJ
+41
+ii2
+oI
+100r
+1-0
+C
+0; 600
+c 40
+0.0C
+=) 201
+I-
+L
+_
+a
+E
+C0-W
+C
+C
+C._
+Co0
+EC,Cu
+0*1L'L
+0
+'o0r 6r
+1'6rt
+QnL_
+--I
+oI
+1
+
+Pharmacokineticsofcaffeineanditsdemethylatedmetabolites
+clearance(1.7foldrange)beinglessthanthatfor
+TB(2.5fold),PX(2.6fold)andCA(3.6fold).
+ThedifferencesinTPandTBproteinbinding
+reversedtheorderofTP andTB unbound
+clearancecomparedtothatobservedfortotal
+clearance.Whiletheunboundplasmaclearance
+ofPXwassignificantlygreater(P<0.025)than
+thoseofTPandTB,thedifferencesbetweenthe
+unboundclearancesofCAandeachoftheother
+methylxanthineswerenotsignificant.The
+volumeofdistributionatsteadystateforTP
+(0.44± 0.081kg-)waslower(P< 0.05)than
+thoseoftheothermethylxanthines(0.63-0.711
+kg-).TheunboundvolumeofdistributionofTP
+(0.77±0.171kg-)washoweversimilartothat
+ofTB(0.79±0.151kg-'),whereastheunbound
+volumeofdistributionofPX(1.18+0.371kg-')wassimilartothatofCA(1.06±0.261kg-)and
+itwassignificantlygreater(P<0.05)thanthose
+ofTPandTB.
+TheunboundplasmaclearanceofCA was
+significantlycorrelated(P<0.05)withthoseof
+TP(r=0.91),TB(r=0.87)andPX(r=0.90).
+Inaddition,therewasasignificant(P< 0.05)
+correlationbetweentheunboundplasmaclear-
+ancesofTPandTB(r=0.91)butthesewerenot
+significantlycorrelatedwiththeunboundclear-
+anceofPX(r= 0.75and0.71respectively).
+Discussion
+ThisisthefirstformalstudyofPXpharmaco-
+kineticsinmanandthefirstdirectcomparisonof
+thepharmacokineticsofCA,PX,TPandTB.
+Interestingly,PX totalplasmaclearanceand
+unboundplasmaclearanceweretwotothree-
+foldgreaterthanthevaluesfortheisomeric
+dimethylxanthinesTPandTB.PX totaland
+unboundplasmaclearanceswere,however,
+similartothoseofthetrimethylxanthineCA.PX
+andCAplasmahalf-liveswerecorrespondingly
+shorterthanthoseforTPandTB.A similar
+trendwasobservedinarecentstudyofPX
+pharmacokineticsintherat(Bortolottietal.,
+1985).Forequivalentintravenousdosesofthe
+methylxanthinesadministeredtorats,theplasma
+clearancesandhalf-livesofPX andCA were
+similarwhereastheplasmaclearancesofTPand
+TBwereapproximatelyhalfthatforPXandthe
+half-livesofTP andTB wereapproximately
+doublethatofPX.Thepharmacokineticpara-
+metersofCA,TPandTBdeterminedinthis
+studyaresimilartothosegenerallyreportedin
+theliterature(Birkettetal.,1982,1985;Blanchard
+& Sawers,1983a;Bonatietal.,1982;Minerset
+al.1982,1985;Ogilvie,1978;Renneretal.,
+1984;Tarkaetal.,1983).
+FollowingCA administrationtheorderof
+dimethylxanthineplasmaconcentrationswas
+PX>TB>TP(Figure3b).Thisisconsistent
+withpreviousstudies(Leloetal.,1986;Tang-
+Liuetal.,1983)whichhavemeasuredplasma
+concentrationsofCA-deriveddimethylxanthines.
+Tang-Liuetal.(1983)havereportedthatthelog
+plasmaconcentration-timeplotsforeachofthe
+dimethylxanthinesformedfromCA arenon-
+linearandtherewasasuggestionofthesame
+effectinthepresentstudy.Thenon-linearmeta-
+boliteconcentration-timeplotspresumablyarise
+fromsimultaneousformation(fromCA)and
+eliminationofeachdimethylxanthineandareto
+beexpectedwhentheeliminationrateconstants
+forthemetaboliteandparentdrugaresimilarin
+magnitude(Houston,1982).
+InthisreportithasbeenassumedthatPX
+absorptionfromthegastrointestinaltractis
+complete.Previousstudies(Blanchard&Sawers,
+1983b;Minersetal.,1982;Ogilvie,1978)have
+demonstratedthatCA,TBandTPareessentially
+completelyabsorbedandPXwouldnotbeex-
+pectedtobedifferentinthisrespect.InaPX
+metabolismstudyinhumansArnaud&Welsch
+(1980)demonstratedthatapproximately60%of
+orallyadministeredPXmayberecoveredinthe
+urineasunchangeddrugandknownxanthine
+anduratemetabolites.Callahanetal.(1982,
+1983)havefurthershownthattheformation
+ofpolarring-openeduracilmetabolitesofPX
+accountsforupto40%ofPXmetabolismin
+man.Availablemetabolicdatathereforesuggests
+thatPX,liketheothermethylxanthines,iscom-
+pletelyabsorbedafteroraldoses.
+Inthepresentstudytherewerepositivecorre-
+lationsbetweentheunboundclearancesforall
+themethylxanthinesbutthoseforPX/TPand
+PXFJBdidnotquitereachstatisticalsignificance.
+Thisisconsistentwithourprevioussuggestion
+thatacommongroupofcytochromeP450iso-
+zymesundersimilarregulatorycontrolisinvolved
+inthemetabolismofthemethylxanthines(Birkett
+etal.,1985).Atleasttwoformsofcytochrome
+P450appeartobeinvolvedinTPandTBmeta-
+bolism(Birkettetal.,1982,1985;Minersetal.,
+1985),althoughtherelationshipoftheseisozymes
+tothoseinvolvedinCAandPXmetabolismis
+lessclear.WhereasN-demethylationsandC(8)-
+oxidationaretheprimarymetabolicpathwaysof
+CA,TBandTPmetabolism,amajorpathway
+forPXmetabolisminvolvestheformationofa
+ring-openeduracilderivative.Thelowercorre-
+lationcoefficientsforthecomparisonsbetween
+theunboundclearancesofPX andtheother
+dimethylxanthines(TBandTP)maybedueto
+theinvolvementofadifferentenzyme(s)inuracil
+formation.
+181
+182 A.Leloetal.
+References
+Amaud,M.J.& Welsch,C.(1980).Caffeinemeta-
+bolisminhumansubjects.NinthInternational
+ColloquiumonScienceandTechnologyofCoffee,
+London,pp.385-395.AssociationScientifique
+InternationaleduCafe.
+Barone,J.J.&Roberts,H.(1984).Humanconsump-
+tionofcaffeine.InCaffeine:Perspectivesfrom
+recentresearch,ed.Dews,P.B.,pp.59-73.Berlin:
+Springer-Verlag.
+Benet,L.Z.&Galeazzi,R.L.(1979).Noncompart-
+mentaldeterminationofsteadystatevolumeof
+distribution.J.pharm.Sci.,68,1071-1074.
+Birkett,D.J.,Grygiel,J.J.&Miners,J.0.(1982).
+Metabolicdispositionofthemethylxanthinesin
+man.InMethodsinclinicalpharmacology,no.3:
+Theophyllineandothermethylxanthines,eds.
+Rietbrock,N.,Woodcock,B.G.&Staib,A.H.,
+pp.149-158.Braunschweig/Wiesbaden:Friedr.
+Vieweg&Sohn.
+Birkett,D.J.,Dahlqvist,R.,Miners,J.O.,Lelo,A.
+&Billing,B.(1985).Comparisonoftheophylline
+andtheobrominemetabolisminman.DrugMetab.
+Disp.,13,725-728.
+Blanchard,J.&Sawers,S.J.A.(1983a).Comparative
+pharmacokineticsofcaffeineinyoungandelderly
+men.J.Pharmacokin.Biopharm.,11,109-126.
+Blanchard,J.&Sawers,S.J.A.(1983b).Theabsolute
+bioavailabilityofcaffeineinman.Eur.J.clin.
+Pharmac.,24,93-98.
+Bonati,M.,Latini,R.,Galletti,F.,Young,J.F.,
+Tognoni,G.&Garattini,S.(1982).Caffeinedis-
+positionafteroraldoses.Clin.Pharmac.Ther.,32,
+98-106.
+Bonati,M.& Garattini,S.(1984).Interspeciescom-
+parisonofcaffeinedisposition.InCaffeine:Per-
+spectivesfromrecentresearch,ed.Dews,P.B.,
+pp.48-56.Berlin:Springer-Verlag.
+Bortolotti,A.,Jiritano,L.& Bonati,M.(1985).
+Pharmacokineticsofparaxanthine,oneofthe
+primarymetabolitesofcaffeine,intherat.Drug
+Metab.Disp.,13,227-231.
+Callahan,M.M.,Robertson,R.S.,Arnaud,M.J.,
+Branfman,A.R.,McComish,M.F.& Yesair,
+D.W.(1982).Humanmetabolismof[1-methyl-14C]-and[2-14C]caffeineafteroraladministration.
+DrugMetab.Disp.,10,417-423.
+Callahan,M.M.,Robertson,R.S.,Branfman,A.R.,
+McComish,M.F.&Yesair,D.W.(1983).Com-
+parisonofcaffeinemetabolisminthreenon-smoking
+populationsafteroraladministrationofradiolabeled
+caffeine.DrugMetab.Disp.,11,211-217.
+Drouillard,D.D.,Vessell,E.S.&Dvorchik,B.H.
+(1978).Studiesontheobrominedispositionin
+normalsubjects.Clin.Pharmac.Ther.,23,
+296-302.
+Houston,J.B.(1982).Drugmetabolitekinetics.
+Pharmac.Ther.,15,521-552.
+Lelo,A.,Miners,J.0.& Birkett,D.J.(1986).
+Assessingcaffeineexposure:caffeinecontentof
+beverages,caffeineintakeandplasmaconcentra-
+tionsofmethylxanthines.Clin.Pharmac.Ther.,
+39,54-59.
+Miners,J.O.,Attwood,J.& Birkett,D.J.(1982).
+Theobrominemetabolisminman.DrugMetab.
+Disp.,10,672-675.
+Miners,J.O.,Attwood,J.,Wing,L.M.H.&Birkett,
+D.J.(1985).Influenceofcimetidine,sulfinpyrazone
+andcigarettesmokingontheobrominemetabolism
+inman.DrugMetab.Disp.,13,598-601.
+Ogilvie,R.I.(1978).Clinicalpharmacokineticsof
+theophylline.Clin.Pharmacokin.,3,267-293.
+Renner,R.,Wietholtz,H.,Huguenin,P.,Arnaud,
+M.J.& Preisig,R.(1984).Caffeine:amodel
+compoundformeasuringliverfunction.Hepatology,
+4,38-46.
+Shively,C.A.,Tarka,S.M.,Arnaud,M.J.,Dvorchik,
+B.H.,Passananti,G.T.&Vessell,E.S.(1985).
+Highlevelsofmethylxanthinesinchocolatedonot
+altertheobrominedisposition.Clin.Pharmac.
+Ther.,37,415-424.
+Simons,F.E.R.,Simons,K.J.& Becker,A.B.
+(1984).Thebronchodilatoreffectsandpharmaco-
+kineticsofcaffeine,theobromineandtheophylline
+inasthma.InSustainedreleasetheophyllineinthe
+treatmentofchronicreversibleairwaysobstruction,
+eds.Jonkman,J.H.G.,Jenne,J.W.&Simons,
+F.E.R.,pp1-8.Amsterdam:ExcerptaMedica.
+Tang-Liu,D.D.,Williams,R.L.& Riegelman,S.
+(1983).Dispositionofcaffeineanditsmetabolites
+inman.J.Pharmac.exp.Ther.,224,180-185.
+Tarka,S.M.,Arnaud,M.J.,Dvorchik,B.H.&
+Vessell,E.S.(1983).Theobrominekineticsand
+metabolicdisposition.Clin.Pharmac.Ther.,34,
+546-555.
+(Received6November1985,
+accepted12April1986)

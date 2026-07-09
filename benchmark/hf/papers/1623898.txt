@@ -1,0 +1,501 @@
+Eur J Clin Pharmacol (1992) 42:587-592 
+European J .... Io, (~[~1~(~@~ 
+© Springer-Verlag 1992 
+The effect of quinidine on the analgesic effect of codeine 
+S. H. Sindrup I , L. Arendt-Nielsen 2, K. Brosen 1 , P. Bj erring 3 , H. R. Angelo 4, B. Eriksen 5 , and L. F. Gram s 
+Department of Cli~ical Pharmacology, Odense University, 2 Department of Medical Informatics, Aalborg University, 
+3 Department of Dermatology, Marselisborg Hospital, Aarhus, 4 Department of Clinical Chemistry, Bispebjerg Hospital, Copenhagen, and 
+5 DAK-Laboratoriet a/s, Copenhagen, Denmark 
+Received: October 8,1991/Accepted in revised form: January 23,1992 
+Summary. We have studied the hypoalgesic effect of 
+codeine (100 rag) after blocking the hepatic O-demethy- 
+lation of codeine to morphine via the sparteine oxygenase 
+(CYP2D6) by quinidine (200 mg). The study was per- 
+formed in 16 extensive metabolizers of sparteine, using a 
+double-blind, randomized, four-way, cross-over design. 
+The treatments given at 3 h intervals during the four ses- 
+sions were placebo/placebo, quinidine/placebo, place- 
+bo/codeine, and quinidine/codeine. We measured pin- 
+prick pain and pain tolerance thresholds to high energy 
+argon laser stimuli before and 1,2, and 3 h after codeine or 
+placebo. 
+After codeine and placebo, the peak plasma concentra- 
+tion of morphine was 6-62 (median 18) nmol. 1-1. When 
+quinidine pre-treatment was given, no morphine could be 
+detected ( < 4 nmol. 1-~) after codeine. The pin-prick pain 
+thresholds were significantly increased after placebo/co- 
+deine, but not after quinidine/codeine compared with 
+placebo/placebo. Both placebo/codeine and quinidine/co- 
+deine increased pain tolerance thresholds significantly. 
+Quinidine/codeine and quinidine/placebo did not differ 
+significantly for either pin-prick or tolerance pain thresh- 
+olds. 
+These results are compatible with local CYP2D6 medi- 
+ated formation of morphine in the brain, not being 
+blocked by quinidine. Alternatively, a hypoalgesic effect 
+of quinidine might have confounded the results. 
+Key words: Codeine, Quinidine; CYP2D6, hypoalgesia, 
+drug interaction 
+Codeine is eliminated primarily by glucuronidation. O- 
+demethylation to morphine and N-demethylation to nor- 
+codeine are minor pathways, each accounting for about 
+10 % of the dose [1] (Fig. 1). Forty years age it was sug- 
+gested that the hypoalgesic effect of codeine is mediated 
+by its metabolite morphine [2]. This view was supported 
+by subsequent experiments which showed that codeine 
+has much lower affinity for the ~t-opioid receptor than 
+morphine (less than 1/3000) [3]. Recently the role of mot- 
+phine has been questioned by the finding of very low plas- 
+ma concentrations of morphine after single and repeated 
+doses of codeine [4, 5]. However, the concentrations of the 
+potentially active metabolites of morphine, i.e. normor- 
+phine [6] and morphine-6-glucuronide [7], were not taken 
+into consideration. Furthermore, the plasma concentra- 
+tion may not reflect the concentration at the receptor site 
+in the target organ. In fact, it has been suggested that co- 
+deine acts through morphine formed locally in the brain 
+[8], but such local transformation has not yet been demon- 
+strated in humans. 
+Seven per cent of Caucasians are poor metabolizers of 
+sparteine/debrisoquine and the rest are extensive metabo- 
+lizers [9]. A particular P450, the CYP2D6 (or P450IID6), 
+is the source of this polymorphism, and in the poor me- 
+tabolizers this isozyme is absent from the liver [10]. It has 
+recently been shown that the O-demethylation of codeine 
+co-segregates with the sparteine/debrisoquine oxidation 
+polymorphism [11-14] and poor metabolizers are practi- 
+cally unable to metabolize codeine to morphine. In a re- 
+cent study we addressed the role of morphine in codeine 
+hypoalgesia. In 12 extensive and 12 poor metabolizers we 
+found that a single oral dose of 75 mg codeine increased 
+pin-prick pain thresholds to high energy laser stimuli in 
+the extensive but not in the poor metabolizers [15]. 
+Quinidine is a potent inhibitor of the CYP2D6 both in 
+vitro and in vivo [16--18] and the hepatic conversion of co- 
+deine to morphine in extensive metabolizers is practically 
+/__/"N - CH s 
+HO 
+CODEINE 
+6-glucuronidation ~ O-demethylation 
+~1 c-e-G t ................................... i 
+6-glucuronidation b [~ / O-demethylation ~ 3-glucuronidation 
+  ometh ,at,on 7 
+N-demethylation 6-glucuronidation~ 
+Fig.L The pattern of codeine metabolism in humans. Abbrevia- 
+tions: C-6-G = codeine-6-glucuronide, M = morphine, NC = nor- 
+codeine, M-6-G = morphine-6-glucuronide, M-3-G = morphine-3- 
+glucuronide, NM = normorphine, and NC-6-G = nor- 
+codeine-6-glucuronide 
+
+588 
+800- 
+700- 
+600- 
+500- 
+400- 
+-- 300- 
+200- 
+~, lO0- 
+g o 
+70- o 
+o 
+E 60- 
+~- 50- 
+40- 
+30- 
+20- 
+10- 
+4- 
+<4 
+Codeine 
+° i [] 
+[] [] 
+[] 
+$'-o .. 
+[] 
+B 
+Morphine 
+nn 
+•i 
+1 2 3 
+Time after dose (h) 
+Fig.2. The plasma concentrations of codeine and morphine 1, 2, and 
+3 h after 100 mg of codeine in 16 extensive metabolizers of sparteine 
+with ( [] ) and without ( • ) 200 mg quinidine pre-treatment 
+abolished after quinidine [19]. We have therefore studied 
+the effect of pre-treatment of 16 healthy extensive me- 
+tabolizers with 200 mg of quinidine on the hypoalgesia 
+produced by codeine. 
+Subjects and methods 
+Subjects 
+We studied 16 extensive metabolizers of sparteine (12 men and 
+4 women, aged 21-30 y, median 24) with a metabolic ratio (MR) be- 
+tween sparteine and dehydrosparteines of less than 1 in the 12 h 
+urine [20]. The volunteers were healthy and not regularly taking any 
+drugs (except two of the women who were taking oral contracep- 
+tives). Alcohol and additional analgesics were not allowed for 24 h 
+before and after the experiments. The study was approved by the re- 
+gional ethics committee and the subjects consented to participate on 
+the basis of verbal and written information. 
+Design and medication 
+The study was double-blind and randomized. We compared 100 mg 
+of codeine orally with placebo, and both drugs were given with and 
+without pre-treatment with a single oral dose of 200 mg quinidine in 
+a four-way cross-over design. The four different treatment sequence 
+combinations were thus: placebo/placebo, quinidine/placebo, place- 
+be/codeine, and quinidine/codeine. Codeine (25 rag, DAK-Labora- 
+toriet a/s, Copenhagen, Denmark) and codeine-placebo tablets were 
+of identical size and colour, as were the quinidine (200 mg, DAK- 
+Laboratoriet a/s, Copenhagen, Denmark) and quinidine-placebo 
+tablets. Four codeine or codeine-placebo tablets were given 3 h after 
+pre-treatment with one quinidine or quinidine-placebo tablet. The 
+study days were separated by at least two weeks for washout. The 
+pain threshold to laser stimulation was determined immediately be- 
+fore codeine or placebo (i. e. 3 h after quinidine Or the corresponding 
+placebo) and then 1,2, and 3 h after. 
+Laser stimulation and determination of pain thresholds 
+A detailed description of the method for determination of pain 
+thresholds to laser stimuli has previously been published [21]. Brief- 
+ly, the output (wavelenghts 488 and 515 nm) from an argon laser 
+(Model 168, Spectra Physics, USA) was transmitted to the skin 
+through a quartz fibre with a handpiece. The output power was ad- 
+justable from 50 mW to approximately 3 W and the energy which 
+reached the skin was measured by an external laser power meter 
+(Ophir, Israel). Laser stimuli of 200 ms duration and a beam 
+diameter of 3 mm were applied to the back (C7 dermatome) of the 
+right hand (pain detection threshold) or left hand (pain tolerance 
+threshold) in a target area of 2 x 3 cm. After each stimulation, the 
+handpiece was moved to avoid repeated stimulations at identical 
+spots. The pain detection threshold was defined as the stimulus 
+strength which was perceived as a distinct pin-prick; the pain toler- 
+ance threshold was defined as the stimulus strength which was per- 
+ceived as a painful pin-prick followed by an unpleasant burning pain. 
+The thresholds were calculated as the mean of five thresholds deter- 
+mined by ascending series of stimulation. 
+Plasma drug concentrations 
+Blood for drug concentration measurements was collected immedi- 
+ately after each pain threshold determination on all study days and 
+stored at - 20 °C until analysis. The plasma concentration of codeine 
+was determined by high performance liquid chromatography [22] 
+with a lower limit of detection of 10 nmol. 1-1. Morphine was assayed 
+by radioimmunoassay (Coat-A-Count, Serum Morphine kit, Diag- 
+nostic Product Corporation, Los Angeles, USA) (lower limit of de- 
+tection 4 nmol. 1-1; cross-reactivity with codeine, morphine-6-gluco- 
+ronide, and morphine-3-glucuronide less than 0.2 %). 
+Data analysis and statistics 
+Pain thresholds vary both diurnally and from day to day [23]. The 
+thresholds determined on each study day for each individual were 
+therefore transformed (hereafter designated transformed thresh- 
+olds) by multiplication by a factor which standardized the thresholds 
+before codeine or codeine-placebo to a value of 1. The mean of the 
+three transformed post-dose thresholds for each treatment served as 
+a summary measure of effect [24]. A placebo-adjusted treatment re- 
+sponse was calculated for each post dose measurement as the dif- 
+ference between the transformed thresholds on placebo/placebo 
+and on the other treatments. 
+Statistical analyses were made with Wilcoxon's test for paired ob- 
+servations, the Mann-Whitney test, and Spearman's rank correla- 
+tion. Furthermore, median and 95 % confidence intervals for dif- 
+ferences between treatments were calculated [25]. 
+Results 
+Morphine was detected in plasma samples from all the 
+volunteers after placebo/codeine, but not after quin- 
+idine/codeine (Fig.2). Codeine concentrations were 
+
+0.5- Pin-pick pain threshold 
+I/) 
+"o 
+O 
+0- 
+E~ 
+~O ~-~ -0.5 
+.n oerance hresho   
+v g _ 
+i I~ P QC PC Qp QC PC QP QC PC 
+ra -0.5 J/ ........... 
+1 2 3 
+"lime after dose (h) 
+Fig.3. Top: Medians (--) and 95 % confidence intervals (9) for the 
+differences between placebo/placebo and each of the treatments 
+QP: quinidine/placebo; QC: quinidine/codeine, and PC: placebo/co- 
+deine for the pin-prick pain thresholds. The pre-dose thresholds 
+were standardized to a value of 1. Bottom: Similar medians and 95 % 
+confidence intervals for the pain tolerance thresholds 
+Morphine Codeine 
+> 0.4- 
+_ rs = 0.83 ee rs = 0.81 • • 
+9 p < 0.001 • p < 0.001 • 
+D_ 0.2- • • oQ 
+o "~ c- r .,r, go • • 
+0- ,; 
+• • 
+__if_ o ¢ r- 
+-0.5- • • 
+"0 I I IIIIIII I I linllll I I IIIHli I I IIIItll 
+0.6- 
+rs = 0.55 rs = 0.65 
+'~ - p < 0.05 • • • p < 0.01 • 
+c~ 
+"5 0.4- 
+gg 
+$ 0.2- 
+c - • • . 
+R3 
+• ~ -0.2 • • 
+o ..O t IIIlilll I Illlllll I I IIIIIII I IIIIllll 
+o 10 100 10 100 1000 
+~- Plasma concentration (nmol • 1-1 ) 
+Fig.4. The effect of 100 mg of codeine 1 h after ingestion in relation 
+to the corresponding plasma concentrations of morphine (l@panel) 
+and codeine (right panel) in each of 16 extensive metabolizers of 
+sparteine. The effect is given as the difference between the trans- 
+formed thresholds for placebo/codeine and placebo/placebo (place- 
+bo adjusted treatment response) 
+589 
+higher after quinidine than after placebo pre-treatment 
+(median 374 vs 264 nmol. 1-1, p = 0.003). Neither mor- 
+phine nor codeine was detected in plasma samples from 
+the volunteers after placebo/placebo or after quin- 
+idine/placebo. 
+The pin-prick pain thresholds measured immediately 
+before codeine or the corresponding placebo on days 
+when quinidine pre-treatment was given (quin- 
+idine/placebo and quinidine/codeine) were not signifi- 
+cantly different from the thresholds when placebo 
+pre-treatment was given (placebo/placebo and place- 
+bo/codeine) (median 1.34 and 1.23 W vs. 1.15 and 1.20 W, 
+P = 0.25-0.74); nor were the corresponding pre-treat- 
+ment pain tolerance thresholds significantly different 
+(median 1.76 and 1.67 W vs. 1.65 and 1.46 W, P = 0.74- 
+1.0). 
+Median and 95 % confidence intervals for the differen- 
+ces between placebo/placebo and the other treatments for 
+the transformed pin-prick pain and pain tolerance thresh- 
+olds are shown in Fig. 3. Significance testing of the sum- 
+mary measure of effect is detailed in Table 1. Pin-prick 
+pain thresholds were only significantly increased by place- 
+bo/codeine, whereas pain tolerance thresholds were 
+significantly increased by both placebo/codeine and 
+quinidine/codeine compared with placebo/placebo. Qui- 
+nidine/codeine did not increase any of the thresholds com- 
+pared with quinidine/placebo. The most marked differen- 
+ces between the codeine-containing combinations and the 
+placebo-placebo combination were in the tolerance 
+thresholds. Both pin-prick and tolerance thresholds were 
+slightly higher during quinidine/placebo than during 
+placebo/placebo, but the differences did not reach statisti- 
+cal significance. 
+At i h after codeine, the interindividual variation in 
+drug concentrations was most pronounced (Fig. 2), and 
+for the placebo/codeine combination there was a signifi- 
+cant correlation between the morphine and codeine con- 
+centrations (rs = 0.67, P < 0.01). At this time-point, there 
+was highly significant correlation between the placebo- 
+adjusted treatment response for pin-prick and tolerance 
+thresholds and the plasma concentrations of both mor- 
+phine (rs = 0.83, P < 0.001 and r~ = 0.55, P < 0.05) and co- 
+Table 1. Significance testing a of the effect b on pain thresholds of the 
+different treatment combinations c 
+Comparison P-value 
+Pin-prick pain Pain tolerance 
+threshold threshold 
+PC vs. PP 0.06 0.01 
+QC vs. PP NS 0.07 
+QC vs. QP NS NS 
+QC vs. PC NS NS 
+QP vs. PP NS NS 
+a Wilcoxon's test 
+b Mean of the three post-dose thresholds transformed to standardize 
+pre-dose thresholds to a value of 1 (summary measure) 
+c Treatment combinations: PC = codeine with placebo pre-treat- 
+ment, QC = codeine with quinidine pre-treatment, PP = placebo 
+with placebo pre-treatment, QP = placebo with quinidinepre-treat- 
+ment 
+
+590 
+Table 2. The number of subjects (out of 16) reporting adverse ef- 
+fects during the treatment combinations a before (A) and after (B) 
+codeine or the corresponding placebo 
+Side effect Treatment combination 
+PP QP QC PC 
+A B A B A B A B 
+Nausea 0 0 0 0 0 2 0 1 
+Dry mouth 0 1 1 1 0 2 1 3 
+Fatigue 2 5 0 4 4 9 3 1 i 
+Dizziness 0 0 0 2 0 2 0 4 
+Headache 0 0 0 1 0 0 0 1 
+a Treatment combinations: PP = placebo with placebo pre-treat- 
+ment, QP = placebo with quinidine pre-treatment, QC = codeine 
+with quinidine pre-treatment, PC = codeine with placebo pre-treat- 
+ment 
+deine (rs = 0.81, P < 0.001 and rs = 0.65, P < 0.01) (Fig.4). 
+For the 2 and 3 h measurements of both pin-prick pain and 
+pain tolerance thresholds, there was no significant rela- 
+tion to either morphine or codeine concentrations. 
+The placebo-adjusted treatment responses of the 
+quinidine/codeine combination were not related to the co- 
+deine concentrations for either pin-prick pain or pain 
+tolerance at any of the post-dose measurements. 
+The adverse effects reported on the different treatment 
+combinations are summarized in Table 2. There was no 
+significant difference in the number of adverse effects re- 
+ported by each subject during any period (P = 0.32). 
+Discussion 
+We have found that in 16 extensive metabolizers of spar- 
+teine a single oral dose of 100 mg codeine after placebo 
+pre-treatment resulted in plasma morphine concentra- 
+tions from 6 to 62 nmol. 1-1 and caused a statistically sig- 
+nificant increase in pin-prick pain and pain tolerance 
+thresholds compared with placebo/placebo treatment. We 
+also found that morphine was undetectable in the plasma 
+after a single oral dose of 100 mg codeine preceded by 
+200 mg quinidine, confirming the importance of CYP2D6 
+in the O-demethylation of codeine [11-15, 19]. However, 
+we could not unequivocally confirm the role of morphine 
+formation for codeine hypoalgesia [15], since codeine 
+preceded by quinidine also increased pain tolerance 
+thresholds compared with placebo/placebo treatment, but 
+not compared with quinidine/placebo. 
+There are several possible explanations why codeine 
+may have a hypoalgesic effect in extensive metabolizers 
+treated with quinidine (present study) but not in poor me- 
+tabolizers (previous study [15]). Although circulating 
+morphine after codeine mainly stems from hepatic O-de- 
+methylation, it is possible that codeine hypoalgesia is due 
+to morphine formed locally in the brain [8]. CYP2D6 has 
+been identified in canine brain tissue [26, 27]. Different 
+defects in the CYP2D6 gene [28] explain why the 
+CYP2D6 isozyme is not expressed in the liver [10] or other 
+tissues in the poor metabolizers, and little or no morphine 
+is therefore likely to be formed in the brains of poor me- 
+tabolizers. Quinidine penetrates the blood-brain barrier 
+poorly [29] and thus may not inhibit CYP2D6 in the brain. 
+This postulated activity of CYP2D6 in brain thus could ex- 
+plain why codeine has a hypoalgesic effect in extensive 
+metabolizers after quinidine pre-treatment despite com- 
+plete inhibition of hepatic morphine formation. 
+Another possibilits, supported by the results of animal 
+experiments [30], is that quinidine has an unspecific local 
+analgesic effect and inhibits the release of E-type prosta- 
+glandins. Quinidine may therefore have a hypoalgesic ef- 
+fect of its own which is too weak to be detected when it is 
+given alone, but which is detectable when combined with 
+the weak effect of "pure" codeine. 
+In conclusion, we have confirmed the role of CYP2D6 
+for the hepatic O-demethylation of codeine to morphine. 
+Our results support the view that metabolically formed 
+morphine is important for codeine analgesia. However, 
+the results of the interaction studies suggest that either the 
+formation of morphine within the CNS or a hypoalgesic 
+effect of quinidine may be a complicating factors. 
+Acknowledgements. This study was financially supported by DAK- 
+Laboratoriet a/s, Copenhagen. 
+References 
+1. Adler TK, Fujimoto JM, Way EL, Baker EM (1955) The meta- 
+bolic fate of codeine in man. J Pharmacol Exp Ther 114:251-262 
+2. Sanfilippo G (1948) Contributo sperimentale all'ipotesi della 
+smetilazione della codeina nell' organismo. I.Influence della 
+dose sull'assuefazione alia codeina. II. Assuefazione alla codeina 
+attenuata con somministrazione prolungata di morfina. Boll Ital 
+Biol Sper 24:723-726 
+3. Pert CB, Snyder SH (1973) Properties of opiate-receptor binding 
+in rat brain. Proc Nat Acad Sci 70:2243-2247 
+4. Quiding H, Anderson R Bondesson U, Boreus LO, Hynning P-A 
+(1986) Plasma concentrations of codeine and its metabolite, mor- 
+phine, after single and repeated oral administration. Eur J Clin 
+Pharmaco130:673--677 
+5. Shah JC, Mason WD (1990) Plasma codeine and morphine con- 
+centrations after single oral dose of codeine phosphate. J Clin 
+Pharmaco130: 764-766 
+6. Lasagna L, D e Kornfeld TJ (1958) Analgesic potency of normo- 
+phine in patients with postoperative pain. J Pharmaco1124: 260- 
+263 
+7. Osborne R, Joel S, Trew D, Slevin M (1988) Analgesic activity of 
+morphine-6-glucuronide. Lancet I: 828 
+8. Chen ZR, Irvine RJ, Bochner E Somogyi AA (1990) Morphine 
+formation from codeine in rat brain: A possible mechanism of co- 
+deine analgesia. Life Sci 46:1067-1074 
+9. Alvfin G, Bechtel R Iselius L, Gundert-Remy U (1990) Hydrox- 
+ylation polymorphisms of debrisoquine and mephenytoin in Eu- 
+ropean populations. Eur J Clin Pharmaco139:533-537 
+10. Zanger UM, Vilbois F, Hardwick J, Meyer UA (1988) Absence 
+of hepatic cytochrome P450 buf I causes genetically deficient de- 
+brisoquine oxidation in man. Biochemistry 27:5447-5454 
+11. Chen ZR, Somogyi AA, Bochner F (1988) Polymorphic 0-de- 
+metyhlation of codeine. Lancet II: 914-915 
+12. Dayer R Desmeules J, Leemann T, Striberni R (1988) Bioactiva- 
+tion of the narcotic drug codeine in human liver is mediated by 
+the polymorphic monooxygenase catalyzing debrisoquine 4-hy- 
+droxylation (cytochrome P-450 dbl/bufI). Biochem Biophys Res 
+Comm 152:411-416 
+13. Yue QY, Svensson J-O, Alm C, Sj6qvist F, 8~iwe J (1989) Codeine 
+0-demethylation co-segregates with polymorphic debrisoqhine 
+hydroxylation. Br J Cfin Pharmaco128: 639445 
+14. Mortimer O, Persson K, Ladona MG, Spalding D, Zanger UM, 
+Meyer UA, Rane A (1990) Polymorphic formation of morphine 
+from codeine in poor and extensive metabolizers of dextrometh- 
+
+orphan: relationship to the presence of immunoidentified 
+cytochrome P450IIDI. Clin Pharmacol Ther 47:27-35 
+15. Sindrup SH, BrCsen K Bjerring R Arendt-Nielsen L, Angelo 
+HR, Larsen U, Gram LF (1990) Codeine increases pain 
+thresholds to copper vapor laser stimuli in extensive but not poor 
+metabolizers of sparteine. Clin Pharmacol Ther 48:686-693 
+16. Otton SV, Inaba T, Kalow W (1984) Competitive inhibition of 
+sparteine oxidation in human liver by beta-adrenoreceptor 
+antagonists and other cardiovascular drugs. Life Sci 34:73-80 
+17. Brinn R, Brcsen K, Gram LF, Haghfelt T, Otton SV (1986) Spar- 
+teine oxidation is practically abolished in quinidine-treated pa- 
+tients. Br J Clin Pharmaco122:194-197 
+18. Br0sen K, Gram LF, Haghfeldt T, Bertilsson L (1987) Extensive 
+metabolizers of debrisoquine become poor metabolizers during 
+quinidine treatment. Pharmacol Toxico160: 312-314 
+19. Desmeules J, Gascon M-R Dayer R Magistris M (1991) Impact of 
+environmental and genetic factors on codeine analgesia. Eur J 
+Clin Pharmaco141:23-26 
+20. Br0sen K, Otton SV, Gram LF (1985) Sparteine oxidation poly- 
+morphism in Denmark. Acta Pharmacol Toxico157:357-360 
+21. Arendt-Nielsen L, Bjerring P (1988) Sensory and pain threshold 
+characteristics to laser stimuli. J Neurol Neurosurg Psychiatry 51: 
+35-42 
+22. Tsina IW, Fass M, Debban JA, Matin SB (1982) Liquid chroma- 
+tography of codeine in plasma with fluorescence detection. Clin 
+Chem 28:1137-1139 
+23. Procacci R Buzzelli G, Passeri I, Sassi R, Voegelin MR, Zoppi M 
+(1972) Studies on the cutaneous pricking pain threshold in man. 
+Circadian and circatrigintan changes. Res Clin Stud Headache 3: 
+260-276 
+24. Matthews JSN, Altman DG, Campbell MJ, Royston P (1990) 
+Analysis of serial measurements in medical research. Br Med J 
+300:230-235 
+591 
+25. Campbell MJ, Gardner MJ (1988) Calculating confidence inter- 
+vals for some non-parametric analyses. Br Med J 296:1454-1456 
+26. Niznik HB, Tyndale RF, Sallee FR, Gonzales FJ, Hardwick JR 
+Inaba T, Kalow W (1990) The dopamine transporter and cyto- 
+chrome P450IID1 (debrisoquine-4-hydroxylase) in brain: Reso- 
+lution andidentification of two distinct [3N] GBR-12935 Binding 
+Proteins. Arch Biochem Biophys 276:424432 
+27. Tyndale RF, Sunahara R, Inaba T, Kalow W, Gonzales F J, Niznik 
+HB (1991) Neuronal cytochrome P450IID1 (debrisoquine/spar- 
+teine-type): Potent inhibition of activation by ( - )-cocaine and 
+nucleotide sequence identity to human hepatic P450 gene 
+CYP2D6. Mol Pharmaco140:63-68 
+28. Kagimoto M, Heim M, Kagimoto K, Zeugin T, Meyer UA (1990) 
+Multiple mutations of the human cytochrome P450IID6 gene 
+(CYP2D6) in poor metabolizers of debrisoquine. J Biol Chem 
+265:17 209-17 214 
+29. Agon R Braeckman R, van Haver D, Denutte H, Goethals R 
+Donche H, Vermullen F, Deman J, Kaufman J-M (1988) Drug 
+distribution in dog brain studied by positron emission tomog- 
+raphy. Biopharmaceut Drug Disp 9:567-577 
+30. Juan H (1977) Inhibition of the algesic effect of bradykinin and 
+acetylcholine by mepacrine. Naunyn-Schmiedeberg's Arch 
+Pharmacology 301:23-27 
+Dr. S. H. Sindrup 
+Department of Clinical Pharmacology 
+Institute of Medical Biology 
+Odense University 
+WinslCwparken 19 
+DK-5000 Odense C 
+Denmark 

@@ -1,0 +1,567 @@
+Effect of Excipients on Acetaminophen
+Metabolism and Its Implications
+for Prevention of Liver Injury
+Michael Ganetsky, MD 1a, Mark Böhlke, PhD 2b, Luis Pereira, PhD 3c,
+David Williams, PhD 4d, Barbara LeDuc, PhD 2e, Shiva Guatam, PhD 1f, and
+Steven D. Salhanick, MD 5a
+Abstract
+Acetaminophen poisoning is the most frequent cause of acute hepatic failure in the US. Toxicity requires reductive metabolism of acetaminophen,
+primarily via CYP2E1. Liquid acetaminophen preparations contain propylene glycol, a common excipient that has been shown to reduce hepatocellular
+injury in vitro and in rodents. Children are less susceptible to acetaminophen toxicity for unclear reasons. We conducted a pharmacokinetic single ‐
+blinded crossover study of 15 healthy adult volunteers comparing the CYP2E1 and conjugative metabolism of a 15 mg/kg dose of liquid versus solid
+preparations of acetaminophen. Measured AUC’s for the CYP2E1 metabolites were 16–17% lower and extrapolated AUC’s were 25–28% lower in the
+liquid formulation arm while there was no difference in conjugative metabolite production. The formation rate constants for reductive metaboliteswere
+equivalent between solid and liquid formulations indicating that enzyme inhibition was competitive. Propylene glycol, an established CYP2E1 competitive
+antagonist, was detected in the liquid formulation but not solid formulation arm. Since children tend to ingest liquid preparations, the protectiveeffect of
+this excipient could explain their decreased susceptibility to acetaminophen toxicity. A less hepatotoxic formulation of acetaminophen could potentially
+be developed if co ‐formulated with a CYP2E1 inhibitor.
+Keywords
+acetaminophen, CYP2E1, liver failure, propylene glycol
+Acetaminophen (APAP) poisoning is the leading cause of
+acute hepatic failure in the United States (U.S.) and
+Europe.1,2 An estimated 33 520 patients are hospitalized
+in the U.S. following APAP poisoning annually. 3 APAP
+poisoning is responsible for half of the liver transplants
+that follow drug‐induced liver failure in the U.S.4 Cases of
+hepatic failure due to APAP toxicity continue to rise. 1,5
+Hepatocellular injury is initiated by the metabolism of
+excess amounts of APAP. Most of the APAP ingested is
+metabolized by direct phase II conjugation with sulfate
+and glucuronide. Toxicity is due to an increase in the
+amount of APAP undergoing reductive metabolism,
+primarily via cytochrome P450 2E1 (CYP2E1), and can
+occur following intentional overdose or during chronic
+supratherapeutic dosing.
+6 Most clinicians and investiga-
+tors believe that hepatocellular damage is mediated via
+N‐acetyl‐p‐benzoquinone imine (NAPQI), the principal
+reactive metabolite produced by CYP2E1 (Figure 1A).
+Recent investigation into the epidemiology of APAP
+poisoning reveals that cough and cold preparations, which
+are often liquid formulations, are underrepresented among
+APAP formulations causing toxicity.
+5 Additionally,
+children appear less susceptible to APAP ‐induced liver
+injury than adults. 7 Suggested mechanisms include
+increased sulfonation capacity, relatively larger liver
+The Journal of Clinical Pharmacology
+53(4) 413 –420
+©The Author(s) 2013
+DOI: 10.1002/jcph.24
+1Department of Emergency Medicine, Beth Israel Deaconess Medical
+Center, Harvard Medical School, Boston, MA, USA
+2Massachusetts College of Pharmacy and Health Sciences, Boston, MA,
+USA
+3Quantitative Clinical Pharmacology and Pharmacokinetics Laboratory,
+Department of Anesthesia, Children ’s Hospital Boston, Harvard
+Medical School, Boston, MA, USA
+4Professor Emeritus of Chemistry, Massachusetts College of Pharmacy
+and Health Sciences, Boston, MA, USA
+5Department of Emergency Medicine, Beth Israel Deaconess Medical
+Center, Harvard Medical School, Boston, MA, USA
+Submitted for publication 10 May 2012; accepted 9 August 2012.
+Corresponding Author:
+Steven D. Salhanick, MD, Assistant Professor, Harvard Medical School,
+Department of Emergency Medicine, Beth Israel Deaconess Medical
+Center, One Deaconess Road, WCC ‐2, Boston, MA 02215
+Email: sshalni@bidmc.harvard.edu
+Trial registration: Effect on Acetaminophen Metabolism by Liquid
+Formulations NCT01246713.
+aAssistant Professor.
+bSenior Scientist.
+cDirector; Instructor of Anesthesia.
+dProfessor Emeritus of Chemistry
+eAssociate Professor of Pharmacology.
+fAssociate Professor.
+Pharmacokinetics
+size as well as increased relative supply of glutathione.8–12
+However, children tend to ingest liquid preparations
+instead of solid suggesting it may be it is the preparation
+and not the unique physiology of children that could
+explain this effect.
+Liquid APAP preparations contain propylene glycol
+(PG), a solubilizing agent used to dissolve APAP in
+aqueous solutions.
+13 In murine and in vitro models of
+acetaminophen toxicity, PG has been found to reduce
+hepatic injury via inhibition of CYP2E1.14,15 We therefore
+sought to investigate the difference in metabolism
+following ingestion of liquid versus solid APAP prepa-
+rations in adults to see if an excipient may be inhibiting
+reductive metabolism, which could potentially be
+protective.
+Methods
+Participants
+Subjects were recruited via internet advertisement.
+Eligibility criteria included age 18 –40 years, no daily
+medications and no chronic or acute medical conditions.
+Speciﬁc exclusion criteria were any history of liver
+disease, ingestion of two or more alcoholic beverages
+more than four times per week, or pregnancy.
+Study Protocol
+The protocol and all interventions were approved by the
+Institutional Review Board at the Beth Israel Deaconess
+Medical Center. We performed a single‐blinded crossover
+pharmacokinetic study at our institution’s clinical research
+center.
+Figure 1. Metabolism of acetaminophen. A: P450 metabolism results in NAPQI radical production, which binds and reduces levels of intracellular
+glutathione leading to decreased redox buffering capacity. NAPQI arylated proteins and initiates toxicity. APAP CYP minor metabolites include APA P‐
+glutathione, APAP‐cysteinate, and APAP‐mercapturate. B: The compartmental model for acetaminophen metabolism used for the pharmacokinetic analysis.
+414 The Journal of Clinical Pharmacology / Vol 53 No 4 (2013)
+Each subject had a screening visit to review medical
+history and obtain consent. Baseline testing included
+serum chemistries, renal function tests, liver function tests
+(Roche Hitachi Modular, Basel, Switzerland), complete
+blood counts (Sysmex XE2100, Kobe City, Hyogo
+Prefecture, Japan), and a urine pregnancy test.
+Subjects had two separate study visits at least 1 week
+apart to allow for full clearance of APAP metabolites.
+They were instructed not to take any APAP or ethanol for
+48 hours prior to each visit. Subjects were randomized to
+receive a standard commercially available tablet or liquid
+formulation of APAP on the ﬁrst visit. The alternative
+preparation was given on the second visit. At presentation
+for each visit, plasma APAP concentrations were
+measured to con ﬁrm lack of use. Subjects underwent a
+1 hour fast, then received a 15 mg/kg oral dose of APAP.
+The liquid dose was always equivalent to the closest
+possible rounded‐down solid dose that could be adminis-
+tered with standard APAP tablets. Plasma samples were
+collected at 30 minutes, and at 1 hours, 2 hours, 4 hours,
+6 hours, and 8 hours after APAP administration. Subjects
+were provided a standard lunch.
+Blood samples were refrigerated for not more than
+24 hours and then plasma was separated by centrifugation.
+All samples were then stored at /C0 80°C.
+Quantitative Assays of Acetaminophen and Metabolites
+The authors (M.B., D.W.) performing the LC/MS/MS
+analysis were blinded to the formulation administered at
+each visit. Plasma samples were assayed for APAP,
+APAP‐glucuronide, APAP ‐sulfate (conjugative metabo-
+lites), APAP ‐cysteinate, and APAP ‐mecapturate (reduc-
+tive metabolites). Samples were prepared by diluting one
+volume of plasma with two volumes of acetonitrile,
+vortexing for 10 seconds, then placing the mixture on
+ice for 10 minutes. This was followed by centrifuging
+samples for 6 minutes at 14 000 rpm, diluting with the
+initial mobile phase, and centrifuging for an additional
+2 minutes before transferring ﬁnal solutions into limited ‐
+volume (250 µL) autosampler vials for 5 µL injections
+into the HPLC system. Samples were analyzed with an
+Agilent 1100 HPLC system coupled to an AB/SCIEX API
+3000 mass spectrometer. Analytes were separated on a
+Kinetex C18 column (100 mm /C2 2.1 mm, 2.6 µm par-
+ticles, Phenomenex, Torrance, CA), using mobile phases
+of water (A) and acetonitrile (B), each containing 0.1%
+formic acid, with gradient elution as follows: 8% B from 0
+to 1.2 minutes, to 70% B at 6 minutes, to 85% B at
+7 minutes, to 95% B at 10 minutes, returned to 8% B at
+10.2 minutes, and equilibrated to 20 minutes before the
+next injection. Standards for calibration were prepared by
+spiking minimal volumes of concentrated solutions of
+each standard (1 mg/mL of APAP ‐cysteinate, APAP ‐
+glutathione and APAP ‐mercapturate and 10 mg/mL of
+APAP‐glucuronide, APAP ‐sulfate, and APAP) into
+plasma that was collected from a healthy volunteer taking
+no medications that had been screened to establish that
+these compounds were absent.
+Quantitative Assays of Propylene Glycol
+Plasma PG concentrations were measured at NMS Labs
+using a Hewlett Packard 5890 GC with FID detector.
+Samples from time points zero through 120 minutes from
+three subjects were assayed ﬁrst. PG was detected in the
+30‐minute time point in all three, and in one subject at
+120 minutes. Given these initial results and since enteral
+absorption of PG is rapid, subsequently all of the
+30‐minute time point samples from all subjects were
+assayed. The limit of detection of this assay is 5.0 mg/dL.
+Pharmacokinetic and Statistical Evaluation
+Power analysis was based on the following assumptions:
+we expected approximately ﬁve to ten percent of the
+ingested APAP to undergo reductive metabolism.
+16–18
+Assuming a difference of 50% between groups, a
+calculated sample size of ten subjects would exceed the
+number needed to enroll with a power of at least 80%. To
+allow for attrition, we planned to enroll 15 subjects.
+Area under curve to the last time point (AUC t
+0) was
+calculated using the trapezoidal method and individual
+proﬁles were also ﬁtted by nonlinear regression. Initial
+pharmacokinetic parameter estimates were determined for
+each subject by ﬁtting the concentration data separately,
+then optimized by simultaneously ﬁtting all data using
+NONMEM 7.2 software (ICON, Dublin, Ireland). AUC ’s
+extrapolated to in ﬁnity (AUC 1
+0 ) and formation rate
+constants for all metabolites (k s,k g,k c,k m) were thus
+calculated (based on the compartmental model in
+Figure 1B). Peak concentrations, AUC ’s, percent metab-
+olites and formation rate constants of liquid versus solid
+preparations were all compared with a paired ‐sample two‐
+tailed t‐test.
+Results
+A total of 15 subjects completed both study visits. The
+mean age of the subjects was 28 years, 10 (67%) subjects
+were male, and their mean weight was 82 kg (range 60 –
+128 kg). The mean acetaminophen dose administered was
+1 197 mg (range 825 –1 900 mg, median dose 1 150 mg)
+and 9 (60%) subjects were randomized to start with the
+liquid formulation.
+There was no statistically signi ﬁcant difference in
+measured and modeled AUC ’s or peak concentrations for
+APAP and the phase ‐II metabolites (APAP ‐glucuronide
+and APAP ‐sulfate) following ingestion of solid versus
+liquid preparations (Table 1 and Figure 2A,B). There was
+a trend towards greater bioavailability of the liquid
+formulation, however this was not signi ﬁcant (APAP
+AUC
+t
+0 54.5 µg hour/mL vs. 51.4 µg hour/mL, P ¼ .089).
+Ganetsky et al. 415
+Following ingestion of the liquid preparation (relative
+to the solid) there was 17% less measured APAP ‐
+cysteinate (AUC t
+0 2.411 µg hour/mL vs. 2.009 µg hour/
+mL, P ¼ .007), 25% less modeled APAP ‐cysteinate
+(AUC1
+0 5.699 µg hour/mL vs. 4.288 µg hour/mL, P ¼
+.007), 16% less measured APAP ‐mercapturate (AUC t
+0
+0.716 µg hour/mL vs. 0.602 µg hour/mL, P ¼ .006), and
+28% less modeled APAP ‐mercapturate (AUC1
+0 1.515 µg
+hour/mL vs. 1.096 µg hour/mL, P ¼ .005) in serum. The
+peak concentrations were also signi ﬁcantly lower follow-
+ing liquid formulation ingestion for both APAP‐cysteinate
+and APAP ‐mercapturate (Table 1 and Figure 2C).
+The goodness of ﬁt achieved in the nonlinear
+regressions of the metabolite measurements resulted in a
+range of coef ﬁcients of correlation between 0.932 and
+0.986, standardized residuals with no detectable trends
+and mostly within /C0 3 and þ3, and predictive con ﬁdence
+regions encompassing all observations with minimal over‐
+and under ‐prediction.
+There was no signi ﬁcant difference in formation rate
+constants for APAP ‐cysteinate, APAP ‐mercapturate, or
+APAP‐sulfate (Figure 3) The formation rate constant for
+APAP‐glucuronide was signi ﬁcantly greater for the solid
+as compared to liquid formulation (0.777 hour
+/C0 1 vs.
+0.622 hour /C0 1, P ¼ .015), however there was large
+overlap between the interquartile ranges.
+PG was detected in 9 out of 15 30 minutes samples
+obtained following ingestion of the liquid preparation, but
+in none of the samples in the solid group. The average PG
+concentration in these nine samples was 6.2 mg/dL and
+the maximum concentration was 9.1 mg/dL.
+Discussion
+APAP is bioactivated to NAPQI, the radical metabolite
+generally considered to be the necessary initiating step in
+APAP‐induced liver injury, primarily via CYP2E1.
+Intracellular glutathione is the major hepatocyte redox
+buffer; it binds NAPQI producing APAP ‐glutathione,
+which is subsequently metabolized to the cysteinate and
+mercapturate metabolites.
+19,20 We show a 16 –28%
+decrease in production of the CYP2E1 derived metabolites
+in plasma following administration of a commercially
+available liquid preparation thus supporting our hypothe-
+sis that a drug vehicle present in the liquid but not solid
+formulation is inhibiting the bioactivating enzymes.
+Previous cell culture and animal experiments and our
+formation rate constant data suggest, but does not prove,
+the PG is the excipient responsible for the effect we
+observed.
+APAP is only sparingly soluble in aqueous solutions
+and consequently solubilizing agents, including PG, are
+necessary in liquid preparations. PG is a known
+competitive inhibitor of CYP2E1.
+21 Given that bioacti-
+vation via the P450 system is necessary for APAP toxicity,
+the effect of PG on APAP toxicity has been studied in
+Table 1. Results of Plasma Analysis (Mean /C6 SEa)
+Solid Liquid P‐Valueb
+Acetaminophen (APAP)
+Peak concentration (µg/mL) 15.4 /C6 1.1 15.7 /C6 1.1 0.811
+Time to peak (minutes) 54.0 /C6 7.9 40.0 /C6 6.3 0.068
+AUCt
+0 (µg h/mL) 51.4 /C6 3.2 54.5 /C6 3.5 0.089
+AUC1
+0 (µg h/mL) 59.6 /C6 4.1 64.1 /C6 4.8 0.143
+APAP‐glucuronide
+Peak concentration (µg/mL) 19.7 /C6 1.0 19.2 /C6 1.3 0.528
+AUCt
+0 (µg h/mL) 107.3 /C6 6.3 109.1 /C6 7.2 0.648
+AUC1
+0 (µg h/mL) 157.2 /C6 10.7 158.1 /C6 9.6 0.922
+APAP‐sulfate
+Peak concentration (µg/mL) 6.20 /C6 0.3 6.50 /C6 0.5 0.266
+AUCt
+0 (µg h/mL) 32.0 /C6 1.5 35.1 /C6 2.6 0.077
+AUC1
+0 (µg h/mL) 45.5 /C6 2.8 51.2 /C6 4.51 0.066
+APAP‐cysteinate
+Peak concentration (µg/mL) 0.42 /C6 0.03 0.34 /C6 0.03 0.003 c
+AUCt
+0 (µg h/mL) 2.41 /C6 0.21 2.01 /C6 0.17 0.007 c
+AUC1
+0 (µg h/mL) 5.70 /C6 0.77 4.29 /C6 0.48 0.007 c
+APAP‐mercapturate
+Peak concentration (µg/mL) 0.136 /C6 0.01 0.116 /C6 0.01 0.016 c
+AUCt
+0 (µg h/mL) 0.716 /C6 0.07 0.602 /C6 0.06 0.006 c
+AUC1
+0 (µg h/mL) 1.51 /C6 0.18 1.09 /C6 0.11 0.005 c
+AUCt
+0 (zero to last observation) are trapezoidal measures and AUC 1
+0
+(zero to infinity) are calculated by nonlinear regression.
+aSE, standard error.
+bPaired sample t‐test, two ‐tailed.
+cStatistically significant at P ¼ 0.05.
+416 The Journal of Clinical Pharmacology / Vol 53 No 4 (2013)
+primary hepatocyte culture as well as in rodents. 14,15,21
+Cultured hepatocytes were less susceptible to APAP ‐
+induced necrosis in the presence of PG. 21 Mice pretreated
+with PG but not ﬂuvoxamine, a CYP1A2 inhibitor,
+showed reduced hepatocellular damage following a toxic
+APAP dose.
+15 In a mouse model, the concept that drug
+vehicles are protective of APAP ‐hepatoxicity has been
+studied: dimethylsulfoxide, dimethylformamide, PG, and
+ethanol were shown to be protective of APAP ‐induced
+liver injury.
+14 Additionally, compared to wild ‐type mice,
+CYP2E1 knock ‐out mice demonstrate minimal increases
+in liver transaminases after an LD 50 dose of acetamino-
+phen; however, at this higher dose, CYP1A2 and CYP3A
+may contribute to NAPQI formation. 22
+Drug–drug interactions affecting APAP toxicity and
+potential manipulation of the P450 system in order to alter
+APAP toxicity in humans is not a new concept. Subjects
+who received 2 months of cimetidine, an established P450
+inhibitor, were noted to have decreased urinary APAP ‐
+mercapturate following therapeutic APAP dosing.
+23
+Cimetidine was proposed as an antidote for APAP
+poisoning, however it was supplanted by the more
+effective N‐acetylcysteine.24 To our knowledge, our study
+is the ﬁrst to demonstrate the possibility of a drug vehicle
+being protective of APAP ‐hepatoxicity in humans via
+manipulation of the P450 system.
+The formation rate constants were equivalent for the
+phase‐I metabolites between the solid and liquid arms
+(Figure 3). Since, for competitive antagonists such as PG,
+the same enzyme kinetics hold, just at different
+concentration ranges, equivalence of formation rate
+constants supports our hypothesis that PG was functioning
+as a CYP2E1 competitive inhibitor in the liquid group.
+This is also consistent with the dose ‐dependent protective
+effect of PG seen in mice.
+14
+Limitations of our study include that we were unable to
+measure small concentrations of PG; we were unable to
+measure the decline in minor metabolites as they
+Figure 2. Concentration‐time curves for acetaminophen and metabolites. A: Acetaminophen (B) Phase II metabolites (C) CYP2E1 metabolites (Solid
+line represents solid preparation, dashed line represents liquid preparation. Error bars represent /C6 standard error)
+Ganetsky et al. 417
+approached zero; and there was a difference in bioavail-
+ability between liquid and solid formulations. Since the
+PG concentration was 5% (v/v) in the preparation we
+administered, the peak predicted PG concentration would
+be 4.0 mg/dL, assuming an ideal instantaneous absorp-
+tion, a speci ﬁc gravity of PG of 1.04 g/mL; and a volume
+of distribution of 0.58 L/kg. This is very close to the mean
+PG concentration that we observed and helps explain why
+we were unable to detect propylene glycol in six of the 15
+samples, as the limit of detection of the assay available to
+us was 5.0 mg/dL.
+We could only observe our subjects for 9 hours and
+thus we were unable to follow the minor metabolite
+concentrations as they approached zero. We therefore had
+to apply a nonlinear regression model to extrapolate the
+concentrations out to in ﬁnity. Regardless, the measured
+plasma AUC ’s are consistent with the modeled AUC ’s;
+the measured results showed a 16 –17% decrease in minor
+metabolite production in the liquid group and when
+extrapolated, this decrease is actually 25 –28%.
+Even though we administered equivalent liquid and
+solid doses (as close to 15 mg/kg as possible), there was a
+trend toward greater bioavailability with the liquid
+formulation. As this absorption difference was not
+statistically signi ﬁcant, we did not correct our results
+and performed all analyses based on equal relative
+bioavailability. However, since absorption was greater
+in the liquid group, we would expect an increase in total
+metabolite formation, including P450 derived metabolites;
+the opposite was the case further strengthening our
+conclusions.
+There are several important implications of our
+ﬁndings. First, we offer an alternative theory regarding
+the cause of decreased APAP toxicity seen in children. We
+propose that children tolerate APAP ingestion better than
+adults because they tend to ingest the liquid preparation,
+and are thus co ‐ingesting an inhibitor of the toxic
+bioactivation pathway. Previous theories have less well ‐
+grounded support. For example, infants and toddlers have
+a greater capacity for sulfonation, which is thought to be
+protective; however, glucuronidation capacity is de-
+creased resulting in similar overall capacity for phase ‐II
+metabolism as older children and adults.
+8,11 The larger
+ratio of childrens ’ liver to total body size has been
+proposed to allow them to tolerate a greater milligram per
+kilogram APAP dose than adults, however no data have
+been presented to support this.
+10 Our data suggests it is the
+preparation of drug, rather than the age of patient, which is
+responsible for the observed phenomenon of decreased
+susceptibility to acetaminophen poisoning in children.
+More importantly, we propose that a less hepatotoxic
+formulation of APAP can be developed if co ‐formulated
+with a safe CYP2E1 inhibitor. Co‐formulation with APAP
+to prevent toxicity is not a novel idea; a formulation with
+Figure 3. Formation rate constants for APAP derived metabolites following administration of liquid versus solid preparations.
+418 The Journal of Clinical Pharmacology / Vol 53 No 4 (2013)
+methionine has previously existed and a formulation with
+N‐acetylcysteine has been proposed. 25 However, methio-
+nine itself has toxicity and N‐acetylcysteine has a foul
+odor. Even though PG is a common excipient and
+generally considered safe, it might not be the ideal
+inhibitor to formulate with APAP. Our data suggest that
+higher PG dosing will be needed to achieve greater than
+25% CYP2E1 inhibition; PG has well ‐deﬁned toxicity
+when given intravenously
+26 and likely has toxicity at
+higher oral dosing as well. 27
+Finally, our study highlights the fact that pharmaceuti-
+cal excipients can affect toxicity, pharmacokinetics or
+other aspects of drug effects. While this is unlikely to
+surprise members of the regulatory community or those
+working in the pharmaceutical industry, it is our
+impression that this is less frequently considered by
+clinicians and clinical investigators.
+28
+Conclusions
+Ingestion of liquid relative to solid preparations of APAP
+in therapeutic doses results in a 16 –28% decrease in the
+toxic CYP2E1 metabolites. This is likely due to the
+inhibition of CYP2E1 by PG, and may explain the
+decreased susceptibility of children to APAP toxicity. A
+less hepatotoxic formulation of APAP can potentially be
+developed if co ‐formulated with a CYP2E1 inhibitor.
+Acknowledgments
+We would like to thank Samantha Koehler for her efforts in
+recruiting and coordinating subject visits, as well as Jim Wareing
+and the nursing staff at the Clinical Research Center. We would
+like to thank Elinita Rosseto for her work with regulatory
+documents and the IRB process. We would like to thank
+Dr. Simon C. Robson for guidance and generous use of space.
+We would also like to thank Isaac Bernstein ‐Hanley for his
+support at the Harvard Catalyst in the Harvard Clinical and
+Translational Science Center.
+Declaration of Conflicting Interests
+None.
+Funding
+This work was conducted with support from Harvard Catalyst,
+The Harvard Clinical, and Translational Science Center (NIH
+Award #UL1 RR 025758 and ﬁnancial contributions from
+Harvard University, its af ﬁliated academic health care centers
+and from the National Center for Research Resources). This
+content is solely the responsibility of the authors and does not
+necessarily represent the of ﬁcial views of Harvard Catalyst,
+Harvard University, and its af ﬁliated academic health care
+centers, the National Center for Research Resources, or the
+National Institutes of Health.
+References
+1. Larson AM, Polson J, Fontana RJ, et al. Acetaminophen ‐induced
+acute liver failure: results of a United States multicenter, prospective
+study. Hepatology. 2005;42:1364–1372.
+2. Marx J. Toxicology, Protecting liver from painkiller ’s lethal dose.
+Science. 2002;298:341–342.
+3. Manthripragada AD, Zhou EH, Budnitz DS, Lovegrove MC, Willy
+ME. Characterization of acetaminophen overdose ‐related emergen-
+cy department visits and hospitalizations in the United States.
+Pharmacoepidemiol Drug Saf. 2011;20:819–826.
+4. Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver
+transplantation for acute liver failure from drug induced liver
+injury in the United States. Liver Transpl. 2004;10:1018–
+1023.
+5. Bond GR, Ho M, Woodward RW. Trends in hepatic injury
+associated with unintentional overdose of paracetamol (acetamino-
+phen) in products with and without Opioid: an analysis using the
+National Poison Data System of the American Association of Poison
+Control Centers, 2000 –7. Drug Saf. 2012;35:149–157.
+6. Zaher H, Buters JT, Ward JM, et al. Protection against acetamino-
+phen toxicity in CYP1A2 and CYP2E1 double ‐null mice. Toxicol
+Appl Pharmacol. 1998;152:193–199.
+7. American Academy of Pediatrics. Committee on D. Acetaminophen
+toxicity in children. Pediatrics. 2001;108:1020–1024.
+8. Miller RP, Roberts RJ, Fischer LJ. Acetaminophen elimination
+kinetics in neonates, children, and adults. Clin Pharmacol Ther.
+1976;19:284–294.
+9. Lauterburg BH, Vaishnav Y, Stillwell WG, Mitchell JR. The effects
+of age and glutathione depletion on hepatic glutathione turnover in
+vivo determined by acetaminophen probe analysis.J Pharmacol Exp
+Ther. 1980;213:54–58.
+10. Bond GR. Reduced toxicity of acetaminophen in children: it ’s the
+liver. J Toxicol Clin Toxicol. 2004;42:149–152.
+11. Alam SN, Roberts RJ, Fischer LJ. Age ‐related differences in
+salicylamide and acetaminophen conjugation in man. J Pediatr.
+1977;90:130–135.
+12. Squires RH, Jr., Shneider BL, Bucuvalas J, et al. Acute liver failure
+in children: the ﬁrst 348 patients in the pediatric acute liver failure
+study group. J Pediatr. 2006;148:652–658.
+13. Package insert, Acetaminophen Oral Solution USP [Package insert.].
+www.paipharma.com.
+14. Kelava T, Cavar I, Culo F. In ﬂuence of small doses of various drug
+vehicles on acetaminophen
+‐induced liver injury. Can J Physiol
+Pharmacol. 2010;88:960–967.
+15. Thomsen MS, Loft S, Roberts DW, Poulsen HE. Cytochrome
+P4502E1 inhibition by propylene glycol prevents acetaminophen
+(paracetamol) hepatotoxicity in mice without cytochrome P4501A2
+inhibition. Pharmacol Toxicol. 1995;76:395–399.
+16. Chien JY, Peter RM, Nolan CM, et al. In ﬂuence of polymorphic N‐
+acetyltransferase phenotype on the inhibition and induction of
+acetaminophen bioactivation with long ‐term isoniazid. Clin Phar-
+macol Ther. 1997;61:24–34.
+17. Reith D, Medlicott NJ, Kumara De Silva R, Yang L, Hickling J,
+Zacharias M. Simultaneous modelling of the Michaelis ‐Menten
+kinetics of paracetamol sulphation and glucuronidation. Clin Exp
+Pharmacol Physiol. 2009;36:35–42.
+18. Zapater P, Lasso de la VegaMC, Horga JF, et al. Pharmacokinetic
+variations of acetaminophen according to liver dysfunction and
+portal hypertension status. Aliment Pharmacol Ther. 2004;20:
+29–36.
+19. Savides MC, Oehme FW. Acetaminophen and its toxicity. J Appl
+Toxicol. 1983;3:96–111.
+20. Slattery JT, Levy G. Acetaminophen kinetics in acutely poisoned
+patients. Clin Pharmacol Ther. 1979;25:184–195.
+Ganetsky et al. 419
+21. Snawder JE, Benson RW, Leakey JE, Roberts DW. The effect of
+propylene glycol on the P450 ‐dependent metabolism of acetamino-
+phen and other chemicals in subcellular fractions of mouse liver.Life
+Sci. 1993;52:183–189.
+22. Chen C, Krausz KW, Idle JR, Gonzalez FJ. Identi ﬁcation of novel
+toxicity‐associated metabolites by metabolomics and mass iso-
+topomer analysis of acetaminophen metabolism in wild ‐type and
+Cyp2e1‐null mice. J Biol Chem. 2008;283:4543–4559.
+23. Vendemiale G, Altomare E, Trizio T, Leandro G, Manghisi OG,
+Albano O. Effect of acute and chronic cimetidine administration on
+acetaminophen metabolism in humans. Am J Gastroenterol. 1987;
+82:1031–1034.
+24. Prescott LF, Critchley JA. Drug interactions affecting analgesic
+toxicity. Am J Med. 1983;75:113–116.
+25. Mehrpour O, Ballali ‐Mood M. Why not formulate an acetaminophen
+tablet containing N‐acetylcysteine to prevent poisoning? J Med
+Toxicol. 2011;7:95–96.
+26. Zar T, Graeber C, Perazella MA. Recognition, treatment, and
+prevention of propylene glycol toxicity. Semin Dial. 2007;20:217–
+219.
+27. Goldsmith LA. Propylene glycol. Int J Dermatol. 1978;17:703–705.
+28. Ursino MG, Poluzzi E, Caramella C, De Ponti F. Excipients in
+medicinal products used in gastroenterology as a possible cause of
+side effects. Regul Toxicol Pharmacol. 2011;60:93–105.
+420 The Journal of Clinical Pharmacology / Vol 53 No 4 (2013)

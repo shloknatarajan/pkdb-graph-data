@@ -1,0 +1,714 @@
+Pharmacokinetics of Intravenous Paracetamol
+in Elderly Patients
+Antti Liukas,1 Kristiina Kuusniemi,1 Riku Aantaa,1 Petri Virolainen,2 Mikko Niemi,3
+Pertti J. Neuvonen 3 and Klaus T. Olkkola1
+1 Department of Anaesthesiology , Intensive Care, Emergency Care and Pain Medicine, University of Turku
+and Turku University Hospital, Turku, Finland
+2 Department of Orthopaedics and Traumatology , University of Turku and Turku University Hospital, Turku, Finland
+3 Department of Clinical Pharmacology , University of Helsinki and Helsinki University Central Hospital, Helsinki, Finland
+Abstract Background and Objectives: Intravenous paracetamol ( N-acetyl-paraminophenol, acetaminophen) is a
+widely used nonopioid analgesic which has become popular in the treatment of pain in many patient groups,
+including the elderly. Although intravenous paracetamol has been studied widely in clinical analgesia
+studies, there is little information on its pharmacokinetics in the elderly. We designed this study to determine
+the pharmacokinetics of intravenous paracetamol in very old patients and to compare them with that of
+younger patients. We also considered the effect of adenosine triphosphate-binding cassette G2 protein
+(ABCG2) genotype and renal function on paracetamol pharmacokinetics in these patients.
+Methods: We compared the pharmacokinetics of intravenous paracetamol in four groups of ten patients,
+aged 20–40, 60–70, 70–80 and 80–90 years, undergoing orthopaedic surgery. Paracetamol 1000 mg was given
+by infusion over 15 minutes. Plasma concentrations of paracetamol and its glucuronide and sulphate con-
+jugates were measured for 24 hours with a high-performance liquid chromatographic method and ABCG2
+genotype was determined. Glomerular filtration rate (GFR) was estimated from age, sex and serum crea-
+tinine of the patient.
+Results: In the group aged 80–90 years, the mean value of the area under the plasma concentration-time
+curve extrapolated to infinity (AUC
+1) of paracetamol was 54–68% higher than in the two youngest groups.
+Paracetamol clearance showed a statistically significant dependence on age group, whereas volume of
+distribution during elimination and elimination half-life were associated with age group and sex, respect-
+ively. Based on mean AUC1 of paracetamol glucuronide and paracetamol sulphate, the oldest patients had
+1.3- to 1.5-fold greater exposure to these metabolites than patients aged 20–40 years. ABCG2 genotype did
+not affect paracetamol pharmacokinetics. There was a linear correlation between the values of AUC 1 of
+paracetamol, its glucuronide and sulphate metabolites and GFR.
+Conclusion: Age and sex are important factors affecting the pharmacokinetics of paracetamol. The higher
+the age of the patient, the higher is the exposure to paracetamol. Female sex is associated with increased
+paracetamol concentrations but ABCG2 genotype does not seem to affect paracetamol pharmacokinetics.
+Trial registration number (EudraCT): 2006-001917-14
+Background
+Paracetamol (N-acetyl-paraminophenol, acetaminophen) is
+a widely used nonopioid analgesic which lacks many of the ad-
+verse effects that the classic nonsteroidal anti-inflammatory
+drugs have. [1] Multimodal analgesia for acute postoperative
+pain with opioids in conjunction with paracetamol has become
+very popular as intravenous paracetamol became commercially
+available in 2002. Although intravenous paracetamol has been
+studied widely in clinical analgesia studies, [2-4] there is little
+information on its pharmacokinetics in the elderly. The cur-
+rently available pharmacokinetic data are mainly based on
+studies performed in patients under 70 years of age or in healthy
+subjects. Nevertheless, a growing number of patients requiring
+ORIGINAL RESEARCH ARTICLE
+Clin Pharmacokinet 2011; 50 (2): 121-129
+0312-5963/11/0002-0121/$49.95/0
+ª 2011 Adis Data Information BV. All rights reserved.
+analgesics are much older, up to 90 or even 100 years of age.
+Challenges of drug therapy in the elderly have been the subject
+of several reviews and other articles in medical literature in re-
+cent years.
+[5-8] We designed this study to determine the pharma-
+cokinetics of intravenous paracetamol in very old patients and
+to compare them with that of younger patients. Because the
+relative amounts of the major metabolites of paracetamol in
+children are dependent on the age of the patient, we measured
+the concentrations of both the (parent) paracetamol and its
+glucuronide and sulphate metabolites.
+[9] We also considered the
+effect of adenosine triphosphate-binding cassette G2 protein
+(ABCG2) genotype and renal function on paracetamol pharma-
+cokinetics in these patients. ABCG2 protein is an efflux trans-
+porter that is expressed in various normal tissues such as small
+intestine, colon, liver, kidney, stem cells, placenta, mammary
+gland, brain and heart, as well as in cancer cells.
+[10] It mediates
+the cellular efflux of a wide variety of xenobiotics including
+sulphate and glucuronide metabolites of some compounds such
+as paracetamol.[11]
+Patients and Methods
+Patients
+After obtaining institutional approval and informed written
+consent, 40 patients aged 20–90 years whose physical status was
+classified as I–IV according to the American Society of An-
+aesthesiologists’ physical status classification were included in
+this study. The study protocol was approved by the Finnish
+Medicines Agency and was thereby reported to the European
+EudraCT clinical trials register and was given the code number
+2006-001917-14. Ten patients were recruited to each of the
+following four groups: patients aged 20–40, 60–70, 70–80 and
+80–90 years. Eight patients were calculated to be required in
+each group to demonstrate a 30 % difference in the largest and
+smallest mean values of the paracetamol area under plasma
+concentration-time curve (AUC) extrapolated to infinity (AUC
+1)
+at a level of significance of p < 0.05 and power of 80 %. The
+youngest patients were scheduled for arthroscopic anterior cru-
+ciate ligament operation of the knee and the older patients for
+elective knee prosthesis operation. Patients using strong inhibitors
+or inducers of cytochrome P450 enzymes or having significant
+hepatic, renal, neurological, haematological, endocrine, metabolic
+or gastrointestinal diseases or a body mass index>35 kg/m
+2 were
+excluded from the study. Patients were judged to have a significant
+hepatic, renal, neurological, haematological or gastrointestinal
+disease if they had a clinical diagnosis of any of the above diseases.
+Patients with diabetes mellitus were eligible unless they had
+significant renal involvement. Renal function was evaluated by
+estimating the glomerular filtration rate (GFR) from age and sex
+of the patient and his /her serum creatinine (SCr) by using ab-
+breviated Modification of Diet in Renal Disease study equation
+(equation 1):
+[12]
+GFR ¼ 186 /C2 88:41:154 /C2 SCr/C0 1:154 /C2 Age/C0 0:203 /C2ð 0:742 if female Þ
+(Eq: 1Þ
+Anaesthesia and Treatment of Postoperative Pain
+All patients were anaesthetized with an intrathecal injection
+of 5 mg/mL plain bupivacaine. An epidural catheter was placed
+for postoperative pain management. The epidural solution con-
+tained 1.0 mg/mL plain bupivacaine and 5 mg/mL fentanyl. The
+infusion pump was set to deliver 1–7 mL/h of the solution to the
+epidural catheter. In case of insufficient pain relief, as de-
+termined by subjective visual analogue scale (VAS) score of
+3 (minimum 0–maximum 10), patients were set to receive
+morphine 3 mg intravenously at 15-minute intervals until VAS
+score was under 4.
+Postoperative Care
+All patients stayed at the post-anaesthesia care unit (PACU)
+until the first postoperative morning. Standard laboratory tests
+including complete blood count, C-reactive protein, sodium
+and potassium were taken in the PACU in the first post-
+operative morning from all patients undergoing knee prosthesis
+operation and from other patients if clinically indicated. After
+knee prosthesis surgery the patients were hospitalized for
+4–5 days. After anterior cruciate ligament operation the pa-
+tients were discharged within 24 hours after the operation. Dur-
+ing their hospital stay all patients were observed according to
+the normal routine of our hospital. Further laboratory tests
+were taken only when clinically indicated.
+Administration of the Study Drug and Blood Sampling
+The study medication, 1000 mg of intravenous paracetamol
+(Perfalgan 10 mg /mL 100 mL solution; Bristol-Myers Squibb,
+Agen, France), was administered using an automated infusion
+device (Braun Infusomat Space Infusor; B. Braun Melsungen
+AG, Melsungen, Germany) over 15 minutes. Timed venous
+blood samples were drawn into heparinized tubes before the
+administration of paracetamol and at 7.5 and 15 minutes
+during the infusion. After completion of the infusion, samples
+122 Liukas et al.
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+were drawn at 2.5, 5, 10, 15, 20, 30, 45 and 60 minutes and at 1.5,
+2, 3, 4, 5, 6, 8, 10, 12, 18 and 24 hours.
+Bioanalytical Assay
+Plasma concentrations of paracetamol and its major meta-
+bolites, paracetamol glucuronide and paracetamol sulphate,
+were determined using a minor modification of a high-
+performance liquid chromatographic method.
+[13] We precipi-
+tated plasma proteins using methanol, instead of perchloric
+acid, to avoid a hydrolysis of paracetamol sulphate in the acidic
+medium. The lower limits of quantification were 0.25 mg /L for
+paracetamol and paracetamol sulphate and 0.5 mg /L for para-
+cetamol glucuronide. The interday coefficient of variation (CV)
+for paracetamol was 12.8 %, 12.5% and 5.1% at 0.398, 2.01 and
+10.1 mg/L, respectively (n = 38). The CV for the glucuronide
+metabolite was 11.5 % and 4.5% at 1.76 and 9.48 mg /L( n = 41),
+respectively. The corresponding values for paracetamol sulphate
+were 13.6%, 11.6% and 7.4% at 0.342, 1.72 and 8.74 mg/L( n= 38).
+Genotyping for ABCG2
+Genomic DNA was extracted from whole-blood samples
+using standard methods (QIAamp DNA Blood Mini Kit;
+Qiagen, Hilden, Germany). The subjects were genotyped for the
+ABCG2c.421C>A single nucleotide polymorphism (p.Gln141Lys;
+rs2231142) by allelic discrimination with a TaqMan Drug Me-
+tabolism Genotyping Assay (assayID: C__15854163_70; Applied
+Biosystems, Foster City, CA, USA).
+[14]
+Pharmacokinetic Measurements
+Maximum plasma concentration (C max) and time to reach
+Cmax (tmax) of paracetamol and its metabolites were observed
+directly from the data. The terminal elimination rate constant
+(l
+z) was determined by regression analysis of the log-linear part
+of the curve. The elimination half-life (t ½) was calculated from
+t½ = ln2/lz. The AUC 1 for paracetamol and the metabolites
+and the total plasma clearance (CL) and volume of distribution
+during elimination (V z) for paracetamol were calculated using
+standard noncompartmental methods (WinNonlin pharmaco-
+kinetic program, version 4.1; Pharsight Corporation, Moun-
+tain View, CA, USA). Because a standard dose of 1000 mg of
+paracetamol was administered to all patients, the standardized
+AUC
+1 (sAUC1) for paracetamol and the metabolites was
+calculated by dividing the AUC 1 of paracetamol by parace-
+tamol dose expressed in mg per kg bodyweight. The metabolite-
+to-parent drug AUC ratios (AUC m/AUCp) were calculated so
+as to afford a comparison of the relative abundance of each
+metabolite.
+Statistical Analysis
+Because all 40 patients had either ABCG2 c.421CA or
+c.421CC genotype, the possible effect of ABCG2 genotype on
+pharmacokinetic variables was tested using Student’s t-test prior
+to other statistical analyses. Thereafter, all pharmacokinetic
+30
+a
+b
+c
+20
+10
+0
+30
+20
+10
+0
+10
+8
+Paracetamol sulphate (mg/L) Paracetamol glucuronide (mg/L) Paracetamol (mg/L)
+6
+4
+2
+0
+0369
+Time (h)
+12 18 24
+0369 1 2 1 8 2 4
+0 3 6 9 12 18 24
+80−90 y
+70−80 y
+60−70 y
+20−40 y
+Fig. 1. Mean – standard error of the mean (SEM) plasma concentrations of
+(a) paracetamol, ( b) paracetamol glucuronide and ( c) paracetamol sulphate
+after a single intravenous dose of paracetamol 1000 mg in 40 patients aged
+20–90 years (10 patients in each group) who were undergoing orthopaedic
+surgery.
+PK of IV Paracetamol in the Elderly 123
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+variables except t max were compared using stepwise two-way
+(age group, sex, age group· sex) analysis of variance. The values
+for tmax were compared using the Kruskal-Wallis test followed
+by the Mann-Whitney U-test. p < 0.05 was considered as sta-
+tistically significant. The results are expressed as mean –
+standard deviation (SD), except in figure 1 where, for clarity,
+mean – standard error of the mean (SEM) values are given. All
+data were analysed using the statistical program SYSTAT for
+Windows (version 10.2; Systat Software, Richmond, CA, USA).
+Results
+Patient Characteristics
+Patient characteristics are shown in table I. No clinical signs
+of paracetamol toxicity were observed in any of the patients.
+Based on the availability of serum creatinine determinations,
+GFR could be estimated for all patients who were older than
+60 years but only for three patients in the group aged
+20–40 years. The youngest and oldest groups differed signif-
+icantly from the others in many respects. On the basis of the
+American Society of Anaesthesiologists’ physical status classi-
+fication the youngest group was healthier than the others. In the
+oldest group there was an overrepresentation of females as
+compared to the other groups. As a result, the oldest group also
+weighed less and was shorter than the others. All patients were
+Caucasian. All except two male patients in the youngest group
+were non-smoking.
+Effect of Age on Paracetamol Pharmacokinetics
+In the group aged 80–90 years the mean value of AUC 1 of
+paracetamol obtained after the dose of 1000 mg of paracetamol
+was 54–68 % higher than in the two youngest groups, respect-
+ively (figures 1 and 2; see also table S-1 in Supplemental Digital
+Content 1; http://links.adisonline.com/CPZ/A13). The sAUC1
+was higher in the two oldest groups as compared to the two
+youngest groups and there was also an association with sex.
+The calculated pharmacokinetic variables with the results of the
+statistical analysis are shown in table II. CL showed a statisti-
+cally significant dependence on age group, whereas V
+z and t ½
+were associated with age group, sex and age group · sex inter-
+action. Cmax was only associated with sex.
+Based on the mean values of AUC 1 of paracetamol glu-
+curonide and paracetamol sulphate, the oldest patients had 1.3-
+to 1.5-fold greater exposure to these metabolites than patients
+aged 20–40 years. The individual values of AUC
+m/AUCp ratios
+suggested that the relative abundance of paracetamol glucur-
+onide was dependent on patient age or sex as the mean
+AUCm/AUCp ratio was smaller in young adults than the others.
+Effect of Renal Function and ABCG2 Genotype
+on Paracetamol Pharmacokinetics
+There was a linear correlation between the values of AUC 1
+of paracetamol, its glucuronide and sulphate metabolites and
+the estimated GFR (figure 3). The values for squared correla-
+tion coefficient (r
+2) varied from 0.19 to 0.63 and they were
+clearly higher for the association between metabolite AUC 1
+and estimated GFR.
+The relationship of ABCG2 c.421C>A genotype and the
+AUC1 values for paracetamol and its glucuronide and sul-
+phate metabolites were measured but no statistically significant
+differences were observed.
+Analgesia
+None of the patients required any additional pain relief to
+paracetamol and epidural infusion of bupivacaine and fentanyl.
+Naloxone was given to eight patients (two aged 20–40 years,
+Table I. Patient characteristics
+Age
+group (y)
+Sex
+(n, male/female)
+ASA physical status
+(n, I/II/III/IV)
+ABCG2 genotype
+(n, c.421CC/c.421CA/c.421AA)
+Age
+(y)
+a
+Weight
+(kg)a
+Height
+(cm)
+a
+BMI
+(kg/m
+2)a
+Estimated GFR
+(mL/min/1.73 m
+2)a
+20–40 7 /38 /2/0/08 /2/02 7 – 58 1 – 14 177 – 10 25.7 – 2.2 108 – 10
+60–70 5 /50 /6/4/07 /3/06 6 – 38 3 – 9 169 – 9 29.0 – 1.5*** 82 – 16
+70–80 6 /40 /5/5/09 /1/07 7 – 38 2 – 13 169 – 10 28.9 – 3.3*** 76 – 17***
+80–90 1 /90 /6/2/29 /1/08 4 – 36 8 – 8* 160 – 7** 26.3 – 2.2 64 – 19**
+p-Valueb 0.040 <0.0001 0.592 0.012 0.003 0.004 0.003
+a Values are expressed as mean – SD unless specified otherwise.
+b p-Values determined by analysis of variance, except for sex, ASA physical status and ABCG2 genotype, which were determined by chi-square test.
+ASA = American Society of Anaesthesiologists; BMI = body mass index; GFR = glomerular filtration rate; SD = standard deviation; * p < 0.05 vs age groups
+20–40, 60–70 and 70–80 y, ** p < 0.01 vs age group 20–40 y, *** p < 0.05 vs age group 20–40 y.
+124 Liukas et al.
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+two aged 60–70 years, one aged 70–80 years and three aged
+80–90 years) for itching.
+Discussion
+The administration of a standard dose of 1000 mg of in-
+travenous paracetamol resulted in 36–68 % higher exposure to
+paracetamol in patients aged 70–80 and 80–90 years than in
+patients aged 20–40 years. The higher concentrations were
+caused by lower CL and smaller Vz in the oldest patients. These
+age-related changes in the primary pharmacokinetic variables
+were also reflected in the observed values for Cmax and t½ which
+were increased in the oldest group. Patients aged 80–90 years
+had, on the average, 90 % higher paracetamol plasma con-
+centrations than the young adults 8 hours after its infusion (see
+table S-1 in Supplemental Digital Content 1).
+Previous studies have given inconclusive information on the
+pharmacokinetics of paracetamol in the elderly. Some of the
+discrepancies might have been caused by short and sparse
+sampling of blood following the administration of paraceta-
+mol. In many studies paracetamol has been given orally which
+has not allowed the determination of the primary pharma-
+cokinetic parameters CL and V
+z. Triggs et al. [15] and Miners
+et al. [16] studied the oral pharmacokinetics of paracetamol in
+young and elderly subjects. Both study groups concluded that
+pharmacokinetics of paracetamol were essentially similar in the
+two age groups. Both studies, however, suffered from a short
+sampling period of only 6–8 hours. Briant et al.
+[17] reported
+8
+a
+b
+c
+d
+e
+f
+100
+50
+0
+600
+400
+200
+0
+200
+150
+100
+50
+0
+6
+CL (mL/min/kg)
+Vz (L/kg)
+AUC∞ (mg • h/mL)AUC∞ (mg • h/mL) AUC∞ (mg • h/mL)
+t1/2,z (h)
+4
+2
+0
+2.0
+1.5
+1.0
+0.5
+0
+10
+8
+6
+4
+2
+0
+20−40 60−70 70−80
+Age group (y)
+80−90 20−40 60−70 70−80 80−90
+20−40 60−70 70−80 80−90 20−40 60−70 70−80 80−90
+20−40 60−70 70−80 80−90 20−40 60−70 70−80 80−90
+Males
+Females
+Fig. 2. Individual values for (a) total plasma clearance (CL), (b) volume of distribution during elimination (Vz)a n d(c) terminal elimination half-life (t½,z) after a single
+intravenous dose of paracetamol 1000 mg in 40 patients aged 20–90 years (10 patients in each group) who were undergoing orthopaedic surgery; and valueso f
+area under the plasma concentration-time curve extrapolated to infinity (AUC1)f o r(d) paracetamol, (e) paracetamol glucuronide and (f) paracetamol sulphate.
+PK of IV Paracetamol in the Elderly 125
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+a prolongation of paracetamol t ½ as a result of the reduction
+of CL, but the calculations were based on only four samples per
+patient which makes the reliable assessment of pharmaco-
+kinetics difficult. Divoll et al., [18] on the other hand, observed
+that higher age was associated with lower CL and smaller V z
+but unchanged t½ of paracetamol. They also reported clear-cut
+pharmacokinetic differences between the sexes because the val-
+ues for CL and V z were lower in women than in men.
+In addition to the methodological differences between pre-
+vious paracetamol studies in the elderly and our study, the ob-
+served differences might have been due to the heterogeneity of
+the elderly study population. In some of the above studies the
+elderly patients have been healthy while in others they might
+have suffered from disabling health conditions. [15-18] Indeed,
+it has been suggested that it is not the age itself which is
+responsible for the majority of the changes in paracetamol
+pharmacokinetics but it is the general health condition which
+explains the differences. Wynne et al.
+[19] studied the association
+of age and frailty with paracetamol metabolism in man. They
+concluded that the physical state of the elderly person is
+strongly associated with the capacity of the liver to eliminate
+paracetamol from the body because paracetamol pharmaco-
+kinetics in healthy elderly people were in fact similar to that in
+young adults.
+Table II. Estimatesa of noncompartmental pharmacokinetic parameters for paracetamol and its primary metabolites in patients undergoing orthopaedic
+surgery. Ten patients in each group
+Age group (y) CL (mL /min/kg) V z (L/kg) t max (h) C max (mg/L) t ½ (h) AUC 1
+(mg/C1h/mL)
+sAUC1
+(kg/C1h/mL)
+AUCm/AUCp
+Paracetamol
+20–40 4.6 – 1.1 1.04 – 0.22 0.31 – 0.07 16.3 – 4.5 2.7 – 0.6 44 – 13 3.5 – 0.8
+60–70 4.2 – 1.3 0.90 – 0.16 0.32 – 0.08 16.6 – 9.0 2.6 – 0.6 48 – 15 3.9 – 1.1
+70–80 3.3 – 0.9 0.87 – 0.20 0.35 – 0.15 15.9 – 5.3 3.2 – 1.1 60 – 17 4.9 – 1.5
+80–90 3.3 – 1.0 0.92 – 0.26 0.26 – 0.05 25.8 – 9.2 3.6 – 1.9 74 – 16 5.0 – 1.2
+p-Value for age group b 0.004 0.007 0.325 <0.001 0.008 0.002
+p-Value for sex b <0.001 NA <0.001 <0.001 0.010
+p-Value for age group · sexb 0.061 0.040 NA <0.001 0.057
+Paracetamol glucuronide
+20–40 2.3 – 0.4 17.6 – 5.8 3.1 – 0.7 117 – 34 9.5 – 2.9 2.80 – 0.95
+60–70 3.1 – 0.7 20.3 – 2.5 3.4 – 0.7 168 – 35 13.9 – 3.3 3.76 – 1.07
+70–80 3.5 – 0.6 20.7 – 8.7 4.0 – 0.6 192 – 95 15.9 – 8.6 3.26 – 1.21
+80–90 3.9 – 0.7 27.0 – 7.7 4.3 – 1.0 272 – 131 18.3 – 8.6 3.81 – 1.87
+p-Value for age group
+b <0.001 0.022 0.009 0.003 0.031 0.291
+p-Value for sex b NA
+p-Value for age group · sexb NA
+Paracetamol sulphate
+20–40c 1.6 – 0.5 4.8 – 0.9 3.1 – 0.7 31 – 8 2.5 – 0.7 0.70 – 0.18
+60–70c 2.3 – 0.6 6.0 – 1.9 3.7 – 1.3 48 – 22 4.0 – 1.9 1.02 – 0.22
+70–80 2.8 – 0.8 7.1 – 2.6 3.6 – 0.7 61 – 23 4.9 – 2.0 1.03 – 0.34
+80–90 2.4 – 0.9 9.2 – 2.6 4.0 – 1.1 84 – 39 5.6 – 2.5 1.13 – 0.39
+p-Value for age group b 0.009 0.012 0.259 <0.001 0.007 0.025
+p-Value for sex b NA 0.043
+p-Value for age group · sexb NA
+a Estimates are expressed as mean – SD.
+b p-Values determined by stepwise two-way analysis of variance, except for t max, which was determined by Kruskal-Wallis test.
+cn = 9, since paracetamol sulphate concentrations could not be quantified because of disturbing peaks.
+AUC = area under plasma concentration-time curve;AUCm/AUCp = metabolite-to-parent drug AUC ratio;AUC1 = AUC extrapolated to infinity; CL = total plasma
+clearance;Cmax = maximum plasma concentration;NA = not applicable;sAUC1 = standardized AUC1 calculated by dividing the AUC1 of paracetamol by paracetamol
+dose expressed in mg per kg bodyweight;SD = standard deviation;t½ = elimination half-life;tmax = time to reach Cmax; Vz = volume of distribution during elimination.
+126 Liukas et al.
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+In the present study the mean age of the oldest group was
+84 years and the oldest patient was almost 89 years old. There
+was an overrepresentation of females in the oldest group which
+somewhat complicated the analysis of age on the pharmaco-
+kinetics of paracetamol. However, when age and sex are taken
+into account in the stepwise analysis of variance, the primary
+pharmacokinetic parameters CL and V
+z were dependent on
+both of these factors. The values for CL and Vz expressed per kg
+of bodyweight are lower in women than in men and also lower
+in the elderly as compared to youngest adult patients in this
+study. All our patients were living at home before surgery and
+therefore none of them can be regarded as physically frail or
+having severe disabling conditions. Severe disabling conditions
+would most likely have had an additional effect on paracetamol
+pharmacokinetics.
+[19]
+ABCG2 protein (also known as breast cancer resistance pro-
+tein) is an efflux transporter that is expressed in various normal
+tissues such as small intestine, colon, liver, kidney, stem cells,
+placenta, mammary gland, brain and heart, as well as in cancer
+cells.[10] It mediates the cellular efflux of a wide variety of xeno-
+biotics including sulphate and glucuronide metabolites of some
+compounds such as paracetamol. [20] ABCG2 genotype could
+therefore have an effect on the elimination of paracetamol
+and especially its metabolites from the body. Previous studies
+have demonstrated that the ABCG2 c.421A allele is associated
+with reduced transport activity of ABCG2, both in vitro and
+in vivo .
+[11,14] However, in our study with no patients with
+the c.421AA genotype and seven patients with the c.421CA
+genotype, ABCG2 genotype had no quantifiable effect on
+paracetamol pharmacokinetics. Further studies are therefore
+warranted to shed light on the possible effect of ABCG2 geno-
+type on paracetamol pharmacokinetics.
+The values for AUC 1 of paracetamol glucuronide and sul-
+phate conjugates increased with age as did C max which can be
+explained by changes in GFR. [21] Plasma concentrations of
+paracetamol and its glucuronide and sulphate conjugates are
+increased in patients with renal failure. [21] Although our study
+group did not include any patients with manifest renal failure,
+there were patients whose estimated GFR implicated mild to
+moderate renal dysfunction. However, renal dysfunction has
+only a minor effect on the parent paracetamol. [21] This is in
+good agreement with the present study where the slope of the
+regression equation describing the relationship between the
+GFR and AUC
+1 of paracetamol had a value of 0.401. It can be
+calculated, using the regression equation obtained for parace-
+tamol (figure 3), that the deterioration of GFR from the value
+of 90 mL/min/1.73 m
+2 (lower limit of the normal range) to the
+smallest values observed in the present study would increase the
+exposure to paracetamol only by approximately 40 % which
+is unlikely to necessitate dose adjustments during short-term
+administration of paracetamol. Our results are in line with
+previous studies [22] and it can therefore be concluded that the
+current prescribing information concerning the dosing of
+paracetamol appears to be appropriate and dose adjustments
+are not needed for patients having GFR higher than
+50 mL/min/1.73 m2.
+The current practice is to use a standard dose for all adults
+irrespective of patient age. [23] Although paracetamol is a safe
+drug when used according to dosage recommendations it is a
+drug with relatively narrow therapeutic index.
+[24] Indeed, the
+safety of commonly recommended doses of paracetamol has
+100
+a
+b
+c
+y = −0.401x + 89.8
+(p < 0.05; r2 = 0.19)
+y = −4.03x + 511
+(p < 0.001; r
+2 = 0.63)
+y = −1.10x + 146
+(p < 0.001; r
+2 = 0.48)
+50
+0
+600
+AUC∞ (mg • h/mL)
+400
+200
+0
+200
+150
+100
+50
+0
+0 50 100
+GFR (mL/min/1.73 m
+2)
+150
+0 50 100 150
+0 50 100 150
+Males
+Females
+Fig. 3. Relationship between area under the plasma concentration-time
+curve extrapolated to infinity (AUC 1) and glomerular filtration rate (GFR) for
+(a) paracetamol, ( b) paracetamol glucuronide and ( c) paracetamol sulphate
+after a single intravenous dose of paracetamol 1000 mg in 40 patients aged
+20–90 years who were undergoing orthopaedic surgery. The dashed lines
+represent the 95 % confidence intervals for each regression line (solid line).
+PK of IV Paracetamol in the Elderly 127
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+recently been questioned. [25] Studies have shown that sensitive
+individuals may display disturbances in hepatocellular integrity
+even after a single dose of paracetamol. [26] If a standard dose
+of 1000 mg of intravenous paracetamol is administered to all
+adults irrespective of their age and sex, we can assume that, on
+the average, patients aged 80–90 years will have a 70 % larger
+exposure to paracetamol than young adults. In the present
+study the highest value of AUC 1 of paracetamol in the group
+aged 80–90 years was 3.8-fold as compared to the corre-
+sponding smallest value of AUC 1 in young adults (figure 2). If
+we had standardized the dose per bodyweight, the oldest group
+would have had a 40 % larger exposure to paracetamol, on the
+average, and the highest difference in AUC 1 values would be
+3.3-fold. Thus, the use of standard doses per bodyweight would
+not protect against paracetamol-induced hepatocellular toxi-
+city as compared to the current practice.
+Although paracetamol is mainly metabolized to glucuronide
+and sulphate metabolites, a minor hydroxylated metabolite
+(N-acetyl-p-benzoquinoneimine [NAPQI]) is produced in small
+amounts by cytochrome P450 isoenzymes in the liver and kid-
+ney.
+[27,28] The amount of NAPQI produced after normal doses
+of paracetamol is usually completely detoxified by conjugation
+with glutathione and excreted as mercaptopurine and cysteine
+conjugates. In paracetamol overdosage and sensitive individuals,
+tissue stores of glutathione may become depleted, allowing
+NAPQI to accumulate and cause liver cell damage.
+[29] No
+clinical signs of liver toxicity were observed in our patients after
+the single intravenous dose of 1000 mg of paracetamol. How-
+ever, our study can be criticized for not assessing the liver
+function routinely with liver function tests. Thus, minor changes
+in liver function in our patients cannot be excluded.
+Conclusion
+The clinical implication of this study is that age and sex are
+important factors affecting the pharmacokinetics of paraceta-
+mol. The higher the age of the patient, the higher is the exposure
+to paracetamol. Female sex is associated with increased para-
+cetamol concentrations but ABCG2 genotype does not seem to
+affect paracetamol pharmacokinetics.
+Acknowledgements
+This study was supported by the Turku University Hospital Research
+Fund #13821, Turku University Foundation (Turku, Finland) and the
+Sigrid Juse´ lius Foundation (Helsinki, Finland). Klaus T. Olkkola is a
+member of the Advisory Board of MSD, Finland. All other authors have
+no conflicts of interest that are directly relevant to the content of this study.
+References
+1. Hyllested M, Jones S, Pedersen JL, et al. Comparative effect of paracetamol,
+NSAIDs or their combination in postoperative pain management: a quali-
+tative review. Br J Anaesth 2002; 88: 199-214
+2. Elia N, Lysakowski C, Trame ´ r MR. Does multimodal analgesia with aceta-
+minophen, nonsteroidal antiinflammatory drugs, or selective cyclooxygenase-
+2 inhibitors and patient-controlled analgesia morphine offer advantages over
+morphine alone? Anesthesiology 2005; 103: 1296-304
+3. Remy C, Marret E, Bonnet F. Effects of acetaminophen on morphine side-
+effects and consumption after major surgery: meta-analysis of randomized
+controlled trials. Br J Anaesth 2005; 94: 505-13
+4. Sinatra RS, Jahr JS, Reynolds LW, et al. Efficacy and safety of single and
+repeated administration of 1 gram intravenous acetaminophen injection
+(paracetamol) of pain management after major orthopedic surgery. An-
+esthesiology 2005; 102: 822-31
+5. Hammerlein A, Derendorf H, Lowenthal DT. Pharmacokinetic and pharma-
+codynamic changes in the elderly: clinical implications. Clin Pharmacokinet
+1998; 35: 49-64
+6. Butler JM, Begg EJ. Free drug metabolic clearance in elderly people. Clin
+Pharmacokinet 2008; 47: 297-321
+7. White M, Kenny GN, Schraag S. Use of target controlled infusion to derive age
+and gender covariates for propofol clearance. Clin Pharmacokinet 2008; 47:
+119-27
+8. Klotz U. Pharmacokinetics and drug metabolism in the elderly. Drug Metab
+Rev 2009; 41: 67-76
+9. Miller RP, Roberts RJ, Fisher LJ. Acetaminophen elimination kinetics in
+neonates, children, and adults. Clin Pharmacol Ther 1976; 19: 284-94
+10. Hardwick LJ, Velamakanni S, van Veen HW. The emerging pharmaco-
+therapeutic significance of the breast cancer resistance protein (ABCG2).
+Br J Pharmacol 2007; 151: 163-74
+11. Kondo C, Suzuki H, Itoda M, et al. Functional analysis of SNPs variants of
+BCRP/ABCG2. Pharm Res 2004; 21: 1895-903
+12. Levey AS, Coresh J, Balk E, et al. National Kidney Foundation practice
+guidelines for chronic kidney disease: evaluation, classification, and stratifi-
+cation. Ann Intern Med 2003; 139: 137-47
+13. Vertzoni MV, Archontaki HA, Galanopoulou P. Development and optimi-
+zation of a reversed-phase high-performance liquid chromatographic method
+for the determination of acetaminophen and its major metabolites in rabbit
+plasma and urine after a toxic dose. J Pharmaceut Biomed 2003; 32: 487-93
+14. Keskitalo JE, Zolk O, Fromm MF, et al. ABCG2 polymorphism markedly
+affects the pharmacokinetics of atorvastatin and rosuvastatin. Clin Phar-
+macol Ther 2009; 86: 197-203
+15. Triggs EJ, Nation RL, Long A, et al. Pharmacokinetics in the elderly. Eur J
+Clin Pharmacol 1975; 8: 55-62
+16. Miners JO, Penhall R, Robinson RA, et al. Comparison of paracetamol me-
+tabolism in young adult and elderly males. Eur J Clin Pharmacol 1988; 35:
+157-60
+17. Briant RH, Dorrington RE, Cleal J, et al. The rate of acetaminophen metab-
+olism in the elderly and the young. J Am Geriatr Soc 1976; 24: 359-61
+18. Divoll M, Abernethy DR, Ameer B, et al. Acetaminophen kinetics in the
+elderly. Clin Pharmacol Ther 1982; 31: 151-6
+19. Wynne HA, Cope LH, Herd B, et al. The association of age and frailty with
+paracetamol conjugation in man. Age Ageing 1990; 19: 419-24
+20. Zamek-Gliszczynski MJ, Nezasa K, Tian X, et al. The important role of bcrp
+(abcg2) in the biliary excretion of sulphate and glucuronide metabolites of
+acetaminophen, 4-methylumbelliferone, and harmol in mice. Mol Pharmacol
+2006; 70: 2127-33
+21. Prescott LF, Speirs GC, Critchley JA, et al. Paracetamol disposition and me-
+tabolite kinetics in patients with chronic renal failure. Eur J Clin Pharmacol
+1989; 36: 291-7
+128 Liukas et al.
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
+22. Bannwarth B, Pehourcq F, Lagrange F, et al. Single and multiple dose
+pharmacokinetics of acetaminophen (paracetamol) in polymedicated very old
+patients with rheumatic pain. J Rheumatol 2001; 28: 182-4
+23. Electronic Medicines Compendium UK. Perfalgan 10 mg /mL solution for
+infusion: summary of product characteristics [online]. Available from URL:
+http://emc.medicines.org.uk/medicine/14288/SPC/Perfalgan %2010mg/ml%
+20Solution%20for%20Infusion/ [Accessed 2010 Nov 8]
+24. Sweetman S, editor. Martindale: the complete drug reference [electronic
+version]. London: Pharmaceutical Press, 2006 Sep 1
+25. Kaplowitz N. Acetaminophen hepatoxicity: what do we know, what don’t we
+know, and what do we do next? Hepatology 2004; 40: 23-6
+26. Watkins PB, Kaplowitz N, Slattery JT, et al. Aminotransferase elevations in
+healthy adults receiving 4 grams of acetaminophen daily: a randomized
+controlled trial. JAMA 2006; 296: 87-93
+27. Manyike PT, Kharasch ED, Kalhorn TF, et al. Contribution of CYP2E1 and
+CYP3A to acetaminophen reactive metabolite formation. Clin Pharmacol
+Ther 2000; 67: 275-82
+28. Gelotte CK, Aulier JF, Lynch JM, et al. Disposition of acetaminophen at 4, 6, and
+8g /day for 3 days in healthy young adults. Clin Pharmacol Ther 2007; 81: 840-8
+29. American Academy of Pediatrics Committee on Drugs. Acetaminophen toxi-
+city in children. Pediatrics 2001; 108: 1020-4
+Correspondence: Dr Antti Liukas, Department of Anaesthesiology , Intensive
+Care, Emergency Care and Pain Medicine, University of Turku and Turku
+University Hospital, 20520 Turku, Finland.
+E-mail: antti.liukas@tyks.fi
+PK of IV Paracetamol in the Elderly 129
+ª 2011 Adis Data Information BV. All rights reserved. Clin Pharmacokinet 2011; 50 (2)
