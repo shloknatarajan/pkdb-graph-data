@@ -23,7 +23,11 @@ PAPERS = HF / "papers"
 def norm_substances(subs) -> list[str]:
     out = []
     for s in subs or []:
-        out.append(s.get("name") or s.get("label") or s.get("sid") if isinstance(s, dict) else str(s))
+        out.append(
+            s.get("name") or s.get("label") or s.get("sid")
+            if isinstance(s, dict)
+            else str(s)
+        )
     return [x for x in out if x]
 
 

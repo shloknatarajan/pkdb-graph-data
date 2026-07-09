@@ -169,7 +169,7 @@ print(ds["train"][0]["target_json"])              # JSON string: the extraction 
 
 ## Statistics
 
-- Figure→timecourse image pairs: **{n_rec}**  (train **{counts['train']}** / validation **{counts['validation']}**, study-disjoint)
+- Figure→timecourse image pairs: **{n_rec}**  (train **{counts["train"]}** / validation **{counts["validation"]}**, study-disjoint)
 - Distinct studies: **{n_studies}**
 - Digitized curves: **{n_series}** · (time, value) points: **{n_points}**
 

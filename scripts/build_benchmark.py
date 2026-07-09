@@ -35,8 +35,16 @@ OUT = ROOT / "benchmark"
 IMG_OUT = OUT / "images"
 PAP_OUT = OUT / "papers"
 
-TC_KEYS = ["substance", "intervention", "tissue", "group", "individual", "count",
-           "label", "measurement_type"]
+TC_KEYS = [
+    "substance",
+    "intervention",
+    "tissue",
+    "group",
+    "individual",
+    "count",
+    "label",
+    "measurement_type",
+]
 
 
 def pdf_text(pdf: Path) -> str | None:

@@ -120,7 +120,9 @@ def parse_tsv_series(tsv_path: Path, source_file: str) -> list[dict]:
         series.append(
             {
                 "series_key": meta,
-                "time_unit": clean(g["time_unit"].iloc[0]) if "time_unit" in cols else None,
+                "time_unit": clean(g["time_unit"].iloc[0])
+                if "time_unit" in cols
+                else None,
                 "value_unit": clean(g["unit"].iloc[0]) if "unit" in cols else None,
                 "y_column": ycol,
                 "n_points": len(points),
@@ -133,10 +135,20 @@ def parse_tsv_series(tsv_path: Path, source_file: str) -> list[dict]:
 
 def series_caption(series: list[dict]) -> str:
     def uniq(field):
-        return sorted({str(s["series_key"].get(field)) for s in series if s["series_key"].get(field)})
+        return sorted(
+            {
+                str(s["series_key"].get(field))
+                for s in series
+                if s["series_key"].get(field)
+            }
+        )
 
     parts = []
-    for field, lbl in [("substance", "substance"), ("intervention", "intervention"), ("tissue", "tissue")]:
+    for field, lbl in [
+        ("substance", "substance"),
+        ("intervention", "intervention"),
+        ("tissue", "tissue"),
+    ]:
         vals = uniq(field)
         if vals:
             parts.append(f"{lbl}(s): {', '.join(vals)}")
@@ -169,7 +181,9 @@ def main() -> None:
             continue
         on_disk = {p.name for p in study_dir.iterdir()}
         fig_tsvs = sorted(
-            f for f in on_disk if f.lower().endswith(".tsv") and re.search(r"_Fig", f, re.I)
+            f
+            for f in on_disk
+            if f.lower().endswith(".tsv") and re.search(r"_Fig", f, re.I)
         )
         # group tsvs by their target figure png
         png_to_tsvs: dict[str, list[str]] = defaultdict(list)
@@ -239,7 +253,10 @@ def main() -> None:
                         "image": rec["image"],
                         "messages": [
                             {"role": "user", "content": "<image>\n" + INSTRUCTION},
-                            {"role": "assistant", "content": json.dumps(target, ensure_ascii=False)},
+                            {
+                                "role": "assistant",
+                                "content": json.dumps(target, ensure_ascii=False),
+                            },
                         ],
                         "provenance": {
                             "study_sid": rec["study_sid"],
@@ -308,7 +325,7 @@ The TSV is the ground-truth annotation for its sibling PNG. **Attribution requir
 - Distinct studies: **{len(sids)}**
 - Digitized series (individual curves): **{n_series}**
 - Total (time, value) points: **{n_points}**
-- Train / val records: **{len(split['train'])} / {len(split['val'])}** (val is study-disjoint)
+- Train / val records: **{len(split["train"])} / {len(split["val"])}** (val is study-disjoint)
 
 ## Record schema (`annotations.jsonl`)
 

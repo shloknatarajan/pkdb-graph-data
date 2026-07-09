@@ -166,7 +166,12 @@ def main() -> None:
                 blob = fetch_bytes(tsv_url)
                 dest.write_bytes(blob)
                 log.append(
-                    {"sid": sid, "file": f".{stem}.tsv", "status": "ok", "bytes": len(blob)}
+                    {
+                        "sid": sid,
+                        "file": f".{stem}.tsv",
+                        "status": "ok",
+                        "bytes": len(blob),
+                    }
                 )
             except Exception as e:  # noqa: BLE001
                 log.append({"sid": sid, "file": f".{stem}.tsv", "status": f"ERR {e}"})

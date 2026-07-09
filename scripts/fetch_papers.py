@@ -86,7 +86,9 @@ def studies_with_timecourses() -> pd.DataFrame:
         for line in ann.read_text().splitlines():
             if line.strip():
                 sids.add(json.loads(line)["study_sid"])
-    return st[st.sid.isin(sids)][["sid", "name", "reference_pmid"]].reset_index(drop=True)
+    return st[st.sid.isin(sids)][["sid", "name", "reference_pmid"]].reset_index(
+        drop=True
+    )
 
 
 def main() -> None:
@@ -99,8 +101,17 @@ def main() -> None:
     index = {}
     for i, row in df.iterrows():
         sid, name = row["sid"], row["name"]
-        pmid = str(int(row["reference_pmid"])) if pd.notna(row["reference_pmid"]) else None
-        rec = {"sid": sid, "name": name, "pmid": pmid, "has_fulltext": False, "md": None, "pdf": None}
+        pmid = (
+            str(int(row["reference_pmid"])) if pd.notna(row["reference_pmid"]) else None
+        )
+        rec = {
+            "sid": sid,
+            "name": name,
+            "pmid": pmid,
+            "has_fulltext": False,
+            "md": None,
+            "pdf": None,
+        }
 
         if pmid:
             md, full = get_paper_markdown(pmid)
@@ -123,7 +134,9 @@ def main() -> None:
 
         index[sid] = rec
         tag = "FULL" if rec["has_fulltext"] else ("abs" if rec["md"] else "NONE")
-        print(f"[{i+1}/{len(df)}] {sid} {name:<20} pmid={pmid} paper={tag} pdf={'y' if rec['pdf'] else '-'}")
+        print(
+            f"[{i + 1}/{len(df)}] {sid} {name:<20} pmid={pmid} paper={tag} pdf={'y' if rec['pdf'] else '-'}"
+        )
         time.sleep(0.34)  # NCBI politeness (<=3 req/s)
 
     (OUT / "paper_index.json").write_text(json.dumps(index, indent=2))
