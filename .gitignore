@@ -91,3 +91,7 @@ desktop.ini
 *~
 *.sublime-project
 *.sublime-workspace
+
+# eval outputs
+predictions/
+reports/
