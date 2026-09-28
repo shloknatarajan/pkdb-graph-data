@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en" class="technical-post">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PK-DB Benchmark Results — GXL Blog</title>
+  <meta name="description" content="Benchmark results for models extracting structured pharmacokinetic timecourses from scientific graph images and paper text.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+  <style>
+.technical-post{--bg:#fff;--bg-offset:#fafafa;--card-bg:#f9fafb;--fg:#1a1a1a;--fg-secondary:#333;--fg-muted:#888;--muted:#6b7280;--border:#e5e7eb;--border-light:#f0f0f0;--code-bg:#f5f5f5;--accent:#1e3a5f;--accent-light:#e8f0f7;--good:#166534;--good-bg:#dcfce7;--bad:#991b1b;--bad-bg:#fee2e2;--info:#1d4ed8;--info-bg:#f0f9ff;--quote:#1e3a8a;--sans:"Inter",-apple-system,BlinkMacSystemFont,sans-serif;--mono:"JetBrains Mono","SFMono-Regular",Menlo,monospace;--header-h:0px;--content-max:920px;--layout-max:1340px;font-size:16px;scroll-behavior:smooth;scroll-padding-top:24px}
+.technical-post *,.technical-post *::before,.technical-post *::after{margin:0;padding:0;box-sizing:border-box}
+.technical-post body{min-height:100dvh;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:1rem;line-height:1.75;-webkit-font-smoothing:antialiased}
+.technical-post a{color:inherit;text-decoration:none}
+.blog-grid{display:grid;grid-template-columns:220px 1fr;max-width:var(--layout-max);margin:0 auto;min-height:calc(100vh - var(--header-h))}
+.blog-toc{padding:3rem 0 2.5rem 32px;position:sticky;top:var(--header-h);height:calc(100vh - var(--header-h));overflow-y:auto}
+.blog-toc h4{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--fg-secondary);margin:1.8rem 0 .5rem}
+.blog-toc h4:first-child{margin-top:0}
+.blog-toc a{display:block;font-size:13px;color:#71717a;padding:4px 10px;border-radius:5px;border-left:2px solid transparent;margin-left:-2px;transition:color .15s,border-color .15s}
+.blog-toc a:hover{color:var(--fg);background:var(--bg-offset)}
+.blog-toc a.active{color:var(--fg);font-weight:500;border-left-color:var(--fg)}
+.blog-toc::-webkit-scrollbar{width:4px}.blog-toc::-webkit-scrollbar-thumb{background:#ddd;border-radius:2px}
+.blog-content{padding:3rem 3rem 5rem 3.5rem;max-width:var(--content-max);min-width:0;overflow-x:hidden;border-left:1px solid var(--border-light)}
+.blog-content h1{font-size:2.2em;font-weight:700;letter-spacing:-.03em;margin-bottom:14px;line-height:1.15;color:var(--fg)}
+.blog-content h2{font-size:1.35em;font-weight:600;margin-top:64px;margin-bottom:20px;letter-spacing:-.02em;color:var(--fg)}
+.blog-content h3{font-size:1.05em;font-weight:600;margin-top:44px;margin-bottom:14px;color:var(--fg)}
+.blog-content .subtitle{font-size:1.05em;color:var(--fg-secondary);margin-bottom:48px;line-height:1.7}
+.blog-content p{margin-bottom:20px;color:var(--fg-secondary);line-height:1.75;font-size:.95em}
+.blog-content strong{font-weight:600;color:var(--fg)}
+.blog-content a{color:var(--accent);border-bottom:1px solid transparent;transition:border-color .15s}
+.blog-content a:hover{border-bottom-color:var(--accent)}
+.blog-content ul,.blog-content ol{margin:14px 0 20px;padding-left:28px;color:var(--fg-secondary)}
+.blog-content li{margin-bottom:10px;line-height:1.8}
+.blog-content code{font-family:var(--mono);font-size:.84em;background:var(--code-bg);padding:2px 6px;border-radius:3px}
+.blog-content pre{background:#f7f7f7;border:1px solid #e8e8e8;border-radius:6px;padding:18px 22px;overflow-x:auto;margin:22px 0 26px;font-size:.84em;line-height:1.6}
+.blog-content pre code{background:none;padding:0;font-size:1em}
+.blog-content blockquote{border-left:3px solid #ddd;padding:10px 18px;margin:18px 0;color:#555;font-style:italic}
+.blog-content table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:22px 0 30px;font-size:.9em}
+.blog-content th{text-align:left;font-weight:600;padding:10px 14px;border-bottom:2px solid var(--border);background:var(--bg-offset);font-size:.88em;text-transform:uppercase;letter-spacing:.03em}
+.blog-content td{padding:10px 14px;border-bottom:1px solid var(--border-light);color:var(--fg-secondary)}
+.blog-content tr:last-child td{border-bottom:none}
+.section-divider{border:none;border-top:1px solid var(--border);margin:3rem 0}
+.major-divider{border:none;border-top:3px solid var(--fg);margin:3rem 0}
+.cta-center{text-align:center;margin:32px 0}
+.blog-content a.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:14px 32px;border-radius:6px;font-weight:600;font-size:.92em;letter-spacing:.01em;border-bottom:none;transition:opacity .15s}
+.blog-content a.cta-btn:hover{opacity:.9;color:#fff;border-bottom:none}
+.stat-row{display:grid;grid-template-columns:repeat(4,1fr);gap:.75rem;margin:1.5rem 0 1.75rem}
+.stat-card{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:1rem;text-align:center}
+.stat-card .num{font-size:1.5rem;font-weight:700;color:var(--fg);line-height:1.15}
+.stat-card .label{font-size:.72rem;color:var(--muted);margin-top:.25rem;line-height:1.35}
+.stat-row-2{grid-template-columns:1fr 1fr}
+.stat-row-2 .stat-card{border-width:2px;padding:1rem 1.25rem}
+.stat-row-2 .stat-card .num{font-size:2rem}
+.stat-row-2 .stat-card .label{font-size:.85rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.grid-eyebrow{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:1.25rem 0 .5rem;text-align:center}
+.source-grid{display:grid;grid-template-columns:1fr 1fr;gap:.75rem;text-align:left}
+.source-card{padding:1.1rem 1.25rem;border:1px solid var(--border);border-radius:8px;background:var(--card-bg)}
+.source-card .head{display:flex;align-items:baseline;gap:.5rem;margin-bottom:.4rem}
+.source-card .head img{height:22px;object-fit:contain}
+.source-card .head .big{font-size:1.5rem;font-weight:700}
+.source-card .head .name{font-size:.85rem;font-weight:600;color:var(--fg)}
+.source-card .desc{font-size:.78rem;color:var(--muted);line-height:1.5}
+.tile-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:.5rem;margin:0 0 2.5rem;text-align:center}
+.tile{padding:.6rem .25rem;border:1px solid var(--border);border-radius:8px}
+.tile .emoji{font-size:1rem;margin-bottom:.1rem}
+.tile .big{font-size:1.1rem;font-weight:700;color:var(--fg)}
+.tile .label{font-size:.6rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;color:var(--muted);line-height:1.3}
+.nav-cards{margin:0 0 2rem;display:flex;flex-direction:column;gap:.5rem}
+.nav-card{display:block;padding:.7rem 1rem;border:1px solid var(--border);border-radius:8px;color:var(--fg);font-size:.9rem;line-height:1.4}
+.nav-card:hover{border-color:#a1a1aa}
+.nav-card .sub{display:block;font-size:.8rem;color:var(--muted);margin-top:.15rem}
+.tldr{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:1.25rem 1.5rem;margin-bottom:2rem;font-size:.92rem;line-height:1.65}
+.tldr .tldr-label{display:block;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:.4rem}
+.question-block{background:var(--card-bg);border-left:3px solid var(--border);padding:.8rem 1rem;margin:.75rem 0;font-size:.9rem;line-height:1.6}
+.q-label{font-size:.78rem;font-weight:600;color:var(--muted);margin:2rem 0 .25rem;text-transform:uppercase;letter-spacing:.05em}
+.verdict{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;padding:1rem 1.25rem;margin:1rem 0;font-size:.88rem}
+.cmp-table{width:100%;border-collapse:collapse;margin:1.25rem 0 1.75rem;font-size:.86rem}
+.cmp-table thead th{background:var(--fg);color:#fff;padding:.5rem .7rem;text-align:left;font-weight:600;font-size:.82rem}
+.cmp-table thead th:not(:first-child){text-align:center}
+.cmp-table tbody td{padding:.5rem .7rem;border-bottom:1px solid var(--border);vertical-align:top}
+.cmp-table tbody td:not(:first-child){text-align:center;font-variant-numeric:tabular-nums}
+.cmp-table tbody tr:last-child td{border-bottom:2px solid var(--fg)}
+.cmp-table tbody tr:nth-child(2n){background:var(--card-bg)}
+.cmp-table td.win{background:var(--good-bg);color:var(--good);font-weight:600}
+.cmp-table td.lose{background:var(--bad-bg);color:var(--bad)}
+.side-by-side{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:.75rem 0 1.5rem;border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.side-col{padding:1rem 1.15rem;font-size:.86rem;line-height:1.55}
+.side-col:first-child{background:var(--info-bg);border-right:1px solid var(--border)}
+.side-col:last-child{background:var(--bg)}
+.col-label{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-bottom:.5rem;padding-bottom:.3rem;border-bottom:1px solid var(--border)}
+.side-col:first-child .col-label{color:var(--info)}
+.side-col:last-child .col-label{color:var(--muted)}
+.side-col blockquote{margin:0;padding:0;border:none;font-style:italic;color:#374151;font-size:.84rem;line-height:1.5}
+.side-col .note{font-size:.76rem;color:var(--muted);margin-top:.5rem;font-style:normal}
+.example-label{font-size:.82rem;font-weight:600;color:var(--fg);margin:1.25rem 0 .2rem}
+.absent{color:var(--bad);font-size:.82rem;font-style:italic}
+.cmp-card{border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:1.25rem 0}
+.cmp-card .card-header{background:var(--card-bg);padding:.6rem 1rem;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);border-bottom:1px solid var(--border)}
+.cmp-card .card-body{display:grid;grid-template-columns:1fr 1fr}
+.cmp-card .card-col{padding:1rem 1.15rem;font-size:.86rem;line-height:1.55}
+.cmp-card .card-col:first-child{background:var(--info-bg);border-right:1px solid var(--border)}
+.cmp-card .card-col .col-label{font-size:.68rem;margin-bottom:.4rem;padding-bottom:0;border-bottom:none}
+.cmp-card .card-col:first-child .col-label{color:var(--info)}
+.cmp-card .card-col:last-child .col-label{color:var(--muted)}
+.cmp-card .card-col ul{margin:.25rem 0 0 1.1rem;font-size:.84rem}
+.cmp-card .card-col li{margin-bottom:.25rem}
+.cmp-card .card-col p{font-size:.84rem;margin-bottom:.5rem}
+.cmp-card .card-col p:last-child{margin-bottom:0}
+.fda-quote,.doc-quote{color:var(--quote);font-weight:700}
+.fig-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.75rem;margin:1.5rem 0;align-items:stretch}
+.fig-card{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:.75rem .75rem .5rem;display:flex;flex-direction:column}
+.fig-card h3{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:0 0 .4rem;text-align:center}
+.fig-bars{display:flex;align-items:flex-end;justify-content:space-around;padding:18px 18px 0;gap:18px;flex:1}
+.fig-bar-col{flex:1;display:flex;flex-direction:column;align-items:center;max-width:90px}
+.fig-bar-value{font-size:12px;font-weight:700;color:var(--fg);margin-bottom:4px;font-variant-numeric:tabular-nums}
+.fig-bar-track{position:relative;width:100%;height:110px}
+.fig-bar{position:absolute;bottom:0;left:0;right:0;width:100%;min-height:2px;border-radius:4px 4px 0 0}
+.fig-bar.good{background:var(--good)}.fig-bar.bad{background:var(--bad)}
+.fig-bar-label{font-size:11px;color:var(--fg);margin-top:6px;text-align:center;line-height:1.2}
+.fig-callout{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:1rem 1.25rem;margin:0 0 1.75rem;text-align:center;font-size:1.05rem;line-height:1.5;color:var(--fg)}
+.fig-callout .num{color:var(--info);font-weight:700;font-variant-numeric:tabular-nums}
+.decision-strip{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin:1.5rem 0 2rem}
+.decision{padding:1rem 1.1rem;background:var(--bg)}
+.decision+.decision{border-left:1px solid var(--border)}
+.decision .choice{font-size:1rem;font-weight:700;color:var(--fg);margin-bottom:.2rem}
+.decision .reason{font-size:.76rem;color:var(--muted);line-height:1.45}
+.decision .metric{font-family:var(--mono);font-size:.72rem;color:var(--accent);margin-top:.55rem}
+.leaderboard-table td:first-child{font-variant-numeric:tabular-nums;color:var(--muted);width:2rem}
+.leaderboard-table td:nth-child(2){min-width:190px;text-align:left}
+.leaderboard-table .model-name{font-weight:600;color:var(--fg);white-space:nowrap}
+.leaderboard-table .generation{display:block;font-size:.68rem;color:var(--muted);margin-top:.08rem}
+.leaderboard-table .score-cell{min-width:112px}
+.score-line{display:flex;align-items:center;gap:.5rem;justify-content:center}
+.score-track{width:54px;height:6px;background:#e5e7eb;border-radius:999px;overflow:hidden}
+.score-fill{display:block;height:100%;background:var(--accent);border-radius:inherit}
+.leaderboard-table tr:first-child .score-fill{background:var(--good)}
+.leaderboard-table tr:first-child{background:#f0fdf4}
+.leaderboard-table .refusal{color:var(--bad);font-weight:600}
+.price-floor{color:var(--good);font-weight:700}
+.table-note{font-size:.76rem;color:var(--muted);line-height:1.55;margin-top:-1rem}
+.metric-plots{margin:2.5rem 0 2rem;display:flex;flex-direction:column;gap:1rem}
+.metric-plot{border:1px solid var(--border);border-radius:8px;background:var(--bg);overflow:hidden}
+.plot-head{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;padding:.85rem 1rem;border-bottom:1px solid var(--border);background:var(--card-bg)}
+.plot-head h3{font-size:.92rem;margin:0;color:var(--fg)}
+.plot-head span{font-size:.72rem;color:var(--muted);white-space:nowrap}
+.vbar-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;padding:1rem 1rem .8rem}
+.vbars{display:grid;grid-template-columns:repeat(11,minmax(54px,1fr));gap:.6rem;align-items:end;min-width:760px;height:246px;padding:0 .25rem;border-bottom:1px solid #cbd5e1;background:repeating-linear-gradient(to top,transparent 0,transparent 49px,var(--border-light) 50px)}
+.vbar-item{height:245px;display:grid;grid-template-rows:24px 174px 46px;align-items:end;text-align:center}
+.vbar-value{font-family:var(--mono);font-size:.68rem;font-weight:600;color:var(--fg);align-self:center;font-variant-numeric:tabular-nums}
+.vbar-well{height:174px;display:flex;align-items:flex-end;justify-content:center}
+.vbar{width:72%;max-width:46px;min-height:3px;background:var(--accent);border-radius:4px 4px 0 0}
+.vbar.best{background:var(--good)}
+.vbar-label{font-size:.64rem;line-height:1.2;color:var(--fg-secondary);align-self:start;padding-top:.45rem}
+.vbar-label span{display:block;color:var(--muted);font-size:.58rem;margin-top:.12rem}
+.plot-caption{padding:.65rem 1rem;font-size:.72rem;line-height:1.5;color:var(--muted);border-top:1px solid var(--border-light)}
+.terminal{background:#1e1e2e;border-radius:10px;overflow:hidden;margin:22px 0 26px;font-family:var(--mono);font-size:.82em;line-height:1.65;color:#d4d4d4}
+.terminal-bar{display:flex;align-items:center;gap:5px;border-bottom:1px solid #313244;background:#181825;padding:7px 12px}
+.terminal-bar .dot{width:7px;height:7px;border-radius:50%}
+.terminal-bar .dot-r{background:#f38ba8}.terminal-bar .dot-y{background:#f9e2af}.terminal-bar .dot-g{background:#a6e3a1}
+.terminal-body{padding:14px 18px}
+.terminal .prompt{color:#a6e3a1}.terminal .comment{color:#585b70;font-style:italic}.terminal .output{color:#9399b2}.terminal .highlight{color:#ce9178}.terminal .number{color:#b5cea8}.terminal .flag{color:#569cd6}
+.terminal code{background:none;padding:0;color:inherit}
+.terminal-block{margin:24px 0;border-radius:10px;overflow:hidden;border:1px solid #333}
+.terminal-block .inner{background:#1a1a2e;padding:14px 20px;font-family:var(--mono);font-size:11px;line-height:1.8;color:#d4d4d4;overflow-x:auto}
+.terminal-block .prompt{color:#6a9955}.terminal-block .path{color:#f0f0f0}.terminal-block .comment{color:#808080}
+.figure-box{margin:1.5rem auto;padding:1.25rem 1.5rem;background:var(--card-bg);border:1px solid var(--border);border-radius:8px;max-width:100%}
+.figure-box .fig-title{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:.75rem;text-align:center}
+.figure-box .fig-caption{font-size:.72rem;color:var(--muted);margin-top:.5rem;text-align:center;font-style:italic}
+.table-scroll,.assay-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.blog-footer{margin-top:4rem;padding-top:2rem;border-top:1px solid var(--border-light);text-align:center}
+.blog-footer a,.blog-footer span{font-size:12px;color:var(--fg-muted)}
+@media (max-width:1000px){.blog-grid{grid-template-columns:1fr}.blog-toc{display:none}.blog-content{padding-left:3rem;border-left:none}}
+@media (max-width:768px){.tile-grid{grid-template-columns:repeat(4,1fr)}.stat-row{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.blog-content h1{font-size:1.5rem}.stat-row{grid-template-columns:repeat(2,1fr)}.stat-row-2,.source-grid,.side-by-side,.cmp-card .card-body,.decision-strip{grid-template-columns:1fr}.decision+.decision{border-left:none;border-top:1px solid var(--border)}.fig-grid{grid-template-columns:1fr}.tile-grid{grid-template-columns:repeat(3,1fr)}.cmp-card .card-col:first-child,.side-col:first-child{border-right:none;border-bottom:1px solid var(--border)}.blog-content{padding:2rem 1.5rem 3rem}}
+@media (max-width:400px){.blog-content h1{font-size:1.3rem}.tile-grid{grid-template-columns:repeat(2,1fr)}.stat-row{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="blog-grid">
+    <aside class="blog-toc">
+      <h4>Results</h4>
+      <a href="#overview">Overview</a>
+      <a href="#full-corpus">11-model leaderboard</a>
+      <a href="#recommendations">Recommendations</a>
+      <a href="#accuracy-chart">Accuracy chart</a>
+      <a href="#speed-chart">Speed chart</a>
+      <a href="#cost-chart">Cost chart</a>
+      <a href="#controlled-subset">Controlled subset</a>
+      <h4>Method</h4>
+      <a href="#scoring">Scoring</a>
+      <a href="#caveats">Caveats</a>
+      <a href="#reproduce">Reproduce</a>
+      <a href="#artifacts">Artifacts</a>
+    </aside>
+
+    <main class="blog-content">
+      <div style="padding-bottom:0.5rem;font-size:0.875rem;font-weight:500">Updated September 25, 2026</div>
+      <h1>PK time-course extraction benchmark</h1>
+      <p class="subtitle"><em>How well can multimodal models recover structured pharmacokinetic curves from a scientific graph and its source paper?</em></p>
+
+      <div class="tldr">
+        <span class="tldr-label">TL;DR</span>
+        Across 11 complete runs, <strong>GPT-6 Astra set the accuracy ceiling</strong> at 0.893 micro F1 and 2.3% median relative error. <strong>GPT-6 Sol is the practical default</strong>: 0.817 F1, no failures, and an estimated $3.28 for the corpus. Claude Opus 5.5 reached 0.842 F1 but refused four figures; GPT-6 Luna processed the corpus for about $0.19.
+      </div>
+
+      <section aria-labelledby="overview">
+        <h2 id="overview">Overview</h2>
+        <div class="stat-row">
+          <div class="stat-card"><div class="num">38</div><div class="label">Scoreable figures</div></div>
+          <div class="stat-card"><div class="num">204</div><div class="label">Gold curves</div></div>
+          <div class="stat-card"><div class="num">20%</div><div class="label">Recovery error threshold</div></div>
+          <div class="stat-card"><div class="num">50%</div><div class="label">Minimum time coverage</div></div>
+        </div>
+        <p>Each model received a graph image and associated paper text, then returned an unordered set of structured timecourses. The output includes curve identity, biological metadata, units, and digitized time-value points.</p>
+        <div class="verdict"><strong>Headline:</strong> Capability still improves numeric digitization, but the frontier is no longer one-dimensional. Astra maximizes recovery, Sol offers the strongest high-accuracy economics, and Luna establishes a useful low-cost floor.</div>
+      </section>
+
+      <section aria-labelledby="full-corpus">
+        <h2 id="full-corpus">Full corpus: 11 model runs</h2>
+        <p>Every row below covers all 38 scoreable figures and 204 gold curves. The eight current-generation runs used the same prompt, 40,000-character paper context, high reasoning effort, and two workers. Three earlier runs are included as historical reference points.</p>
+
+        <div class="decision-strip" id="recommendations">
+          <div class="decision">
+            <div class="choice">Accuracy ceiling</div>
+            <div class="reason">GPT-6 Astra recovered 183 curves with the lowest numeric error.</div>
+            <div class="metric">0.893 F1 · $20.73</div>
+          </div>
+          <div class="decision">
+            <div class="choice">Production default</div>
+            <div class="reason">GPT-6 Sol retained strong accuracy with no failures at one-sixth the spend.</div>
+            <div class="metric">0.817 F1 · $3.28</div>
+          </div>
+          <div class="decision">
+            <div class="choice">Economy tier</div>
+            <div class="reason">GPT-6 Luna recovered 135 curves for less than twenty cents.</div>
+            <div class="metric">0.659 F1 · $0.19</div>
+          </div>
+        </div>
+
+        <div class="table-scroll">
+          <table class="cmp-table leaderboard-table">
+            <thead>
+              <tr><th>#</th><th>Model</th><th>Micro F1</th><th>Recovered</th><th>Median error</th><th>Failures</th><th>Sec / figure</th><th>Est. cost</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>1</td><td><span class="model-name">GPT-6 Astra</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.893</strong><span class="score-track"><span class="score-fill" style="width:89.3%"></span></span></div></td><td><strong>183</strong> / 204</td><td><strong>2.3%</strong></td><td>0</td><td>169.7</td><td>$20.73</td></tr>
+              <tr><td>2</td><td><span class="model-name">Claude Opus 5.5</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.842</strong><span class="score-track"><span class="score-fill" style="width:84.2%"></span></span></div></td><td>157 / 204</td><td>2.9%</td><td class="refusal">4</td><td>32.5</td><td>$5.16*</td></tr>
+              <tr><td>3</td><td><span class="model-name">GPT-6 Sol</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.817</strong><span class="score-track"><span class="score-fill" style="width:81.7%"></span></span></div></td><td>167 / 204</td><td>3.0%</td><td>0</td><td>89.7</td><td>$3.28</td></tr>
+              <tr><td>4</td><td><span class="model-name">GPT-5.6 Sol</span><span class="generation">OpenAI · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.797</strong><span class="score-track"><span class="score-fill" style="width:79.7%"></span></span></div></td><td>163 / 204</td><td>3.8%</td><td>0</td><td>141.9</td><td>$11.94</td></tr>
+              <tr><td>5</td><td><span class="model-name">Gemini 3.6 Flash</span><span class="generation">Google · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.715</strong><span class="score-track"><span class="score-fill" style="width:71.5%"></span></span></div></td><td>147 / 204</td><td>6.6%</td><td>0</td><td>66.6</td><td>$2.52</td></tr>
+              <tr><td>6</td><td><span class="model-name">Claude Fable 5.1</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.714</strong><span class="score-track"><span class="score-fill" style="width:71.4%"></span></span></div></td><td>131 / 204</td><td>6.2%</td><td class="refusal">6</td><td>39.5</td><td>$13.06*</td></tr>
+              <tr><td>7</td><td><span class="model-name">Gemini 3.1 Pro Preview</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.688</strong><span class="score-track"><span class="score-fill" style="width:68.8%"></span></span></div></td><td>141 / 204</td><td>8.1%</td><td>0</td><td>81.6</td><td>$6.43</td></tr>
+              <tr><td>8</td><td><span class="model-name">Gemini 3.8 Flash</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.683</strong><span class="score-track"><span class="score-fill" style="width:68.3%"></span></span></div></td><td>140 / 204</td><td>8.0%</td><td>0</td><td>125.2</td><td>$5.71</td></tr>
+              <tr><td>9</td><td><span class="model-name">GPT-5.6 Luna</span><span class="generation">OpenAI · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.668</strong><span class="score-track"><span class="score-fill" style="width:66.8%"></span></span></div></td><td>137 / 204</td><td>6.1%</td><td>0</td><td>122.6</td><td>$0.69</td></tr>
+              <tr><td>10</td><td><span class="model-name">GPT-6 Luna</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.659</strong><span class="score-track"><span class="score-fill" style="width:65.9%"></span></span></div></td><td>135 / 204</td><td>5.9%</td><td>0</td><td>56.9</td><td class="price-floor">$0.19</td></tr>
+              <tr><td>11</td><td><span class="model-name">Claude Sonnet 5</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.499</strong><span class="score-track"><span class="score-fill" style="width:49.9%"></span></span></div></td><td>103 / 204</td><td>17.9%</td><td>0</td><td>57.1</td><td>$3.82</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">* Anthropic refusal usage was not retained by the original error path. Fable and Opus costs estimate refused-request input from the corresponding Sonnet run and assume negligible refusal output. Mean latency includes fast refusal responses.</p>
+
+        <div class="metric-plots" aria-label="Full benchmark metric charts">
+          <figure class="metric-plot" id="accuracy-chart">
+            <div class="plot-head"><h3>Accuracy</h3><span>Micro F1 · higher is better</span></div>
+            <div class="vbar-scroll">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing micro F1 for eleven models">
+                <div class="vbar-item"><div class="vbar-value">0.893</div><div class="vbar-well"><div class="vbar best" style="height:89.3%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.842</div><div class="vbar-well"><div class="vbar" style="height:84.2%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.817</div><div class="vbar-well"><div class="vbar" style="height:81.7%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.797</div><div class="vbar-well"><div class="vbar" style="height:79.7%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.715</div><div class="vbar-well"><div class="vbar" style="height:71.5%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.714</div><div class="vbar-well"><div class="vbar" style="height:71.4%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.688</div><div class="vbar-well"><div class="vbar" style="height:68.8%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.683</div><div class="vbar-well"><div class="vbar" style="height:68.3%"></div></div><div class="vbar-label">Gemini 3.8<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.668</div><div class="vbar-well"><div class="vbar" style="height:66.8%"></div></div><div class="vbar-label">GPT-5.6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.659</div><div class="vbar-well"><div class="vbar" style="height:65.9%"></div></div><div class="vbar-label">GPT-6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.499</div><div class="vbar-well"><div class="vbar" style="height:49.9%"></div></div><div class="vbar-label">Sonnet 5<span>Anthropic</span></div></div>
+              </div>
+            </div>
+            <figcaption class="plot-caption">A curve counts as recovered only when its unit converts, it covers at least half of the gold time range, and its median relative error is at most 20%.</figcaption>
+          </figure>
+
+          <figure class="metric-plot" id="speed-chart">
+            <div class="plot-head"><h3>Speed</h3><span>Mean seconds per figure · lower is better</span></div>
+            <div class="vbar-scroll">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing mean seconds per figure for eleven models">
+                <div class="vbar-item"><div class="vbar-value">169.7s</div><div class="vbar-well"><div class="vbar" style="height:100%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">32.5s</div><div class="vbar-well"><div class="vbar best" style="height:19.2%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">89.7s</div><div class="vbar-well"><div class="vbar" style="height:52.9%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">141.9s</div><div class="vbar-well"><div class="vbar" style="height:83.6%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">66.6s</div><div class="vbar-well"><div class="vbar" style="height:39.2%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">39.5s</div><div class="vbar-well"><div class="vbar" style="height:23.3%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">81.6s</div><div class="vbar-well"><div class="vbar" style="height:48.1%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">125.2s</div><div class="vbar-well"><div class="vbar" style="height:73.8%"></div></div><div class="vbar-label">Gemini 3.8<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">122.6s</div><div class="vbar-well"><div class="vbar" style="height:72.2%"></div></div><div class="vbar-label">GPT-5.6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">56.9s</div><div class="vbar-well"><div class="vbar" style="height:33.5%"></div></div><div class="vbar-label">GPT-6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">57.1s</div><div class="vbar-well"><div class="vbar" style="height:33.6%"></div></div><div class="vbar-label">Sonnet 5<span>Anthropic</span></div></div>
+              </div>
+            </div>
+            <figcaption class="plot-caption">Latency is measured per API request. Opus and Fable include fast safety refusals; successful-response means were 34.9 and 44.9 seconds respectively.</figcaption>
+          </figure>
+
+          <figure class="metric-plot" id="cost-chart">
+            <div class="plot-head"><h3>Cost</h3><span>Estimated USD per full run · lower is better</span></div>
+            <div class="vbar-scroll">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing estimated full benchmark cost for eleven models">
+                <div class="vbar-item"><div class="vbar-value">$20.73</div><div class="vbar-well"><div class="vbar" style="height:100%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$5.16*</div><div class="vbar-well"><div class="vbar" style="height:24.9%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$3.28</div><div class="vbar-well"><div class="vbar" style="height:15.8%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$11.94</div><div class="vbar-well"><div class="vbar" style="height:57.6%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$2.52</div><div class="vbar-well"><div class="vbar" style="height:12.2%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$13.06*</div><div class="vbar-well"><div class="vbar" style="height:63%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$6.43</div><div class="vbar-well"><div class="vbar" style="height:31%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$5.71</div><div class="vbar-well"><div class="vbar" style="height:27.5%"></div></div><div class="vbar-label">Gemini 3.8<span>Google</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$0.69</div><div class="vbar-well"><div class="vbar" style="height:3.3%"></div></div><div class="vbar-label">GPT-5.6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$0.19</div><div class="vbar-well"><div class="vbar best" style="height:1%"></div></div><div class="vbar-label">GPT-6 Luna<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$3.82</div><div class="vbar-well"><div class="vbar" style="height:18.4%"></div></div><div class="vbar-label">Sonnet 5<span>Anthropic</span></div></div>
+              </div>
+            </div>
+            <figcaption class="plot-caption">Costs use recorded token usage and standard API pricing. Asterisks mark Anthropic estimates that reconstruct input usage for refused requests.</figcaption>
+          </figure>
+        </div>
+
+        <div class="question-block"><strong>Comparability note:</strong> The eight current runs are directly comparable. GPT-5.6 Sol predates the improved prompt, while Gemini 3.6 Flash and GPT-5.6 Luna used later configurations; treat those three rows as operational history rather than a controlled generation-over-generation comparison.</div>
+      </section>
+
+      <section aria-labelledby="controlled-subset">
+        <h2 id="controlled-subset">Historical controlled subset</h2>
+        <p>All three models used the same general prompt on a deliberately selected subset of 48 gold curves: three figures where GPT had previously achieved full performance, and three harder figures where it had not.</p>
+        <div class="table-scroll">
+          <table class="cmp-table">
+            <thead><tr><th>Metric</th><th>GPT-5.6 Sol</th><th>Claude Opus 5</th><th>Gemini 3.6 Flash</th></tr></thead>
+            <tbody>
+              <tr><td>API failures</td><td>0</td><td>0</td><td>0</td></tr>
+              <tr><td>Predicted curves</td><td>49</td><td>49</td><td>49</td></tr>
+              <tr><td>Recovered curves</td><td>32 / 48</td><td class="lose">26 / 48</td><td class="win">35 / 48</td></tr>
+              <tr><td>Micro F1</td><td>0.660</td><td class="lose">0.536</td><td class="win">0.722</td></tr>
+              <tr><td>Macro F1</td><td>0.783</td><td class="lose">0.693</td><td class="win">0.828</td></tr>
+              <tr><td>Median relative error</td><td>12.5%</td><td class="lose">15.7%</td><td class="win">6.7%</td></tr>
+              <tr><td>Points within 10%</td><td>50.0%</td><td class="lose">35.3%</td><td class="win">55.2%</td></tr>
+              <tr><td>Points within 20%</td><td>62.2%</td><td class="lose">50.2%</td><td class="win">66.3%</td></tr>
+              <tr><td>Time coverage</td><td>98.4%</td><td class="win">99.1%</td><td>96.6%</td></tr>
+              <tr><td>Exact curve count</td><td>83.3%</td><td>83.3%</td><td>83.3%</td></tr>
+              <tr><td>Unit error rate</td><td>0.0%</td><td>0.0%</td><td>0.0%</td></tr>
+              <tr><td>Mean latency / figure</td><td class="lose">142.4 s</td><td>67.6 s</td><td class="win">66.7 s</td></tr>
+              <tr><td>Estimated run cost</td><td class="lose">$2.07</td><td>$1.55</td><td class="win">$0.40</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="verdict"><strong>Controlled result:</strong> Gemini was the most accurate, fastest, and cheapest on this subset. Because it contains only six deliberately selected figures, the full-corpus run remains the more representative measure of absolute extraction performance.</div>
+      </section>
+
+      <hr class="major-divider">
+
+      <section aria-labelledby="scoring">
+        <h2 id="scoring">How scoring works</h2>
+        <div class="cmp-card">
+          <div class="card-header">A recovered curve must pass all three gates</div>
+          <div class="card-body">
+            <div class="card-col">
+              <div class="col-label">Matching and alignment</div>
+              <p>Predicted curves are matched to gold curves using metadata agreement and scale-free shape distance. Points are aligned by time; interpolation is allowed within the observed range, but extrapolation is not.</p>
+            </div>
+            <div class="card-col">
+              <div class="col-label">Recovery criteria</div>
+              <ul>
+                <li>Units convert into the gold unit</li>
+                <li>At least 50% of the gold time range is covered</li>
+                <li>Median relative error is no more than 20%</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <p><strong>Micro F1</strong> pools recovered, predicted, and gold curves across all figures. <strong>Macro F1</strong> averages each figure’s F1, weighting a two-curve plot the same as a twenty-curve plot. Numeric quality is also reported directly through median relative error and point-level accuracy thresholds.</p>
+      </section>
+
+      <section aria-labelledby="caveats">
+        <h2 id="caveats">Caveats</h2>
+        <ul>
+          <li>One of the 39 benchmark figures has no scoreable values, leaving 38 figures and 204 curves in evaluation.</li>
+          <li>Intervention metadata is close to ungradeable because many gold labels are PK-DB-internal codes that cannot be derived from the graph or paper.</li>
+          <li>Dense per-subject figures remain difficult: models may count curves correctly while regularizing irregular marker positions into an invented sampling schedule.</li>
+          <li>Scores measure agreement with curator digitizations, which contain known curve-count and metadata inconsistencies.</li>
+          <li>Costs are estimates from recorded token usage and exclude free-tier credits, discounts, taxes, and retry overhead.</li>
+          <li>Claude Opus 5.5 refused four figures and Claude Fable 5.1 refused six. Those failures count against recovery, and their displayed costs estimate the missing refusal input usage.</li>
+          <li>Current Gemini runs use high media resolution and place the text prompt before the image. Older full runs are retained for context but do not all share the same prompt and request configuration.</li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="reproduce">
+        <h2 id="reproduce">Reproduce the benchmark</h2>
+        <p>Use the oracle backend to verify the scorer without making an API call, or run a two-figure model smoke test before committing to the full corpus.</p>
+        <div class="terminal">
+          <div class="terminal-bar"><span class="dot dot-r"></span><span class="dot dot-y"></span><span class="dot dot-g"></span></div>
+          <div class="terminal-body">
+            <div><span class="comment"># scorer regression test</span></div>
+            <div><span class="prompt">$</span> uv run --group evals python -m evals.run run <span class="flag">--backend</span> oracle</div>
+            <br>
+            <div><span class="comment"># current production candidate</span></div>
+            <div><span class="prompt">$</span> export OPENAI_API_KEY=...</div>
+            <div><span class="prompt">$</span> uv run --group evals python -m evals.run run <span class="flag">--backend</span> openai <span class="flag">--model</span> gpt-6-sol <span class="flag">--limit</span> <span class="number">2</span> <span class="flag">--workers</span> <span class="number">1</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section aria-labelledby="artifacts">
+        <h2 id="artifacts">Artifacts</h2>
+        <div class="nav-cards">
+          <a class="nav-card" href="reports/model_comparison_2026-09-25.md">Current 11-model comparison<span class="sub">Complete metrics, pricing methodology, and links to all eight current prediction files and scored reports.</span></a>
+          <a class="nav-card" href="reports/model_comparison.md">Historical comparison report<span class="sub">The earlier GPT-5.6 Sol, Gemini 3.6 Flash, and controlled-subset analysis.</span></a>
+          <a class="nav-card" href="benchmark/README.md">Benchmark documentation<span class="sub">Dataset schema, provenance, and corpus statistics.</span></a>
+          <a class="nav-card" href="evals/README.md">Evaluation documentation<span class="sub">Backends, scoring behavior, commands, and known caveats.</span></a>
+          <a class="nav-card" href="reports/full_openai_gpt-6-astra.json">GPT-6 Astra report<span class="sub">Accuracy-leading full-corpus machine-readable results.</span></a>
+          <a class="nav-card" href="reports/full_openai_gpt-6-sol.json">GPT-6 Sol report<span class="sub">Production-candidate full-corpus machine-readable results.</span></a>
+          <a class="nav-card" href="reports/full_claude-opus-5-5.json">Claude Opus 5.5 report<span class="sub">Anthropic-leading full-corpus machine-readable results.</span></a>
+          <a class="nav-card" href="reports/full_gemini-3.1-pro-preview.json">Gemini 3.1 Pro report<span class="sub">Google-leading full-corpus machine-readable results.</span></a>
+          <a class="nav-card" href="reports/openai_general_six.json">GPT controlled-subset report<span class="sub">Same-prompt six-figure run.</span></a>
+          <a class="nav-card" href="reports/opus5_general_six.json">Claude controlled-subset report<span class="sub">Same-prompt six-figure run.</span></a>
+          <a class="nav-card" href="reports/gemini36flash_general_six.json">Gemini controlled-subset report<span class="sub">Same-prompt six-figure run.</span></a>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="blog-footer">
+    <span>&copy; 2026 Generative Expert Labs, Inc.</span>
+  </div>
+
+  <script>
+    (function () {
+      var links = document.querySelectorAll('.blog-toc a[href^="#"]');
+      if (!links.length) return;
+      var ids = [];
+      links.forEach(function (a) { ids.push(a.getAttribute('href').slice(1)); });
+      function update() {
+        var current = '';
+        for (var i = ids.length - 1; i >= 0; i--) {
+          var el = document.getElementById(ids[i]);
+          if (el && el.getBoundingClientRect().top <= 80) { current = ids[i]; break; }
+        }
+        links.forEach(function (a) {
+          a.classList.toggle('active', a.getAttribute('href') === '#' + current);
+        });
+      }
+      window.addEventListener('scroll', update, { passive: true });
+      update();
+    })();
+  </script>
+</body>
+</html>

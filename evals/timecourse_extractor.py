@@ -342,10 +342,13 @@ class TimecourseExtractor:
             model=self.model,
             system_instruction=SYSTEM,
             input=[
-                {"type": "image", "mime_type": mime_type, "data": image_b64},
                 {"type": "text", "text": task},
+                {"type": "image", "mime_type": mime_type, "data": image_b64},
             ],
-            generation_config={"thinking_level": self.reasoning_effort},
+            generation_config={
+                "thinking_level": self.reasoning_effort,
+                "media_resolution": "MEDIA_RESOLUTION_HIGH",
+            },
             response_format={
                 "type": "text",
                 "mime_type": "application/json",
