@@ -145,7 +145,7 @@
 .plot-head h3{font-size:.92rem;margin:0;color:var(--fg)}
 .plot-head span{font-size:.72rem;color:var(--muted);white-space:nowrap}
 .vbar-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;padding:1rem 1rem .8rem}
-.vbars{display:grid;grid-template-columns:repeat(11,minmax(54px,1fr));gap:.6rem;align-items:end;min-width:760px;height:246px;padding:0 .25rem;border-bottom:1px solid #cbd5e1;background:repeating-linear-gradient(to top,transparent 0,transparent 49px,var(--border-light) 50px)}
+.vbars{display:grid;grid-template-columns:repeat(12,minmax(54px,1fr));gap:.6rem;align-items:end;min-width:760px;height:246px;padding:0 .25rem;border-bottom:1px solid #cbd5e1;background:repeating-linear-gradient(to top,transparent 0,transparent 49px,var(--border-light) 50px)}
 .vbar-item{height:245px;display:grid;grid-template-rows:24px 174px 46px;align-items:end;text-align:center}
 .vbar-value{font-family:var(--mono);font-size:.68rem;font-weight:600;color:var(--fg);align-self:center;font-variant-numeric:tabular-nums}
 .vbar-well{height:174px;display:flex;align-items:flex-end;justify-content:center}
@@ -195,13 +195,13 @@
     </aside>
 
     <main class="blog-content">
-      <div style="padding-bottom:0.5rem;font-size:0.875rem;font-weight:500">Updated September 25, 2026</div>
+      <div style="padding-bottom:0.5rem;font-size:0.875rem;font-weight:500">Updated October 13, 2026</div>
       <h1>PK time-course extraction benchmark</h1>
       <p class="subtitle"><em>How well can multimodal models recover structured pharmacokinetic curves from a scientific graph and its source paper?</em></p>
 
       <div class="tldr">
         <span class="tldr-label">TL;DR</span>
-        Across 11 complete runs, <strong>GPT-6 Astra set the accuracy ceiling</strong> at 0.893 micro F1 and 2.3% median relative error. <strong>GPT-6 Sol is the practical default</strong>: 0.817 F1, no failures, and an estimated $3.28 for the corpus. Claude Opus 5.5 reached 0.842 F1 but refused four figures; GPT-6 Luna processed the corpus for about $0.19.
+        Across 12 complete runs, <strong>GPT-6 Astra set the accuracy ceiling</strong> at 0.893 micro F1 and 2.3% median relative error. <strong>GPT-6 Sol is the practical default</strong>: 0.817 F1, no failures, and an estimated $3.28 for the corpus. <strong>Claude Haiku 5.5 is the economy pick</strong>: 0.722 F1, no failures, and about $0.19, matching Luna’s rounded run cost while recovering 13 more curves. Haiku was also the fastest model at 25.9 seconds per figure. Claude Opus 5.5 reached 0.842 F1 but refused four figures.
       </div>
 
       <section aria-labelledby="overview">
@@ -213,12 +213,12 @@
           <div class="stat-card"><div class="num">50%</div><div class="label">Minimum time coverage</div></div>
         </div>
         <p>Each model received a graph image and associated paper text, then returned an unordered set of structured timecourses. The output includes curve identity, biological metadata, units, and digitized time-value points.</p>
-        <div class="verdict"><strong>Headline:</strong> Capability still improves numeric digitization, but the frontier is no longer one-dimensional. Astra maximizes recovery, Sol offers the strongest high-accuracy economics, and Luna establishes a useful low-cost floor.</div>
+        <div class="verdict"><strong>Headline:</strong> Capability still improves numeric digitization, but the frontier is no longer one-dimensional. Astra maximizes recovery, Sol offers the strongest high-accuracy economics, and Haiku offers more recovery than Luna at about the same estimated cost.</div>
       </section>
 
       <section aria-labelledby="full-corpus">
-        <h2 id="full-corpus">Full corpus: 11 model runs</h2>
-        <p>Every row below covers all 38 scoreable figures and 204 gold curves. The eight current-generation runs used the same prompt, 40,000-character paper context, high reasoning effort, and two workers. Three earlier runs are included as historical reference points.</p>
+        <h2 id="full-corpus">Full corpus: 12 model runs</h2>
+        <p>Every row below covers all 38 scoreable figures and 204 gold curves. The nine current-generation runs used the same prompt, 40,000-character paper context, high reasoning effort, and two workers. Three earlier runs are included as historical reference points.</p>
 
         <div class="decision-strip" id="recommendations">
           <div class="decision">
@@ -233,8 +233,8 @@
           </div>
           <div class="decision">
             <div class="choice">Economy tier</div>
-            <div class="reason">GPT-6 Luna recovered 135 curves for less than twenty cents.</div>
-            <div class="metric">0.659 F1 · $0.19</div>
+            <div class="reason">Claude Haiku 5.5 recovered 148 curves with no failures at the fastest mean latency.</div>
+            <div class="metric">0.722 F1 · $0.19</div>
           </div>
         </div>
 
@@ -248,13 +248,14 @@
               <tr><td>2</td><td><span class="model-name">Claude Opus 5.5</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.842</strong><span class="score-track"><span class="score-fill" style="width:84.2%"></span></span></div></td><td>157 / 204</td><td>2.9%</td><td class="refusal">4</td><td>32.5</td><td>$5.16*</td></tr>
               <tr><td>3</td><td><span class="model-name">GPT-6 Sol</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.817</strong><span class="score-track"><span class="score-fill" style="width:81.7%"></span></span></div></td><td>167 / 204</td><td>3.0%</td><td>0</td><td>89.7</td><td>$3.28</td></tr>
               <tr><td>4</td><td><span class="model-name">GPT-5.6 Sol</span><span class="generation">OpenAI · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.797</strong><span class="score-track"><span class="score-fill" style="width:79.7%"></span></span></div></td><td>163 / 204</td><td>3.8%</td><td>0</td><td>141.9</td><td>$11.94</td></tr>
-              <tr><td>5</td><td><span class="model-name">Gemini 3.6 Flash</span><span class="generation">Google · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.715</strong><span class="score-track"><span class="score-fill" style="width:71.5%"></span></span></div></td><td>147 / 204</td><td>6.6%</td><td>0</td><td>66.6</td><td>$2.52</td></tr>
-              <tr><td>6</td><td><span class="model-name">Claude Fable 5.1</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.714</strong><span class="score-track"><span class="score-fill" style="width:71.4%"></span></span></div></td><td>131 / 204</td><td>6.2%</td><td class="refusal">6</td><td>39.5</td><td>$13.06*</td></tr>
-              <tr><td>7</td><td><span class="model-name">Gemini 3.1 Pro Preview</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.688</strong><span class="score-track"><span class="score-fill" style="width:68.8%"></span></span></div></td><td>141 / 204</td><td>8.1%</td><td>0</td><td>81.6</td><td>$6.43</td></tr>
-              <tr><td>8</td><td><span class="model-name">Gemini 3.8 Flash</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.683</strong><span class="score-track"><span class="score-fill" style="width:68.3%"></span></span></div></td><td>140 / 204</td><td>8.0%</td><td>0</td><td>125.2</td><td>$5.71</td></tr>
-              <tr><td>9</td><td><span class="model-name">GPT-5.6 Luna</span><span class="generation">OpenAI · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.668</strong><span class="score-track"><span class="score-fill" style="width:66.8%"></span></span></div></td><td>137 / 204</td><td>6.1%</td><td>0</td><td>122.6</td><td>$0.69</td></tr>
-              <tr><td>10</td><td><span class="model-name">GPT-6 Luna</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.659</strong><span class="score-track"><span class="score-fill" style="width:65.9%"></span></span></div></td><td>135 / 204</td><td>5.9%</td><td>0</td><td>56.9</td><td class="price-floor">$0.19</td></tr>
-              <tr><td>11</td><td><span class="model-name">Claude Sonnet 5</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.499</strong><span class="score-track"><span class="score-fill" style="width:49.9%"></span></span></div></td><td>103 / 204</td><td>17.9%</td><td>0</td><td>57.1</td><td>$3.82</td></tr>
+              <tr><td>5</td><td><span class="model-name">Claude Haiku 5.5</span><span class="generation">Anthropic · current · Oct 13</span></td><td class="score-cell"><div class="score-line"><strong>0.722</strong><span class="score-track"><span class="score-fill" style="width:72.2%"></span></span></div></td><td>148 / 204</td><td>4.7%</td><td>0</td><td>25.9</td><td>$0.19</td></tr>
+              <tr><td>6</td><td><span class="model-name">Gemini 3.6 Flash</span><span class="generation">Google · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.715</strong><span class="score-track"><span class="score-fill" style="width:71.5%"></span></span></div></td><td>147 / 204</td><td>6.6%</td><td>0</td><td>66.6</td><td>$2.52</td></tr>
+              <tr><td>7</td><td><span class="model-name">Claude Fable 5.1</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.714</strong><span class="score-track"><span class="score-fill" style="width:71.4%"></span></span></div></td><td>131 / 204</td><td>6.2%</td><td class="refusal">6</td><td>39.5</td><td>$13.06*</td></tr>
+              <tr><td>8</td><td><span class="model-name">Gemini 3.1 Pro Preview</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.688</strong><span class="score-track"><span class="score-fill" style="width:68.8%"></span></span></div></td><td>141 / 204</td><td>8.1%</td><td>0</td><td>81.6</td><td>$6.43</td></tr>
+              <tr><td>9</td><td><span class="model-name">Gemini 3.8 Flash</span><span class="generation">Google · current</span></td><td class="score-cell"><div class="score-line"><strong>0.683</strong><span class="score-track"><span class="score-fill" style="width:68.3%"></span></span></div></td><td>140 / 204</td><td>8.0%</td><td>0</td><td>125.2</td><td>$5.71</td></tr>
+              <tr><td>10</td><td><span class="model-name">GPT-5.6 Luna</span><span class="generation">OpenAI · historical</span></td><td class="score-cell"><div class="score-line"><strong>0.668</strong><span class="score-track"><span class="score-fill" style="width:66.8%"></span></span></div></td><td>137 / 204</td><td>6.1%</td><td>0</td><td>122.6</td><td>$0.69</td></tr>
+              <tr><td>11</td><td><span class="model-name">GPT-6 Luna</span><span class="generation">OpenAI · current</span></td><td class="score-cell"><div class="score-line"><strong>0.659</strong><span class="score-track"><span class="score-fill" style="width:65.9%"></span></span></div></td><td>135 / 204</td><td>5.9%</td><td>0</td><td>56.9</td><td class="price-floor">$0.19</td></tr>
+              <tr><td>12</td><td><span class="model-name">Claude Sonnet 5</span><span class="generation">Anthropic · current</span></td><td class="score-cell"><div class="score-line"><strong>0.499</strong><span class="score-track"><span class="score-fill" style="width:49.9%"></span></span></div></td><td>103 / 204</td><td>17.9%</td><td>0</td><td>57.1</td><td>$3.82</td></tr>
             </tbody>
           </table>
         </div>
@@ -264,11 +265,12 @@
           <figure class="metric-plot" id="accuracy-chart">
             <div class="plot-head"><h3>Accuracy</h3><span>Micro F1 · higher is better</span></div>
             <div class="vbar-scroll">
-              <div class="vbars" role="img" aria-label="Vertical bar chart comparing micro F1 for eleven models">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing micro F1 for twelve models">
                 <div class="vbar-item"><div class="vbar-value">0.893</div><div class="vbar-well"><div class="vbar best" style="height:89.3%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.842</div><div class="vbar-well"><div class="vbar" style="height:84.2%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.817</div><div class="vbar-well"><div class="vbar" style="height:81.7%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.797</div><div class="vbar-well"><div class="vbar" style="height:79.7%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">0.722</div><div class="vbar-well"><div class="vbar" style="height:72.2%"></div></div><div class="vbar-label">Haiku 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.715</div><div class="vbar-well"><div class="vbar" style="height:71.5%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.714</div><div class="vbar-well"><div class="vbar" style="height:71.4%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">0.688</div><div class="vbar-well"><div class="vbar" style="height:68.8%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
@@ -284,11 +286,12 @@
           <figure class="metric-plot" id="speed-chart">
             <div class="plot-head"><h3>Speed</h3><span>Mean seconds per figure · lower is better</span></div>
             <div class="vbar-scroll">
-              <div class="vbars" role="img" aria-label="Vertical bar chart comparing mean seconds per figure for eleven models">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing mean seconds per figure for twelve models">
                 <div class="vbar-item"><div class="vbar-value">169.7s</div><div class="vbar-well"><div class="vbar" style="height:100%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
-                <div class="vbar-item"><div class="vbar-value">32.5s</div><div class="vbar-well"><div class="vbar best" style="height:19.2%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">32.5s</div><div class="vbar-well"><div class="vbar" style="height:19.2%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">89.7s</div><div class="vbar-well"><div class="vbar" style="height:52.9%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">141.9s</div><div class="vbar-well"><div class="vbar" style="height:83.6%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">25.9s</div><div class="vbar-well"><div class="vbar best" style="height:15.2%"></div></div><div class="vbar-label">Haiku 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">66.6s</div><div class="vbar-well"><div class="vbar" style="height:39.2%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">39.5s</div><div class="vbar-well"><div class="vbar" style="height:23.3%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">81.6s</div><div class="vbar-well"><div class="vbar" style="height:48.1%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
@@ -304,11 +307,12 @@
           <figure class="metric-plot" id="cost-chart">
             <div class="plot-head"><h3>Cost</h3><span>Estimated USD per full run · lower is better</span></div>
             <div class="vbar-scroll">
-              <div class="vbars" role="img" aria-label="Vertical bar chart comparing estimated full benchmark cost for eleven models">
+              <div class="vbars" role="img" aria-label="Vertical bar chart comparing estimated full benchmark cost for twelve models">
                 <div class="vbar-item"><div class="vbar-value">$20.73</div><div class="vbar-well"><div class="vbar" style="height:100%"></div></div><div class="vbar-label">GPT-6 Astra<span>OpenAI</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$5.16*</div><div class="vbar-well"><div class="vbar" style="height:24.9%"></div></div><div class="vbar-label">Opus 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$3.28</div><div class="vbar-well"><div class="vbar" style="height:15.8%"></div></div><div class="vbar-label">GPT-6 Sol<span>OpenAI</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$11.94</div><div class="vbar-well"><div class="vbar" style="height:57.6%"></div></div><div class="vbar-label">GPT-5.6 Sol<span>OpenAI</span></div></div>
+                <div class="vbar-item"><div class="vbar-value">$0.19</div><div class="vbar-well"><div class="vbar" style="height:0.9%"></div></div><div class="vbar-label">Haiku 5.5<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$2.52</div><div class="vbar-well"><div class="vbar" style="height:12.2%"></div></div><div class="vbar-label">Gemini 3.6<span>Google</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$13.06*</div><div class="vbar-well"><div class="vbar" style="height:63%"></div></div><div class="vbar-label">Fable 5.1<span>Anthropic</span></div></div>
                 <div class="vbar-item"><div class="vbar-value">$6.43</div><div class="vbar-well"><div class="vbar" style="height:31%"></div></div><div class="vbar-label">Gemini 3.1 Pro<span>Google</span></div></div>
@@ -322,7 +326,9 @@
           </figure>
         </div>
 
-        <div class="question-block"><strong>Comparability note:</strong> The eight current runs are directly comparable. GPT-5.6 Sol predates the improved prompt, while Gemini 3.6 Flash and GPT-5.6 Luna used later configurations; treat those three rows as operational history rather than a controlled generation-over-generation comparison.</div>
+        <p><strong>Haiku 5.5 update:</strong> Claude Haiku 5.5 reached 0.722 F1, recovered 148/204 curves, and averaged 25.9 seconds per figure for an estimated $0.19. Median relative error was 4.7%, with 0 failed requests. The model used the same high-effort configuration as the September runs. Costs use recorded input, output, and cache tokens at the <a href="https://platform.claude.com/docs/en/models/haiku-5-5/overview">October 13 Haiku pricing</a>.</p>
+        <p><strong>Speed versus Flash:</strong> Haiku averaged 25.9 seconds per figure, compared with 125.2 seconds for Gemini 3.8 Flash (4.8 times faster) and 66.6 seconds for the historical Gemini 3.6 Flash run (2.6 times faster). The 3.8 Flash run used the same high-effort benchmark configuration; the older 3.6 run used a different configuration.</p>
+        <div class="question-block"><strong>Comparability note:</strong> The nine current runs share the same benchmark configuration. Haiku 5.5 was run on October 13; the other eight were run on September 25. GPT-5.6 Sol predates the improved prompt, while Gemini 3.6 Flash and GPT-5.6 Luna used later configurations; treat those three rows as operational history rather than a controlled generation-over-generation comparison.</div>
       </section>
 
       <section aria-labelledby="controlled-subset">
@@ -400,6 +406,10 @@
             <div><span class="comment"># current production candidate</span></div>
             <div><span class="prompt">$</span> export OPENAI_API_KEY=...</div>
             <div><span class="prompt">$</span> uv run --group evals python -m evals.run run <span class="flag">--backend</span> openai <span class="flag">--model</span> gpt-6-sol <span class="flag">--limit</span> <span class="number">2</span> <span class="flag">--workers</span> <span class="number">1</span></div>
+            <br>
+            <div><span class="comment"># latest Haiku, same benchmark configuration</span></div>
+            <div><span class="prompt">$</span> uv run --group evals python -m evals.run predict <span class="flag">--backend</span> anthropic <span class="flag">--model</span> claude-haiku-5-5 <span class="flag">--workers</span> <span class="number">2</span> <span class="flag">--out</span> predictions/full_claude-haiku-5-5.jsonl</div>
+            <div><span class="prompt">$</span> uv run --group evals python -m evals.run score <span class="flag">--predictions</span> predictions/full_claude-haiku-5-5.jsonl <span class="flag">--out</span> reports/full_claude-haiku-5-5.json</div>
           </div>
         </div>
       </section>
@@ -407,12 +417,14 @@
       <section aria-labelledby="artifacts">
         <h2 id="artifacts">Artifacts</h2>
         <div class="nav-cards">
-          <a class="nav-card" href="reports/model_comparison_2026-09-25.md">Current 11-model comparison<span class="sub">Complete metrics, pricing methodology, and links to all eight current prediction files and scored reports.</span></a>
+          <a class="nav-card" href="reports/model_comparison_2026-10-13.md">Current 12-model comparison<span class="sub">Haiku 5.5 results, pricing methodology, and the September comparison with complete metrics and artifacts.</span></a>
           <a class="nav-card" href="reports/model_comparison.md">Historical comparison report<span class="sub">The earlier GPT-5.6 Sol, Gemini 3.6 Flash, and controlled-subset analysis.</span></a>
           <a class="nav-card" href="benchmark/README.md">Benchmark documentation<span class="sub">Dataset schema, provenance, and corpus statistics.</span></a>
           <a class="nav-card" href="evals/README.md">Evaluation documentation<span class="sub">Backends, scoring behavior, commands, and known caveats.</span></a>
           <a class="nav-card" href="reports/full_openai_gpt-6-astra.json">GPT-6 Astra report<span class="sub">Accuracy-leading full-corpus machine-readable results.</span></a>
           <a class="nav-card" href="reports/full_openai_gpt-6-sol.json">GPT-6 Sol report<span class="sub">Production-candidate full-corpus machine-readable results.</span></a>
+          <a class="nav-card" href="reports/full_claude-haiku-5-5.json">Claude Haiku 5.5 report<span class="sub">Full-corpus scored results, latency, token usage, and cost methodology.</span></a>
+          <a class="nav-card" href="predictions/full_claude-haiku-5-5.jsonl">Claude Haiku 5.5 predictions<span class="sub">All 38 raw predictions with API usage and request timing.</span></a>
           <a class="nav-card" href="reports/full_claude-opus-5-5.json">Claude Opus 5.5 report<span class="sub">Anthropic-leading full-corpus machine-readable results.</span></a>
           <a class="nav-card" href="reports/full_gemini-3.1-pro-preview.json">Gemini 3.1 Pro report<span class="sub">Google-leading full-corpus machine-readable results.</span></a>
           <a class="nav-card" href="reports/openai_general_six.json">GPT controlled-subset report<span class="sub">Same-prompt six-figure run.</span></a>
